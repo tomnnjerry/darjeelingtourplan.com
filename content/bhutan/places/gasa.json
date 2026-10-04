@@ -31,35 +31,105 @@
     "The Royal Highlander Festival, celebrating Bhutan's high-altitude herders, has been held at Laya in Gasa District since 2017."
   ],
   "facts": [
-    ["Best months", "Oct – Apr (hot springs best Dec – Feb)"],
-    ["Nights we suggest", "1"],
-    ["Nearest airport", "Paro (PBH), ≈ 200 km · 6–7 h"],
-    ["From Punakha", "≈ 70–80 km · 3–4 h"],
-    ["Altitude", "≈ 2,800 m"],
-    ["Known for", "Gasa Tsachu hot springs, Gasa Dzong, gateway to Laya and Jigme Dorji National Park"]
+    [
+      "Best months",
+      "Oct – Apr (hot springs best Dec – Feb)"
+    ],
+    [
+      "Nights we suggest",
+      "1"
+    ],
+    [
+      "Nearest airport",
+      "Paro (PBH), ≈ 200 km · 6–7 h"
+    ],
+    [
+      "From Punakha",
+      "≈ 70–80 km · 3–4 h"
+    ],
+    [
+      "Altitude",
+      "≈ 2,800 m"
+    ],
+    [
+      "Known for",
+      "Gasa Tsachu hot springs, Gasa Dzong, gateway to Laya and Jigme Dorji National Park"
+    ]
   ],
-  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "nights": "1",
   "highlights": [
-    {"title": "Gasa Tsachu hot springs", "text": "Covered bathing pools fed by hot springs, each at a different temperature, used by Bhutanese families and pilgrims for days at a time in winter. Bring a swimsuit and towel, follow local etiquette, and plan an evening and a morning soak."},
-    {"title": "Gasa Dzong", "text": "A 17th-century frontier dzong on a hill above town, built under the Zhabdrung to guard the route from Tibet. Its rounded plan around a central tower is unusual. On clear days snow peaks rise behind it, best seen in the morning."},
-    {"title": "The drive up the Mo Chhu", "text": "The road from Punakha follows the Mo Chhu north past rice terraces, farm villages and the turn to Tashithang, then climbs through forest. It is slow but scenic, and you see a side of Bhutan most visitors miss."},
-    {"title": "Jigme Dorji National Park", "text": "Bhutan's second-largest protected area covers most of the district, from subtropical forest to glaciers. It is home to takin, blue sheep and snow leopards, though you are unlikely to see the rarer animals on a short visit."},
-    {"title": "Gateway to Laya", "text": "Gasa is the road head for treks to Laya, a high village of yak herders known for the women's conical bamboo hats. The Royal Highlander Festival takes place there in October. Reaching Laya needs extra days and careful planning."}
+    {
+      "title": "Gasa Tsachu hot springs",
+      "text": "Covered bathing pools fed by hot springs, each at a different temperature, used by Bhutanese families and pilgrims for days at a time in winter. Bring a swimsuit and towel, follow local etiquette, and plan an evening and a morning soak."
+    },
+    {
+      "title": "Gasa Dzong",
+      "text": "A 17th-century frontier dzong on a hill above town, built under the Zhabdrung to guard the route from Tibet. Its rounded plan around a central tower is unusual. On clear days snow peaks rise behind it, best seen in the morning."
+    },
+    {
+      "title": "The drive up the Mo Chhu",
+      "text": "The road from Punakha follows the Mo Chhu north past rice terraces, farm villages and the turn to Tashithang, then climbs through forest. It is slow but scenic, and you see a side of Bhutan most visitors miss."
+    },
+    {
+      "title": "Jigme Dorji National Park",
+      "text": "Bhutan's second-largest protected area covers most of the district, from subtropical forest to glaciers. It is home to takin, blue sheep and snow leopards, though you are unlikely to see the rarer animals on a short visit."
+    },
+    {
+      "title": "Gateway to Laya",
+      "text": "Gasa is the road head for treks to Laya, a high village of yak herders known for the women's conical bamboo hats. The Royal Highlander Festival takes place there in October. Reaching Laya needs extra days and careful planning."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Reserved car", "text": "From Punakha, the road runs north along the Mo Chhu and climbs to Gasa, about 70–80 km and 3–4 hours depending on road conditions. Some stretches are narrow and rough. A Bhutan-registered car with driver costs about ₹4,500–6,500 a day, indicative 2026; ask your operator whether a 4WD is advised. Landslides close the road at times in the monsoon; check current status before you travel."},
-    {"mode": "Permits and guide", "text": "Gasa is outside the Thimphu–Paro area, so your operator gets a route permit from the immigration office in Thimphu on a working day. A licensed guide is required for both Indian and international visitors, and treks to Laya need a trekking permit and a licensed trekking guide. Check current status before you travel."},
-    {"mode": "Rail / Air", "text": "The nearest airport is Paro, about 6–7 hours by road via Thimphu and Punakha. Overland, enter at Phuentsholing via NJP or Hasimara and reach Punakha over two days. Most travellers go to Gasa from a base in Punakha."}
+    {
+      "mode": "Reserved car",
+      "text": "From Punakha, the road runs north along the Mo Chhu and climbs to Gasa, about 70–80 km and 3–4 hours depending on road conditions. Some stretches are narrow and rough. A Bhutan-registered car with driver costs about ₹4,500–6,500 a day, indicative 2026; ask your operator whether a 4WD is advised. Landslides close the road at times in the monsoon; check current status before you travel."
+    },
+    {
+      "mode": "Permits and guide",
+      "text": "Gasa is outside the Thimphu–Paro area, so your operator gets a route permit from the immigration office in Thimphu on a working day. A licensed guide is required for both Indian and international visitors, and treks to Laya need a trekking permit and a licensed trekking guide. Check current status before you travel."
+    },
+    {
+      "mode": "Rail / Air",
+      "text": "The nearest airport is Paro, about 6–7 hours by road via Thimphu and Punakha. Overland, enter at Phuentsholing via NJP or Hasimara and reach Punakha over two days. Most travellers go to Gasa from a base in Punakha."
+    }
   ],
   "where_to_stay": "Gasa has very few places for tourists. Around the hot springs there are simple government-built guesthouses and rooms used mainly by Bhutanese bathers, with basic bathrooms and shared facilities; ask your operator what is currently certified for tourists. In the town itself there are one or two small guesthouses. Many visitors instead stay in the Punakha valley, at Hotel Lobesa or Dhensa Boutique Resort, and do Gasa as a long day trip, but that leaves only an hour or two in the water. If you want a proper soak, take a night at Gasa with low expectations of the room.",
   "stays": [],
   "costs": [
-    ["Gasa Tsachu bathing", "Free or a small fee, check current status before you travel"],
-    ["Simple guesthouse room near the springs", "₹1,500–3,500 per room night, indicative 2026"],
-    ["Car with driver, Punakha–Gasa–Punakha", "₹4,500–7,500 a day, indicative 2026"],
-    ["Licensed guide", "₹2,000–3,000 a day, indicative 2026"],
-    ["SDF, Indian nationals / most others", "₹1,200 / US$100 per person per night, check current status before you travel"]
+    [
+      "Gasa Tsachu bathing",
+      "Free or a small fee, check current status before you travel"
+    ],
+    [
+      "Simple guesthouse room near the springs",
+      "₹1,500–3,500 per room night, indicative 2026"
+    ],
+    [
+      "Car with driver, Punakha–Gasa–Punakha",
+      "₹4,500–7,500 a day, indicative 2026"
+    ],
+    [
+      "Licensed guide",
+      "₹2,000–3,000 a day, indicative 2026"
+    ],
+    [
+      "SDF, Indian nationals / most others",
+      "₹1,200 / US$100 per person per night, check current status before you travel"
+    ]
   ],
   "budget_tip": "Pair a Gasa night with your Punakha stay instead of adding a separate leg; you keep the same car and guide and only add one night of SDF and a simple room.",
   "tips": [
@@ -69,8 +139,17 @@
     "Avoid June to August: the road from Punakha is prone to landslides and the views are hidden in cloud.",
     "Dress warmly for evenings; Gasa at 2,800 m is near freezing at night from November to March."
   ],
-  "themes": ["mountain-views", "treks-and-walks", "village-homestays", "festivals"],
-  "nearby": ["punakha", "wangdue-phodrang", "thimphu"],
+  "themes": [
+    "mountain-views",
+    "treks-and-walks",
+    "village-homestays",
+    "festivals"
+  ],
+  "nearby": [
+    "punakha",
+    "wangdue-phodrang",
+    "thimphu"
+  ],
   "experiences": [
     {
       "slug": "gasa-tsachu-hot-springs-soak",
@@ -87,11 +166,25 @@
         "The busy season is winter, especially December to February, after the harvest. Families arrive with bedding, food and cooking pots and stay in the lodges for a week or more, bathing several times a day. The pools then become social places, full of talk and laughter. In spring and autumn they are quieter. For visitors, an evening soak and another at dawn is ideal, which means staying a night.",
         "Bring a swimsuit and towel; locals bathe in shorts or wrapped in cloth, and full nakedness is not the custom in mixed or shared pools. Shower or rinse before getting in, do not use soap or shampoo in the pools, and keep your voice down. Do not stay too long in the hottest pool, drink water, and get out if you feel dizzy. People with heart conditions should take medical advice before using very hot pools."
       ],
-      "good_for": ["couples", "seniors", "families", "solo"],
+      "good_for": [
+        "couples",
+        "seniors",
+        "families",
+        "solo"
+      ],
       "faqs": [
-        {"q": "Can tourists use Gasa hot springs", "a": "Yes. Visitors with a route permit and a licensed guide can bathe in the Gasa Tsachu pools alongside Bhutanese families. Bring a swimsuit and towel, rinse before entering, and do not use soap in the pools. Entry is free or a small fee. Ask your guide which pools are open and their temperatures. Check current status before you travel."},
-        {"q": "When is the best time to visit Gasa Tsachu", "a": "December to February is the traditional bathing season, when Bhutanese families come after the harvest and stay for days; it is lively and cold. October, November, March and April are quieter and the road is usually good. Avoid June to August, when landslides can close the road from Punakha. Check current status before you travel."},
-        {"q": "Are the Gasa hot springs safe", "a": "For healthy adults, yes, if you use common sense. Some pools are very hot. Test the water first, limit each soak to 10–20 minutes, drink water, and get out if you feel dizzy or faint. Pregnant women, young children and people with heart or blood pressure problems should take medical advice before using the hottest pools."}
+        {
+          "q": "Can tourists use Gasa hot springs",
+          "a": "Yes. Visitors with a route permit and a licensed guide can bathe in the Gasa Tsachu pools alongside Bhutanese families. Bring a swimsuit and towel, rinse before entering, and do not use soap in the pools. Entry is free or a small fee. Ask your guide which pools are open and their temperatures. Check current status before you travel."
+        },
+        {
+          "q": "When is the best time to visit Gasa Tsachu",
+          "a": "December to February is the traditional bathing season, when Bhutanese families come after the harvest and stay for days; it is lively and cold. October, November, March and April are quieter and the road is usually good. Avoid June to August, when landslides can close the road from Punakha. Check current status before you travel."
+        },
+        {
+          "q": "Are the Gasa hot springs safe",
+          "a": "For healthy adults, yes, if you use common sense. Some pools are very hot. Test the water first, limit each soak to 10–20 minutes, drink water, and get out if you feel dizzy or faint. Pregnant women, young children and people with heart or blood pressure problems should take medical advice before using the hottest pools."
+        }
       ]
     },
     {
@@ -103,17 +196,31 @@
       "cost": "Free or a small fee, check current status before you travel",
       "image_query": "Gasa Dzong Tashi Thongmoen",
       "wiki": "Gasa Dzong",
-      "summary": "A visit to the 17th-century dzong above Gasa town, built under the Zhabdrung to guard the northern route from Tibet. Its rounded plan is unusual, and on clear mornings snow peaks rise behind it.",
+      "summary": "A visit to the 17th-century dzong above Gasa town, built under the Zhabdrung to guard the northern route from Tibet. Its rounded plan is unusual, and on clear mornings snow peaks rise behind it. It is much less visited than the dzongs of the west.",
       "body": [
         "Gasa Dzong, formally called Tashi Thongmoen Dzong, stands on a hill overlooking the town and the valley. It was built in the 17th century under Zhabdrung Ngawang Namgyal, when the new Bhutanese state was defending itself against Tibetan attacks from the north, and Gasa sat on one of the routes across the mountains. Like other dzongs, it now holds both the district administration and a monk body.",
         "The dzong's layout is rounded, with buildings and walls arranged around a central tower, instead of the long rectangles of Punakha or Paro. It is smaller than the great dzongs of the west, and much less visited. With your guide you can see the courtyard and, when open, the main temple. On clear mornings, look north beyond it for snow peaks on the edge of Jigme Dorji National Park.",
-        "Combine the dzong with a soak at the hot springs on the same visit. Usual rules apply: long sleeves, long trousers or a skirt, no caps inside, and no photographs in the temples. Timings depend on office hours and religious work, so let your guide check on the day."
+        "Combine the dzong with a soak at the hot springs on the same visit. Usual rules apply: long sleeves, long trousers or a skirt, no caps inside, and no photographs in the temples. Timings depend on office hours and religious work, so let your guide check on the day. If you are staying the night at the hot springs, the dzong makes a good morning outing before the drive back to Punakha, when the light is clearer and the offices are open."
       ],
-      "good_for": ["photographers", "first-timers", "seniors", "students"],
+      "good_for": [
+        "photographers",
+        "first-timers",
+        "seniors",
+        "students"
+      ],
       "faqs": [
-        {"q": "How old is Gasa Dzong", "a": "Gasa Dzong was built in the 17th century under Zhabdrung Ngawang Namgyal, as a defence on Bhutan's northern frontier at a time of repeated Tibetan attacks. It has been repaired and renovated since. Today it houses Gasa's district administration and a monk body, like other dzongs in Bhutan, and visitors can enter with a licensed guide."},
-        {"q": "Is Gasa Dzong worth the drive", "a": "On its own, probably not for a short trip, as it is 3–4 hours from Punakha. Combined with a night at the Gasa hot springs, yes: you get a quiet frontier dzong with mountain views, a local bathing experience and the drive up the Mo Chhu valley, all without crowds."},
-        {"q": "What is special about Gasa Dzong's design", "a": "Most Bhutanese dzongs are long and rectangular, built around one or more courtyards. Gasa Dzong is rounded, with buildings and walls arranged around a central tower, and sits on a hilltop that gave its guards a view over the approach from the north. It is smaller and more compact than the great dzongs of Punakha, Paro or Trongsa."}
+        {
+          "q": "How old is Gasa Dzong",
+          "a": "Gasa Dzong was built in the 17th century under Zhabdrung Ngawang Namgyal, as a defence on Bhutan's northern frontier at a time of repeated Tibetan attacks. It has been repaired and renovated since. Today it houses Gasa's district administration and a monk body, like other dzongs in Bhutan, and visitors can enter with a licensed guide."
+        },
+        {
+          "q": "Is Gasa Dzong worth the drive",
+          "a": "On its own, probably not for a short trip, as it is 3–4 hours from Punakha. Combined with a night at the Gasa hot springs, yes: you get a quiet frontier dzong with mountain views, a local bathing experience and the drive up the Mo Chhu valley, all without crowds."
+        },
+        {
+          "q": "What is special about Gasa Dzong's design",
+          "a": "Most Bhutanese dzongs are long and rectangular, built around one or more courtyards. Gasa Dzong is rounded, with buildings and walls arranged around a central tower, and sits on a hilltop that gave its guards a view over the approach from the north. It is smaller and more compact than the great dzongs of Punakha, Paro or Trongsa."
+        }
       ]
     },
     {
@@ -125,17 +232,31 @@
       "cost": "Festival free; trek or transport and guide extra, indicative",
       "image_query": "Laya Bhutan Layap women bamboo hat",
       "wiki": "Laya, Bhutan",
-      "summary": "A festival of Bhutan's high-altitude herders, held at Laya in Gasa District each October since 2017, with yaks, horses, highland dress, songs and competitions. Getting there takes extra days and planning.",
+      "summary": "A festival of Bhutan's high-altitude herders, held at Laya in Gasa District each October since 2017, with yaks, horses, highland dress, songs and competitions. Getting there takes extra days and planning. Plan it as a trek, not a day out, and only once the year's dates are confirmed.",
       "body": [
         "Laya is a village of yak herders at about 3,800 m in the far north of Gasa District, below the snow peaks along the Tibet border. The Layaps have their own dress, and the women's conical bamboo hats, topped with a spike, are among the best-known images of highland Bhutan. Since 2017, Laya has hosted the Royal Highlander Festival every October, bringing herders from Laya, Lunana and other high communities together with their animals.",
         "The festival includes yak and horse displays, highland songs and dances, traditional games, displays of local products and cultural programmes. Exact dates and programmes are announced each year, and in some years the festival has been changed or not held, so plan only once dates are confirmed. Accommodation is mostly in tents and simple village homes.",
         "Getting to Laya takes time. Depending on how far the road reaches in your year, it is a trek of one or two days from the road head beyond Gasa, climbing steadily through forest along the Mo Chhu. You need a trekking permit, a licensed trekking guide, warm gear and good fitness. Budget at least 5–6 days from Punakha. Check current status before you travel."
       ],
-      "good_for": ["photographers", "solo", "couples", "students"],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples",
+        "students"
+      ],
       "faqs": [
-        {"q": "When is the Royal Highlander Festival", "a": "It has been held at Laya in Gasa District in October each year since 2017, usually over two days. Dates and programmes are announced annually and can change, and the festival has not been held in every year. Ask your operator for the confirmed dates before planning, as the trip to Laya takes several days. Check current status before you travel."},
-        {"q": "How do you get to Laya", "a": "Drive from Punakha to Gasa and beyond to the current road head, then trek for one or two days along the Mo Chhu to Laya at about 3,800 m. You need a trekking permit, a licensed trekking guide and camping or village homestay arrangements through your operator. Allow 5–6 days for the round trip from Punakha. Check current status before you travel."},
-        {"q": "Who are the Layaps", "a": "The Layaps are the yak-herding people of Laya in northern Gasa District. They have their own dialect and dress, and Layap women are known for their conical bamboo hats with a spike on top. Their livelihood has traditionally depended on yaks and, in recent decades, the seasonal collection of cordyceps on the high pastures."}
+        {
+          "q": "When is the Royal Highlander Festival",
+          "a": "It has been held at Laya in Gasa District in October each year since 2017, usually over two days. Dates and programmes are announced annually and can change, and the festival has not been held in every year. Ask your operator for the confirmed dates before planning, as the trip to Laya takes several days. Check current status before you travel."
+        },
+        {
+          "q": "How do you get to Laya",
+          "a": "Drive from Punakha to Gasa and beyond to the current road head, then trek for one or two days along the Mo Chhu to Laya at about 3,800 m. You need a trekking permit, a licensed trekking guide and camping or village homestay arrangements through your operator. Allow 5–6 days for the round trip from Punakha. Check current status before you travel."
+        },
+        {
+          "q": "Who are the Layaps",
+          "a": "The Layaps are the yak-herding people of Laya in northern Gasa District. They have their own dialect and dress, and Layap women are known for their conical bamboo hats with a spike on top. Their livelihood has traditionally depended on yaks and, in recent decades, the seasonal collection of cordyceps on the high pastures."
+        }
       ]
     },
     {
@@ -147,29 +268,70 @@
       "cost": "Free; guide as part of your day rate",
       "image_query": "Jigme Dorji National Park Bhutan forest",
       "wiki": "Jigme Dorji National Park",
-      "summary": "An easy guided walk on village and forest trails around Gasa, inside Jigme Dorji National Park, Bhutan's second-largest protected area. Expect old forest, birds, farm villages and long views, rather than rare animal sightings.",
+      "summary": "An easy guided walk on village and forest trails around Gasa, inside Jigme Dorji National Park, Bhutan's second-largest protected area. Expect old forest, birds, farm villages and long views, rather than rare animal sightings. Walks are gentle and suit most ages.",
       "body": [
         "Jigme Dorji National Park covers most of Gasa District and parts of the neighbouring districts, from warm broadleaf forest in the south to alpine meadows and glaciers on the Tibet border. It is Bhutan's second-largest protected area and is home to takin, Bhutan's national animal, as well as blue sheep, red panda, Himalayan black bear and snow leopard. Several of Bhutan's important rivers, including the Mo Chhu, rise inside it.",
         "Around Gasa, your guide can take you on village paths and forest trails for a few hours: down towards the hot springs, along farm tracks between houses and fields, or into mixed forest of oak, rhododendron and conifer. Spring brings rhododendron flowers and more birdsong; October and November have clearer views of the snow peaks. You are unlikely to see the rarer mammals, which keep to remote areas, but birding can be good.",
-        "Walk with your guide, keep to paths, and do not pick plants; the park protects many medicinal and rare species. Carry water, snacks and a warm layer, as the weather changes quickly. Combine a morning walk with a soak in the hot springs in the afternoon for a full Gasa day."
+        "Walk with your guide, keep to paths, and do not pick plants; the park protects many medicinal and rare species. Carry water, snacks and a warm layer, as the weather changes quickly. Combine a morning walk with a soak in the hot springs in the afternoon for a full Gasa day. Leeches appear on forest paths in the wet months, so avoid June to August or wear long socks over your trousers."
       ],
-      "good_for": ["couples", "photographers", "solo", "seniors"],
+      "good_for": [
+        "couples",
+        "photographers",
+        "solo",
+        "seniors"
+      ],
       "faqs": [
-        {"q": "Can you see takin in Jigme Dorji National Park", "a": "Takin live in the park, especially in the higher valleys in summer, but sightings on a short walk around Gasa are unlikely. For a sure sighting, visit the Motithang Takin Preserve in Thimphu. In the park, birds, flowers and forest are the main attractions on a day walk, with distant snow peaks on clear days."},
-        {"q": "How big is Jigme Dorji National Park", "a": "It covers about 4,300 sq km across Gasa and parts of neighbouring districts, which makes it Bhutan's second-largest protected area after Wangchuck Centennial National Park. It runs from subtropical forest in the south to glaciers and high peaks on the Tibet border, and includes the high villages of Laya and Lingzhi."},
-        {"q": "Do I need a special permit to walk in the park", "a": "For short walks around Gasa with your licensed guide, your route permit for Gasa is usually enough. Multi-day treks inside the park need a trekking permit and a licensed trekking guide, arranged through your operator. Some park fees may apply on treks. Check current status before you travel, as rules are revised from time to time."}
+        {
+          "q": "Can you see takin in Jigme Dorji National Park",
+          "a": "Takin live in the park, especially in the higher valleys in summer, but sightings on a short walk around Gasa are unlikely. For a sure sighting, visit the Motithang Takin Preserve in Thimphu. In the park, birds, flowers and forest are the main attractions on a day walk, with distant snow peaks on clear days."
+        },
+        {
+          "q": "How big is Jigme Dorji National Park",
+          "a": "It covers about 4,300 sq km across Gasa and parts of neighbouring districts, which makes it Bhutan's second-largest protected area after Wangchuck Centennial National Park. It runs from subtropical forest in the south to glaciers and high peaks on the Tibet border, and includes the high villages of Laya and Lingzhi."
+        },
+        {
+          "q": "Do I need a special permit to walk in the park",
+          "a": "For short walks around Gasa with your licensed guide, your route permit for Gasa is usually enough. Multi-day treks inside the park need a trekking permit and a licensed trekking guide, arranged through your operator. Some park fees may apply on treks. Check current status before you travel, as rules are revised from time to time."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "How far is Gasa from Punakha", "a": "About 70–80 km, or 3–4 hours by car, following the Mo Chhu north from Punakha and climbing through forest to Gasa at about 2,800 m. Some stretches are narrow and rough, and monsoon landslides can close the road. Most visitors go from a base in Punakha and stay one night at Gasa. Check current status before you travel."},
-    {"q": "Is Gasa worth visiting", "a": "Yes, for travellers who have seen the main western sights and want something local and quiet. The hot springs, a small frontier dzong and the drive up the Mo Chhu valley are the reasons to go. On a first short trip to Bhutan, Punakha and Phobjikha are better uses of the time."},
-    {"q": "Do I need a permit for Gasa", "a": "Yes. Gasa is outside the Thimphu–Paro area covered by the entry permit, so your operator needs a route permit from the immigration office in Thimphu, issued on working days. A licensed guide is required. Treks beyond Gasa to Laya need a separate trekking permit and a licensed trekking guide. Check current status before you travel."},
-    {"q": "Can I do Gasa as a day trip from Punakha", "a": "It is possible but long: 6–8 hours of driving in total, leaving only an hour or two at the hot springs and the dzong. We suggest one night at Gasa so you can soak in the evening and the morning. If time is short, do the drive only if the road is in good condition."},
-    {"q": "Is Gasa the least populated district in Bhutan", "a": "Yes. Gasa is the least populated of Bhutan's 20 districts, with only a few thousand residents spread across a large, mountainous area, most of it inside Jigme Dorji National Park. Haa is the second least populated. Settlements include Gasa town, Laya and Lunana, the last two among the highest villages in the country."},
-    {"q": "What is the weather like in Gasa", "a": "Gasa at about 2,800 m is cool most of the year. Winter days can be sunny and around 5–12 °C, with nights near or below freezing. Spring and autumn are mild. June to August is the monsoon, with heavy rain, cloud and landslide risk on the road. October to April is the best time to visit."},
-    {"q": "What should I bring to the Gasa hot springs", "a": "A swimsuit or shorts and T-shirt, a quick-dry towel, flip-flops, a warm jacket for walking between pools and lodgings, a water bottle and a small bag for wet clothes. Bring your own toiletries for showering, but do not use soap or shampoo in the pools. A head torch helps for evening soaks."},
-    {"q": "Can I trek from Gasa to Laya", "a": "Yes, with a licensed operator and trekking guide. The route follows the Mo Chhu north from the road head beyond Gasa to Laya, about 3,800 m, over one or two days depending on how far the road reaches. It needs fitness, warm gear and acclimatisation. Laya is also on the longer Laya–Gasa and Snowman trek routes."},
-    {"q": "Where should I stay for Gasa", "a": "Simple government-built guesthouses near the hot springs and one or two small places in town are the only options, mostly basic. Ask your operator which are certified for tourists. Many travellers stay in the Punakha valley at Hotel Lobesa or Dhensa Boutique Resort and visit Gasa for a day or one night only."}
+    {
+      "q": "How far is Gasa from Punakha",
+      "a": "About 70–80 km, or 3–4 hours by car, following the Mo Chhu north from Punakha and climbing through forest to Gasa at about 2,800 m. Some stretches are narrow and rough, and monsoon landslides can close the road. Most visitors go from a base in Punakha and stay one night at Gasa. Check current status before you travel."
+    },
+    {
+      "q": "Is Gasa worth visiting",
+      "a": "Yes, for travellers who have seen the main western sights and want something local and quiet. The hot springs, a small frontier dzong and the drive up the Mo Chhu valley are the reasons to go. On a first short trip to Bhutan, Punakha and Phobjikha are better uses of the time."
+    },
+    {
+      "q": "Do I need a permit for Gasa",
+      "a": "Yes. Gasa is outside the Thimphu–Paro area covered by the entry permit, so your operator needs a route permit from the immigration office in Thimphu, issued on working days. A licensed guide is required. Treks beyond Gasa to Laya need a separate trekking permit and a licensed trekking guide. Check current status before you travel."
+    },
+    {
+      "q": "Can I do Gasa as a day trip from Punakha",
+      "a": "It is possible but long: 6–8 hours of driving in total, leaving only an hour or two at the hot springs and the dzong. We suggest one night at Gasa so you can soak in the evening and the morning. If time is short, do the drive only if the road is in good condition."
+    },
+    {
+      "q": "Is Gasa the least populated district in Bhutan",
+      "a": "Yes. Gasa is the least populated of Bhutan's 20 districts, with only a few thousand residents spread across a large, mountainous area, most of it inside Jigme Dorji National Park. Haa is the second least populated. Settlements include Gasa town, Laya and Lunana, the last two among the highest villages in the country."
+    },
+    {
+      "q": "What is the weather like in Gasa",
+      "a": "Gasa at about 2,800 m is cool most of the year. Winter days can be sunny and around 5–12 °C, with nights near or below freezing. Spring and autumn are mild. June to August is the monsoon, with heavy rain, cloud and landslide risk on the road. October to April is the best time to visit."
+    },
+    {
+      "q": "What should I bring to the Gasa hot springs",
+      "a": "A swimsuit or shorts and T-shirt, a quick-dry towel, flip-flops, a warm jacket for walking between pools and lodgings, a water bottle and a small bag for wet clothes. Bring your own toiletries for showering, but do not use soap or shampoo in the pools. A head torch helps for evening soaks."
+    },
+    {
+      "q": "Can I trek from Gasa to Laya",
+      "a": "Yes, with a licensed operator and trekking guide. The route follows the Mo Chhu north from the road head beyond Gasa to Laya, about 3,800 m, over one or two days depending on how far the road reaches. It needs fitness, warm gear and acclimatisation. Laya is also on the longer Laya–Gasa and Snowman trek routes."
+    },
+    {
+      "q": "Where should I stay for Gasa",
+      "a": "Simple government-built guesthouses near the hot springs and one or two small places in town are the only options, mostly basic. Ask your operator which are certified for tourists. Many travellers stay in the Punakha valley at Hotel Lobesa or Dhensa Boutique Resort and visit Gasa for a day or one night only."
+    }
   ]
 }
