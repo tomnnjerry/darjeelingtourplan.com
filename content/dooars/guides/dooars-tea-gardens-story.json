@@ -3,7 +3,7 @@
   "title": "Tea in the Dooars: gardens, workers and a long story",
   "region": "dooars",
   "category": "history",
-  "meta_description": "How the Dooars became tea country after 1865: the first garden at Gazaldoba in 1874, Adivasi and Nepali workers, CTC tea, the railway and visiting a garden today.",
+  "meta_description": "How the Dooars became tea country after 1865: the first garden at Gazaldoba in 1874, Adivasi and Nepali workers, CTC tea and visiting a garden today.",
   "summary": "Tea arrived in the Dooars within ten years of the 1865 Treaty of Sinchula: the first garden opened at Gazaldoba in 1874, and by 1881 there were 55. Workers came from Chota Nagpur and Nepal, a railway followed, and today the Dooars grows mostly CTC tea, the strong granular kind in most Indian cups.",
   "sections": [
     {
@@ -27,15 +27,39 @@
         "Planters, many of them Scots, built bungalows on stilts and clubs in the larger estates. Calcutta agency houses managed many gardens and sold their tea at the city's auctions, which began in 1861. After 1947 most British companies sold out to Indian owners over the following decades, and many gardens are now held by Indian companies, while a growing share of leaf comes from small growers who sell green leaf to bought-leaf factories."
       ],
       "table": {
-        "head": ["Year", "Tea milestone"],
+        "head": [
+          "Year",
+          "Tea milestone"
+        ],
         "rows": [
-          ["1865", "Treaty of Sinchula: the Bengal Duars pass to British India"],
-          ["1869", "Jalpaiguri district formed, including the Western Duars"],
-          ["1874", "First Dooars tea garden opened at Gazaldoba"],
-          ["1881", "55 gardens in the Dooars"],
-          ["1890s", "Bengal Dooars Railway builds lines across the plains"],
-          ["1951", "Plantation Labour Act sets duties on housing, health and schooling"],
-          ["2014", "Alipurduar district formed from Jalpaiguri"]
+          [
+            "1865",
+            "Treaty of Sinchula: the Bengal Duars pass to British India"
+          ],
+          [
+            "1869",
+            "Jalpaiguri district formed, including the Western Duars"
+          ],
+          [
+            "1874",
+            "First Dooars tea garden opened at Gazaldoba"
+          ],
+          [
+            "1881",
+            "55 gardens in the Dooars"
+          ],
+          [
+            "1890s",
+            "Bengal Dooars Railway builds lines across the plains"
+          ],
+          [
+            "1951",
+            "Plantation Labour Act sets duties on housing, health and schooling"
+          ],
+          [
+            "2014",
+            "Alipurduar district formed from Jalpaiguri"
+          ]
         ]
       }
     },
@@ -44,6 +68,14 @@
       "paras": [
         "The Dooars grows a different tea from the hills. Darjeeling's gardens, at 600–2,000 m, mostly make orthodox leaf tea, sold under a protected geographical indication. Dooars gardens, on the plains at 60–300 m, mostly make CTC tea: the leaf is crushed, torn and curled by machines into small granules that brew fast, dark and strong. It is the tea of the roadside stall and most Indian kitchens, made with milk and sugar.",
         "Dooars bushes grow quickly in the heat and rain and are plucked from about March to November, with a pause in the dry, cool winter when the bushes are pruned. In March and April you see pluckers in the rows with baskets on their backs, and from the road the gardens turn bright green with new growth after the first rains."
+      ]
+    },
+    {
+      "heading": "How to read a garden from the road",
+      "paras": [
+        "Once you know what to look for, a Dooars tea garden tells its own story. The bushes are kept at about waist height, a flat plucking table that lets workers reach the two leaves and a bud at the tip. Tall shade trees stand in regular rows across the sections, cutting the harsh sun and adding nitrogen to the soil. Deep drains run between the sections, because the plains get very heavy rain and tea hates standing water.",
+        "Each garden has a factory with a tall chimney or a long, low withering shed, the manager's bungalow set back in a garden of its own, and the labour lines, rows of workers' houses, near the edge of the estate. A small market, a school, a church or temple and a football ground usually sit close to the lines.",
+        "Forest and tea run into each other here. Elephants walk through gardens between Gorumara, Chapramari and the Jaldapara forests, and leopards often live in the tea rows themselves, hunting dogs and goats in the lines. That is why estate managers ask visitors to stay out of the sections after dark."
       ]
     },
     {
@@ -56,7 +88,8 @@
     {
       "heading": "Visiting a tea garden",
       "paras": [
-        "Unlike Darjeeling, the Dooars has few gardens set up for tourists, and factories are working premises, not attractions. Most visitors see the gardens from the road between Malbazar, Chalsa and Binnaguri, or walk the estate roads around Samsing, Chalsa and Lataguri with a local guide. A few resorts are set inside tea estates and arrange garden walks. Ask before photographing workers, and never walk into the rows at dusk, when elephants and leopards use the gardens as corridors."
+        "Unlike Darjeeling, the Dooars has few gardens set up for tourists, and factories are working premises, not attractions. Most visitors see the gardens from the road between Malbazar, Chalsa and Binnaguri, or walk the estate roads around Samsing, Chalsa and Lataguri with a local guide. A few resorts are set inside tea estates and arrange garden walks. Ask before photographing workers, and never walk into the rows at dusk, when elephants and leopards use the gardens as corridors.",
+        "If you want to taste the difference between grades, buy small packets of CTC from a local shop and brew them the way garden families do: boiled with water, milk and sugar in one pan, strong enough to stand a spoon in. Then try a Darjeeling orthodox tea, brewed plain, on the same day. The contrast explains more about the two regions than any museum could. Buy from a shop that sells loose tea by weight and turns its stock over quickly; CTC loses its strength after a few months in an open sack, so ask when the batch came in from the garden."
       ],
       "list": [
         "Best months to see plucking: March to May and again in autumn, from late September to November.",
@@ -66,16 +99,49 @@
       ]
     }
   ],
-  "related_places": ["lataguri", "samsing", "chapramari-wildlife-sanctuary", "murti", "jaldapara-national-park"],
+  "related_places": [
+    "lataguri",
+    "samsing",
+    "chapramari-wildlife-sanctuary",
+    "murti",
+    "jaldapara-national-park"
+  ],
   "faqs": [
-    {"q": "When was the first tea garden in the Dooars opened", "a": "The first Dooars tea garden was opened at Gazaldoba, on the Teesta near today's Gajoldoba barrage, in 1874. That was less than ten years after the Treaty of Sinchula in 1865 moved the Bengal Duars from Bhutan to British India. By 1881 there were 55 gardens in the Dooars."},
-    {"q": "What is the difference between Dooars and Darjeeling tea", "a": "Darjeeling tea grows in the hills at 600–2,000 m and is mostly orthodox leaf tea, with a protected geographical indication. Dooars tea grows on the plains at 60–300 m and is mostly CTC, crushed into small granules that brew strong and dark. CTC is the everyday tea of most Indian homes."},
-    {"q": "Who works in the Dooars tea gardens", "a": "Most workers are descendants of Adivasi families brought from the Chota Nagpur plateau from the 1870s onward, including Oraon, Munda, Santhal and Kharia people, along with Nepali families in the northern gardens. Sadri is the common language of the gardens. Many families have lived on the same estates for five generations or more."},
-    {"q": "Can tourists visit tea factories in the Dooars", "a": "Rarely. Dooars factories are working premises and few are open to the public. Some resorts set inside tea estates arrange garden walks and occasional factory visits for guests. Most visitors enjoy the gardens from the road or on walks with a local guide. Check current status before you travel."},
-    {"q": "What is CTC tea", "a": "CTC stands for crush, tear, curl, the machine process that turns tea leaves into small, hard granules. It brews quickly into a strong, dark cup that holds up to milk and sugar. Most of India's everyday tea, including most Dooars tea, is CTC. Orthodox tea, by contrast, keeps the leaf more whole."},
-    {"q": "What is Karam Puja in the tea gardens", "a": "Karam Puja is a harvest and nature festival of the Adivasi communities of the tea gardens, held in August or September. A branch of the Karam tree is planted in the village dance ground and worshipped, the Karam story is told, and people sing and dance to the mandar drum through the night. The next day the branch is lowered into a river or pond."},
-    {"q": "Why did some Dooars tea gardens close", "a": "Falling prices, debts and poor management led some owners to close or abandon gardens, especially in the early 2000s. Workers lost wages, rations and medical care, and reports of hunger and deaths in closed gardens drew national attention. Some gardens later reopened under new owners, while others still struggle."},
-    {"q": "When is the tea plucking season in the Dooars", "a": "Plucking runs from about March to November, with the busiest flush after the first rains in spring and steady growth through the monsoon. In the dry, cool winter, bushes are pruned and plucking slows or stops. March to May is the best time to see pluckers at work from the road."},
-    {"q": "Where can I see tea gardens on a Dooars trip", "a": "The road from Siliguri to Lataguri passes gardens at Odlabari and Malbazar, and the stretch from Chalsa to Nagrakata and Binnaguri is tea almost all the way. Samsing has gardens on hill slopes with views. Walk only on estate roads with permission, and keep out of the rows at dusk."}
+    {
+      "q": "When was the first tea garden in the Dooars opened",
+      "a": "The first Dooars tea garden was opened at Gazaldoba, on the Teesta near today's Gajoldoba barrage, in 1874. That was less than ten years after the Treaty of Sinchula in 1865 moved the Bengal Duars from Bhutan to British India. By 1881 there were 55 gardens in the Dooars."
+    },
+    {
+      "q": "What is the difference between Dooars and Darjeeling tea",
+      "a": "Darjeeling tea grows in the hills at 600–2,000 m and is mostly orthodox leaf tea, with a protected geographical indication. Dooars tea grows on the plains at 60–300 m and is mostly CTC, crushed into small granules that brew strong and dark. CTC is the everyday tea of most Indian homes."
+    },
+    {
+      "q": "Who works in the Dooars tea gardens",
+      "a": "Most workers are descendants of Adivasi families brought from the Chota Nagpur plateau from the 1870s onward, including Oraon, Munda, Santhal and Kharia people, along with Nepali families in the northern gardens. Sadri is the common language of the gardens. Many families have lived on the same estates for five generations or more."
+    },
+    {
+      "q": "Can tourists visit tea factories in the Dooars",
+      "a": "Rarely. Dooars factories are working premises and few are open to the public. Some resorts set inside tea estates arrange garden walks and occasional factory visits for guests. Most visitors enjoy the gardens from the road or on walks with a local guide. Check current status before you travel."
+    },
+    {
+      "q": "What is CTC tea",
+      "a": "CTC stands for crush, tear, curl, the machine process that turns tea leaves into small, hard granules. It brews quickly into a strong, dark cup that holds up to milk and sugar. Most of India's everyday tea, including most Dooars tea, is CTC. Orthodox tea, by contrast, keeps the leaf more whole."
+    },
+    {
+      "q": "What is Karam Puja in the tea gardens",
+      "a": "Karam Puja is a harvest and nature festival of the Adivasi communities of the tea gardens, held in August or September. A branch of the Karam tree is planted in the village dance ground and worshipped, the Karam story is told, and people sing and dance to the mandar drum through the night. The next day the branch is lowered into a river or pond."
+    },
+    {
+      "q": "Why did some Dooars tea gardens close",
+      "a": "Falling prices, debts and poor management led some owners to close or abandon gardens, especially in the early 2000s. Workers lost wages, rations and medical care, and reports of hunger and deaths in closed gardens drew national attention. Some gardens later reopened under new owners, while others still struggle."
+    },
+    {
+      "q": "When is the tea plucking season in the Dooars",
+      "a": "Plucking runs from about March to November, with the busiest flush after the first rains in spring and steady growth through the monsoon. In the dry, cool winter, bushes are pruned and plucking slows or stops. March to May is the best time to see pluckers at work from the road."
+    },
+    {
+      "q": "Where can I see tea gardens on a Dooars trip",
+      "a": "The road from Siliguri to Lataguri passes gardens at Odlabari and Malbazar, and the stretch from Chalsa to Nagrakata and Binnaguri is tea almost all the way. Samsing has gardens on hill slopes with views. Walk only on estate roads with permission, and keep out of the rows at dusk."
+    }
   ]
 }

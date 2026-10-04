@@ -13,14 +13,49 @@
         "Areas and counts below come from park and census figures; sightings are never guaranteed."
       ],
       "table": {
-        "head": ["Park", "Base", "Known for", "Safari style"],
+        "head": [
+          "Park",
+          "Base",
+          "Known for",
+          "Safari style"
+        ],
         "rows": [
-          ["Gorumara National Park, ≈ 80 sq km", "Lataguri", "Gaur, elephant, about 61 rhinos (2025)", "Jeep to a watchtower"],
-          ["Jaldapara National Park, ≈ 216 sq km", "Madarihat", "About 331 rhinos (2025), grassland birds", "Jeep safari"],
-          ["Chapramari Wildlife Sanctuary, ≈ 9.6 sq km", "Chalsa, Lataguri", "Elephants at the tower", "Jeep to a watchtower"],
-          ["Chilapata forest", "Hasimara, Madarihat", "Dense forest, Nalraja Garh ruins", "Jeep safari"],
-          ["Buxa Tiger Reserve, ≈ 760 sq km", "Rajabhatkhawa, Jayanti", "Forest, birds, Buxa Fort", "Jeep safari and guided walks"],
-          ["Mahananda Wildlife Sanctuary", "Siliguri", "Hornbills, gaur, Sevoke", "Drive and short walks"]
+          [
+            "Gorumara National Park, ≈ 80 sq km",
+            "Lataguri",
+            "Gaur, elephant, about 61 rhinos (2025)",
+            "Jeep to a watchtower"
+          ],
+          [
+            "Jaldapara National Park, ≈ 216 sq km",
+            "Madarihat",
+            "About 331 rhinos (2025), grassland birds",
+            "Jeep safari"
+          ],
+          [
+            "Chapramari Wildlife Sanctuary, ≈ 9.6 sq km",
+            "Chalsa, Lataguri",
+            "Elephants at the tower",
+            "Jeep to a watchtower"
+          ],
+          [
+            "Chilapata forest",
+            "Hasimara, Madarihat",
+            "Dense forest, Nalraja Garh ruins",
+            "Jeep safari"
+          ],
+          [
+            "Buxa Tiger Reserve, ≈ 760 sq km",
+            "Rajabhatkhawa, Jayanti",
+            "Forest, birds, Buxa Fort",
+            "Jeep safari and guided walks"
+          ],
+          [
+            "Mahananda Wildlife Sanctuary",
+            "Siliguri",
+            "Hornbills, gaur, Sevoke",
+            "Drive and short walks"
+          ]
         ]
       }
     },
@@ -60,6 +95,20 @@
       ]
     },
     {
+      "heading": "A sample two-park safari plan",
+      "paras": [
+        "For a first visit we suggest four nights and four safari sessions, two in each of the big parks. Spend two nights at Lataguri. On the first afternoon, take a Gorumara watchtower slot at Jatraprasad or the Rhino Observation Point. Next morning, take Chukchuki for birds, or Chapramari's tower if Gorumara is full, and in the late afternoon try Medla or Chandrachur on the Murti side.",
+        "On day three drive about 95 km east to Madarihat through the Chalsa and Binnaguri tea gardens and rest through the afternoon. Book the dawn Jaldapara safari for day four, and a second Jaldapara or a Chilapata safari that afternoon. On day five, a last dawn safari is possible before you leave for Siliguri or Bhutan. Booking four sessions ahead is the hardest part of the trip, so do it the day slots open, and leave Thursdays out of your Gorumara plans. Check current status before you travel."
+      ]
+    },
+    {
+      "heading": "Beyond the big animals",
+      "paras": [
+        "Most visitors judge a Dooars safari by rhinos and elephants, but the parks hold far more. Gorumara records about 50 mammal species and roughly 194 bird species, including great and wreathed hornbills. Jaldapara's grassland holds Bengal florican, a rare bustard, and hog deer, while the rivers have otters and many kingfishers. Buxa, which rises to the Bhutan border, adds hill birds that you will not see in the plains parks.",
+        "Bring binoculars and a simple bird book or app, and ask your forest guide to stop for birds as well as mammals; most are happy to. Watchtower sessions are especially good for this, because you sit still for an hour and the birds come close. Monitor lizards, butterflies in spring and the forest sounds at dusk are all part of the experience."
+      ]
+    },
+    {
       "heading": "Safari manners and safety",
       "paras": [
         "The animals here are wild, and some of them are large. Wild elephants are the main wildlife danger in North Bengal, mostly on roads and at the forest edge after dark. On safari you are in a vehicle with a trained driver and forest guide, which is the safest way to see them. The rules below make better sightings as well as safer ones."
@@ -74,16 +123,51 @@
       ]
     }
   ],
-  "related_places": ["gorumara-national-park", "jaldapara-national-park", "chapramari-wildlife-sanctuary", "chilapata-forest", "buxa-tiger-reserve", "mahananda-wildlife-sanctuary", "lataguri"],
+  "related_places": [
+    "gorumara-national-park",
+    "jaldapara-national-park",
+    "chapramari-wildlife-sanctuary",
+    "chilapata-forest",
+    "buxa-tiger-reserve",
+    "mahananda-wildlife-sanctuary",
+    "lataguri"
+  ],
   "faqs": [
-    {"q": "How do I book a Gorumara safari online", "a": "Use the West Bengal forest department's official online booking system. Choose Gorumara, your date, slot and watchtower, enter the name, age and ID number of every traveller, and pay online. Bring the same original IDs to the counter at Lataguri 30–45 minutes before your slot. Booking windows change, so check current status before you travel."},
-    {"q": "How far ahead should I book a Dooars safari", "a": "As soon as booking opens for your dates. For weekends from November to February, Puja week and the Christmas–New Year week, slots often sell out within hours. Mid-week in February or March, a few days ahead may be enough. Book your lodge first, then the safari, so the dates line up."},
-    {"q": "Which is the best park in the Dooars", "a": "It depends on what you want. For rhinos in open country, Jaldapara. For sitting quietly while gaur and elephants come to a salt lick, Gorumara. For a wilder forest feel with fewer vehicles, Chilapata or Buxa. Most first-time visitors do Gorumara and Jaldapara on one trip."},
-    {"q": "When are the Dooars parks closed", "a": "Gorumara, Jaldapara, Chapramari, Chilapata, Buxa and Mahananda close to tourists from about 15 June to 15 September for the monsoon and breeding season. Gorumara safaris are also usually closed on Thursdays. Opening dates can shift with weather, so check current status before you travel."},
-    {"q": "What animals can I see in Gorumara and Jaldapara", "a": "Common sightings are gaur, Asian elephant, one-horned rhino, sambar, barking deer, hog deer, wild boar and peafowl, with hornbills, eagles and many grassland and forest birds. Leopards are present but rarely seen. Tigers are not a realistic sighting in the Dooars today. Rhinos are easier in Jaldapara."},
-    {"q": "Is the morning or afternoon safari better", "a": "In Jaldapara, the dawn jeep safari usually gives the best rhino sightings, as animals graze in the open in the cool hours. In Gorumara, late-afternoon watchtower slots are often best, as animals come to the salt licks before dusk. If you can do only one, book the dawn safari in Jaldapara and an afternoon tower in Gorumara."},
-    {"q": "Can I book a safari at the gate without booking online", "a": "Sometimes. Counters at Lataguri and Madarihat sell remaining seats on the day, but in busy weeks there may be none left. Arrive early with original ID. Do not rely on this for a weekend or holiday trip, and never buy from touts. Check current status before you travel."},
-    {"q": "Are elephant safaris available in Jaldapara", "a": "Elephant rides have been offered in Jaldapara in some seasons, but not reliably in recent years, particularly after the Hollong lodge fire in June 2024. Where they run, they cost about ₹1,000–2,000 per person, indicative 2026, and seats are limited. Check current status before you travel."},
-    {"q": "Do children need ID for Dooars safaris", "a": "Adults need original photo ID matching the booking. For children, carry a birth certificate, school ID or Aadhaar copy as age proof, since some parks charge by age and some set age limits for elephant rides. Rules vary between parks, so check current status before you travel."}
+    {
+      "q": "How do I book a Gorumara safari online",
+      "a": "Use the West Bengal forest department's official online booking system. Choose Gorumara, your date, slot and watchtower, enter the name, age and ID number of every traveller, and pay online. Bring the same original IDs to the counter at Lataguri 30–45 minutes before your slot. Booking windows change, so check current status before you travel."
+    },
+    {
+      "q": "How far ahead should I book a Dooars safari",
+      "a": "As soon as booking opens for your dates. For weekends from November to February, Puja week and the Christmas–New Year week, slots often sell out within hours. Mid-week in February or March, a few days ahead may be enough. Book your lodge first, then the safari, so the dates line up."
+    },
+    {
+      "q": "Which is the best park in the Dooars",
+      "a": "It depends on what you want. For rhinos in open country, Jaldapara. For sitting quietly while gaur and elephants come to a salt lick, Gorumara. For a wilder forest feel with fewer vehicles, Chilapata or Buxa. Most first-time visitors do Gorumara and Jaldapara on one trip."
+    },
+    {
+      "q": "When are the Dooars parks closed",
+      "a": "Gorumara, Jaldapara, Chapramari, Chilapata, Buxa and Mahananda close to tourists from about 15 June to 15 September for the monsoon and breeding season. Gorumara safaris are also usually closed on Thursdays. Opening dates can shift with weather, so check current status before you travel."
+    },
+    {
+      "q": "What animals can I see in Gorumara and Jaldapara",
+      "a": "Common sightings are gaur, Asian elephant, one-horned rhino, sambar, barking deer, hog deer, wild boar and peafowl, with hornbills, eagles and many grassland and forest birds. Leopards are present but rarely seen. Tigers are not a realistic sighting in the Dooars today. Rhinos are easier in Jaldapara."
+    },
+    {
+      "q": "Is the morning or afternoon safari better",
+      "a": "In Jaldapara, the dawn jeep safari usually gives the best rhino sightings, as animals graze in the open in the cool hours. In Gorumara, late-afternoon watchtower slots are often best, as animals come to the salt licks before dusk. If you can do only one, book the dawn safari in Jaldapara and an afternoon tower in Gorumara."
+    },
+    {
+      "q": "Can I book a safari at the gate without booking online",
+      "a": "Sometimes. Counters at Lataguri and Madarihat sell remaining seats on the day, but in busy weeks there may be none left. Arrive early with original ID. Do not rely on this for a weekend or holiday trip, and never buy from touts. Check current status before you travel."
+    },
+    {
+      "q": "Are elephant safaris available in Jaldapara",
+      "a": "Elephant rides have been offered in Jaldapara in some seasons, but not reliably in recent years, particularly after the Hollong lodge fire in June 2024. Where they run, they cost about ₹1,000–2,000 per person, indicative 2026, and seats are limited. Check current status before you travel."
+    },
+    {
+      "q": "Do children need ID for Dooars safaris",
+      "a": "Adults need original photo ID matching the booking. For children, carry a birth certificate, school ID or Aadhaar copy as age proof, since some parks charge by age and some set age limits for elephant rides. Rules vary between parks, so check current status before you travel."
+    }
   ]
 }
