@@ -6,12 +6,14 @@
     "wiki": "Maghe Sankranti",
     "image_query": "Maghe Sankranti festival food yam",
     "when": "Mid-January, first day of the Nepali month of Magh (usually 14 or 15 January)",
-    "month_nums": [1],
+    "month_nums": [
+      1
+    ],
     "summary": "Maghe Sankranti marks the first day of the month of Magh, when the sun begins its northward journey and the coldest weeks start to ease. In Kalimpong, Nepali families eat yam, sweet potato, molasses, ghee and sesame sweets, visit relatives and bathe at river confluences.",
     "body": [
-      "Maghe Sankranti falls on the first day of Magh in the Nepali solar calendar, which usually lands on 14 or 15 January. It is one of the few Hindu festivals fixed to the sun rather than the moon, so its date barely moves. For the Gorkha families who make up much of Kalimpong's population, it marks the turn of winter: the days are growing longer and the hardest cold is passing.",
+      "Maghe Sankranti falls on the first day of Magh in the Nepali solar calendar, which usually lands on 14 or 15 January. It is one of the few Hindu festivals fixed to the sun rather than the moon, so its date barely moves. For the Gorkha families who make up much of Kalimpong's population, it marks the turn of winter: the days are growing longer and the hardest cold is passing. It is also a public holiday in the hills, so expect some offices and shops to close for the day.",
       "The day is about food and family more than spectacle. Kitchens cook tarul (yam) and sakharkhand (sweet potato), and serve them with chaku, a hard molasses, plenty of ghee and laddus made with sesame. Married daughters visit their parents' homes, and elders give blessings. Many families go to a river for a morning dip; in this part of the hills, fairs are held where rivers meet, the best known being the large mela at Jorethang on the Rangeet in South Sikkim.",
-      "For visitors, the festival shows up in the Wednesday and Saturday haat, where yams, sweet potatoes and blocks of chaku are piled high in the days before. Mid-January is cold and dry, about 6–15 °C in Kalimpong and near freezing at Lava, with clear mornings for Kanchenjunga. Hotels are quiet and cheap, so it is a good time for a low-cost winter trip."
+      "For visitors, the festival shows up in the Wednesday and Saturday haat, where yams, sweet potatoes and blocks of chaku are piled high in the days before. Mid-January is cold and dry, about 6–15 °C in Kalimpong and near freezing at Lava, with clear mornings for Kanchenjunga. Hotels are quiet and cheap, so it is a good time for a low-cost winter trip. Ask at your hotel whether any riverside mela is planned nearby that year."
     ],
     "tips": [
       "Buy a small block of chaku and some sesame laddus at the haat; they keep well and travel easily.",
@@ -19,10 +21,22 @@
       "Pack proper winter layers; the festival falls in the coldest month of the year."
     ],
     "faqs": [
-      {"q": "When is Maghe Sankranti in 2027", "a": "Maghe Sankranti falls on the first day of Magh in the Nepali solar calendar, which is usually 14 or 15 January, so expect mid-January 2027. Because it follows the sun, the date shifts by a day at most from year to year. Check a current Nepali calendar or ask your homestay for the exact day before you plan around it."},
-      {"q": "What food is eaten on Maghe Sankranti", "a": "The classic Maghe Sankranti foods are boiled or roasted tarul (yam) and sweet potato, chaku (hard molasses), ghee, sesame laddus and sel roti. Many families also cook meat and spinach dishes. The rich, warming foods suit the coldest weeks of the year. In Kalimpong, the haat in the days before the festival is the best place to see them for sale."},
-      {"q": "Is Maghe Sankranti the same as Makar Sankranti", "a": "Yes, they mark the same solar event: the sun's move into Capricorn, which Hindus treat as the start of its northward journey. Maghe Sankranti is the Nepali name, used across the Darjeeling and Kalimpong hills, Sikkim and Nepal. In Bengal and much of India the same day is Makar Sankranti or Poush Sankranti, with different regional foods and customs."},
-      {"q": "Is January a good time to visit Kalimpong", "a": "Yes, if you pack for cold. January days in Kalimpong are usually clear and around 6–15 °C, with crisp Kanchenjunga views from Deolo, Rishyap and Sillery Gaon. Lava and Rishyap drop near freezing at night and can see snow. After New Year, hotels and homestays are quiet and many offer weekday discounts."}
+      {
+        "q": "When is Maghe Sankranti in 2027",
+        "a": "Maghe Sankranti falls on the first day of Magh in the Nepali solar calendar, which is usually 14 or 15 January, so expect mid-January 2027. Because it follows the sun, the date shifts by a day at most from year to year. Check a current Nepali calendar or ask your homestay for the exact day before you plan around it."
+      },
+      {
+        "q": "What food is eaten on Maghe Sankranti",
+        "a": "The classic Maghe Sankranti foods are boiled or roasted tarul (yam) and sweet potato, chaku (hard molasses), ghee, sesame laddus and sel roti. Many families also cook meat and spinach dishes. The rich, warming foods suit the coldest weeks of the year. In Kalimpong, the haat in the days before the festival is the best place to see them for sale."
+      },
+      {
+        "q": "Is Maghe Sankranti the same as Makar Sankranti",
+        "a": "Yes, they mark the same solar event: the sun's move into Capricorn, which Hindus treat as the start of its northward journey. Maghe Sankranti is the Nepali name, used across the Darjeeling and Kalimpong hills, Sikkim and Nepal. In Bengal and much of India the same day is Makar Sankranti or Poush Sankranti, with different regional foods and customs."
+      },
+      {
+        "q": "Is January a good time to visit Kalimpong",
+        "a": "Yes, if you pack for cold. January days in Kalimpong are usually clear and around 6–15 °C, with crisp Kanchenjunga views from Deolo, Rishyap and Sillery Gaon. Lava and Rishyap drop near freezing at night and can see snow. After New Year, hotels and homestays are quiet and many offer weekday discounts."
+      }
     ]
   },
   {
@@ -32,12 +46,15 @@
     "wiki": "Losar",
     "image_query": "Losar festival monastery Kalimpong",
     "when": "Feb–Mar, Tibetan new year (lunar calendar)",
-    "month_nums": [2, 3],
+    "month_nums": [
+      2,
+      3
+    ],
     "summary": "Losar is the Tibetan new year. Kalimpong, a town built partly by Tibetan wool traders, marks it in its monasteries and in Tibetan, Bhutia, Sherpa and Tamang homes, with prayers, fresh prayer flags, khapse biscuits and several days of family visits.",
     "body": [
       "Losar opens the Tibetan lunar year and usually falls in February or early March. Kalimpong has deep Tibetan roots: for decades before 1962, traders from Lhasa and the Chumbi Valley settled here to run the wool business that came down over Jelep La, and more Tibetan families arrived as refugees after 1959. Their descendants still run shops, restaurants and schools in town, and Losar is one of the most important days in their year.",
-      "In the days before, households clean thoroughly and kitchens fry khapse, twisted biscuits made for the season. On the day itself, families visit the monasteries, put up new prayer flags and exchange visits with relatives, serving butter tea and chhang. Zang Dhok Palri Phodang on Durpin Hill, consecrated by the Dalai Lama in 1976, and the town's other gompas hold prayers, and monks renew the offerings on the altars.",
-      "For visitors, Losar is more a family festival than a show. Go to Durpin in the morning, keep to the edge of the halls, and ask before photographing anyone at prayer. Some Tibetan-run shops and restaurants close for a day or two. February is still cold, about 8–17 °C in town and near freezing at Lava, but skies are often clear."
+      "In the days before, households clean thoroughly and kitchens fry khapse, twisted biscuits made for the season. On the day itself, families visit the monasteries, put up new prayer flags and exchange visits with relatives, serving butter tea and chhang. Zang Dhok Palri Phodang on Durpin Hill, consecrated by the Dalai Lama in 1976, and the town's other gompas hold prayers, and monks renew the offerings on the altars. Monasteries also perform rituals to clear away the old year's obstacles in the days just before the new year.",
+      "For visitors, Losar is more a family festival than a show. Go to Durpin in the morning, keep to the edge of the halls, and ask before photographing anyone at prayer. Some Tibetan-run shops and restaurants close for a day or two. February is still cold, about 8–17 °C in town and near freezing at Lava, but skies are often clear. Hotel rates stay low, as Losar falls well outside the main holiday seasons from the plains."
     ],
     "tips": [
       "Losar moves each year with the lunar calendar; check the date for your year before you book.",
@@ -45,10 +62,22 @@
       "Expect some Tibetan-run shops and eateries to close for the first two or three days of the new year."
     ],
     "faqs": [
-      {"q": "When is Losar celebrated in Kalimpong", "a": "Losar falls on the first day of the first month of the Tibetan lunar calendar, which lands in February or early March. The date changes every year, so check a current calendar or ask your hotel. Celebrations run over several days, with the first two or three the most important for families and monasteries."},
-      {"q": "Which monastery in Kalimpong is best to visit during Losar", "a": "Zang Dhok Palri Phodang on Durpin Hill is the easiest to reach and one of the largest, consecrated by the Dalai Lama in 1976. Go in the morning, when prayers are under way. The smaller gompas in and around town also hold prayers. Dress modestly, remove shoes where asked and walk clockwise around prayer wheels and stupas."},
-      {"q": "Why are there so many Tibetans in Kalimpong", "a": "Kalimpong was the main Indian market for the Tibetan wool trade, which came down over Jelep La until the pass closed after the 1962 war. Tibetan trading families settled in the town for business, and more Tibetans arrived as refugees after 1959. Many of their descendants still live and work in Kalimpong today."},
-      {"q": "Is Losar the same as Sonam Losar or Losoong", "a": "No. Losar is the Tibetan new year in February or March. Sonam Losar is the farmers' new year of the Tamang and some Sherpa and Yolmo communities, usually in January or February. Losoong is the Sikkimese Bhutia harvest new year in December. All three involve prayers, food and family visits, but on different dates."}
+      {
+        "q": "When is Losar celebrated in Kalimpong",
+        "a": "Losar falls on the first day of the first month of the Tibetan lunar calendar, which lands in February or early March. The date changes every year, so check a current calendar or ask your hotel. Celebrations run over several days, with the first two or three the most important for families and monasteries."
+      },
+      {
+        "q": "Which monastery in Kalimpong is best to visit during Losar",
+        "a": "Zang Dhok Palri Phodang on Durpin Hill is the easiest to reach and one of the largest, consecrated by the Dalai Lama in 1976. Go in the morning, when prayers are under way. The smaller gompas in and around town also hold prayers. Dress modestly, remove shoes where asked and walk clockwise around prayer wheels and stupas."
+      },
+      {
+        "q": "Why are there so many Tibetans in Kalimpong",
+        "a": "Kalimpong was the main Indian market for the Tibetan wool trade, which came down over Jelep La until the pass closed after the 1962 war. Tibetan trading families settled in the town for business, and more Tibetans arrived as refugees after 1959. Many of their descendants still live and work in Kalimpong today."
+      },
+      {
+        "q": "Is Losar the same as Sonam Losar or Losoong",
+        "a": "No. Losar is the Tibetan new year in February or March. Sonam Losar is the farmers' new year of the Tamang and some Sherpa and Yolmo communities, usually in January or February. Losoong is the Sikkimese Bhutia harvest new year in December. All three involve prayers, food and family visits, but on different dates."
+      }
     ]
   },
   {
@@ -58,12 +87,15 @@
     "wiki": "Dashain",
     "image_query": "Dashain tika jamara festival",
     "when": "Late Sep–Oct, 15 days ending on the full moon of Ashwin (lunar calendar)",
-    "month_nums": [9, 10],
+    "month_nums": [
+      9,
+      10
+    ],
     "summary": "Dashain is the biggest festival of the year for Kalimpong's Nepali-speaking families. Over fifteen days, homes are cleaned, barley shoots called jamara are grown, and on Vijaya Dashami elders put red tika and jamara on younger relatives' foreheads with their blessings.",
     "body": [
       "Dashain runs for fifteen days in the lunar month of Ashwin, usually from late September into October, and overlaps with Durga Puja in the plains. It celebrates the goddess Durga's victory over the demon Mahishasura. On the first day, Ghatasthapana, families sow barley seeds in a pot of sand and keep it in a dark corner of the house, where the pale yellow shoots, jamara, grow over the following days.",
       "The heart of the festival is the tenth day, Vijaya Dashami. Elders mix rice, yoghurt and red vermilion into tika, press it on the foreheads of younger family members, tuck jamara behind their ears and give blessings and a little money. People travel long distances to receive tika from grandparents, so buses and jeeps out of Kalimpong are packed in the days before. Bamboo swings called ping go up in some villages for children.",
-      "For travellers, Dashain brings both colour and crowds. Durga Puja holidays send Kolkata families to the hills at the same time, so the Puja week is the most expensive of the year. Many shops close on the main days. Plan around it: arrive after Vijaya Dashami and the post-monsoon skies are clear and the hotels empty again."
+      "For travellers, Dashain brings both colour and crowds. Durga Puja holidays send Kolkata families to the hills at the same time, so the Puja week is the most expensive of the year. Many shops close on the main days. Plan around it: arrive after Vijaya Dashami and the post-monsoon skies are clear and the hotels empty again. Even then, the festive mood lingers: families visit relatives for days after the main tika day, and jamara stays tucked behind many ears."
     ],
     "tips": [
       "Book rooms and cars for the Puja week by July or August; prices are at their annual peak.",
@@ -71,10 +103,22 @@
       "If invited to watch a tika ceremony, accept it as a privilege, dress neatly and ask before photographing."
     ],
     "faqs": [
-      {"q": "When is Dashain in 2026", "a": "In 2026 Dashain's main day, Vijaya Dashami, falls in mid to late October, with Ghatasthapana about nine days earlier. The festival follows the lunar calendar, so exact dates change every year. Check a current Nepali calendar or ask your hotel. The days around Vijaya Dashami are the busiest for travel in the hills."},
-      {"q": "Is Dashain the same as Durga Puja", "a": "They celebrate the same goddess at the same time of year, but the customs differ. In Bengal, Durga Puja centres on pandals and idols carried to rivers on the last day. In Nepali homes in Kalimpong and Darjeeling, Dashain centres on jamara barley shoots and receiving tika and blessings from elders on Vijaya Dashami. Both fall in the same week."},
-      {"q": "Is Kalimpong crowded during Dashain and Puja", "a": "Yes. The Durga Puja holidays bring large numbers of visitors from Kolkata and the plains, and local families travel home for Dashain at the same time. Hotels, homestays and cars are at peak rates and often full. Book well ahead, or travel a week after Vijaya Dashami, when clear skies remain and prices drop."},
-      {"q": "Are shops and taxis open during Dashain in Kalimpong", "a": "Most shops close or keep short hours on the main days, especially Vijaya Dashami and the day after. Shared jeeps run but are crowded before the festival and thin out on the tika days. Hotels and homestays stay open. Carry some cash and snacks, and confirm your driver's availability for the main tika day in advance."}
+      {
+        "q": "When is Dashain in 2026",
+        "a": "In 2026 Dashain's main day, Vijaya Dashami, falls in mid to late October, with Ghatasthapana about nine days earlier. The festival follows the lunar calendar, so exact dates change every year. Check a current Nepali calendar or ask your hotel. The days around Vijaya Dashami are the busiest for travel in the hills."
+      },
+      {
+        "q": "Is Dashain the same as Durga Puja",
+        "a": "They celebrate the same goddess at the same time of year, but the customs differ. In Bengal, Durga Puja centres on pandals and idols carried to rivers on the last day. In Nepali homes in Kalimpong and Darjeeling, Dashain centres on jamara barley shoots and receiving tika and blessings from elders on Vijaya Dashami. Both fall in the same week."
+      },
+      {
+        "q": "Is Kalimpong crowded during Dashain and Puja",
+        "a": "Yes. The Durga Puja holidays bring large numbers of visitors from Kolkata and the plains, and local families travel home for Dashain at the same time. Hotels, homestays and cars are at peak rates and often full. Book well ahead, or travel a week after Vijaya Dashami, when clear skies remain and prices drop."
+      },
+      {
+        "q": "Are shops and taxis open during Dashain in Kalimpong",
+        "a": "Most shops close or keep short hours on the main days, especially Vijaya Dashami and the day after. Shared jeeps run but are crowded before the festival and thin out on the tika days. Hotels and homestays stay open. Carry some cash and snacks, and confirm your driver's availability for the main tika day in advance."
+      }
     ]
   },
   {
@@ -84,12 +128,15 @@
     "wiki": "Tihar (festival)",
     "image_query": "Tihar festival oil lamps marigold",
     "when": "Oct–Nov, five days around the new moon of Kartik (lunar calendar)",
-    "month_nums": [10, 11],
+    "month_nums": [
+      10,
+      11
+    ],
     "summary": "Tihar is the five-day festival of lights that follows Dashain. In Kalimpong, houses glow with oil lamps and electric lights, marigold garlands honour crows, dogs and cows on successive days, groups go door to door singing Deusi and Bhailo, and sisters give their brothers Bhai Tika.",
     "body": [
-      "Tihar falls around the new moon of Kartik, usually in late October or November, at the same time as Diwali in the plains. It runs for five days, each with its own honour. On Kag Tihar families leave food for crows; on Kukur Tihar dogs get marigold garlands, tika and a good meal, and street dogs across Kalimpong walk around looking very pleased. The third day honours the cow in the morning and Laxmi, goddess of wealth, at night, when every house is lit.",
-      "In the evenings, groups of young people and children go from house to house singing Bhailo, and later in the festival Deusi, traditional call-and-response songs. Households give them money, fruit and sel roti, and the collection often goes to a club or a local cause. The fourth day is Govardhan or Goru Puja, honouring oxen.",
-      "The last day, Bhai Tika, is the most important for families. Sisters give their brothers a seven-coloured tika, garlands of long-lasting makhamali flowers and a plate of sweets and dried fruit, and pray for their long life. For visitors, Tihar is a lovely time to be in town, with clear post-monsoon skies and the haat busy with marigolds and sel roti."
+      "Tihar falls around the new moon of Kartik, usually in late October or November, at the same time as Diwali in the plains. It runs for five days, each with its own honour. On Kag Tihar families leave food for crows; on Kukur Tihar dogs get marigold garlands, tika and a good meal, and street dogs across Kalimpong walk around looking very pleased. The third day honours the cow in the morning and Laxmi, goddess of wealth, at night, when every house is lit. Houses are cleaned and decorated with marigold garlands and rangoli at the door.",
+      "In the evenings, groups of young people and children go from house to house singing Bhailo, and later in the festival Deusi, traditional call-and-response songs. Households give them money, fruit and sel roti, and the collection often goes to a club or a local cause. The fourth day is Govardhan or Goru Puja, honouring oxen. In Kalimpong the singing goes on late into the night, and groups sometimes perform songs and dances in the street.",
+      "The last day, Bhai Tika, is the most important for families. Sisters give their brothers a seven-coloured tika, garlands of long-lasting makhamali flowers and a plate of sweets and dried fruit, and pray for their long life. For visitors, Tihar is a lovely time to be in town, with clear post-monsoon skies and the haat busy with marigolds and sel roti. Rates rise less than at Puja, so it is a fair time to travel."
     ],
     "tips": [
       "Evenings of Laxmi Puja are the prettiest time to walk through town; carry a torch for side lanes.",
@@ -97,10 +144,22 @@
       "Book ahead if Tihar falls close to Kali Puja and Diwali holidays, when visitors from the plains return."
     ],
     "faqs": [
-      {"q": "When is Tihar in 2026", "a": "Tihar falls around the new moon of the lunar month of Kartik, the same days as Diwali, which in 2026 is expected in early November. The five days run from Kag Tihar to Bhai Tika. Dates follow the lunar calendar and change every year, so check a current Nepali calendar or ask your hotel before you plan around them."},
-      {"q": "What is Kukur Tihar", "a": "Kukur Tihar is the second day of Tihar, when Nepali families honour dogs as companions and guardians. Dogs, including street dogs, are given marigold garlands, a red tika on the forehead and special food. It is one of the most loved days of the festival, and you will see garlanded dogs all over Kalimpong."},
-      {"q": "What are Deusi and Bhailo", "a": "Deusi and Bhailo are traditional songs sung door to door during Tihar. Bhailo is usually sung by girls and Deusi by boys, though mixed groups are common now. Households answer with gifts of money, fruit and sel roti. Groups often collect for a community club or charity. It is fine for visitors to listen and offer a small gift."},
-      {"q": "Is Tihar a good time to visit Kalimpong", "a": "Yes. Late October and November usually bring clear skies and cool, dry weather, and Tihar adds lights, marigolds and music in the evenings. It is busier than mid-November but much less crowded than the Durga Puja week. Expect some shops to close on Laxmi Puja and Bhai Tika days."}
+      {
+        "q": "When is Tihar in 2026",
+        "a": "Tihar falls around the new moon of the lunar month of Kartik, the same days as Diwali, which in 2026 is expected in early November. The five days run from Kag Tihar to Bhai Tika. Dates follow the lunar calendar and change every year, so check a current Nepali calendar or ask your hotel before you plan around them."
+      },
+      {
+        "q": "What is Kukur Tihar",
+        "a": "Kukur Tihar is the second day of Tihar, when Nepali families honour dogs as companions and guardians. Dogs, including street dogs, are given marigold garlands, a red tika on the forehead and special food. It is one of the most loved days of the festival, and you will see garlanded dogs all over Kalimpong."
+      },
+      {
+        "q": "What are Deusi and Bhailo",
+        "a": "Deusi and Bhailo are traditional songs sung door to door during Tihar. Bhailo is usually sung by girls and Deusi by boys, though mixed groups are common now. Households answer with gifts of money, fruit and sel roti. Groups often collect for a community club or charity. It is fine for visitors to listen and offer a small gift."
+      },
+      {
+        "q": "Is Tihar a good time to visit Kalimpong",
+        "a": "Yes. Late October and November usually bring clear skies and cool, dry weather, and Tihar adds lights, marigolds and music in the evenings. It is busier than mid-November but much less crowded than the Durga Puja week. Expect some shops to close on Laxmi Puja and Bhai Tika days."
+      }
     ]
   },
   {
@@ -110,12 +169,14 @@
     "wiki": "Christmas",
     "image_query": "Macfarlane Memorial Church Kalimpong",
     "when": "24–25 December",
-    "month_nums": [12],
+    "month_nums": [
+      12
+    ],
     "summary": "Kalimpong has one of the oldest Christian communities in the eastern Himalaya, rooted in the Church of Scotland mission of the 1870s. At Christmas the mission churches hold services and carols, homes and bakeries make cakes, and the town fills with holidaymakers for the last week of the year.",
     "body": [
-      "Christianity came to Kalimpong with the Church of Scotland mission. Rev. William Macfarlane opened schools here in the early 1870s, and the Macfarlane Memorial Church, built in 1890, still stands near the town centre, its grey stone tower visible from the main road. In 1900 Rev. John Anderson Graham founded the cottage homes for children that became Dr. Graham's Homes on Deolo. Catholic missions followed, and churches dot the town and the villages around Pedong.",
-      "Christmas services are held on the night of 24 December and the morning of 25 December, with carol singing in Nepali and English. Groups of carollers visit Christian homes in the week before. Bakeries and homes turn out fruit cake, and you will find the town's well-known Kalimpong cheese and lollipops in every shop. Lights go up along the main roads and around the churches.",
-      "For visitors, Christmas week is festive but busy. From about 22 December to New Year, families from Kolkata and the plains fill hotels and prices reach their winter peak. Weather is cold and clear, about 8–17 °C in town. If you want quiet and lower rates, come in the first half of December, when skies are just as clear."
+      "Christianity came to Kalimpong with the Church of Scotland mission. Rev. William Macfarlane opened schools here in the early 1870s, and the Macfarlane Memorial Church, built in 1890, still stands near the town centre, its grey stone tower visible from the main road. In 1900 Rev. John Anderson Graham founded the cottage homes for children that became Dr. Graham's Homes on Deolo. Catholic missions followed, and churches dot the town and the villages around Pedong. Kalimpong's schools, many founded by missions, also hold carol services before the winter break.",
+      "Christmas services are held on the night of 24 December and the morning of 25 December, with carol singing in Nepali and English. Groups of carollers visit Christian homes in the week before. Bakeries and homes turn out fruit cake, and you will find the town's well-known Kalimpong cheese and lollipops in every shop. Lights go up along the main roads and around the churches. Even non-Christian families in town often join in the cake and the lights, and the mood is warm and open.",
+      "For visitors, Christmas week is festive but busy. From about 22 December to New Year, families from Kolkata and the plains fill hotels and prices reach their winter peak. Weather is cold and clear, about 8–17 °C in town. If you want quiet and lower rates, come in the first half of December, when skies are just as clear. Weekday rates then are among the lowest of the cool season."
     ],
     "tips": [
       "Visitors are welcome at services; arrive early, sit at the back and keep phones silent.",
@@ -123,10 +184,22 @@
       "Buy fruit cake from a local bakery and Kalimpong cheese from the market for gifts to take home."
     ],
     "faqs": [
-      {"q": "Can tourists attend Christmas mass in Kalimpong", "a": "Yes. Kalimpong's churches, including the Macfarlane Memorial Church, usually welcome visitors at Christmas services on the night of 24 December and the morning of 25 December. Arrive early, as seats fill with the local congregation. Dress modestly and warmly, keep phones silent and do not photograph during prayers without permission."},
-      {"q": "How old is the Macfarlane Memorial Church in Kalimpong", "a": "The Macfarlane Memorial Church was built in 1890 by the Church of Scotland mission, in memory of Rev. William Macfarlane, who began the mission's work in Kalimpong in the early 1870s. Its stone tower is one of the town's landmarks. It remains an active church today, with services in Nepali and English."},
-      {"q": "Is Kalimpong crowded at Christmas and New Year", "a": "Yes, the last week of December is one of the busiest weeks of the year. Families from Kolkata and the plains arrive for the school holidays, hotels and homestays fill, and rates are at their winter peak. Book by October, or visit in early December, when the weather is just as clear and the town is quiet."},
-      {"q": "How cold is Kalimpong at Christmas", "a": "Expect about 8–17 °C in Kalimpong town in late December, with clear, dry days and cold nights. Lava and Rishyap, higher up, drop near or below freezing and occasionally see snow. Pack a warm jacket, thermals and a woolly hat, as many homestays and older hotels have limited heating."}
+      {
+        "q": "Can tourists attend Christmas mass in Kalimpong",
+        "a": "Yes. Kalimpong's churches, including the Macfarlane Memorial Church, usually welcome visitors at Christmas services on the night of 24 December and the morning of 25 December. Arrive early, as seats fill with the local congregation. Dress modestly and warmly, keep phones silent and do not photograph during prayers without permission."
+      },
+      {
+        "q": "How old is the Macfarlane Memorial Church in Kalimpong",
+        "a": "The Macfarlane Memorial Church was built in 1890 by the Church of Scotland mission, in memory of Rev. William Macfarlane, who began the mission's work in Kalimpong in the early 1870s. Its stone tower is one of the town's landmarks. It remains an active church today, with services in Nepali and English."
+      },
+      {
+        "q": "Is Kalimpong crowded at Christmas and New Year",
+        "a": "Yes, the last week of December is one of the busiest weeks of the year. Families from Kolkata and the plains arrive for the school holidays, hotels and homestays fill, and rates are at their winter peak. Book by October, or visit in early December, when the weather is just as clear and the town is quiet."
+      },
+      {
+        "q": "How cold is Kalimpong at Christmas",
+        "a": "Expect about 8–17 °C in Kalimpong town in late December, with clear, dry days and cold nights. Lava and Rishyap, higher up, drop near or below freezing and occasionally see snow. Pack a warm jacket, thermals and a woolly hat, as many homestays and older hotels have limited heating."
+      }
     ]
   },
   {
@@ -136,12 +209,14 @@
     "wiki": "Gaeboo Achyok",
     "image_query": "Damsang Fort Kalimpong ruins",
     "when": "20 December every year",
-    "month_nums": [12],
+    "month_nums": [
+      12
+    ],
     "summary": "Every year on 20 December, Lepchas from Kalimpong, Darjeeling and Sikkim gather at the ruined Damsang Fort near Algarah to remember Gaeboo Achyok, the Lepcha chief who, in Lepcha tradition, built the fort around 1690 to resist Bhutan. The day mixes rituals, speeches, songs and community meals.",
     "body": [
-      "Gaeboo Achyok is the most honoured hero in Lepcha memory in these hills. Lepcha tradition holds that he ruled the area east of the Teesta in the late 17th century and built Damsang Fort, on a ridge near Algarah, around 1690, to hold off the Bhutanese. Oral histories say he was killed by treachery. Bhutan took control of the area, and it stayed Bhutanese until the Treaty of Sinchula of 1865. The fort fell into ruin after the Duar War of 1864–65.",
-      "On 20 December, kept as his birthday, Lepcha organisations bring people from Kalimpong, Darjeeling, Sikkim and beyond to the fort. The day includes traditional rituals, speeches about Lepcha language and identity, songs, dances in traditional dress and shared meals. The Lepchas regard themselves as the first people of these hills, and the gathering is as much about the community's present as about its past.",
-      "Visitors can attend respectfully. The ruins lie a short forest walk from the road between Algarah and Pedong, so wear proper shoes. December is cold and clear, and the day can be combined with Pedong, Sillery Gaon or Icchey Gaon. Treat it as a community event, not a tourist show: ask before photographing rituals."
+      "Gaeboo Achyok is the most honoured hero in Lepcha memory in these hills. Lepcha tradition holds that he ruled the area east of the Teesta in the late 17th century and built Damsang Fort, on a ridge near Algarah, around 1690, to hold off the Bhutanese. Oral histories say he was killed by treachery. Bhutan took control of the area, and it stayed Bhutanese until the Treaty of Sinchula of 1865. The fort fell into ruin after the Duar War of 1864–65. The details of his life come mainly from Lepcha oral tradition rather than written records.",
+      "On 20 December, kept as his birthday, Lepcha organisations bring people from Kalimpong, Darjeeling, Sikkim and beyond to the fort. The day includes traditional rituals, speeches about Lepcha language and identity, songs, dances in traditional dress and shared meals. The Lepchas regard themselves as the first people of these hills, and the gathering is as much about the community's present as about its past. Many come in traditional Lepcha dress, and elders share stories of Achyok handed down in their families.",
+      "Visitors can attend respectfully. The ruins lie a short forest walk from the road between Algarah and Pedong, so wear proper shoes. December is cold and clear, and the day can be combined with Pedong, Sillery Gaon or Icchey Gaon. Treat it as a community event, not a tourist show: ask before photographing rituals. Arrive by mid-morning, when the main programme usually begins, and plan to leave before dusk, as the forest road gets cold and dark early."
     ],
     "tips": [
       "Ask your homestay in Algarah, Icchey Gaon or Sillery Gaon about the programme timings for the year.",
@@ -149,10 +224,22 @@
       "Bring cash for tea and snacks, as stalls are set up only on the day."
     ],
     "faqs": [
-      {"q": "Who was Gaeboo Achyok", "a": "Gaeboo Achyok was a Lepcha chief who, according to Lepcha tradition, ruled the hills east of the Teesta in the late 17th century and resisted Bhutanese expansion. He is linked to Damsang Fort near Algarah, said to have been built around 1690. Oral histories hold that he was killed by treachery. Lepchas honour him every 20 December."},
-      {"q": "Where is Damsang Fort", "a": "Damsang Fort, also called Damsang Gadi, stands in forest on a ridge near Algarah, between Algarah and Pedong, about 15–20 km east of Kalimpong. A short walk from the road leads to the remains of stone walls. It is free to visit. Combine it with Pedong's monastery and Cross Hill or a night at Sillery Gaon."},
-      {"q": "Can tourists attend the Gaeboo Achyok celebration", "a": "Yes, visitors can usually attend the 20 December gathering at Damsang Fort, which is open to all. It is primarily a Lepcha community event with rituals, speeches and cultural programmes, so dress warmly and modestly, stay at the edge during rituals, and ask before photographing people. Check current arrangements locally before you travel."},
-      {"q": "Who are the Lepchas", "a": "The Lepchas, who call themselves Rongkup, are regarded as the earliest known inhabitants of Sikkim and the Darjeeling and Kalimpong hills. They have their own language and script, and a tradition of nature worship alongside Buddhism and, for some, Christianity. Lepcha villages remain around Kalimpong, Pedong and Algarah, and in Dzongu in North Sikkim."}
+      {
+        "q": "Who was Gaeboo Achyok",
+        "a": "Gaeboo Achyok was a Lepcha chief who, according to Lepcha tradition, ruled the hills east of the Teesta in the late 17th century and resisted Bhutanese expansion. He is linked to Damsang Fort near Algarah, said to have been built around 1690. Oral histories hold that he was killed by treachery. Lepchas honour him every 20 December."
+      },
+      {
+        "q": "Where is Damsang Fort",
+        "a": "Damsang Fort, also called Damsang Gadi, stands in forest on a ridge near Algarah, between Algarah and Pedong, about 15–20 km east of Kalimpong. A short walk from the road leads to the remains of stone walls. It is free to visit. Combine it with Pedong's monastery and Cross Hill or a night at Sillery Gaon."
+      },
+      {
+        "q": "Can tourists attend the Gaeboo Achyok celebration",
+        "a": "Yes, visitors can usually attend the 20 December gathering at Damsang Fort, which is open to all. It is primarily a Lepcha community event with rituals, speeches and cultural programmes, so dress warmly and modestly, stay at the edge during rituals, and ask before photographing people. Check current arrangements locally before you travel."
+      },
+      {
+        "q": "Who are the Lepchas",
+        "a": "The Lepchas, who call themselves Rongkup, are regarded as the earliest known inhabitants of Sikkim and the Darjeeling and Kalimpong hills. They have their own language and script, and a tradition of nature worship alongside Buddhism and, for some, Christianity. Lepcha villages remain around Kalimpong, Pedong and Algarah, and in Dzongu in North Sikkim."
+      }
     ]
   }
 ]
