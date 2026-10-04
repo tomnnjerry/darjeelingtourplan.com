@@ -10,7 +10,8 @@
       "heading": "Why a railway was needed",
       "paras": [
         "By the 1870s Darjeeling was a busy sanatorium and the centre of a tea industry that had grown from Archibald Campbell's first seeds in 1841 to dozens of gardens. Everything moved up and down the hill by bullock cart, pony and porter along the Hill Cart Road. Rice, coal and machinery went up; tea chests came down. The journey from the plains took days, and freight costs ate into the planters' profits.",
-        "In 1878 Franklin Prestage, an agent of the Eastern Bengal Railway, proposed a steam tramway along the existing cart road from Siliguri to Darjeeling. The Lieutenant-Governor of Bengal, Sir Ashley Eden, backed the idea, and a committee found it workable. The Darjeeling Steam Tramway Company was formed, with the Calcutta firm of Gillanders, Arbuthnot and Company as agents, and work began in 1879."
+        "In 1878 Franklin Prestage, an agent of the Eastern Bengal Railway, proposed a steam tramway along the existing cart road from Siliguri to Darjeeling. The Lieutenant-Governor of Bengal, Sir Ashley Eden, backed the idea, and a committee found it workable. The Darjeeling Steam Tramway Company was formed, with the Calcutta firm of Gillanders, Arbuthnot and Company as agents, and work began in 1879.",
+        "The cart road itself was a big step. Before it, the way up was a bridle path through malarial forest at the foot of the hills, and many early visitors arrived exhausted or ill. The road made wheeled traffic possible, but a loaded cart still needed several days to climb, and the bullocks that pulled it died in large numbers. A railway on the same alignment promised to do the trip in hours, at a fraction of the cost per ton."
       ]
     },
     {
@@ -35,15 +36,47 @@
         "The table gives approximate altitudes for the main stations, from the plains to the top, and what to look for at each. Heights are rounded and taken from railway and survey records."
       ],
       "table": {
-        "head": ["Station", "Altitude", "What to look for"],
+        "head": [
+          "Station",
+          "Altitude",
+          "What to look for"
+        ],
         "rows": [
-          ["New Jalpaiguri (NJP)", "≈ 115 m", "Start of the line since the 1960s; narrow-gauge platform beside the broad gauge"],
-          ["Sukna", "≈ 160 m", "Last station on the plains; the climb begins through sal forest"],
-          ["Tindharia", "≈ 860 m", "The railway's workshop; Agony Point loop nearby"],
-          ["Kurseong", "≈ 1,480 m", "Train runs through the bazaar, inches from shop fronts"],
-          ["Sonada", "≈ 2,020 m", "Cold, misty ridge station; road and rail side by side"],
-          ["Ghum", "2,258 m", "Highest station in India; DHR museum in the old station building"],
-          ["Darjeeling", "≈ 2,075 m", "Terminus; steam engines prepared in the yard each morning"]
+          [
+            "New Jalpaiguri (NJP)",
+            "≈ 115 m",
+            "Start of the line since the 1960s; narrow-gauge platform beside the broad gauge"
+          ],
+          [
+            "Sukna",
+            "≈ 160 m",
+            "Last station on the plains; the climb begins through sal forest"
+          ],
+          [
+            "Tindharia",
+            "≈ 860 m",
+            "The railway's workshop; Agony Point loop nearby"
+          ],
+          [
+            "Kurseong",
+            "≈ 1,480 m",
+            "Train runs through the bazaar, inches from shop fronts"
+          ],
+          [
+            "Sonada",
+            "≈ 2,020 m",
+            "Cold, misty ridge station; road and rail side by side"
+          ],
+          [
+            "Ghum",
+            "2,258 m",
+            "Highest station in India; DHR museum in the old station building"
+          ],
+          [
+            "Darjeeling",
+            "≈ 2,075 m",
+            "Terminus; steam engines prepared in the yard each morning"
+          ]
         ]
       }
     },
@@ -66,19 +99,57 @@
       "paras": [
         "The easiest way is the joyride from Darjeeling to Ghum and back, about two hours, with a stop of about 10 minutes at Batasia Loop and about 30 minutes at the Ghum museum. Steam seats cost about ₹1,500–1,600 and diesel ₹800–1,000, indicative 2026, booked on IRCTC. A through train between NJP and Darjeeling, taking seven to eight hours, has run in recent years when the track allows, and there are passenger services between Kurseong and Darjeeling. Timetables change with repairs and the monsoon, so check current status before you travel.",
         "You can also see a lot for free. Stand at the roadside in Kurseong bazaar, in Ghum or at Batasia Loop when a train is due, or follow the Hill Cart Road down from Kurseong to see the loops and reverses at Tindharia, Gayabari and Rangtong. In late November and early December, the Ghum Festival of the DHR brings special runs, exhibitions and events at the stations."
+      ],
+      "list": [
+        "Book joyrides and passenger trains on IRCTC as soon as your dates are fixed; October, May and June sell out.",
+        "Sit on the valley side going up from Darjeeling to Ghum for the best view at Batasia Loop.",
+        "Carry a jacket: the coaches are not heated, and Ghum is often foggy and cold.",
+        "Keep well back from the rails in Kurseong and Ghum bazaars; the train runs on the road itself.",
+        "If the train is suspended, visit the Ghum museum by road and watch the steam engines being prepared in Darjeeling yard in the morning."
       ]
     }
   ],
-  "related_places": ["darjeeling", "ghum", "kurseong"],
+  "related_places": [
+    "darjeeling",
+    "ghum",
+    "kurseong"
+  ],
   "faqs": [
-    {"q": "When was the Darjeeling Himalayan Railway built", "a": "Construction began in 1879, after Franklin Prestage of the Eastern Bengal Railway proposed a steam tramway along the Hill Cart Road in 1878. The line reached Kurseong in 1880, and the first train ran through to Darjeeling on 4 July 1881. The company took the name Darjeeling Himalayan Railway Company that year."},
-    {"q": "Why is it called the toy train", "a": "Because everything about it is small. The track is just 2 ft (610 mm) between the rails, the B-class steam engines are tiny 0-4-0 saddle tanks, and the coaches are narrow, with seats for only a few people across. Visitors began calling it the toy train long ago, and the name is now used officially in tourism material."},
-    {"q": "How long is the Darjeeling toy train route", "a": "About 88 km from New Jalpaiguri to Darjeeling, climbing from roughly 115 m to 2,258 m at Ghum before dropping slightly to Darjeeling at about 2,075 m. The full run takes seven to eight hours when the through train operates. The popular joyride covers only the 7 km between Darjeeling and Ghum."},
-    {"q": "What are the loops and reverses on the DHR", "a": "They are how the train climbs without tunnels. A loop is a spiral where the track turns a full circle and crosses over itself to gain height, as at Agony Point and Batasia. A reverse is a Z-shaped zigzag: the train runs up one arm, stops, and runs backwards up the next, gaining height at each turn."},
-    {"q": "Is the Darjeeling railway a UNESCO World Heritage Site", "a": "Yes. UNESCO inscribed it in December 1999, the first railway in Asia and the second in the world after Austria's Semmering line. In 2005 and 2008 the listing was extended to the Nilgiri and Kalka–Shimla railways under the name Mountain Railways of India. Darjeeling's is the oldest of the three."},
-    {"q": "Are the steam engines original", "a": "Several are. The B-class engines still working on the line were built mostly in Glasgow between 1889 and 1925 and have been rebuilt and overhauled many times at the Tindharia workshop. Some have been converted to burn oil instead of coal. Diesel engines now handle most regular services, while steam pulls the heritage joyrides."},
-    {"q": "Which film made the Darjeeling toy train famous", "a": "Aradhana, released in 1969. In the song Mere Sapno Ki Rani, Rajesh Khanna sings from an open jeep beside the toy train while Sharmila Tagore watches from the coach window. The scene is one of the best-known in Hindi cinema and made the train a symbol of Darjeeling holidays."},
-    {"q": "What was the Teesta Valley line", "a": "A branch of the Darjeeling Himalayan Railway that ran from Siliguri up the Teesta valley to Gielle Khola, below Kalimpong, from 1915. It carried passengers and freight, including goods for the Tibet trade through Kalimpong. Floods in 1950 destroyed large parts of it, and it was never rebuilt. Traces of the alignment remain along the river."},
-    {"q": "Does the full NJP to Darjeeling train run every day", "a": "Not always. The through train has run daily in some seasons and been suspended in others because of landslides, track work and the monsoon. Joyrides from Darjeeling and Kurseong–Darjeeling services run more regularly. Look on IRCTC for your dates, and check current status before you travel."}
+    {
+      "q": "When was the Darjeeling Himalayan Railway built",
+      "a": "Construction began in 1879, after Franklin Prestage of the Eastern Bengal Railway proposed a steam tramway along the Hill Cart Road in 1878. The line reached Kurseong in 1880, and the first train ran through to Darjeeling on 4 July 1881. The company took the name Darjeeling Himalayan Railway Company that year."
+    },
+    {
+      "q": "Why is it called the toy train",
+      "a": "Because everything about it is small. The track is just 2 ft (610 mm) between the rails, the B-class steam engines are tiny 0-4-0 saddle tanks, and the coaches are narrow, with seats for only a few people across. Visitors began calling it the toy train long ago, and the name is now used officially in tourism material."
+    },
+    {
+      "q": "How long is the Darjeeling toy train route",
+      "a": "About 88 km from New Jalpaiguri to Darjeeling, climbing from roughly 115 m to 2,258 m at Ghum before dropping slightly to Darjeeling at about 2,075 m. The full run takes seven to eight hours when the through train operates. The popular joyride covers only the 7 km between Darjeeling and Ghum."
+    },
+    {
+      "q": "What are the loops and reverses on the DHR",
+      "a": "They are how the train climbs without tunnels. A loop is a spiral where the track turns a full circle and crosses over itself to gain height, as at Agony Point and Batasia. A reverse is a Z-shaped zigzag: the train runs up one arm, stops, and runs backwards up the next, gaining height at each turn."
+    },
+    {
+      "q": "Is the Darjeeling railway a UNESCO World Heritage Site",
+      "a": "Yes. UNESCO inscribed it in December 1999, the first railway in Asia and the second in the world after Austria's Semmering line. In 2005 and 2008 the listing was extended to the Nilgiri and Kalka–Shimla railways under the name Mountain Railways of India. Darjeeling's is the oldest of the three."
+    },
+    {
+      "q": "Are the steam engines original",
+      "a": "Several are. The B-class engines still working on the line were built mostly in Glasgow between 1889 and 1925 and have been rebuilt and overhauled many times at the Tindharia workshop. Some have been converted to burn oil instead of coal. Diesel engines now handle most regular services, while steam pulls the heritage joyrides."
+    },
+    {
+      "q": "Which film made the Darjeeling toy train famous",
+      "a": "Aradhana, released in 1969. In the song Mere Sapno Ki Rani, Rajesh Khanna sings from an open jeep beside the toy train while Sharmila Tagore watches from the coach window. The scene is one of the best-known in Hindi cinema and made the train a symbol of Darjeeling holidays."
+    },
+    {
+      "q": "What was the Teesta Valley line",
+      "a": "A branch of the Darjeeling Himalayan Railway that ran from Siliguri up the Teesta valley to Gielle Khola, below Kalimpong, from 1915. It carried passengers and freight, including goods for the Tibet trade through Kalimpong. Floods in 1950 destroyed large parts of it, and it was never rebuilt. Traces of the alignment remain along the river."
+    },
+    {
+      "q": "Does the full NJP to Darjeeling train run every day",
+      "a": "Not always. The through train has run daily in some seasons and been suspended in others because of landslides, track work and the monsoon. Joyrides from Darjeeling and Kurseong–Darjeeling services run more regularly. Look on IRCTC for your dates, and check current status before you travel."
+    }
   ]
 }

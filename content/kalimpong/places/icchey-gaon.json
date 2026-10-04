@@ -9,12 +9,12 @@
   "lng": 88.576,
   "altitude_m": 1770,
   "tagline": "A small homestay village of forest trails, birds and mountain views",
-  "meta_description": "Icchey Gaon (Ichhey Gaon) guide: Kanchenjunga views, forest trails to Sillery Gaon and Ramitey Dara, birding, Damsang Fort, homestays and 2026 costs from Kalimpong.",
+  "meta_description": "Icchey Gaon guide: Kanchenjunga views, trails to Sillery Gaon and Ramitey Dara, birding, Damsang Fort, homestays and 2026 costs from Kalimpong.",
   "summary": "Icchey Gaon, also spelt Icche or Ichhey Gaon, is a small village at about 1,770 m near Algarah, about 18–20 km east of Kalimpong. It has family homestays, Kanchenjunga views, good birding and forest trails to Sillery Gaon, Ramitey Dara and Damsang Fort. Stay one or two nights, October to April.",
   "intro": [
-    "Icchey Gaon sits at about 1,770 m on the forested ridges between Algarah and Pedong, about 18–20 km and under an hour from Kalimpong. It is a cluster of farmhouses among oak, chestnut, pine and fern, with terraces of maize, ginger and vegetables cut into the slopes. On clear mornings the Kanchenjunga range rises to the north-west, and the hills of Sikkim fill the near horizon.",
-    "Village tourism here is small and family-run. A number of households take guests in simple homestays, with home-cooked meals and a view from the yard. There is no bazaar, no traffic and little to do but walk, watch birds and eat well. The forest around the village holds flycatchers, sunbirds, woodpeckers, orioles and, with luck, an emerald cuckoo, and October brings marigolds to the slopes.",
-    "Icchey Gaon is a natural base for short treks. Trails lead to Sillery Gaon, a short walk away, and to viewpoints such as Ramitey Dara above the Teesta and Tinchuley above Sillery. Damsang Fort, the Lepcha ruin near Algarah, is about 6 km away, and Pedong's old monastery is a short drive. It makes a quiet, affordable pause on the way to the Silk Route or Lava."
+    "Icchey Gaon sits at about 1,770 m on the forested ridges between Algarah and Pedong, about 18–20 km and under an hour from Kalimpong. It is a cluster of farmhouses among oak, chestnut, pine and fern, with terraces of maize, ginger and vegetables cut into the slopes. On clear mornings the Kanchenjunga range rises to the north-west, and the hills of Sikkim fill the near horizon. Several footpaths link it with Sillery Gaon and Ramdhura, so you can walk between the villages.",
+    "Village tourism here is small and family-run. A number of households take guests in simple homestays, with home-cooked meals and a view from the yard. There is no bazaar, no traffic and little to do but walk, watch birds and eat well. The forest around the village holds flycatchers, sunbirds, woodpeckers, orioles and, with luck, an emerald cuckoo, and October brings marigolds to the slopes. Rates with all meals are modest, usually less than a mid-range hotel room in Kalimpong.",
+    "Icchey Gaon is a natural base for short treks. Trails lead to Sillery Gaon, a short walk away, and to viewpoints such as Ramitey Dara above the Teesta and Tinchuley above Sillery. Damsang Fort, the Lepcha ruin near Algarah, is about 6 km away, and Pedong's old monastery is a short drive. It makes a quiet, affordable pause on the way to the Silk Route or Lava. Hire a guide in the village; the fee goes straight to local families."
   ],
   "story": {
     "title": "Lepcha forest, Gorkha terraces",
@@ -30,35 +30,105 @@
     "Birds recorded around Icchey Gaon include the Asian emerald cuckoo, rufous sibia, blue whistling thrush and three-toed kingfisher."
   ],
   "facts": [
-    ["Best months", "Oct – Dec, Mar – Apr"],
-    ["Nights we suggest", "1–2"],
-    ["Nearest airport", "Bagdogra (IXB), about 95 km"],
-    ["From Siliguri", "≈ 89 km from NJP via Kalimpong · 3.5–4 h"],
-    ["Altitude", "About 1,770 m"],
-    ["Known for", "Homestays, forest trails, birding, mountain views"]
+    [
+      "Best months",
+      "Oct – Dec, Mar – Apr"
+    ],
+    [
+      "Nights we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Bagdogra (IXB), about 95 km"
+    ],
+    [
+      "From Siliguri",
+      "≈ 89 km from NJP via Kalimpong · 3.5–4 h"
+    ],
+    [
+      "Altitude",
+      "About 1,770 m"
+    ],
+    [
+      "Known for",
+      "Homestays, forest trails, birding, mountain views"
+    ]
   ],
-  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "nights": "1–2",
   "highlights": [
-    {"title": "Kanchenjunga from the yard", "text": "Most homestays face north-west toward the Kanchenjunga range. On clear mornings from October to April, the peaks catch the first sun while the Teesta valley below lies under cloud. November and December give the steadiest views; spring brings haze by mid-morning."},
-    {"title": "Trails to Sillery Gaon", "text": "Forest and village paths link Icchey Gaon with Sillery Gaon, a short walk away, and continue to Ramitey Dara for the view of the Teesta looping through its valley. A local guide keeps you on the right path and costs little."},
-    {"title": "Birds in the oak and pine", "text": "Mixed forest of oak, chestnut, maple and pine around the village shelters flycatchers, sunbirds, finches, woodpeckers, orioles and rufous sibias. Early mornings in spring are best, when birds are breeding and calling loudly."},
-    {"title": "Damsang Fort nearby", "text": "About 6 km away, the ruined Damsang Fort stands on a forested ridge near Algarah. Lepcha tradition links it to Gaeboo Achyok, who is said to have built it around 1690. Combine it with Pedong's monastery for an easy half-day."},
-    {"title": "Simple homestay food", "text": "Meals are home-cooked: rice, dal, garden vegetables, pickles, gundruk and often local chicken, with sel roti or puri for breakfast. Vegetables usually come from the family's own terraces, and most rates include all meals."}
+    {
+      "title": "Kanchenjunga from the yard",
+      "text": "Most homestays face north-west toward the Kanchenjunga range. On clear mornings from October to April, the peaks catch the first sun while the Teesta valley below lies under cloud. November and December give the steadiest views; spring brings haze by mid-morning."
+    },
+    {
+      "title": "Trails to Sillery Gaon",
+      "text": "Forest and village paths link Icchey Gaon with Sillery Gaon, a short walk away, and continue to Ramitey Dara for the view of the Teesta looping through its valley. A local guide keeps you on the right path and costs little."
+    },
+    {
+      "title": "Birds in the oak and pine",
+      "text": "Mixed forest of oak, chestnut, maple and pine around the village shelters flycatchers, sunbirds, finches, woodpeckers, orioles and rufous sibias. Early mornings in spring are best, when birds are breeding and calling loudly. Bring binoculars."
+    },
+    {
+      "title": "Damsang Fort nearby",
+      "text": "About 6 km away, the ruined Damsang Fort stands on a forested ridge near Algarah. Lepcha tradition links it to Gaeboo Achyok, who is said to have built it around 1690. Combine it with Pedong's monastery for an easy half-day."
+    },
+    {
+      "title": "Simple homestay food",
+      "text": "Meals are home-cooked: rice, dal, garden vegetables, pickles, gundruk and often local chicken, with sel roti or puri for breakfast. Vegetables usually come from the family's own terraces, and most rates include all meals. Tell your host about any diet needs in advance."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Shared jeep", "text": "There is no regular shared jeep into Icchey Gaon. Take a shared jeep from Kalimpong toward Pedong or Lava, about ₹50–80 a seat to Algarah, indicative for 2026, and ask your homestay to pick you up from Algarah or the nearest point on the main road."},
-    {"mode": "Reserved car", "text": "A reserved car from Kalimpong costs about ₹1,200–1,800 one way and takes about an hour, indicative for 2026. From NJP, about 89 km, allow 3.5–4 hours and ₹4,000–5,500 per car via Kalimpong and Algarah. The last stretch is narrow; small cars manage in dry weather."},
-    {"mode": "Rail / Air", "text": "New Jalpaiguri (NJP) is the nearest major railway station and Bagdogra (IXB) the nearest working airport, both via Siliguri. There is no railway in the hills; continue by road through Sevoke, Teesta Bazaar and Kalimpong."}
+    {
+      "mode": "Shared jeep",
+      "text": "There is no regular shared jeep into Icchey Gaon. Take a shared jeep from Kalimpong toward Pedong or Lava, about ₹50–80 a seat to Algarah, indicative for 2026, and ask your homestay to pick you up from Algarah or the nearest point on the main road."
+    },
+    {
+      "mode": "Reserved car",
+      "text": "A reserved car from Kalimpong costs about ₹1,200–1,800 one way and takes about an hour, indicative for 2026. From NJP, about 89 km, allow 3.5–4 hours and ₹4,000–5,500 per car via Kalimpong and Algarah. The last stretch is narrow; small cars manage in dry weather."
+    },
+    {
+      "mode": "Rail / Air",
+      "text": "New Jalpaiguri (NJP) is the nearest major railway station and Bagdogra (IXB) the nearest working airport, both via Siliguri. There is no railway in the hills; continue by road through Sevoke, Teesta Bazaar and Kalimpong."
+    }
   ],
   "where_to_stay": "Icchey Gaon has only family homestays, simple and clean, with attached or shared bathrooms and meals included. Several sit along the village road with views north toward the mountains. Standards vary from house to house, so ask for recent photos, confirm hot water and ask how far the room is from where the car stops. For more homestays and bigger views, stay in Sillery Gaon nearby; for hotels, stay in Kalimpong, where the WBTDC Deolo Tourist Lodge, Holumba Haven and the Elgin Silver Oaks cover different budgets, and visit for a day.",
   "stays": [],
   "costs": [
-    ["Homestay with meals", "₹1,200–2,000 per person a night, indicative, 2026"],
-    ["Reserved car Kalimpong → Icchey Gaon", "₹1,200–1,800 one way, indicative, 2026"],
-    ["Shared jeep Kalimpong → Algarah", "₹50–80 a seat, indicative, 2026"],
-    ["Local guide for a half-day trek", "₹500–1,000, indicative, 2026"],
-    ["Half-day car to Damsang and Pedong", "₹1,500–2,500, indicative, 2026"]
+    [
+      "Homestay with meals",
+      "₹1,200–2,000 per person a night, indicative, 2026"
+    ],
+    [
+      "Reserved car Kalimpong → Icchey Gaon",
+      "₹1,200–1,800 one way, indicative, 2026"
+    ],
+    [
+      "Shared jeep Kalimpong → Algarah",
+      "₹50–80 a seat, indicative, 2026"
+    ],
+    [
+      "Local guide for a half-day trek",
+      "₹500–1,000, indicative, 2026"
+    ],
+    [
+      "Half-day car to Damsang and Pedong",
+      "₹1,500–2,500, indicative, 2026"
+    ]
   ],
   "budget_tip": "Travel by shared jeep from Kalimpong to Algarah, arrange a short pick-up with your homestay, and walk to Sillery Gaon and Ramitey Dara with a local guide instead of hiring a sightseeing car.",
   "tips": [
@@ -68,8 +138,18 @@
     "Book two nights if mountain views matter to you, as cloud can hide the peaks for a day or more.",
     "Ask your host before visiting Damsang on 20 December, when the Lepcha gathering draws large crowds."
   ],
-  "themes": ["village-homestays", "birding-and-orchids", "treks-and-walks", "mountain-views"],
-  "nearby": ["sillery-gaon", "ramdhura", "algarah", "pedong"],
+  "themes": [
+    "village-homestays",
+    "birding-and-orchids",
+    "treks-and-walks",
+    "mountain-views"
+  ],
+  "nearby": [
+    "sillery-gaon",
+    "ramdhura",
+    "algarah",
+    "pedong"
+  ],
   "experiences": [
     {
       "slug": "icchey-gaon-trek-to-sillery-and-ramitey-dara",
@@ -82,15 +162,29 @@
       "wiki": "Sillery Gaon",
       "summary": "Walk from Icchey Gaon through forest and farmland to Sillery Gaon, then climb to Ramitey Dara for the view of the Teesta looping through its valley, with Kanchenjunga behind on clear days. A moderate half-day trek with a local guide.",
       "body": [
-        "Icchey Gaon is surrounded by old footpaths that link it with neighbouring villages and viewpoints. The most popular half-day walk leads to Sillery Gaon, a short distance away through oak, pine and fern forest and past terraced fields, and then up to Ramitey Dara, a viewpoint above the Teesta valley.",
-        "From Ramitey Dara the Teesta is seen far below, winding back and forth through its valley; locals say you can count 14 bends on a clear day. Behind it stand the Kanchenjunga range and the ridges of Sikkim and Darjeeling. Go early, as cloud often rises from the valley by late morning, especially from March onwards.",
+        "Icchey Gaon is surrounded by old footpaths that link it with neighbouring villages and viewpoints. The most popular half-day walk leads to Sillery Gaon, a short distance away through oak, pine and fern forest and past terraced fields, and then up to Ramitey Dara, a viewpoint above the Teesta valley. It is the walk most guests remember, and it needs no permit and no entry fee, only a guide and a clear morning.",
+        "From Ramitey Dara the Teesta is seen far below, winding back and forth through its valley; locals say you can count 14 bends on a clear day. Behind it stand the Kanchenjunga range and the ridges of Sikkim and Darjeeling. Go early, as cloud often rises from the valley by late morning, especially from March onwards. Take photographs on the way up, too: the open fields above Sillery Gaon look straight across to the Sikkim ridges.",
         "The walk involves steep climbs and descents on uneven paths, so it suits people of reasonable fitness. Hire a local guide through your homestay; paths branch often and are unmarked. Carry water, snacks, a rain layer and a warm top. Arrange for a car to collect you at Sillery Gaon if you do not want to walk back, or stay a night there."
       ],
-      "good_for": ["couples", "students", "solo", "photographers"],
+      "good_for": [
+        "couples",
+        "students",
+        "solo",
+        "photographers"
+      ],
       "faqs": [
-        {"q": "How long is the trek from Icchey Gaon to Ramitey Dara", "a": "Allow about 4–5 hours for a round trip from Icchey Gaon to Sillery Gaon and up to Ramitey Dara, with time at the viewpoint. Distances are short, but the paths are steep in places. Many walkers arrange a car back from Sillery Gaon. A local guide costs about ₹500–1,000, indicative for 2026."},
-        {"q": "Is the Ramitey Dara trek difficult", "a": "It is moderate. There are steep, uneven sections and some loose ground, but no technical climbing. Reasonably fit adults and older children manage well with rests. Seniors or those with knee problems should drive to Sillery Gaon and walk only the last stretch to the viewpoint."},
-        {"q": "Do I need a guide for treks around Icchey Gaon", "a": "We recommend one. Trails around the village are unmarked and branch often into fields and private land, and weather can close in quickly. A local guide, arranged through your homestay, knows the paths, the viewpoints and the stories, and the fee goes straight to the village."}
+        {
+          "q": "How long is the trek from Icchey Gaon to Ramitey Dara",
+          "a": "Allow about 4–5 hours for a round trip from Icchey Gaon to Sillery Gaon and up to Ramitey Dara, with time at the viewpoint. Distances are short, but the paths are steep in places. Many walkers arrange a car back from Sillery Gaon. A local guide costs about ₹500–1,000, indicative for 2026."
+        },
+        {
+          "q": "Is the Ramitey Dara trek difficult",
+          "a": "It is moderate. There are steep, uneven sections and some loose ground, but no technical climbing. Reasonably fit adults and older children manage well with rests. Seniors or those with knee problems should drive to Sillery Gaon and walk only the last stretch to the viewpoint."
+        },
+        {
+          "q": "Do I need a guide for treks around Icchey Gaon",
+          "a": "We recommend one. Trails around the village are unmarked and branch often into fields and private land, and weather can close in quickly. A local guide, arranged through your homestay, knows the paths, the viewpoints and the stories, and the fee goes straight to the village."
+        }
       ]
     },
     {
@@ -102,17 +196,31 @@
       "cost": "Free; local guide ₹500–1,000, indicative",
       "image_query": "rufous sibia bird Himalaya",
       "wiki": "Rufous sibia",
-      "summary": "Walk the forest edge around Icchey Gaon at first light to look for flycatchers, sunbirds, woodpeckers, orioles, rufous sibias and blue whistling thrushes. A gentle morning outing that rewards patience and binoculars.",
+      "summary": "Walk the forest edge around Icchey Gaon at first light to look for flycatchers, sunbirds, woodpeckers, orioles, rufous sibias and blue whistling thrushes. A gentle morning outing that rewards patience and binoculars. Spring mornings are best.",
       "body": [
-        "The mixed forest around Icchey Gaon, with oak, chestnut, maple, pine, tree ferns and mosses, is good habitat for mid-altitude Himalayan birds. Birds recorded here include flycatchers, orioles, finches, sunbirds, woodpeckers, the rufous sibia, the Asian emerald cuckoo, the three-toed kingfisher and the blue whistling thrush, whose loud, tuneless whistle often starts before dawn.",
-        "Start at first light, around 5–6 am depending on the season, and walk slowly along the village road and forest paths. Stop where fruiting trees or flowering shrubs attract activity. March to May is the best season, as birds sing and breed. October to December is quieter but clearer, and some birds from higher up come down for the winter.",
-        "A local guide who knows the calls makes a large difference. Carry binoculars, wear muted colours and keep voices low. Do not use recorded calls to lure birds. Return to your homestay for breakfast, and spend the rest of the day on a trek or a visit to Damsang or Pedong."
+        "The mixed forest around Icchey Gaon, with oak, chestnut, maple, pine, tree ferns and mosses, is good habitat for mid-altitude Himalayan birds. Birds recorded here include flycatchers, orioles, finches, sunbirds, woodpeckers, the rufous sibia, the Asian emerald cuckoo, the three-toed kingfisher and the blue whistling thrush, whose loud, tuneless whistle often starts before dawn. You do not need to go far: much of the activity is along the forest edge within a few hundred metres of the homestays.",
+        "Start at first light, around 5–6 am depending on the season, and walk slowly along the village road and forest paths. Stop where fruiting trees or flowering shrubs attract activity. March to May is the best season, as birds sing and breed. October to December is quieter but clearer, and some birds from higher up come down for the winter. Even in a short stay, a regular birder can often record a few dozen species in two mornings.",
+        "A local guide who knows the calls makes a large difference. Carry binoculars, wear muted colours and keep voices low. Do not use recorded calls to lure birds. Return to your homestay for breakfast, and spend the rest of the day on a trek or a visit to Damsang or Pedong. Keep to paths and do not disturb nests, and keep a note of what you see, as local guides welcome records."
       ],
-      "good_for": ["photographers", "solo", "couples", "students"],
+      "good_for": [
+        "photographers",
+        "solo",
+        "couples",
+        "students"
+      ],
       "faqs": [
-        {"q": "What birds can be seen in Icchey Gaon", "a": "Birds recorded around Icchey Gaon include flycatchers, orioles, finches, sunbirds, woodpeckers, rufous sibia, Asian emerald cuckoo, three-toed kingfisher and blue whistling thrush. What you see depends on season and luck. Spring, March to May, is the most active season; a local guide helps find and identify birds."},
-        {"q": "When is the best time for birdwatching in Icchey Gaon", "a": "Mornings from March to May are best, when birds are breeding and calling. October to December is also good, with clear weather and some winter visitors from higher altitudes. Go at dawn, as activity drops by mid-morning. The monsoon months are wet and leech-prone and not recommended."},
-        {"q": "Can beginners enjoy birding in Icchey Gaon", "a": "Yes. Many birds here are colourful and easy to see at the forest edge near homestays, such as sunbirds, sibias and whistling thrushes. Borrow or bring binoculars, ask a local guide to help, and use a free bird app or field guide to the Indian subcontinent to identify what you see."}
+        {
+          "q": "What birds can be seen in Icchey Gaon",
+          "a": "Birds recorded around Icchey Gaon include flycatchers, orioles, finches, sunbirds, woodpeckers, rufous sibia, Asian emerald cuckoo, three-toed kingfisher and blue whistling thrush. What you see depends on season and luck. Spring, March to May, is the most active season; a local guide helps find and identify birds."
+        },
+        {
+          "q": "When is the best time for birdwatching in Icchey Gaon",
+          "a": "Mornings from March to May are best, when birds are breeding and calling. October to December is also good, with clear weather and some winter visitors from higher altitudes. Go at dawn, as activity drops by mid-morning. The monsoon months are wet and leech-prone and not recommended."
+        },
+        {
+          "q": "Can beginners enjoy birding in Icchey Gaon",
+          "a": "Yes. Many birds here are colourful and easy to see at the forest edge near homestays, such as sunbirds, sibias and whistling thrushes. Borrow or bring binoculars, ask a local guide to help, and use a free bird app or field guide to the Indian subcontinent to identify what you see."
+        }
       ]
     },
     {
@@ -127,14 +235,28 @@
       "summary": "From Icchey Gaon, drive about 6 km to Damsang Fort, the Lepcha ruin tied to Gaeboo Achyok, then on to Pedong for Sangchen Dorjee Gompa of about 1706 and Cross Hill. A half-day through three centuries of local history.",
       "body": [
         "Start with Damsang Fort, about 6 km from Icchey Gaon on the ridge near Algarah. A short forest walk leads to the remains of stone walls. Lepcha tradition holds that the chief Gaeboo Achyok built the fort around 1690 to hold off the Bhutanese. It later fell into ruin after the Duar War of 1864–65. Every 20 December, Lepchas gather here to honour him.",
-        "Continue to Pedong, where Sangchen Dorjee Gompa dates from around 1706, the period of Bhutanese rule. Its old prayer hall and murals are worth half an hour. Above town, Cross Hill carries a cross raised in 1882 by Father Augustine Desgodins, a French priest of the Paris Foreign Missions who hoped to reach Tibet.",
-        "Have tea in Pedong bazaar and return to Icchey Gaon by lunchtime, or continue down to the Reshi river on the Sikkim border. The drive involves narrow roads, so a local car arranged by your homestay is the easiest option. Remove shoes in the monastery and ask before taking photographs inside."
+        "Continue to Pedong, where Sangchen Dorjee Gompa dates from around 1706, the period of Bhutanese rule. Its old prayer hall and murals are worth half an hour. Above town, Cross Hill carries a cross raised in 1882 by Father Augustine Desgodins, a French priest of the Paris Foreign Missions who hoped to reach Tibet. The Sacred Heart Church of the same mission still serves Pedong's Catholic community and can be seen quietly outside service times.",
+        "Have tea in Pedong bazaar and return to Icchey Gaon by lunchtime, or continue down to the Reshi river on the Sikkim border. The drive involves narrow roads, so a local car arranged by your homestay is the easiest option. Remove shoes in the monastery and ask before taking photographs inside. The loop costs about ₹1,500–2,500 for a local car, indicative for 2026, and both main stops are free, with donations welcome at the monastery."
       ],
-      "good_for": ["families", "couples", "seniors", "students"],
+      "good_for": [
+        "families",
+        "couples",
+        "seniors",
+        "students"
+      ],
       "faqs": [
-        {"q": "How far is Damsang Fort from Icchey Gaon", "a": "Damsang Fort is about 6 km from Icchey Gaon, around 20–30 minutes by car on narrow roads, followed by a short forest walk. Entry is free. Combine it with Pedong, a short drive further, for a half-day costing about ₹1,500–2,500 for a local car, indicative for 2026."},
-        {"q": "How far is Pedong from Icchey Gaon", "a": "Pedong is a short drive from Icchey Gaon, usually 30–45 minutes depending on road conditions and stops. It has the Sangchen Dorjee Gompa of about 1706, Cross Hill and a small bazaar. Pedong also connects to the Reshi river and Sikkim, the start of the Silk Route."},
-        {"q": "Is Damsang Fort open every day", "a": "Damsang Fort is an open ruin with no gate or ticket, so you can visit any day in daylight. There are no facilities, guards or shops except on 20 December, the Lepcha gathering day. Carry water and wear shoes with grip, as the path can be damp and slippery."}
+        {
+          "q": "How far is Damsang Fort from Icchey Gaon",
+          "a": "Damsang Fort is about 6 km from Icchey Gaon, around 20–30 minutes by car on narrow roads, followed by a short forest walk. Entry is free. Combine it with Pedong, a short drive further, for a half-day costing about ₹1,500–2,500 for a local car, indicative for 2026."
+        },
+        {
+          "q": "How far is Pedong from Icchey Gaon",
+          "a": "Pedong is a short drive from Icchey Gaon, usually 30–45 minutes depending on road conditions and stops. It has the Sangchen Dorjee Gompa of about 1706, Cross Hill and a small bazaar. Pedong also connects to the Reshi river and Sikkim, the start of the Silk Route."
+        },
+        {
+          "q": "Is Damsang Fort open every day",
+          "a": "Damsang Fort is an open ruin with no gate or ticket, so you can visit any day in daylight. There are no facilities, guards or shops except on 20 December, the Lepcha gathering day. Carry water and wear shoes with grip, as the path can be damp and slippery."
+        }
       ]
     },
     {
@@ -149,26 +271,67 @@
       "summary": "Spend a slow day the way your hosts do: walk the terraces to see ginger, maize and vegetables, help pick greens for lunch, and learn to fold momos or fry sel roti in the homestay kitchen. A gentle, low-cost way to understand village life.",
       "body": [
         "Icchey Gaon's families farm small terraces cut into steep slopes. Depending on the season you will see maize, ginger, potatoes, squash, beans and leafy greens, and in October, marigolds brightening the hillsides. Ask your host to walk you through the fields in the morning and explain what grows when, how water is brought from springs and how the work changes through the year.",
-        "Back at the house, help prepare lunch or dinner. Most hosts are happy to show guests how to fold momos, make a fresh tomato or timur pickle, or fry sel roti, the ring-shaped rice bread of Nepali festivals. Gundruk, fermented and dried greens, and churpi, hard cheese, are pantry staples you may get to try.",
-        "There is no fixed programme or price; this is about joining in, not a staged show. Offer to help, follow your host's lead, and do not insist if they are busy. A small tip or a gift from town is a kind gesture. Children enjoy the animals, but ask before touching cows or goats."
+        "Back at the house, help prepare lunch or dinner. Most hosts are happy to show guests how to fold momos, make a fresh tomato or timur pickle, or fry sel roti, the ring-shaped rice bread of Nepali festivals. Gundruk, fermented and dried greens, and churpi, hard cheese, are pantry staples you may get to try. If you enjoy a dish, ask for the recipe; most families cook by eye, but they will happily walk you through it.",
+        "There is no fixed programme or price; this is about joining in, not a staged show. Offer to help, follow your host's lead, and do not insist if they are busy. A small tip or a gift from town is a kind gesture. Children enjoy the animals, but ask before touching cows or goats. Bring a notebook and slow down: this is the kind of day that gives a trip its texture, and it costs almost nothing."
       ],
-      "good_for": ["families", "couples", "solo", "students"],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "students"
+      ],
       "faqs": [
-        {"q": "Can I join cooking in a homestay in Icchey Gaon", "a": "Usually, yes. Many hosts welcome guests in the kitchen and will show you how to make momos, pickles or sel roti. Ask a day ahead so they can plan, and be flexible around their routine. There is normally no charge, though a small tip or helping with the dishes is appreciated."},
-        {"q": "What crops are grown in Icchey Gaon", "a": "Families grow maize, ginger, potatoes, beans, squash, leafy greens and other vegetables on terraced fields, along with flowers such as marigolds. Some keep cows, goats and chickens. What you see depends on the season. Your host is the best guide to what is in the ground during your stay."},
-        {"q": "Is Icchey Gaon good for a family trip", "a": "Yes, for families who enjoy quiet and open space. Children like the farm animals, short walks and kitchen sessions. There are no shops, playgrounds or medical facilities in the village, so carry essentials and medicines from Kalimpong, and watch young children near terrace edges."}
+        {
+          "q": "Can I join cooking in a homestay in Icchey Gaon",
+          "a": "Usually, yes. Many hosts welcome guests in the kitchen and will show you how to make momos, pickles or sel roti. Ask a day ahead so they can plan, and be flexible around their routine. There is normally no charge, though a small tip or helping with the dishes is appreciated."
+        },
+        {
+          "q": "What crops are grown in Icchey Gaon",
+          "a": "Families grow maize, ginger, potatoes, beans, squash, leafy greens and other vegetables on terraced fields, along with flowers such as marigolds. Some keep cows, goats and chickens. What you see depends on the season. Your host is the best guide to what is in the ground during your stay."
+        },
+        {
+          "q": "Is Icchey Gaon good for a family trip",
+          "a": "Yes, for families who enjoy quiet and open space. Children like the farm animals, short walks and kitchen sessions. There are no shops, playgrounds or medical facilities in the village, so carry essentials and medicines from Kalimpong, and watch young children near terrace edges."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "How far is Icchey Gaon from Kalimpong", "a": "Icchey Gaon is about 18–20 km east of Kalimpong, around an hour by road via Algarah. A reserved car costs about ₹1,200–1,800 one way, indicative for 2026. There is no direct shared jeep, but jeeps to Algarah cost about ₹50–80 a seat, and your homestay can pick you up from there."},
-    {"q": "Is it Icchey Gaon, Ichhey Gaon or Icche Gaon", "a": "They are all the same village. The name is spelt several ways in English, including Icchey Gaon, Ichhey Gaon, Icche Gaon and Echey Gaon. Gaon simply means village in Nepali. Use any spelling with a driver or homestay; they will know it, and mentioning Algarah or Sillery Gaon helps."},
-    {"q": "What is the altitude of Icchey Gaon", "a": "Icchey Gaon stands at about 1,770 m, or roughly 5,800 ft. That makes it cooler than Kalimpong at about 1,250 m and a little lower than Sillery Gaon at about 1,830 m. Winter nights drop close to freezing, while spring and autumn days are mild."},
-    {"q": "What is there to do in Icchey Gaon", "a": "Watch sunrise over the Kanchenjunga range, walk forest trails to Sillery Gaon and Ramitey Dara, go birding at dawn, and visit Damsang Fort and Pedong nearby. Otherwise the point is to slow down: farm walks, homestay meals and quiet evenings. There are no shops or formal sights in the village."},
-    {"q": "Icchey Gaon or Sillery Gaon, where should I stay", "a": "Sillery Gaon is slightly higher, with more homestays and the closest access to Ramitey Dara. Icchey Gaon is smaller and quieter, with good forest for birds and trails. They are a short walk apart, so you will see both whichever you choose. Pick by the homestay and view you prefer."},
-    {"q": "When is the best time to visit Icchey Gaon", "a": "October to December offers the clearest mountain views and dry trails. March and April bring spring birds and flowers, with more haze. January and February are cold but often clear. Avoid the monsoon, June to September, when rain, landslides and leeches make walks unpleasant and roads unreliable."},
-    {"q": "Are Icchey Gaon homestays expensive", "a": "No. Rates are modest, usually about ₹1,200–2,000 per person a night with all meals, indicative for 2026, which is often cheaper than a mid-range hotel in Kalimpong plus restaurant meals. Rooms are simple. Prices rise somewhat in the Puja and Christmas weeks, so book ahead then."},
-    {"q": "Is there mobile network in Icchey Gaon", "a": "Mobile coverage works in most of the village, though signal strength varies by network and spot. Jio and Airtel tend to be the most reliable. Data can be slow, and power cuts can affect Wi-Fi where homestays have it. Download maps and anything important before leaving Kalimpong."},
-    {"q": "Can I combine Icchey Gaon with Lava and the Silk Route", "a": "Yes. Icchey Gaon lies near Algarah, where the roads to Lava and Pedong split. You can spend a night here, then continue to Lava, Rishyap and Neora Valley, or go through Pedong into Sikkim for the Silk Route to Zuluk, which needs special permits through a registered operator."}
+    {
+      "q": "How far is Icchey Gaon from Kalimpong",
+      "a": "Icchey Gaon is about 18–20 km east of Kalimpong, around an hour by road via Algarah. A reserved car costs about ₹1,200–1,800 one way, indicative for 2026. There is no direct shared jeep, but jeeps to Algarah cost about ₹50–80 a seat, and your homestay can pick you up from there."
+    },
+    {
+      "q": "Is it Icchey Gaon, Ichhey Gaon or Icche Gaon",
+      "a": "They are all the same village. The name is spelt several ways in English, including Icchey Gaon, Ichhey Gaon, Icche Gaon and Echey Gaon. Gaon simply means village in Nepali. Use any spelling with a driver or homestay; they will know it, and mentioning Algarah or Sillery Gaon helps."
+    },
+    {
+      "q": "What is the altitude of Icchey Gaon",
+      "a": "Icchey Gaon stands at about 1,770 m, or roughly 5,800 ft. That makes it cooler than Kalimpong at about 1,250 m and a little lower than Sillery Gaon at about 1,830 m. Winter nights drop close to freezing, while spring and autumn days are mild."
+    },
+    {
+      "q": "What is there to do in Icchey Gaon",
+      "a": "Watch sunrise over the Kanchenjunga range, walk forest trails to Sillery Gaon and Ramitey Dara, go birding at dawn, and visit Damsang Fort and Pedong nearby. Otherwise the point is to slow down: farm walks, homestay meals and quiet evenings. There are no shops or formal sights in the village."
+    },
+    {
+      "q": "Icchey Gaon or Sillery Gaon, where should I stay",
+      "a": "Sillery Gaon is slightly higher, with more homestays and the closest access to Ramitey Dara. Icchey Gaon is smaller and quieter, with good forest for birds and trails. They are a short walk apart, so you will see both whichever you choose. Pick by the homestay and view you prefer."
+    },
+    {
+      "q": "When is the best time to visit Icchey Gaon",
+      "a": "October to December offers the clearest mountain views and dry trails. March and April bring spring birds and flowers, with more haze. January and February are cold but often clear. Avoid the monsoon, June to September, when rain, landslides and leeches make walks unpleasant and roads unreliable."
+    },
+    {
+      "q": "Are Icchey Gaon homestays expensive",
+      "a": "No. Rates are modest, usually about ₹1,200–2,000 per person a night with all meals, indicative for 2026, which is often cheaper than a mid-range hotel in Kalimpong plus restaurant meals. Rooms are simple. Prices rise somewhat in the Puja and Christmas weeks, so book ahead then."
+    },
+    {
+      "q": "Is there mobile network in Icchey Gaon",
+      "a": "Mobile coverage works in most of the village, though signal strength varies by network and spot. Jio and Airtel tend to be the most reliable. Data can be slow, and power cuts can affect Wi-Fi where homestays have it. Download maps and anything important before leaving Kalimpong."
+    },
+    {
+      "q": "Can I combine Icchey Gaon with Lava and the Silk Route",
+      "a": "Yes. Icchey Gaon lies near Algarah, where the roads to Lava and Pedong split. You can spend a night here, then continue to Lava, Rishyap and Neora Valley, or go through Pedong into Sikkim for the Silk Route to Zuluk, which needs special permits through a registered operator."
+    }
   ]
 }

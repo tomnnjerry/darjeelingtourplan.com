@@ -17,7 +17,8 @@
       "heading": "Campbell's garden and the first estates",
       "paras": [
         "Archibald Campbell, a doctor posted as Darjeeling's first superintendent in 1839, planted tea seeds in his garden at Beechwood in 1841. The seeds were of the China type, raised in Kumaon in the western Himalaya. They grew well in the cool, misty air and the steep, well-drained slopes, and others followed with experimental plots at Lebong and elsewhere.",
-        "Around the same time the plant hunter Robert Fortune was collecting tea plants and seed in China for the Company between 1848 and 1851, and some of his stock is said to have reached the Darjeeling nurseries. The government began offering land for tea, and the first commercial gardens, among them Tukvar, Steinthal and Aloobari, opened from 1852. Happy Valley, just below the town, dates from the 1850s. By the 1870s there were more than a hundred gardens, and the Darjeeling Himalayan Railway was built in 1879–81 in large part to carry their tea down to the plains."
+        "Around the same time the plant hunter Robert Fortune was collecting tea plants and seed in China for the Company between 1848 and 1851, and some of his stock is said to have reached the Darjeeling nurseries. The government began offering land for tea, and the first commercial gardens, among them Tukvar, Steinthal and Aloobari, opened from 1852. Happy Valley, just below the town, dates from the 1850s. By the 1870s there were more than a hundred gardens, and the Darjeeling Himalayan Railway was built in 1879–81 in large part to carry their tea down to the plains.",
+        "Many of the old garden names still carry this history. Some are Lepcha or Nepali place names, such as Tukvar and Pandam; others are British names given by early planters, such as Glenburn and Castleton. Several gardens still use bungalows and factories built in the nineteenth century, and a few original China bushes, now more than a century old, are said to remain on the oldest slopes, pruned low and still plucked."
       ]
     },
     {
@@ -34,12 +35,32 @@
         "Grades on the label describe leaf size and quality, not taste. FTGFOP means Finest Tippy Golden Flowery Orange Pekoe, a whole-leaf tea with many golden tips; an added S for Special or a 1 marks the best lots. More useful is the garden name, the flush and the invoice or lot number, which tell you exactly where and when the tea was made."
       ],
       "table": {
-        "head": ["Flush", "When plucked", "Taste and colour"],
+        "head": [
+          "Flush",
+          "When plucked",
+          "Taste and colour"
+        ],
         "rows": [
-          ["First flush", "Late Feb to April", "Pale, light and floral; green-gold liquor"],
-          ["Second flush", "May to June", "Fuller and rounder, amber liquor; the best show the muscatel note"],
-          ["Monsoon or rains", "July to September", "Strong and plain; mostly for blends"],
-          ["Autumn flush", "October to November", "Mellow, woody and smooth; copper liquor"]
+          [
+            "First flush",
+            "Late Feb to April",
+            "Pale, light and floral; green-gold liquor"
+          ],
+          [
+            "Second flush",
+            "May to June",
+            "Fuller and rounder, amber liquor; the best show the muscatel note"
+          ],
+          [
+            "Monsoon or rains",
+            "July to September",
+            "Strong and plain; mostly for blends"
+          ],
+          [
+            "Autumn flush",
+            "October to November",
+            "Mellow, woody and smooth; copper liquor"
+          ]
         ]
       }
     },
@@ -72,16 +93,47 @@
       ]
     }
   ],
-  "related_places": ["darjeeling", "kurseong", "mirik"],
+  "related_places": [
+    "darjeeling",
+    "kurseong",
+    "mirik"
+  ],
   "faqs": [
-    {"q": "When did tea growing start in Darjeeling", "a": "In 1841, when Archibald Campbell, the first superintendent, planted China-type tea seeds in his garden at Beechwood. The plants did well, and the government began granting land for tea. The first commercial gardens, including Tukvar, Steinthal and Aloobari, opened from 1852. By the 1870s there were more than a hundred."},
-    {"q": "What was the 1835 Deed of Grant", "a": "A deed signed on 1 February 1835 by Tsugphud Namgyal, the Chogyal of Sikkim, handing over the Darjeeling hill tract to the East India Company as a sanatorium. From 1841 the Company paid him an annual allowance. After relations broke down in 1849, the British annexed much more land in 1850, shaping today's district."},
-    {"q": "How many tea gardens are there in Darjeeling", "a": "About 87 gardens are registered to produce Darjeeling tea, spread across the Darjeeling, Kurseong and Mirik areas and the valleys below them. Some are large estates with their own factories; a few smaller growers sell leaf to bigger gardens. The exact number shifts slightly as gardens close, merge or reopen."},
-    {"q": "What does first flush mean", "a": "First flush is the first plucking of the year, from late February to April, after the bushes rest through winter. The young leaves make a light, pale, floral tea with a green-gold colour. It is the most sought-after Darjeeling and usually the most expensive. Second flush follows in May and June."},
-    {"q": "What is the muscatel flavour in Darjeeling tea", "a": "Muscatel describes a fruity, grape-like note found in some second-flush Darjeeling teas, plucked in May and June. It is linked to the season's growth and, in part, to small insects that feed on the leaves and change their chemistry. Not every second flush has it, which is why the best lots fetch high prices."},
-    {"q": "Why is Darjeeling tea expensive", "a": "Because there is so little of it. The hills produce well under 10 million kg a year, less than 1 percent of India's tea, from old bushes on steep slopes that must be plucked by hand. Yields are low, labour costs are high, and global demand is strong. The GI protection keeps blended teas from using the name."},
-    {"q": "Can we visit a tea factory in Darjeeling", "a": "Yes, at some gardens. Happy Valley, close to town, and Makaibari, below Kurseong, usually welcome visitors for walks and tastings, and their factories can be seen when processing is under way, roughly March to November. Visits depend on each estate's rules and are often closed on Sundays. Check current status before you travel."},
-    {"q": "Who works on Darjeeling's tea gardens", "a": "Mostly Nepali-speaking families whose ancestors were recruited from eastern Nepal from the 1850s onwards, along with Lepcha and Bhutia families. Many workers, especially pluckers, are women. Garden communities have lived on the same estates for generations, and their wages and land rights remain important political issues in the hills."},
-    {"q": "How should I brew Darjeeling tea", "a": "Use about 2–3 g of leaf per cup, water just off the boil at about 85–90 °C for first flush and nearer boiling for second and autumn flush, and steep for 3–4 minutes. Drink it without milk or sugar to taste the flavour. Over-steeping or boiling water makes it bitter."}
+    {
+      "q": "When did tea growing start in Darjeeling",
+      "a": "In 1841, when Archibald Campbell, the first superintendent, planted China-type tea seeds in his garden at Beechwood. The plants did well, and the government began granting land for tea. The first commercial gardens, including Tukvar, Steinthal and Aloobari, opened from 1852. By the 1870s there were more than a hundred."
+    },
+    {
+      "q": "What was the 1835 Deed of Grant",
+      "a": "A deed signed on 1 February 1835 by Tsugphud Namgyal, the Chogyal of Sikkim, handing over the Darjeeling hill tract to the East India Company as a sanatorium. From 1841 the Company paid him an annual allowance. After relations broke down in 1849, the British annexed much more land in 1850, shaping today's district."
+    },
+    {
+      "q": "How many tea gardens are there in Darjeeling",
+      "a": "About 87 gardens are registered to produce Darjeeling tea, spread across the Darjeeling, Kurseong and Mirik areas and the valleys below them. Some are large estates with their own factories; a few smaller growers sell leaf to bigger gardens. The exact number shifts slightly as gardens close, merge or reopen."
+    },
+    {
+      "q": "What does first flush mean",
+      "a": "First flush is the first plucking of the year, from late February to April, after the bushes rest through winter. The young leaves make a light, pale, floral tea with a green-gold colour. It is the most sought-after Darjeeling and usually the most expensive. Second flush follows in May and June."
+    },
+    {
+      "q": "What is the muscatel flavour in Darjeeling tea",
+      "a": "Muscatel describes a fruity, grape-like note found in some second-flush Darjeeling teas, plucked in May and June. It is linked to the season's growth and, in part, to small insects that feed on the leaves and change their chemistry. Not every second flush has it, which is why the best lots fetch high prices."
+    },
+    {
+      "q": "Why is Darjeeling tea expensive",
+      "a": "Because there is so little of it. The hills produce well under 10 million kg a year, less than 1 percent of India's tea, from old bushes on steep slopes that must be plucked by hand. Yields are low, labour costs are high, and global demand is strong. The GI protection keeps blended teas from using the name."
+    },
+    {
+      "q": "Can we visit a tea factory in Darjeeling",
+      "a": "Yes, at some gardens. Happy Valley, close to town, and Makaibari, below Kurseong, usually welcome visitors for walks and tastings, and their factories can be seen when processing is under way, roughly March to November. Visits depend on each estate's rules and are often closed on Sundays. Check current status before you travel."
+    },
+    {
+      "q": "Who works on Darjeeling's tea gardens",
+      "a": "Mostly Nepali-speaking families whose ancestors were recruited from eastern Nepal from the 1850s onwards, along with Lepcha and Bhutia families. Many workers, especially pluckers, are women. Garden communities have lived on the same estates for generations, and their wages and land rights remain important political issues in the hills."
+    },
+    {
+      "q": "How should I brew Darjeeling tea",
+      "a": "Use about 2–3 g of leaf per cup, water just off the boil at about 85–90 °C for first flush and nearer boiling for second and autumn flush, and steep for 3–4 minutes. Drink it without milk or sugar to taste the flavour. Over-steeping or boiling water makes it bitter."
+    }
   ]
 }

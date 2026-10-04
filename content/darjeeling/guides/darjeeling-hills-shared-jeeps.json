@@ -20,17 +20,57 @@
         "These are the main routes travellers use, with indicative 2026 seat fares and times. Fares follow fuel prices and are revised from time to time, and syndicates sometimes add a little in peak weeks. Treat them as a guide and check current status before you travel."
       ],
       "table": {
-        "head": ["Route", "Seat fare", "Time"],
+        "head": [
+          "Route",
+          "Seat fare",
+          "Time"
+        ],
         "rows": [
-          ["NJP or Siliguri → Darjeeling", "₹250–400", "3–3.5 h"],
-          ["NJP or Siliguri → Kurseong", "₹120–200", "1.5 h"],
-          ["NJP or Siliguri → Mirik", "₹150–250", "2–2.5 h"],
-          ["Kurseong → Darjeeling", "₹100–180", "1.5 h"],
-          ["Darjeeling → Ghum", "₹30–60", "20–30 min"],
-          ["Darjeeling → Mirik", "₹150–250", "2–2.5 h"],
-          ["Darjeeling → Manebhanjan", "₹80–150", "1–1.5 h"],
-          ["Darjeeling → Kalimpong", "₹200–300", "2.5–3 h"],
-          ["Darjeeling → Gangtok", "₹400–550", "4.5–5 h"]
+          [
+            "NJP or Siliguri → Darjeeling",
+            "₹250–400",
+            "3–3.5 h"
+          ],
+          [
+            "NJP or Siliguri → Kurseong",
+            "₹120–200",
+            "1.5 h"
+          ],
+          [
+            "NJP or Siliguri → Mirik",
+            "₹150–250",
+            "2–2.5 h"
+          ],
+          [
+            "Kurseong → Darjeeling",
+            "₹100–180",
+            "1.5 h"
+          ],
+          [
+            "Darjeeling → Ghum",
+            "₹30–60",
+            "20–30 min"
+          ],
+          [
+            "Darjeeling → Mirik",
+            "₹150–250",
+            "2–2.5 h"
+          ],
+          [
+            "Darjeeling → Manebhanjan",
+            "₹80–150",
+            "1–1.5 h"
+          ],
+          [
+            "Darjeeling → Kalimpong",
+            "₹200–300",
+            "2.5–3 h"
+          ],
+          [
+            "Darjeeling → Gangtok",
+            "₹400–550",
+            "4.5–5 h"
+          ]
         ]
       }
     },
@@ -70,7 +110,8 @@
       "paras": [
         "Shared jeeps are not always the cheapest choice per head. A family of four or five with luggage pays ₹1,250–2,000 in seats from NJP to Darjeeling, against ₹3,500–4,500 for a reserved small car or Bolero, indicative 2026. For a small extra cost you leave when you want, stop where you like and do not wait for the jeep to fill.",
         "A reserved car also makes sense for early mornings, such as Tiger Hill at 4 am, for late arrivals when shared jeeps have stopped, for elderly travellers who find climbing into the back row hard, and for routes with few shared departures, such as the villages of Sittong, Chatakpur and Lepchajagat. Even then, mix: go up by shared jeep, hire a car only for the sightseeing day, and come down by jeep again.",
-        "Whatever you choose, agree the price before you get in, ask whether parking and tolls are included, and confirm the drop point. Many drivers in Darjeeling stop at the motor stand below town, not at hotel doors above Chowrasta, because cars cannot enter the upper Mall."
+        "Whatever you choose, agree the price before you get in, ask whether parking and tolls are included, and confirm the drop point. Many drivers in Darjeeling stop at the motor stand below town, not at hotel doors above Chowrasta, because cars cannot enter the upper Mall.",
+        "A rough rule of thumb: for one or two travellers, shared jeeps win every time; for three, they usually win; for four or more with luggage, compare prices on the day before deciding."
       ]
     },
     {
@@ -82,16 +123,50 @@
       ]
     }
   ],
-  "related_places": ["darjeeling", "kurseong", "mirik", "ghum", "sandakphu", "lepchajagat"],
+  "related_places": [
+    "darjeeling",
+    "kurseong",
+    "mirik",
+    "ghum",
+    "sandakphu",
+    "lepchajagat"
+  ],
   "faqs": [
-    {"q": "How much is a shared jeep from NJP to Darjeeling", "a": "A seat costs about ₹250–400, indicative 2026, depending on season and seat. The front seats sometimes cost more. Jeeps leave from outside NJP station and from the Hill Cart Road stands in Siliguri, and take 3–3.5 hours. Fares follow fuel prices and syndicate revisions, so check current status before you travel."},
-    {"q": "What time do shared jeeps leave NJP for Darjeeling", "a": "There is no fixed timetable; jeeps leave when full. They run most often from about 6 am to 2 pm, especially after morning trains from Kolkata arrive. After mid-afternoon departures thin out and you may need to pay for empty seats or hire a car. Try to reach NJP before 1 pm."},
-    {"q": "Where is the shared jeep stand in Darjeeling", "a": "Shared jeeps leave from the motor stands in and around Chowk Bazaar, below Laden La Road and near the Old Super Market complex. Each destination has its own counter. From Chowrasta it is a 10–15 minute walk downhill. Buy tickets a day ahead in season for Siliguri, Gangtok and Kalimpong."},
-    {"q": "Is a shared jeep safe for women travelling alone", "a": "Yes. Local women use shared jeeps every day, and they are ordinary public transport in the hills. Sit in the front or middle row, keep your bag on your lap and travel in daylight. Buy from the official counter. If anything makes you uncomfortable, tell the counter staff, who know the drivers."},
-    {"q": "Can I book a shared jeep online", "a": "Generally no. Seats are sold at the stand counters on the day or a day ahead. Some hotels and travel desks will buy a seat for you for a small fee. Some app-based and private shared-cab services run between Siliguri and Darjeeling, but rules and availability change, so check current status before you travel."},
-    {"q": "How much is a reserved car from NJP to Darjeeling", "a": "About ₹3,500–4,500 for a small car or Bolero, indicative 2026, and more for an Innova. It takes about 3 hours. For a family of four or five with luggage, a reserved car costs only a little more than buying all the seats in a shared jeep, and you can leave when you want."},
-    {"q": "Is there a shared jeep from Darjeeling to Gangtok", "a": "Yes. Morning jeeps run from the Darjeeling motor stand to Gangtok for about ₹400–550 a seat, indicative 2026, taking 4.5–5 hours via Teesta Bazaar, Melli and Rangpo. Buy a day ahead. Foreign nationals must carry their Sikkim permit or obtain it at Rangpo. Check current status before you travel."},
-    {"q": "Can I carry big luggage in a shared jeep", "a": "Yes. Bags go on the roof, tied and covered with a tarpaulin. Very large suitcases may cost an extra seat or a small fee. Keep valuables, medicines and a jacket with you inside. In the monsoon, wrap bags in plastic, as roof covers do not always keep out heavy rain."},
-    {"q": "Do shared jeeps run during a bandh in Darjeeling", "a": "No. During a bandh or general strike, shared jeeps, taxis and most shops stop. Bandhs are less common than in the past but still happen. Hotels and local news give notice a day or two ahead. Keep a spare day before an important train or flight and check current status before you travel."}
+    {
+      "q": "How much is a shared jeep from NJP to Darjeeling",
+      "a": "A seat costs about ₹250–400, indicative 2026, depending on season and seat. The front seats sometimes cost more. Jeeps leave from outside NJP station and from the Hill Cart Road stands in Siliguri, and take 3–3.5 hours. Fares follow fuel prices and syndicate revisions, so check current status before you travel."
+    },
+    {
+      "q": "What time do shared jeeps leave NJP for Darjeeling",
+      "a": "There is no fixed timetable; jeeps leave when full. They run most often from about 6 am to 2 pm, especially after morning trains from Kolkata arrive. After mid-afternoon departures thin out and you may need to pay for empty seats or hire a car. Try to reach NJP before 1 pm."
+    },
+    {
+      "q": "Where is the shared jeep stand in Darjeeling",
+      "a": "Shared jeeps leave from the motor stands in and around Chowk Bazaar, below Laden La Road and near the Old Super Market complex. Each destination has its own counter. From Chowrasta it is a 10–15 minute walk downhill. Buy tickets a day ahead in season for Siliguri, Gangtok and Kalimpong."
+    },
+    {
+      "q": "Is a shared jeep safe for women travelling alone",
+      "a": "Yes. Local women use shared jeeps every day, and they are ordinary public transport in the hills. Sit in the front or middle row, keep your bag on your lap and travel in daylight. Buy from the official counter. If anything makes you uncomfortable, tell the counter staff, who know the drivers."
+    },
+    {
+      "q": "Can I book a shared jeep online",
+      "a": "Generally no. Seats are sold at the stand counters on the day or a day ahead. Some hotels and travel desks will buy a seat for you for a small fee. Some app-based and private shared-cab services run between Siliguri and Darjeeling, but rules and availability change, so check current status before you travel."
+    },
+    {
+      "q": "How much is a reserved car from NJP to Darjeeling",
+      "a": "About ₹3,500–4,500 for a small car or Bolero, indicative 2026, and more for an Innova. It takes about 3 hours. For a family of four or five with luggage, a reserved car costs only a little more than buying all the seats in a shared jeep, and you can leave when you want."
+    },
+    {
+      "q": "Is there a shared jeep from Darjeeling to Gangtok",
+      "a": "Yes. Morning jeeps run from the Darjeeling motor stand to Gangtok for about ₹400–550 a seat, indicative 2026, taking 4.5–5 hours via Teesta Bazaar, Melli and Rangpo. Buy a day ahead. Foreign nationals must carry their Sikkim permit or obtain it at Rangpo. Check current status before you travel."
+    },
+    {
+      "q": "Can I carry big luggage in a shared jeep",
+      "a": "Yes. Bags go on the roof, tied and covered with a tarpaulin. Very large suitcases may cost an extra seat or a small fee. Keep valuables, medicines and a jacket with you inside. In the monsoon, wrap bags in plastic, as roof covers do not always keep out heavy rain."
+    },
+    {
+      "q": "Do shared jeeps run during a bandh in Darjeeling",
+      "a": "No. During a bandh or general strike, shared jeeps, taxis and most shops stop. Bandhs are less common than in the past but still happen. Hotels and local news give notice a day or two ahead. Keep a spare day before an important train or flight and check current status before you travel."
+    }
   ]
 }

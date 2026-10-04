@@ -12,8 +12,8 @@
   "meta_description": "Ramdhura village guide: Kanchenjunga sunrise, Teesta valley views, pine and cinchona walks, homestays, how to reach from Kalimpong and indicative 2026 costs.",
   "summary": "Ramdhura is a small farming village at about 1,500 m, roughly 15 km east of Kalimpong near Algarah, with pine forest, cinchona slopes and a wide view over the Teesta to Kanchenjunga. Stay one or two nights in a family homestay for sunrise and quiet walks. It is close enough to Kalimpong for easy day trips.",
   "intro": [
-    "Ramdhura sits on a ridge at about 1,500 m, a little below Algarah and about 15 km east of Kalimpong town. It is a village of scattered farmhouses, small fields of ginger, maize and vegetables, pine woods and slopes of cinchona. From the ridge, the land falls away to the Teesta valley, and on a clear morning the whole Kanchenjunga range lines the horizon to the north-west, with the hills of Sikkim in front.",
-    "There is no bazaar and no sightseeing list here. What Ramdhura offers is quiet: birdsong in the pines, cows being walked to grazing, the smell of wood smoke at dusk, and the lights of Kalimpong and the Sikkim villages coming on across the valley at night. A handful of family homestays take guests, with home-cooked meals included, and most rooms face the view.",
+    "Ramdhura sits on a ridge at about 1,500 m, a little below Algarah and about 15 km east of Kalimpong town. It is a village of scattered farmhouses, small fields of ginger, maize and vegetables, pine woods and slopes of cinchona. From the ridge, the land falls away to the Teesta valley, and on a clear morning the whole Kanchenjunga range lines the horizon to the north-west, with the hills of Sikkim in front. The name is usually explained as Ram, from the Ramayana, joined to dhura, a word for village.",
+    "There is no bazaar and no sightseeing list here. What Ramdhura offers is quiet: birdsong in the pines, cows being walked to grazing, the smell of wood smoke at dusk, and the lights of Kalimpong and the Sikkim villages coming on across the valley at night. A handful of family homestays take guests, with home-cooked meals included, and most rooms face the view. Days start with sunrise and end early, after a home-cooked dinner.",
     "It is also well placed. Kalimpong's monasteries, Deolo and the haat are under an hour away. Algarah, Damsang Fort, Icchey Gaon, Sillery Gaon and Pedong are all within a short drive. That makes Ramdhura a calm, good-value base for two nights, especially for travellers who find Kalimpong town too busy. In the monsoon, its short distance from town makes it one of the easier village stays to reach."
   ],
   "story": {
@@ -30,35 +30,105 @@
     "Ramdhura is in the Kalimpong II block of Kalimpong district, which became a separate district on 14 February 2017."
   ],
   "facts": [
-    ["Best months", "Oct – Dec, Mar – Apr"],
-    ["Nights we suggest", "1–2"],
-    ["Nearest airport", "Bagdogra (IXB), about 90 km"],
-    ["From Siliguri", "≈ 85 km via Kalimpong · 3.5 h"],
-    ["Altitude", "About 1,500 m"],
-    ["Known for", "Kanchenjunga sunrise, Teesta views, pine forest"]
+    [
+      "Best months",
+      "Oct – Dec, Mar – Apr"
+    ],
+    [
+      "Nights we suggest",
+      "1–2"
+    ],
+    [
+      "Nearest airport",
+      "Bagdogra (IXB), about 90 km"
+    ],
+    [
+      "From Siliguri",
+      "≈ 85 km via Kalimpong · 3.5 h"
+    ],
+    [
+      "Altitude",
+      "About 1,500 m"
+    ],
+    [
+      "Known for",
+      "Kanchenjunga sunrise, Teesta views, pine forest"
+    ]
   ],
-  "best_months": [1, 1, 2, 2, 1, 1, 0, 0, 1, 2, 2, 2],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    1,
+    2,
+    2,
+    2
+  ],
   "nights": "1–2",
   "highlights": [
-    {"title": "Kanchenjunga at sunrise", "text": "On clear mornings from October to April, the Kanchenjunga range turns pink, then gold, across the north-western horizon. Most homestays face it, so you can watch from your doorstep with a cup of tea. November and December give the most reliable views."},
-    {"title": "The Teesta valley below", "text": "The ridge falls away steeply to the Teesta, which you see as a grey-green ribbon far below, with Darjeeling district on the far side and Sikkim upstream. Late afternoon light is good for photographs, and at night village lights fill the valley."},
-    {"title": "Pine and cinchona walks", "text": "Footpaths link the farmhouses through pine woods and slopes of cinchona, the quinine tree the British planted here. An easy two-hour walk with a homestay host shows how the village farms ginger, maize and vegetables, and where to listen for birds."},
-    {"title": "Short hops to Icchey Gaon and Sillery", "text": "Icchey Gaon and Sillery Gaon are only a few kilometres away, with viewpoints such as Ramitey Dara over the Teesta. Damsang Fort and Algarah bazaar are close too, so you can fill a day with short walks and drives without a long road trip."},
-    {"title": "A village close to town", "text": "Ramdhura is under an hour from Kalimpong, so you can do the town's monasteries, Deolo and the haat by day and sleep in silence. It suits families and seniors who want a village stay without a long drive from Siliguri."}
+    {
+      "title": "Kanchenjunga at sunrise",
+      "text": "On clear mornings from October to April, the Kanchenjunga range turns pink, then gold, across the north-western horizon. Most homestays face it, so you can watch from your doorstep with a cup of tea. November and December give the most reliable views."
+    },
+    {
+      "title": "The Teesta valley below",
+      "text": "The ridge falls away steeply to the Teesta, which you see as a grey-green ribbon far below, with Darjeeling district on the far side and Sikkim upstream. Late afternoon light is good for photographs, and at night village lights fill the valley."
+    },
+    {
+      "title": "Pine and cinchona walks",
+      "text": "Footpaths link the farmhouses through pine woods and slopes of cinchona, the quinine tree the British planted here. An easy two-hour walk with a homestay host shows how the village farms ginger, maize and vegetables, and where to listen for birds."
+    },
+    {
+      "title": "Short hops to Icchey Gaon and Sillery",
+      "text": "Icchey Gaon and Sillery Gaon are only a few kilometres away, with viewpoints such as Ramitey Dara over the Teesta. Damsang Fort and Algarah bazaar are close too, so you can fill a day with short walks and drives without a long road trip."
+    },
+    {
+      "title": "A village close to town",
+      "text": "Ramdhura is under an hour from Kalimpong, so you can do the town's monasteries, Deolo and the haat by day and sleep in silence. It suits families and seniors who want a village stay without a long drive from Siliguri."
+    }
   ],
   "how_to_reach": [
-    {"mode": "Shared jeep", "text": "There is no direct bus or regular shared jeep to Ramdhura. Take a shared jeep from Kalimpong toward Lava or Pedong, about ₹50–80 a seat, indicative for 2026, and get off at the nearest point on the main road, where your homestay can arrange a pick-up for the last stretch."},
-    {"mode": "Reserved car", "text": "A reserved car from Kalimpong costs about ₹1,000–1,500 one way, indicative for 2026, and takes 45 minutes to an hour. From NJP or Bagdogra, about 85–90 km, allow 3.5–4 hours and ₹4,000–5,500 per car via Kalimpong. Village roads are narrow; tell the driver your homestay's exact name."},
-    {"mode": "Rail / Air", "text": "New Jalpaiguri (NJP) is the nearest major station, about 86 km by road, and Bagdogra (IXB) the nearest working airport, about 89 km. Continue by road via Siliguri, Sevoke, Teesta Bazaar and Kalimpong."}
+    {
+      "mode": "Shared jeep",
+      "text": "There is no direct bus or regular shared jeep to Ramdhura. Take a shared jeep from Kalimpong toward Lava or Pedong, about ₹50–80 a seat, indicative for 2026, and get off at the nearest point on the main road, where your homestay can arrange a pick-up for the last stretch."
+    },
+    {
+      "mode": "Reserved car",
+      "text": "A reserved car from Kalimpong costs about ₹1,000–1,500 one way, indicative for 2026, and takes 45 minutes to an hour. From NJP or Bagdogra, about 85–90 km, allow 3.5–4 hours and ₹4,000–5,500 per car via Kalimpong. Village roads are narrow; tell the driver your homestay's exact name."
+    },
+    {
+      "mode": "Rail / Air",
+      "text": "New Jalpaiguri (NJP) is the nearest major station, about 86 km by road, and Bagdogra (IXB) the nearest working airport, about 89 km. Continue by road via Siliguri, Sevoke, Teesta Bazaar and Kalimpong."
+    }
   ],
   "where_to_stay": "Ramdhura has only family homestays, no hotels. Rooms are simple and clean, usually with attached bathrooms and hot water from a geyser or bucket, and meals are home-cooked Nepali food: rice, dal, seasonal vegetables, pickles and often chicken. Most rooms face the Teesta and Kanchenjunga. Rates are modest and include meals; ask for recent photos and check whether the room is near the road for easy access. For hotels, stay in Kalimpong, where the WBTDC Deolo Tourist Lodge, Morgan House and Mayfair cover all budgets, and visit Ramdhura for a sunrise.",
   "stays": [],
   "costs": [
-    ["Homestay with meals", "₹1,200–2,000 per person a night, indicative, 2026"],
-    ["Reserved car Kalimpong → Ramdhura", "₹1,000–1,500 one way, indicative, 2026"],
-    ["Shared jeep Kalimpong → Algarah road", "₹50–80 a seat, indicative, 2026"],
-    ["Local sightseeing car (Icchey, Sillery, Damsang)", "₹1,500–2,500 for a half day, indicative, 2026"],
-    ["Village walk with host", "Free or a small tip"]
+    [
+      "Homestay with meals",
+      "₹1,200–2,000 per person a night, indicative, 2026"
+    ],
+    [
+      "Reserved car Kalimpong → Ramdhura",
+      "₹1,000–1,500 one way, indicative, 2026"
+    ],
+    [
+      "Shared jeep Kalimpong → Algarah road",
+      "₹50–80 a seat, indicative, 2026"
+    ],
+    [
+      "Local sightseeing car (Icchey, Sillery, Damsang)",
+      "₹1,500–2,500 for a half day, indicative, 2026"
+    ],
+    [
+      "Village walk with host",
+      "Free or a small tip"
+    ]
   ],
   "budget_tip": "Book a homestay with all meals included and use your host's local car contacts for nearby viewpoints, which usually costs less than hiring a sightseeing taxi from Kalimpong.",
   "tips": [
@@ -68,8 +138,18 @@
     "Mobile signal varies by network; Jio and Airtel generally work better than others in these villages.",
     "In the monsoon, call ahead to confirm the village road is passable before leaving Kalimpong."
   ],
-  "themes": ["village-homestays", "mountain-views", "budget-trips", "birding-and-orchids"],
-  "nearby": ["icchey-gaon", "algarah", "sillery-gaon", "kalimpong"],
+  "themes": [
+    "village-homestays",
+    "mountain-views",
+    "budget-trips",
+    "birding-and-orchids"
+  ],
+  "nearby": [
+    "icchey-gaon",
+    "algarah",
+    "sillery-gaon",
+    "kalimpong"
+  ],
   "experiences": [
     {
       "slug": "ramdhura-kanchenjunga-sunrise",
@@ -82,15 +162,29 @@
       "wiki": "",
       "summary": "Wake before dawn and watch the Kanchenjunga range catch first light across the Teesta valley from Ramdhura's ridge. You need no ticket and no drive, only a warm jacket and a cup of tea from your homestay kitchen.",
       "body": [
-        "Ramdhura faces north-west across the Teesta valley toward the Kanchenjunga range, roughly 90–100 km away as the crow flies. On a clear morning the peaks first turn pale pink, then orange and gold, while the valley below is still in shadow and often filled with a white sea of cloud. The show lasts 20–30 minutes from first light to full sun.",
+        "Ramdhura faces north-west across the Teesta valley toward the Kanchenjunga range, roughly 90–100 km away as the crow flies. On a clear morning the peaks first turn pale pink, then orange and gold, while the valley below is still in shadow and often filled with a white sea of cloud. The show lasts 20–30 minutes from first light to full sun. Bring a camera with a zoom lens if you have one; the peaks look small to the eye from this distance.",
         "Most homestays have a terrace or a bench with the view, so you do not need to walk anywhere. If yours does not, ask your host for the nearest open point on the ridge; it is usually a few minutes' walk. Sunrise in November is around 5.45 am, and in April about 5.15 am, so wake 30 minutes earlier and check the sky.",
-        "Clear views are most likely from October to December and on many winter mornings. From March, haze builds and clouds rise by mid-morning. In the monsoon the peaks are hidden for weeks. If the first morning is cloudy, that is a good reason for a second night: the odds of at least one clear dawn rise a lot."
+        "Clear views are most likely from October to December and on many winter mornings. From March, haze builds and clouds rise by mid-morning. In the monsoon the peaks are hidden for weeks. If the first morning is cloudy, that is a good reason for a second night: the odds of at least one clear dawn rise a lot. On a cloudy dawn, the sea of cloud filling the Teesta valley below is often a fine sight in its own right."
       ],
-      "good_for": ["couples", "families", "photographers", "seniors"],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "seniors"
+      ],
       "faqs": [
-        {"q": "Can you see Kanchenjunga from Ramdhura", "a": "Yes, on clear days. Ramdhura looks north-west across the Teesta to the Kanchenjunga range, and the view is best at sunrise from October to April, especially in November and December. In spring, haze often softens it by mid-morning, and in the monsoon the peaks are usually hidden. Stay two nights for a better chance."},
-        {"q": "What time is sunrise in Ramdhura", "a": "Sunrise is roughly 4.50–5.10 am in May and June, around 5.45 am in October and November, and about 6.15–6.20 am in December and January. Be outside 20–30 minutes before, as the peaks catch the light first. Ask your homestay to wake you and keep tea ready."},
-        {"q": "Is Ramdhura better than Deolo for mountain views", "a": "Both can give fine views of Kanchenjunga. Deolo in Kalimpong is higher and more open but busier, with a park and visitors. Ramdhura is quieter and lets you watch from your homestay without travelling at dawn. If you stay in Ramdhura, you do not need to drive to Deolo for sunrise."}
+        {
+          "q": "Can you see Kanchenjunga from Ramdhura",
+          "a": "Yes, on clear days. Ramdhura looks north-west across the Teesta to the Kanchenjunga range, and the view is best at sunrise from October to April, especially in November and December. In spring, haze often softens it by mid-morning, and in the monsoon the peaks are usually hidden. Stay two nights for a better chance."
+        },
+        {
+          "q": "What time is sunrise in Ramdhura",
+          "a": "Sunrise is roughly 4.50–5.10 am in May and June, around 5.45 am in October and November, and about 6.15–6.20 am in December and January. Be outside 20–30 minutes before, as the peaks catch the light first. Ask your homestay to wake you and keep tea ready."
+        },
+        {
+          "q": "Is Ramdhura better than Deolo for mountain views",
+          "a": "Both can give fine views of Kanchenjunga. Deolo in Kalimpong is higher and more open but busier, with a park and visitors. Ramdhura is quieter and lets you watch from your homestay without travelling at dawn. If you stay in Ramdhura, you do not need to drive to Deolo for sunrise."
+        }
       ]
     },
     {
@@ -102,17 +196,31 @@
       "cost": "Free or a small tip, ₹200–500, indicative",
       "image_query": "cinchona plantation Kalimpong hills",
       "wiki": "Cinchona",
-      "summary": "Walk village paths through pine woods, cinchona slopes and terraced fields with your homestay host, learning how Ramdhura's families farm ginger, maize and vegetables and why the British planted quinine trees in these hills.",
+      "summary": "Walk village paths through pine woods, cinchona slopes and terraced fields with your homestay host, learning how Ramdhura's families farm ginger, maize and vegetables and why the British planted quinine trees in these hills. It is free and gentle.",
       "body": [
-        "Ramdhura's footpaths are older than its road. They link farmhouses, springs, fields and a small temple or two, and wind through pine woods and stands of cinchona. Your host will usually be happy to walk with you for an hour or two, explaining which crops go in when and pointing out wild plants used in cooking and medicine.",
-        "Cinchona is the tree whose bark yields quinine, once the only effective medicine for malaria. The British introduced it to the Darjeeling hills in the 1860s and later planted it on the Kalimpong side too. You will see the trees on slopes around Ramdhura and Sillery Gaon. Ginger, cardamom in shadier spots, maize and seasonal vegetables fill the terraces between them.",
-        "The walk is gentle but involves some steep sections and uneven steps, so wear shoes with grip. Mornings are best for birds and light. Do not pick crops or enter fields without asking, and leave gates as you find them. A small tip to your host or the person who guides you is appreciated, though rarely asked for."
+        "Ramdhura's footpaths are older than its road. They link farmhouses, springs, fields and a small temple or two, and wind through pine woods and stands of cinchona. Your host will usually be happy to walk with you for an hour or two, explaining which crops go in when and pointing out wild plants used in cooking and medicine. There is no fixed route, so tell your host how long you want to walk and how steep you are happy to go.",
+        "Cinchona is the tree whose bark yields quinine, once the only effective medicine for malaria. The British introduced it to the Darjeeling hills in the 1860s and later planted it on the Kalimpong side too. You will see the trees on slopes around Ramdhura and Sillery Gaon. Ginger, cardamom in shadier spots, maize and seasonal vegetables fill the terraces between them. Cinchona bark is no longer an important source of quinine, as synthetic drugs have largely replaced it, but the trees remain part of the landscape.",
+        "The walk is gentle but involves some steep sections and uneven steps, so wear shoes with grip. Mornings are best for birds and light. Do not pick crops or enter fields without asking, and leave gates as you find them. A small tip to your host or the person who guides you is appreciated, though rarely asked for. In the monsoon, leeches appear on grassy paths; salt or tobacco water on your socks and shoes keeps most of them off."
       ],
-      "good_for": ["families", "couples", "students", "solo"],
+      "good_for": [
+        "families",
+        "couples",
+        "students",
+        "solo"
+      ],
       "faqs": [
-        {"q": "What is cinchona and why does it grow in Kalimpong", "a": "Cinchona is a tree from South America whose bark contains quinine, long the main treatment for malaria. The British brought it to the Darjeeling hills in the 1860s to produce quinine for India, and later planted it on the Kalimpong side as well. Plantations and scattered trees remain around Ramdhura and Sillery Gaon."},
-        {"q": "Is the Ramdhura village walk suitable for seniors", "a": "Parts of it, yes. Paths are uneven with steps and short steep sections. Seniors can enjoy a shorter, flatter loop near the homestay; ask your host to plan one. Walk slowly, carry water and a stick if you use one, and avoid wet days, when paths become slippery."},
-        {"q": "Do I need a guide for walks in Ramdhura", "a": "Not formally, but village paths branch often and are unmarked, so walking with your host or someone they suggest is easier and more interesting. They will explain the farms and plants and keep you off private land. A small tip of ₹200–500 is a fair thank-you, indicative for 2026."}
+        {
+          "q": "What is cinchona and why does it grow in Kalimpong",
+          "a": "Cinchona is a tree from South America whose bark contains quinine, long the main treatment for malaria. The British brought it to the Darjeeling hills in the 1860s to produce quinine for India, and later planted it on the Kalimpong side as well. Plantations and scattered trees remain around Ramdhura and Sillery Gaon."
+        },
+        {
+          "q": "Is the Ramdhura village walk suitable for seniors",
+          "a": "Parts of it, yes. Paths are uneven with steps and short steep sections. Seniors can enjoy a shorter, flatter loop near the homestay; ask your host to plan one. Walk slowly, carry water and a stick if you use one, and avoid wet days, when paths become slippery."
+        },
+        {
+          "q": "Do I need a guide for walks in Ramdhura",
+          "a": "Not formally, but village paths branch often and are unmarked, so walking with your host or someone they suggest is easier and more interesting. They will explain the farms and plants and keep you off private land. A small tip of ₹200–500 is a fair thank-you, indicative for 2026."
+        }
       ]
     },
     {
@@ -126,15 +234,29 @@
       "wiki": "Sillery Gaon",
       "summary": "A relaxed day out from Ramdhura to the neighbouring villages of Icchey Gaon and Sillery Gaon, with a short climb to Ramitey Dara for the famous view of the Teesta winding through its valley, and a stop at Damsang Fort on the way back.",
       "body": [
-        "Ramdhura, Icchey Gaon and Sillery Gaon sit within a few kilometres of each other on the ridges between Algarah and Pedong. A local car, arranged by your homestay, can link them in a slow day with walks in between. Start early, while the mountains are clear, and stop at Icchey Gaon for tea and its views over the valley.",
-        "Continue to Sillery Gaon, at about 1,830 m, and walk or drive up toward Ramitey Dara, a viewpoint above the village. From here the Teesta is seen far below, looping back and forth through its valley; local guides like to say you can count 14 turns. On clear days the Kanchenjunga range and the Sikkim hills stand behind.",
-        "On the way back, stop at Damsang Fort, the Lepcha ruin near Algarah, for a short forest walk, and have tea in Algarah bazaar. The whole day involves only short drives on narrow roads and a few walks of 30–60 minutes. Carry water, snacks and a warm layer, as there are few shops on the way."
+        "Ramdhura, Icchey Gaon and Sillery Gaon sit within a few kilometres of each other on the ridges between Algarah and Pedong. A local car, arranged by your homestay, can link them in a slow day with walks in between. Start early, while the mountains are clear, and stop at Icchey Gaon for tea and its views over the valley. The roads are narrow and steep, so a local driver who knows them is worth more than a bigger car from Kalimpong.",
+        "Continue to Sillery Gaon, at about 1,830 m, and walk or drive up toward Ramitey Dara, a viewpoint above the village. From here the Teesta is seen far below, looping back and forth through its valley; local guides like to say you can count 14 turns. On clear days the Kanchenjunga range and the Sikkim hills stand behind. Have lunch at a homestay in Sillery Gaon; ask your Ramdhura host to call ahead so a meal is ready.",
+        "On the way back, stop at Damsang Fort, the Lepcha ruin near Algarah, for a short forest walk, and have tea in Algarah bazaar. The whole day involves only short drives on narrow roads and a few walks of 30–60 minutes. Carry water, snacks and a warm layer, as there are few shops on the way. Be back before dark, as village roads have no lighting and fog can settle quickly on winter evenings."
       ],
-      "good_for": ["couples", "families", "photographers", "students"],
+      "good_for": [
+        "couples",
+        "families",
+        "photographers",
+        "students"
+      ],
       "faqs": [
-        {"q": "What is Ramitey Dara", "a": "Ramitey Dara is a viewpoint above Sillery Gaon, near Pedong, known for its view of the Teesta river looping through its valley far below, with the Kanchenjunga range behind on clear days. It is reached by a short drive and walk from Sillery Gaon. Mornings from October to April give the clearest views."},
-        {"q": "How far is Sillery Gaon from Ramdhura", "a": "Sillery Gaon is only a few kilometres from Ramdhura as the crow flies, but the narrow, winding road means about 30–45 minutes by car. Icchey Gaon lies in between. A local car for a day linking the villages and Damsang costs about ₹1,500–2,500, indicative for 2026."},
-        {"q": "Can I walk from Ramdhura to Icchey Gaon", "a": "Yes, local footpaths and village roads connect the two, and fit walkers can do it in about 1.5–2 hours. The paths are unmarked and branch often, so go with someone from your homestay or arrange a local guide. Arrange a car to bring you back, or stay the night in Icchey Gaon."}
+        {
+          "q": "What is Ramitey Dara",
+          "a": "Ramitey Dara is a viewpoint above Sillery Gaon, near Pedong, known for its view of the Teesta river looping through its valley far below, with the Kanchenjunga range behind on clear days. It is reached by a short drive and walk from Sillery Gaon. Mornings from October to April give the clearest views."
+        },
+        {
+          "q": "How far is Sillery Gaon from Ramdhura",
+          "a": "Sillery Gaon is only a few kilometres from Ramdhura as the crow flies, but the narrow, winding road means about 30–45 minutes by car. Icchey Gaon lies in between. A local car for a day linking the villages and Damsang costs about ₹1,500–2,500, indicative for 2026."
+        },
+        {
+          "q": "Can I walk from Ramdhura to Icchey Gaon",
+          "a": "Yes, local footpaths and village roads connect the two, and fit walkers can do it in about 1.5–2 hours. The paths are unmarked and branch often, so go with someone from your homestay or arrange a local guide. Arrange a car to bring you back, or stay the night in Icchey Gaon."
+        }
       ]
     },
     {
@@ -148,27 +270,68 @@
       "wiki": "",
       "summary": "Spend the evening the village way: watch the lights of Kalimpong and the Sikkim hills come on across the valley, then sit down to a home-cooked Nepali dinner of rice, dal, seasonal greens, pickles and often local chicken, with your host family.",
       "body": [
-        "As the sun goes down behind the Darjeeling hills, the valley below Ramdhura fills with blue shadow, and then lights begin to appear: Kalimpong to the south-west, small villages on the Darjeeling side and, upstream, settlements in Sikkim. On a clear, cold night the stars are bright, as there is little light pollution up here.",
-        "Dinner in a homestay is usually served early, around 7.30–8 pm. Expect rice, dal, a seasonal vegetable such as squash or mustard greens, a fresh pickle, perhaps gundruk, the fermented greens of the hills, and chicken or eggs. Food is cooked on gas or wood fire, often with vegetables from the family's own fields.",
-        "Ask if you can watch the cooking or help with momos; many hosts enjoy it. Tell them in advance if you are vegetarian or need less chilli. There is little to do after dinner but talk, read or look at stars, which is the point. Carry a torch, a warm layer and a book."
+        "As the sun goes down behind the Darjeeling hills, the valley below Ramdhura fills with blue shadow, and then lights begin to appear: Kalimpong to the south-west, small villages on the Darjeeling side and, upstream, settlements in Sikkim. On a clear, cold night the stars are bright, as there is little light pollution up here. Step outside with a cup of tea before dinner; the change from dusk to darkness takes less than half an hour.",
+        "Dinner in a homestay is usually served early, around 7.30–8 pm. Expect rice, dal, a seasonal vegetable such as squash or mustard greens, a fresh pickle, perhaps gundruk, the fermented greens of the hills, and chicken or eggs. Food is cooked on gas or wood fire, often with vegetables from the family's own fields. Portions are generous, and hosts will offer second helpings of rice and dal; it is fine to decline politely.",
+        "Ask if you can watch the cooking or help with momos; many hosts enjoy it. Tell them in advance if you are vegetarian or need less chilli. There is little to do after dinner but talk, read or look at stars, which is the point. Carry a torch, a warm layer and a book. Power cuts happen in bad weather, so keep your phone and torch charged during the day."
       ],
-      "good_for": ["families", "couples", "solo", "seniors"],
+      "good_for": [
+        "families",
+        "couples",
+        "solo",
+        "seniors"
+      ],
       "faqs": [
-        {"q": "What food is served in Ramdhura homestays", "a": "Most homestays serve home-style Nepali food: rice, dal, seasonal vegetables, pickles, often gundruk soup, and chicken or eggs, with tea and simple breakfasts such as puri or bread and eggs. Vegetarian meals are easy to arrange if you say in advance. Meals are usually included in the room rate."},
-        {"q": "Is there a restaurant in Ramdhura", "a": "No, Ramdhura has no restaurants or proper shops, only family homestays that cook for guests. Book a room with meals included, and carry snacks and any special food items from Kalimpong. The nearest tea stalls and small eateries are in Algarah bazaar, a short drive away."},
-        {"q": "Is Ramdhura cold at night", "a": "Yes, from November to February nights can fall to around 3–8 °C, and homestays rarely have heaters. Rooms have thick blankets, but bring thermals, a warm jacket and woolly socks. In spring and autumn evenings are cool, around 10–15 °C, so a fleece is enough."}
+        {
+          "q": "What food is served in Ramdhura homestays",
+          "a": "Most homestays serve home-style Nepali food: rice, dal, seasonal vegetables, pickles, often gundruk soup, and chicken or eggs, with tea and simple breakfasts such as puri or bread and eggs. Vegetarian meals are easy to arrange if you say in advance. Meals are usually included in the room rate."
+        },
+        {
+          "q": "Is there a restaurant in Ramdhura",
+          "a": "No, Ramdhura has no restaurants or proper shops, only family homestays that cook for guests. Book a room with meals included, and carry snacks and any special food items from Kalimpong. The nearest tea stalls and small eateries are in Algarah bazaar, a short drive away."
+        },
+        {
+          "q": "Is Ramdhura cold at night",
+          "a": "Yes, from November to February nights can fall to around 3–8 °C, and homestays rarely have heaters. Rooms have thick blankets, but bring thermals, a warm jacket and woolly socks. In spring and autumn evenings are cool, around 10–15 °C, so a fleece is enough."
+        }
       ]
     }
   ],
   "faqs": [
-    {"q": "How far is Ramdhura from Kalimpong", "a": "Ramdhura is about 15 km east of Kalimpong, around 45 minutes to an hour by car. A reserved car costs about ₹1,000–1,500 one way, indicative for 2026. There is no direct bus; you can take a shared jeep toward Algarah and arrange a pick-up for the last stretch with your homestay."},
-    {"q": "What is Ramdhura famous for", "a": "Ramdhura is known for its sunrise view of the Kanchenjunga range, the wide view over the Teesta valley, pine forests and cinchona slopes, and its quiet family homestays. It is close to Icchey Gaon, Sillery Gaon, Algarah and Damsang Fort, and under an hour from Kalimpong town."},
-    {"q": "What is the altitude of Ramdhura", "a": "Ramdhura stands at about 1,500 m, or roughly 5,000 ft. That is a little higher and cooler than Kalimpong town at about 1,250 m, but lower and milder than Lava or Rishyap. Winter nights are cold, while spring and autumn days are pleasant at around 15–22 °C."},
-    {"q": "How many days are enough for Ramdhura", "a": "One or two nights. One night gives you a sunset, an evening at a homestay and one sunrise. Two nights allow a relaxed day to Icchey Gaon, Sillery Gaon, Ramitey Dara and Damsang Fort, and a second chance at clear mountain views. Combine it with two nights in Kalimpong."},
-    {"q": "Ramdhura or Sillery Gaon, which is better", "a": "Both are quiet homestay villages with mountain views. Sillery Gaon is higher, at about 1,830 m, with bigger views and more homestays, but colder. Ramdhura is lower, milder and closer to Kalimpong, which suits families and seniors. They are a short drive apart, so you can stay in one and visit the other."},
-    {"q": "When is the best time to visit Ramdhura", "a": "October to December gives the clearest Kanchenjunga views and dry weather. March and April are pleasant with spring flowers but more haze. January and February are cold and usually clear. The monsoon, June to September, brings rain, cloud and leeches, though Ramdhura's short distance from Kalimpong makes it reachable."},
-    {"q": "Is Ramdhura good for families with children", "a": "Yes. It is close to Kalimpong, the drive is short, and homestays are friendly and safe. Children enjoy the farm animals and open space. Keep an eye on them near steep slopes and terrace edges, pack warm clothes for evenings, and bring snacks, as there are no shops nearby."},
-    {"q": "Is there mobile network in Ramdhura", "a": "Mobile coverage is generally available but varies by network and by exact location in the village. Jio and Airtel tend to work better than others. Data can be slow, and some homestays offer Wi-Fi that drops in bad weather. Do not rely on it for work calls."},
-    {"q": "Can I visit Ramdhura as a day trip from Kalimpong", "a": "Yes, it is easily done in half a day, combined with Algarah, Damsang Fort and Icchey Gaon. But the best of Ramdhura is the dawn view and the quiet evening, which a day trip misses. If you have the time, we suggest at least one night."}
+    {
+      "q": "How far is Ramdhura from Kalimpong",
+      "a": "Ramdhura is about 15 km east of Kalimpong, around 45 minutes to an hour by car. A reserved car costs about ₹1,000–1,500 one way, indicative for 2026. There is no direct bus; you can take a shared jeep toward Algarah and arrange a pick-up for the last stretch with your homestay."
+    },
+    {
+      "q": "What is Ramdhura famous for",
+      "a": "Ramdhura is known for its sunrise view of the Kanchenjunga range, the wide view over the Teesta valley, pine forests and cinchona slopes, and its quiet family homestays. It is close to Icchey Gaon, Sillery Gaon, Algarah and Damsang Fort, and under an hour from Kalimpong town."
+    },
+    {
+      "q": "What is the altitude of Ramdhura",
+      "a": "Ramdhura stands at about 1,500 m, or roughly 5,000 ft. That is a little higher and cooler than Kalimpong town at about 1,250 m, but lower and milder than Lava or Rishyap. Winter nights are cold, while spring and autumn days are pleasant at around 15–22 °C."
+    },
+    {
+      "q": "How many days are enough for Ramdhura",
+      "a": "One or two nights. One night gives you a sunset, an evening at a homestay and one sunrise. Two nights allow a relaxed day to Icchey Gaon, Sillery Gaon, Ramitey Dara and Damsang Fort, and a second chance at clear mountain views. Combine it with two nights in Kalimpong."
+    },
+    {
+      "q": "Ramdhura or Sillery Gaon, which is better",
+      "a": "Both are quiet homestay villages with mountain views. Sillery Gaon is higher, at about 1,830 m, with bigger views and more homestays, but colder. Ramdhura is lower, milder and closer to Kalimpong, which suits families and seniors. They are a short drive apart, so you can stay in one and visit the other."
+    },
+    {
+      "q": "When is the best time to visit Ramdhura",
+      "a": "October to December gives the clearest Kanchenjunga views and dry weather. March and April are pleasant with spring flowers but more haze. January and February are cold and usually clear. The monsoon, June to September, brings rain, cloud and leeches, though Ramdhura's short distance from Kalimpong makes it reachable."
+    },
+    {
+      "q": "Is Ramdhura good for families with children",
+      "a": "Yes. It is close to Kalimpong, the drive is short, and homestays are friendly and safe. Children enjoy the farm animals and open space. Keep an eye on them near steep slopes and terrace edges, pack warm clothes for evenings, and bring snacks, as there are no shops nearby."
+    },
+    {
+      "q": "Is there mobile network in Ramdhura",
+      "a": "Mobile coverage is generally available but varies by network and by exact location in the village. Jio and Airtel tend to work better than others. Data can be slow, and some homestays offer Wi-Fi that drops in bad weather. Do not rely on it for work calls."
+    },
+    {
+      "q": "Can I visit Ramdhura as a day trip from Kalimpong",
+      "a": "Yes, it is easily done in half a day, combined with Algarah, Damsang Fort and Icchey Gaon. But the best of Ramdhura is the dawn view and the quiet evening, which a day trip misses. If you have the time, we suggest at least one night."
+    }
   ]
 }
