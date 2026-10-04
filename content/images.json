@@ -594,21 +594,7 @@
  "place:lepchajagat": [],
  "exp:lepchajagat-sunrise-viewpoint-walk": [],
  "exp:lepchajagat-forest-birding-walk": [],
- "exp:lepchajagat-jorepokhri-and-sukhiapokhri": [
-  {
-   "file": "File:Tylototriton verrucosus.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tylototriton_verrucosus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tylototriton_verrucosus.jpg/1920px-Tylototriton_verrucosus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 2000,
-   "height": 1494,
-   "landscape": true,
-   "description": "Гималайский тритон в Московском зоопарке",
-   "author": "Rigelus",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Tylototriton_verrucosus.jpg"
-  }
- ],
+ "exp:lepchajagat-jorepokhri-and-sukhiapokhri": [],
  "exp:lepchajagat-homestay-evening": [],
  "place:mirik": [
   {
@@ -2119,34 +2105,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Lod_Buddha_near_Canopy_Walk_in_Lolegaon.jpg"
   }
  ],
- "exp:lolegaon-jhandi-dara-sunrise": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:lolegaon-jhandi-dara-sunrise": [],
  "exp:lolegaon-village-farm-walk": [],
  "exp:lolegaon-homestay-kitchen-dinner": [
   {
@@ -2542,34 +2501,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Teestavalley.jpg"
   }
  ],
- "exp:sillery-gaon-kanchenjunga-sunrise": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:sillery-gaon-kanchenjunga-sunrise": [],
  "exp:sillery-gaon-pedong-cross-hill-damsang-loop": [],
  "exp:sillery-gaon-forest-walk-to-icchey-gaon": [
   {
@@ -4828,34 +4760,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Zuluk_village.jpg"
   }
  ],
- "exp:zuluk-thambi-sunrise": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:zuluk-thambi-sunrise": [],
  "exp:zuluk-lungthung-nathang-morning-drive": [
   {
    "file": "File:Nathang Pano 1.jpg",
@@ -5794,34 +5699,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Lachung_Monastery_-_Murals_1.jpg"
   }
  ],
- "exp:lachung-snow-day": [
-  {
-   "file": "File:Yumthang valley, Lachung Sikkim India 2012.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 768,
-   "landscape": true,
-   "description": "Yumthang valley (near Lachung), Sikkim",
-   "author": "Joginder Pathak",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Yumthang_valley,_Lachung_Sikkim_India_2012.jpg"
-  },
-  {
-   "file": "File:Blood Pheasant female from Lachung North Sikkim India 14032019.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1073,
-   "height": 715,
-   "landscape": true,
-   "description": "This is the state bird of Sikkim. The species Blood Pheasant female was photographed during the birding tour of GoingWild (www.goingwild.in) from Lachung North Sikkim India 14.03.2019.",
-   "author": "Dibyendu Ash",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg"
-  }
- ],
+ "exp:lachung-snow-day": [],
  "exp:lachung-dzumsa-village-walk": [],
  "exp:lachung-autumn-colour-drive": [],
  "place:mangan": [
@@ -6168,19 +6046,6 @@
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_Phrumsingla_National_Park_Bhutan.jpg"
-  },
-  {
-   "file": "File:Blood Pheasant female from Lachung North Sikkim India 14032019.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1073,
-   "height": 715,
-   "landscape": true,
-   "description": "This is the state bird of Sikkim. The species Blood Pheasant female was photographed during the birding tour of GoingWild (www.goingwild.in) from Lachung North Sikkim India 14.03.2019.",
-   "author": "Dibyendu Ash",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg"
   }
  ],
  "exp:shingba-state-tree-hunt": [
@@ -6462,19 +6327,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Yumthang_Valley_snow_covered.jpg"
   },
   {
-   "file": "File:Yumthang valley, Lachung Sikkim India 2012.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 768,
-   "landscape": true,
-   "description": "Yumthang valley (near Lachung), Sikkim",
-   "author": "Joginder Pathak",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Yumthang_valley,_Lachung_Sikkim_India_2012.jpg"
-  },
-  {
    "file": "File:A view of Yumthang valley, Sikkim India,.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/A_view_of_Yumthang_valley%2C_Sikkim_India%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/A_view_of_Yumthang_valley%2C_Sikkim_India%2C.jpg/1920px-A_view_of_Yumthang_valley%2C_Sikkim_India%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6489,19 +6341,6 @@
   }
  ],
  "exp:yumthang-meadow-walk": [
-  {
-   "file": "File:Yumthang valley, Lachung Sikkim India 2012.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yumthang_valley%2C_Lachung_Sikkim_India_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 768,
-   "landscape": true,
-   "description": "Yumthang valley (near Lachung), Sikkim",
-   "author": "Joginder Pathak",
-   "license": "CC BY-SA 2.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Yumthang_valley,_Lachung_Sikkim_India_2012.jpg"
-  },
   {
    "file": "File:North of Yumthang and the river.jpg",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/North_of_Yumthang_and_the_river.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -6800,34 +6639,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Barsey_Rhododendron_Sanctuary_in_late_april.jpg"
   }
  ],
- "exp:barsey-guras-kunj-overnight-sunrise": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:barsey-guras-kunj-overnight-sunrise": [],
  "exp:barsey-high-forest-birding": [
   {
    "file": "File:Blood Pheasant Phrumsingla National Park Bhutan.jpg",
@@ -6841,19 +6653,6 @@
    "license": "CC BY-SA 4.0",
    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_Phrumsingla_National_Park_Bhutan.jpg"
-  },
-  {
-   "file": "File:Blood Pheasant female from Lachung North Sikkim India 14032019.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1073,
-   "height": 715,
-   "landscape": true,
-   "description": "This is the state bird of Sikkim. The species Blood Pheasant female was photographed during the birding tour of GoingWild (www.goingwild.in) from Lachung North Sikkim India 14.03.2019.",
-   "author": "Dibyendu Ash",
-   "license": "CC BY-SA 4.0",
-   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Blood_Pheasant_female_from_Lachung_North_Sikkim_India_14032019.jpg"
   }
  ],
  "exp:barsey-dentam-soreng-forest-routes": [],
@@ -6937,34 +6736,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Lake_of_heaven.jpg"
   }
  ],
- "exp:dzongri-top-sunrise": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:dzongri-top-sunrise": [],
  "exp:dzongri-samiti-lake": [
   {
    "file": "File:An Indian hiker at the Goecha La Trek, in West Sikkim district of Sikkim, photographed by Yogabrata Chakraborty, on October 18, 2021.jpg",
@@ -7647,34 +7419,7 @@
    "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Sanga-Choeling_Monastery.jpg"
   }
  ],
- "exp:pelling-kangchenjunga-sunrise-helipad": [
-  {
-   "file": "File:Kangchenjunga PangPema.JPG",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Kangchenjunga_PangPema.JPG/1920px-Kangchenjunga_PangPema.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "width": 4000,
-   "height": 2248,
-   "landscape": true,
-   "description": "Kangchenjunga as seen from the NNW. Taken from Pang Pema, Nepal",
-   "author": "Tomabarker",
-   "license": "CC BY 3.0",
-   "license_url": "https://creativecommons.org/licenses/by/3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
-  },
-  {
-   "file": "File:1990 reunion of the Kangchenjunga climbers.jpg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1990_reunion_of_the_Kangchenjunga_climbers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-   "width": 1024,
-   "height": 778,
-   "landscape": true,
-   "description": "Photograph taken in the gardens of Pen-y-Gwryd of the Kangchenjunga reunion of 1990. Left to right front: Neil Mather, John Angelo Jackson, Charles Evans and Joe Brown Left to right rear: Tony Streather, Norman Hardie, G",
-   "author": "The original uploader was Gowron at English Wikipedia.",
-   "license": "CC BY-SA 3.0",
-   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-   "source": "https://commons.wikimedia.org/wiki/File:1990_reunion_of_the_Kangchenjunga_climbers.jpg"
-  }
- ],
+ "exp:pelling-kangchenjunga-sunrise-helipad": [],
  "place:ravangla": [
   {
    "file": "File:Ravangla Town.jpg",
