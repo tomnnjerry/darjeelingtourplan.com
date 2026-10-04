@@ -27,19 +27,55 @@
         "Four columns of what was called the Duar Field Force marched into the foothills that winter. Buxa and the western passes were taken quickly. In the east the fighting was harder. Bhutanese forces, led among others by the Trongsa Penlop Jigme Namgyal, father of Bhutan's first king, drove the British garrison out of Dewangiri in early 1865 before it was retaken. Disease, heavy rain and difficult ground hurt both sides. By mid-1865 the British held the passes, and Bhutan agreed to talk."
       ],
       "table": {
-        "head": ["Year", "What happened"],
+        "head": [
+          "Year",
+          "What happened"
+        ],
         "rows": [
-          ["1772–74", "Company troops take Buxa after a Cooch Behar appeal; a 1774 treaty returns it to Bhutan"],
-          ["1841", "British annex the Assam Duars, paying Bhutan an annual sum"],
-          ["1863–64", "Ashley Eden's mission to Punakha fails"],
-          ["Nov 1864", "Britain declares war; the Duar Field Force enters the foothills"],
-          ["Early 1865", "Bhutanese forces retake Dewangiri; British recapture it"],
-          ["11 Nov 1865", "Treaty of Sinchula ends the war"],
-          ["1869", "Jalpaiguri district formed, including the Western Duars"],
-          ["1874", "First Dooars tea garden opened at Gazaldoba"],
-          ["1930–37", "Buxa Fort used as a detention camp for Indian revolutionaries"],
-          ["1959–71", "Tibetan monks run a study centre at Buxa"],
-          ["2014", "Alipurduar district carved out of Jalpaiguri"]
+          [
+            "1772–74",
+            "Company troops take Buxa after a Cooch Behar appeal; a 1774 treaty returns it to Bhutan"
+          ],
+          [
+            "1841",
+            "British annex the Assam Duars, paying Bhutan an annual sum"
+          ],
+          [
+            "1863–64",
+            "Ashley Eden's mission to Punakha fails"
+          ],
+          [
+            "Nov 1864",
+            "Britain declares war; the Duar Field Force enters the foothills"
+          ],
+          [
+            "Early 1865",
+            "Bhutanese forces retake Dewangiri; British recapture it"
+          ],
+          [
+            "11 Nov 1865",
+            "Treaty of Sinchula ends the war"
+          ],
+          [
+            "1869",
+            "Jalpaiguri district formed, including the Western Duars"
+          ],
+          [
+            "1874",
+            "First Dooars tea garden opened at Gazaldoba"
+          ],
+          [
+            "1930–37",
+            "Buxa Fort used as a detention camp for Indian revolutionaries"
+          ],
+          [
+            "1959–71",
+            "Tibetan monks run a study centre at Buxa"
+          ],
+          [
+            "2014",
+            "Alipurduar district carved out of Jalpaiguri"
+          ]
         ]
       }
     },
@@ -49,6 +85,14 @@
         "The treaty was signed at Sinchula, in the hills above Buxa, on 11 November 1865. Bhutan ceded the Bengal Duars and the Assam Duars for good, along with a strip of hill territory east of the Teesta that included Kalimpong. In return the British agreed to pay Bhutan an annual allowance, beginning at ₹25,000 and rising in stages to ₹50,000, as long as Bhutan kept the treaty. The treaty also covered extradition of criminals and free trade between the two sides.",
         "Kalimpong, ceded under this treaty, was joined first to the Western Duars and then, in 1866, to Darjeeling district. The Treaty of Punakha in 1910 raised the allowance to ₹1,00,000 and placed Bhutan's foreign relations under British guidance. After 1947 the 1949 Indo-Bhutan treaty took that role.",
         "The Dooars changed fast after 1865. The forests were surveyed and reserved, the first tea garden opened at Gazaldoba in 1874, and by 1881 there were 55 gardens. Workers came from Chota Nagpur, Nepal and elsewhere, and a railway followed. Much of what a visitor sees today, from the tea lines to the forest boundaries, dates from the years after the treaty."
+      ]
+    },
+    {
+      "heading": "What changed hands, and what came back",
+      "paras": [
+        "The war moved a lot of land. The Bengal Duars became the Western Duars of British India; the hills east of the Teesta became the Kalimpong subdivision; and the Assam Duars, already annexed in 1841, were confirmed as British. Bhutan lost its richest farmland and most of its trade routes to the plains. The annual allowance, paid in rupees, became an important part of Bhutan's state income in the decades that followed.",
+        "Some of it later came back. Dewangiri, the hill post in the east where the Bhutanese had fought hardest, is now Deothang in Bhutan's Samdrup Jongkhar district. Under the 1949 treaty between India and Bhutan, India returned about 32 square miles of territory around Dewangiri and raised the annual payment to ₹5,00,000. The plains, however, stayed in India: they are now divided between Jalpaiguri, Alipurduar and Cooch Behar districts of West Bengal and the Assam districts to the east.",
+        "For visitors, the result is visible on any drive along the foothills. The border between India and Bhutan still runs along the foot of the hills, where the old duars met the mountains, and towns such as Jaigaon and Phuentsholing sit on either side of it, on the old line where plains traders met people from the hills."
       ]
     },
     {
@@ -62,7 +106,8 @@
       "heading": "Visiting Buxa Fort today",
       "paras": [
         "The fort is inside Buxa Tiger Reserve, about 15 km north of Rajabhatkhawa. Cars stop at Santalabari, and a stony path climbs through forest to the fort, about an hour on foot. Little remains: sections of wall, the gate area and a memorial to the detainees. The setting and the story are the reason to come. Above the fort, the Drukpa village of Lepchakha has a chorten and a wide view over the plains on a clear day.",
-        "Go with a local guide who can tell the fort's story; most of the ruins carry no signs. Pay the forest entry at Rajabhatkhawa and carry water, as there is little on the path."
+        "Go with a local guide who can tell the fort's story; most of the ruins carry no signs. Pay the forest entry at Rajabhatkhawa and carry water, as there is little on the path.",
+        "Combine the fort with a night at Jayanti, about an hour away by car, or with Chilapata and Jaldapara further west. From Alipurduar Junction a car to Santalabari takes about an hour. If you walk up in the morning, you can be back at the road by lunch and at Jayanti by mid-afternoon."
       ],
       "list": [
         "Best months: October to April; the path is slippery and leech-ridden in the monsoon.",
@@ -72,16 +117,48 @@
       ]
     }
   ],
-  "related_places": ["buxa-tiger-reserve", "jayanti", "chilapata-forest", "jaldapara-national-park"],
+  "related_places": [
+    "buxa-tiger-reserve",
+    "jayanti",
+    "chilapata-forest",
+    "jaldapara-national-park"
+  ],
   "faqs": [
-    {"q": "What was the Duar War", "a": "The Duar War, also called the Anglo-Bhutan War, was fought between British India and Bhutan from November 1864 to 1865. It followed the failed Ashley Eden mission to Punakha in 1864 and long-running border disputes. British columns took the passes into Bhutan, and the war ended with the Treaty of Sinchula on 11 November 1865."},
-    {"q": "What did the Treaty of Sinchula give Britain", "a": "Under the Treaty of Sinchula, Bhutan ceded the Bengal Duars and the Assam Duars, together with hill territory east of the Teesta including Kalimpong. In return Britain paid Bhutan an annual allowance that began at ₹25,000 and rose to ₹50,000. The treaty also dealt with trade and the return of criminals."},
-    {"q": "Why is the region called the Dooars", "a": "Dooars comes from duar, meaning door. Eighteen passes or river gaps once led from these plains into the hills of Bhutan, and the plains in front of them took the name. Buxa Duar was one of the best known, guarded by Buxa Fort."},
-    {"q": "Who built Buxa Fort", "a": "The fort was originally a Bhutanese post guarding the Buxa Duar pass. The British took it in 1772, returned it under the 1774 treaty, and took it again in the Duar War of 1864–65. They later rebuilt it in brick and stone, and it is these later walls whose ruins you see today."},
-    {"q": "Why was Buxa Fort used as a prison", "a": "Its remoteness. From 1930 to 1937 the British used Buxa as a detention camp for Indian revolutionaries held without trial, far from their supporters in Bengal. It was used as a special jail again in the 1940s and early 1950s. A memorial at the fort remembers the detainees."},
-    {"q": "Did Tibetan monks live at Buxa", "a": "Yes. From 1959 to 1971, monks who had fled Tibet, many from Drepung Monastery, ran a study centre called Buxa Chogar in the old fort and barracks. In 1971 they moved to new settlements in Karnataka, where the large monasteries in exile now stand."},
-    {"q": "How do I get to Buxa Fort", "a": "Drive to Rajabhatkhawa, about 15 km north of Alipurduar town, pay the forest entry, and continue to Santalabari, where the road ends. From there a stony path climbs to the fort in about an hour. Alipurduar Junction is the nearest major station. Check current status before you travel."},
-    {"q": "Can I see Bhutan from Buxa Fort", "a": "The hills around Buxa rise to the Bhutan border, and from Lepchakha above the fort you look over the Dooars plains rather than into Bhutan's valleys. The old routes from Buxa into Bhutan are not open as tourist crossings; the nearest one for visitors is at Jaigaon–Phuentsholing."},
-    {"q": "Who was Jigme Namgyal", "a": "Jigme Namgyal was the Trongsa Penlop, a powerful regional governor in central Bhutan, and one of the Bhutanese leaders during the Duar War of 1864–65. He was the father of Ugyen Wangchuck, who became the first King of Bhutan in 1907."}
+    {
+      "q": "What was the Duar War",
+      "a": "The Duar War, also called the Anglo-Bhutan War, was fought between British India and Bhutan from November 1864 to 1865. It followed the failed Ashley Eden mission to Punakha in 1864 and long-running border disputes. British columns took the passes into Bhutan, and the war ended with the Treaty of Sinchula on 11 November 1865."
+    },
+    {
+      "q": "What did the Treaty of Sinchula give Britain",
+      "a": "Under the Treaty of Sinchula, Bhutan ceded the Bengal Duars and the Assam Duars, together with hill territory east of the Teesta including Kalimpong. In return Britain paid Bhutan an annual allowance that began at ₹25,000 and rose to ₹50,000. The treaty also dealt with trade and the return of criminals."
+    },
+    {
+      "q": "Why is the region called the Dooars",
+      "a": "Dooars comes from duar, meaning door. Eighteen passes or river gaps once led from these plains into the hills of Bhutan, and the plains in front of them took the name. Buxa Duar was one of the best known, guarded by Buxa Fort."
+    },
+    {
+      "q": "Who built Buxa Fort",
+      "a": "The fort was originally a Bhutanese post guarding the Buxa Duar pass. The British took it in 1772, returned it under the 1774 treaty, and took it again in the Duar War of 1864–65. They later rebuilt it in brick and stone, and it is these later walls whose ruins you see today."
+    },
+    {
+      "q": "Why was Buxa Fort used as a prison",
+      "a": "Its remoteness. From 1930 to 1937 the British used Buxa as a detention camp for Indian revolutionaries held without trial, far from their supporters in Bengal. It was used as a special jail again in the 1940s and early 1950s. A memorial at the fort remembers the detainees."
+    },
+    {
+      "q": "Did Tibetan monks live at Buxa",
+      "a": "Yes. From 1959 to 1971, monks who had fled Tibet, many from Drepung Monastery, ran a study centre called Buxa Chogar in the old fort and barracks. In 1971 they moved to new settlements in Karnataka, where the large monasteries in exile now stand."
+    },
+    {
+      "q": "How do I get to Buxa Fort",
+      "a": "Drive to Rajabhatkhawa, about 15 km north of Alipurduar town, pay the forest entry, and continue to Santalabari, where the road ends. From there a stony path climbs to the fort in about an hour. Alipurduar Junction is the nearest major station. Check current status before you travel."
+    },
+    {
+      "q": "Can I see Bhutan from Buxa Fort",
+      "a": "The hills around Buxa rise to the Bhutan border, and from Lepchakha above the fort you look over the Dooars plains rather than into Bhutan's valleys. The old routes from Buxa into Bhutan are not open as tourist crossings; the nearest one for visitors is at Jaigaon–Phuentsholing."
+    },
+    {
+      "q": "Who was Jigme Namgyal",
+      "a": "Jigme Namgyal was the Trongsa Penlop, a powerful regional governor in central Bhutan, and one of the Bhutanese leaders during the Duar War of 1864–65. He was the father of Ugyen Wangchuck, who became the first King of Bhutan in 1907."
+    }
   ]
 }

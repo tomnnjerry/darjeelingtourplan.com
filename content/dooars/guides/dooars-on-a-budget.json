@@ -13,14 +13,42 @@
         "The second big cost is timing. Lataguri and Madarihat rooms that cost ₹2,000 on a Tuesday in February can cost ₹4,000–5,000 in Puja week or between 24 December and 1 January, and safari seats in those weeks vanish within hours of release. Here is what a frugal day and a comfortable day look like per person, sharing a room. These are indicative 2026 ranges."
       ],
       "table": {
-        "head": ["Item", "Frugal", "Comfortable"],
+        "head": [
+          "Item",
+          "Frugal",
+          "Comfortable"
+        ],
         "rows": [
-          ["Room (per person, twin sharing)", "₹600–1,500", "₹2,000–4,000"],
-          ["Meals for the day", "₹300–500", "₹800–1,500"],
-          ["Getting around", "₹100–300 by auto, bus, train", "₹1,200–1,800 share of a car"],
-          ["Safari (one session)", "₹450–700 seat in a full jeep", "₹1,200–1,800 share of a jeep for two"],
-          ["Watchtower ticket only", "₹70–250", "₹70–250"],
-          ["Siliguri to Lataguri, one way", "₹100–200 bus or shared vehicle", "₹1,400–1,900 share of a car"]
+          [
+            "Room (per person, twin sharing)",
+            "₹600–1,500",
+            "₹2,000–4,000"
+          ],
+          [
+            "Meals for the day",
+            "₹300–500",
+            "₹800–1,500"
+          ],
+          [
+            "Getting around",
+            "₹100–300 by auto, bus, train",
+            "₹1,200–1,800 share of a car"
+          ],
+          [
+            "Safari (one session)",
+            "₹450–700 seat in a full jeep",
+            "₹1,200–1,800 share of a jeep for two"
+          ],
+          [
+            "Watchtower ticket only",
+            "₹70–250",
+            "₹70–250"
+          ],
+          [
+            "Siliguri to Lataguri, one way",
+            "₹100–200 bus or shared vehicle",
+            "₹1,400–1,900 share of a car"
+          ]
         ]
       }
     },
@@ -67,6 +95,13 @@
       ]
     },
     {
+      "heading": "A frugal three-night plan",
+      "paras": [
+        "Here is how we would spend three nights in the Dooars on about ₹7,000–9,000 per person, sharing a room, not counting the train from home. Arrive at Chalsa on the overnight Kanchankanya Express or a morning train from NJP and take an auto to Murti, ₹150–300. Sleep in a Murti Banani tent and spend the afternoon by the river, with a watchtower slot at Chandrachur or Medla if one is free.",
+        "Next morning, ride an auto to Lataguri, check into a family lodge and take an afternoon Gorumara watchtower safari in a shared jeep. On day three, take a bus or train east to Madarihat, check into a simple hotel near the gate and book the dawn Jaldapara safari for the following morning. After breakfast on day four, an auto to Hasimara station gets you on a train home. You will have seen two national parks, a river and a hundred kilometres of tea gardens without hiring a single car. Check current status before you travel, as train halts and safari timings change."
+      ]
+    },
+    {
       "heading": "What to skip",
       "paras": [
         "A few things cost money without making the trip better. We would rather you spent it on a second safari."
@@ -80,16 +115,50 @@
       ]
     }
   ],
-  "related_places": ["lataguri", "murti", "gorumara-national-park", "jaldapara-national-park", "siliguri", "chilapata-forest"],
+  "related_places": [
+    "lataguri",
+    "murti",
+    "gorumara-national-park",
+    "jaldapara-national-park",
+    "siliguri",
+    "chilapata-forest"
+  ],
   "faqs": [
-    {"q": "How much does a Dooars trip cost per day", "a": "On a frugal plan, about ₹1,800–3,000 per person a day, sharing a room, using trains and buses, staying in forest lodges or family lodges and sharing safari jeeps, indicative 2026. A comfortable trip with a private car and a mid-range resort runs about ₹5,000–8,000 a day per person. Holiday weeks cost noticeably more."},
-    {"q": "What is the cheapest way to reach Lataguri from Siliguri", "a": "Take a bus or shared vehicle from Siliguri along the highway via Sevoke and Malbazar, about 2–2.5 hours, for ₹100–200 a seat, indicative 2026. A local train to New Mal Junction plus an auto for the last 10 km also works and costs about the same. A reserved car costs about ₹2,800–3,800."},
-    {"q": "How can I save money on a Gorumara safari", "a": "Fill the jeep. Safaris are priced per vehicle for up to six, so sharing with other travellers cuts your cost to a sixth. Choose a watchtower slot rather than a longer drive, go mid-week, and book on the official forest department system rather than through middlemen. Check current status before you travel."},
-    {"q": "Are government lodges in the Dooars good value", "a": "Usually, yes. Murti Banani, Aranya at Madarihat and the Malangi lodge near Hasimara sit close to the forests at prices well below private resorts. Rooms are simple and meals fixed, and maintenance varies from lodge to lodge. Book early on the official sites, as weekend rooms go fast."},
-    {"q": "Is it cheaper to visit the Dooars in the monsoon", "a": "Rooms are cheapest from June to August, but Gorumara, Jaldapara and the other parks are closed from mid-June to mid-September, so there are no safaris. You can still enjoy rivers, tea gardens and quiet lodges. For wildlife, the cheapest good months are November, February and early March, mid-week."},
-    {"q": "Can I visit the Dooars without a car", "a": "Yes. Trains connect New Mal, Chalsa, Madarihat, Hasimara and Alipurduar; autos link stations with Lataguri, Murti and Madarihat; and buses run along the highway. Safaris use licensed jeeps, so you never need your own vehicle inside the parks. Transfers are slower, so finish them before dark."},
-    {"q": "Which month is cheapest for the Dooars with safaris", "a": "Late January, February and early March, mid-week, are the best balance: parks open, dry weather and lodges discounting by 20–40% outside weekends. Late November and early December are also good. Avoid Puja week and 24 December to 1 January, when prices are highest."},
-    {"q": "How much should I budget for food in the Dooars", "a": "About ₹300–500 a day if you eat at roadside hotels, where a thali with fish or egg curry costs ₹100–200, indicative 2026. Lodge meals at government properties often cost around ₹500 a day per person. Resort restaurants charge much more. Carry snacks for safari days."},
-    {"q": "Is a budget Dooars trip good for families", "a": "Yes. Families can use the overnight train from Kolkata, stay at Murti Banani or a Lataguri family lodge, and share a safari jeep with another family to fill six seats. For four or more people, a car for one or two days can cost the same per head as public transport and saves effort."}
+    {
+      "q": "How much does a Dooars trip cost per day",
+      "a": "On a frugal plan, about ₹1,800–3,000 per person a day, sharing a room, using trains and buses, staying in forest lodges or family lodges and sharing safari jeeps, indicative 2026. A comfortable trip with a private car and a mid-range resort runs about ₹5,000–8,000 a day per person. Holiday weeks cost noticeably more."
+    },
+    {
+      "q": "What is the cheapest way to reach Lataguri from Siliguri",
+      "a": "Take a bus or shared vehicle from Siliguri along the highway via Sevoke and Malbazar, about 2–2.5 hours, for ₹100–200 a seat, indicative 2026. A local train to New Mal Junction plus an auto for the last 10 km also works and costs about the same. A reserved car costs about ₹2,800–3,800."
+    },
+    {
+      "q": "How can I save money on a Gorumara safari",
+      "a": "Fill the jeep. Safaris are priced per vehicle for up to six, so sharing with other travellers cuts your cost to a sixth. Choose a watchtower slot rather than a longer drive, go mid-week, and book on the official forest department system rather than through middlemen. Check current status before you travel."
+    },
+    {
+      "q": "Are government lodges in the Dooars good value",
+      "a": "Usually, yes. Murti Banani, Aranya at Madarihat and the Malangi lodge near Hasimara sit close to the forests at prices well below private resorts. Rooms are simple and meals fixed, and maintenance varies from lodge to lodge. Book early on the official sites, as weekend rooms go fast."
+    },
+    {
+      "q": "Is it cheaper to visit the Dooars in the monsoon",
+      "a": "Rooms are cheapest from June to August, but Gorumara, Jaldapara and the other parks are closed from mid-June to mid-September, so there are no safaris. You can still enjoy rivers, tea gardens and quiet lodges. For wildlife, the cheapest good months are November, February and early March, mid-week."
+    },
+    {
+      "q": "Can I visit the Dooars without a car",
+      "a": "Yes. Trains connect New Mal, Chalsa, Madarihat, Hasimara and Alipurduar; autos link stations with Lataguri, Murti and Madarihat; and buses run along the highway. Safaris use licensed jeeps, so you never need your own vehicle inside the parks. Transfers are slower, so finish them before dark."
+    },
+    {
+      "q": "Which month is cheapest for the Dooars with safaris",
+      "a": "Late January, February and early March, mid-week, are the best balance: parks open, dry weather and lodges discounting by 20–40% outside weekends. Late November and early December are also good. Avoid Puja week and 24 December to 1 January, when prices are highest."
+    },
+    {
+      "q": "How much should I budget for food in the Dooars",
+      "a": "About ₹300–500 a day if you eat at roadside hotels, where a thali with fish or egg curry costs ₹100–200, indicative 2026. Lodge meals at government properties often cost around ₹500 a day per person. Resort restaurants charge much more. Carry snacks for safari days."
+    },
+    {
+      "q": "Is a budget Dooars trip good for families",
+      "a": "Yes. Families can use the overnight train from Kolkata, stay at Murti Banani or a Lataguri family lodge, and share a safari jeep with another family to fill six seats. For four or more people, a car for one or two days can cost the same per head as public transport and saves effort."
+    }
   ]
 }
