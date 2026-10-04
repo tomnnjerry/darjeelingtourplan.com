@@ -2,7 +2,9 @@
 {% block title %}Darjeeling Tour Plan · Darjeeling, Sikkim and Bhutan trips, priced in the open{% endblock %}
 {% block body_attrs %} data-alt-from="122" data-alt-to="8586" data-alt-label="Climb" data-alt-marks='[["Siliguri",122],["Kurseong",1458],["Darjeeling",2042],["Ghum",2258],["Sandakphu",3636],["Nathu La",4310],["Gurudongmar",5430],["Kangchenjunga",8586]]'{% endblock %}
 {% block content %}
-<section class="hero" data-sky aria-labelledby="hero-h">
+<section class="hero{% if hero_img %} hero--photo{% endif %}" data-sky aria-labelledby="hero-h">
+  {% if hero_img %}<div class="hero__photo" aria-hidden="true"><img src="{{ hero_img|src:1920 }}" srcset="{{ hero_img|srcset }}" sizes="100vw" alt="" fetchpriority="high" decoding="async"></div>
+  <p class="hero__credit">Photo: <a href="{{ hero_img.source }}" rel="noopener" target="_blank">{{ hero_img|short_credit }}</a>, Wikimedia Commons</p>{% endif %}
   <div class="hero__sky" aria-hidden="true"></div>
   <div class="hero__stars" aria-hidden="true"></div>
   <svg class="hero__ridges" viewBox="0 0 1600 700" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
