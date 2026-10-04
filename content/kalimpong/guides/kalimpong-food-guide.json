@@ -26,24 +26,77 @@
         "This table covers the dishes you are most likely to meet in Kalimpong's eateries, homestays and market, with indicative 2026 prices for a plate or bowl in a simple local place."
       ],
       "table": {
-        "head": ["Dish", "What it is", "Where", "Price"],
+        "head": [
+          "Dish",
+          "What it is",
+          "Where",
+          "Price"
+        ],
         "rows": [
-          ["Momo", "Steamed dumplings of pork, chicken, vegetables or cheese, with tomato-chilli sauce", "Small eateries everywhere", "₹60–150"],
-          ["Thukpa and thenthuk", "Tibetan noodle soups; thenthuk uses hand-pulled flat noodles", "Tibetan eateries near the market", "₹80–180"],
-          ["Shaphaley", "Tibetan fried bread stuffed with spiced minced meat or cabbage", "Tibetan eateries and stalls", "₹40–100"],
-          ["Sel roti and aloo dum", "Ring-shaped fried rice-flour bread with spiced potatoes", "Morning tea stalls", "₹40–90"],
-          ["Dal-bhat thali", "Rice, dal, vegetables, pickle and often gundruk", "Local hotels, homestays", "₹120–250"],
-          ["Gundruk soup", "Sour soup of fermented, dried mustard or radish greens", "Homestays, local thalis", "₹50–120"],
-          ["Churpi", "Cheese of cow or yak milk: soft for curries, hard for chewing", "Haat Bazaar, grocers", "₹20–150"],
-          ["Kalimpong cheese", "Mild semi-hard cheese from the old Swiss Jesuit dairy tradition", "Grocers near the market", "₹200–500 a round"]
+          [
+            "Momo",
+            "Steamed dumplings of pork, chicken, vegetables or cheese, with tomato-chilli sauce",
+            "Small eateries everywhere",
+            "₹60–150"
+          ],
+          [
+            "Thukpa and thenthuk",
+            "Tibetan noodle soups; thenthuk uses hand-pulled flat noodles",
+            "Tibetan eateries near the market",
+            "₹80–180"
+          ],
+          [
+            "Shaphaley",
+            "Tibetan fried bread stuffed with spiced minced meat or cabbage",
+            "Tibetan eateries and stalls",
+            "₹40–100"
+          ],
+          [
+            "Sel roti and aloo dum",
+            "Ring-shaped fried rice-flour bread with spiced potatoes",
+            "Morning tea stalls",
+            "₹40–90"
+          ],
+          [
+            "Dal-bhat thali",
+            "Rice, dal, vegetables, pickle and often gundruk",
+            "Local hotels, homestays",
+            "₹120–250"
+          ],
+          [
+            "Gundruk soup",
+            "Sour soup of fermented, dried mustard or radish greens",
+            "Homestays, local thalis",
+            "₹50–120"
+          ],
+          [
+            "Churpi",
+            "Cheese of cow or yak milk: soft for curries, hard for chewing",
+            "Haat Bazaar, grocers",
+            "₹20–150"
+          ],
+          [
+            "Kalimpong cheese",
+            "Mild semi-hard cheese from the old Swiss Jesuit dairy tradition",
+            "Grocers near the market",
+            "₹200–500 a round"
+          ]
         ]
       }
+    },
+    {
+      "heading": "Tibetan kitchens of the bazaar",
+      "paras": [
+        "The Tibetan families who settled for the wool trade, and the refugees who came after 1959, run many of the small eateries in the lanes around the market. Walk in at lunchtime and you will find steaming aluminium pots of momos, bowls of thukpa with noodles, vegetables and meat in clear broth, and thenthuk, whose flat noodles are pulled by hand and torn straight into the pot. Shaphaley, a half-moon of fried bread stuffed with spiced mince or cabbage, is the snack to take away.",
+        "Look also for laphing, cold mung-bean noodles in a sharp chilli and garlic sauce, sold by street vendors on warm afternoons, and for butter tea, salted and churned with butter, an acquired taste that makes more sense at Lava's altitude than in Kalimpong's sunshine. Pork dishes are common in Tibetan places; vegetarians should ask for vegetable or cheese momos, which nearly every kitchen makes. Prices are low, most dishes ₹60–180, indicative 2026, and service is quick."
+      ]
     },
     {
       "heading": "The Nepali home kitchen",
       "paras": [
         "In a village homestay you eat what a Gorkha family eats every day. Rice comes with dal, a vegetable such as squash, which grows on almost every roof and fence here, mustard greens or potatoes, and a sharp pickle of radish, tomato or the small round chilli called dalle khursani, which is very hot. Gundruk, fermented and sun-dried leafy greens, turns up as a sour soup or a pickle and is a winter staple. Kinema, fermented soybean with a strong smell and a nutty taste, is an acquired taste worth trying once.",
-        "Spring brings forest greens: ningro, the curled tips of a fern, fried with garlic, and young bamboo shoots. Many families cure meat by drying it over the kitchen fire, called sukuti, and eat it fried with onions and chilli. Ask your host what is in season. If you would like chicken or eggs, ask a day ahead; meat is often bought in Kalimpong or Lava on market days."
+        "Spring brings forest greens: ningro, the curled tips of a fern, fried with garlic, and young bamboo shoots. Many families cure meat by drying it over the kitchen fire, called sukuti, and eat it fried with onions and chilli. Ask your host what is in season. If you would like chicken or eggs, ask a day ahead; meat is often bought in Kalimpong or Lava on market days.",
+        "Mealtimes follow the farm day. Breakfast comes early, often with milky tea before anything else. Dinner is served by about 7.30 pm, and the family may eat after the guests. Join them in the kitchen if invited; sitting by the fire while rice cooks and the dog dozes under the bench is one of the best parts of a homestay."
       ]
     },
     {
@@ -76,16 +129,49 @@
       ]
     }
   ],
-  "related_places": ["kalimpong", "lolegaon", "kolakham", "lava", "pedong"],
+  "related_places": [
+    "kalimpong",
+    "lolegaon",
+    "kolakham",
+    "lava",
+    "pedong"
+  ],
   "faqs": [
-    {"q": "What is Kalimpong famous for in food", "a": "Kalimpong cheese and milk lollipops, both from a dairy tradition started by Swiss Jesuits in the 1950s, plus Tibetan dishes such as thukpa and shaphaley, Nepali sel roti, gundruk and churpi, and local ginger and cardamom. The Haat Bazaar on Wednesdays and Saturdays is the best place to see and buy local produce."},
-    {"q": "Who started Kalimpong cheese", "a": "Kalimpong cheese dates to the 1950s, when Father André Butty, a Swiss Jesuit priest, set up a dairy to buy milk from local farmers and taught cheese-making on Swiss lines. The milk lollipops come from the same tradition. Today the cheese is made in small quantities and sold through grocers in Kalimpong."},
-    {"q": "Where can I buy Kalimpong lollipops", "a": "In almost any grocery shop or sweet shop around Kalimpong's market and motor stand, usually for ₹50–100 a packet, indicative 2026. They are soft, chewy milk sweets on a stick. Buy from ordinary grocers rather than souvenir counters for fair prices, and keep them out of the sun because they soften."},
-    {"q": "What is churpi and how do you eat it", "a": "Churpi is a cheese made from cow or yak milk. Soft churpi is fresh and crumbly, cooked into curries or chilli pickles. Hard churpi is smoked and dried until very hard, and you chew a small piece slowly, sometimes for an hour. Buy both at the Haat Bazaar; hard churpi travels well."},
-    {"q": "Is Kalimpong food spicy", "a": "Everyday food is usually mild, with the heat on the side. Pickles made with dalle khursani, a small round local chilli, are very hot, as is the red sauce served with momos. Ask for less chilli if you prefer, and try a tiny bit of pickle before taking a spoonful. Homestay cooks adjust readily."},
-    {"q": "Is there vegetarian food in Kalimpong", "a": "Yes, plenty. Dal-bhat thalis, vegetable and cheese momos, thukpa, aloo dum, sel roti and paneer dishes are easy to find in town. Homestays cook vegetarian meals if told a day ahead. Marwari sweet shops in the bazaar serve fully vegetarian snacks. Pure vegetarians should mention that eggs and fish sauces are avoided too."},
-    {"q": "What is gundruk", "a": "Gundruk is fermented and sun-dried leafy greens, usually mustard, radish or cauliflower leaves, a staple of Nepali kitchens in the hills. It is made in autumn and early winter and stored for months. You will meet it as a sour soup with rice or as a pickle with tomato and chilli. Its tangy taste is unique."},
-    {"q": "Can I try millet beer in Kalimpong", "a": "Sometimes. Lepcha families make millet beer called chi, and Limbu families serve tongba, warm millet beer sipped through a bamboo straw. Some homestays offer it in winter, and a few local eateries sell it. Ask politely rather than expect it, since not every household drinks. It is mild but stronger than it tastes."},
-    {"q": "How much does food cost in Kalimpong", "a": "A plate of momos costs ₹60–150, a bowl of thukpa ₹80–180 and a thali ₹120–250 in local places, indicative 2026. Breakfast at a tea stall costs under ₹100. A frugal traveller eats well for ₹350–600 a day. Hotel restaurants charge two to three times as much for similar food."}
+    {
+      "q": "What is Kalimpong famous for in food",
+      "a": "Kalimpong cheese and milk lollipops, both from a dairy tradition started by Swiss Jesuits in the 1950s, plus Tibetan dishes such as thukpa and shaphaley, Nepali sel roti, gundruk and churpi, and local ginger and cardamom. The Haat Bazaar on Wednesdays and Saturdays is the best place to see and buy local produce."
+    },
+    {
+      "q": "Who started Kalimpong cheese",
+      "a": "Kalimpong cheese dates to the 1950s, when Father André Butty, a Swiss Jesuit priest, set up a dairy to buy milk from local farmers and taught cheese-making on Swiss lines. The milk lollipops come from the same tradition. Today the cheese is made in small quantities and sold through grocers in Kalimpong."
+    },
+    {
+      "q": "Where can I buy Kalimpong lollipops",
+      "a": "In almost any grocery shop or sweet shop around Kalimpong's market and motor stand, usually for ₹50–100 a packet, indicative 2026. They are soft, chewy milk sweets on a stick. Buy from ordinary grocers rather than souvenir counters for fair prices, and keep them out of the sun because they soften."
+    },
+    {
+      "q": "What is churpi and how do you eat it",
+      "a": "Churpi is a cheese made from cow or yak milk. Soft churpi is fresh and crumbly, cooked into curries or chilli pickles. Hard churpi is smoked and dried until very hard, and you chew a small piece slowly, sometimes for an hour. Buy both at the Haat Bazaar; hard churpi travels well."
+    },
+    {
+      "q": "Is Kalimpong food spicy",
+      "a": "Everyday food is usually mild, with the heat on the side. Pickles made with dalle khursani, a small round local chilli, are very hot, as is the red sauce served with momos. Ask for less chilli if you prefer, and try a tiny bit of pickle before taking a spoonful. Homestay cooks adjust readily."
+    },
+    {
+      "q": "Is there vegetarian food in Kalimpong",
+      "a": "Yes, plenty. Dal-bhat thalis, vegetable and cheese momos, thukpa, aloo dum, sel roti and paneer dishes are easy to find in town. Homestays cook vegetarian meals if told a day ahead. Marwari sweet shops in the bazaar serve fully vegetarian snacks. Pure vegetarians should mention that eggs and fish sauces are avoided too."
+    },
+    {
+      "q": "What is gundruk",
+      "a": "Gundruk is fermented and sun-dried leafy greens, usually mustard, radish or cauliflower leaves, a staple of Nepali kitchens in the hills. It is made in autumn and early winter and stored for months. You will meet it as a sour soup with rice or as a pickle with tomato and chilli. Its tangy taste is unique."
+    },
+    {
+      "q": "Can I try millet beer in Kalimpong",
+      "a": "Sometimes. Lepcha families make millet beer called chi, and Limbu families serve tongba, warm millet beer sipped through a bamboo straw. Some homestays offer it in winter, and a few local eateries sell it. Ask politely rather than expect it, since not every household drinks. It is mild but stronger than it tastes."
+    },
+    {
+      "q": "How much does food cost in Kalimpong",
+      "a": "A plate of momos costs ₹60–150, a bowl of thukpa ₹80–180 and a thali ₹120–250 in local places, indicative 2026. Breakfast at a tea stall costs under ₹100. A frugal traveller eats well for ₹350–600 a day. Hotel restaurants charge two to three times as much for similar food."
+    }
   ]
 }

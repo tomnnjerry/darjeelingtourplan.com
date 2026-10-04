@@ -20,16 +20,61 @@
         "These are the routes most visitors use. Times are for normal road conditions; add one to three hours when NH10 along the Teesta is closed and traffic takes the detours by Gorubathan or Peshok."
       ],
       "table": {
-        "head": ["Route", "Seat fare (indicative 2026)", "Time", "Service"],
+        "head": [
+          "Route",
+          "Seat fare (indicative 2026)",
+          "Time",
+          "Service"
+        ],
         "rows": [
-          ["Siliguri → Kalimpong", "₹200–300", "2.5–3.5 h", "Frequent, early morning to mid-afternoon"],
-          ["Kalimpong → Lava", "₹100–150", "1.5 h", "Several each morning"],
-          ["Kalimpong → Lolegaon", "₹150–250", "2–2.5 h", "A few a day, mostly morning"],
-          ["Kalimpong → Pedong", "₹60–100", "1 h", "Frequent through the morning"],
-          ["Kalimpong → Darjeeling", "₹200–300", "2.5–3 h", "Several each morning"],
-          ["Kalimpong → Gangtok", "₹250–400", "3–3.5 h", "Several each morning"],
-          ["Lava → Siliguri via Gorubathan", "₹250–400", "4 h", "One or two a day"],
-          ["Kalimpong town shared taxi", "₹20–40", "10–20 min", "All day on main roads"]
+          [
+            "Siliguri → Kalimpong",
+            "₹200–300",
+            "2.5–3.5 h",
+            "Frequent, early morning to mid-afternoon"
+          ],
+          [
+            "Kalimpong → Lava",
+            "₹100–150",
+            "1.5 h",
+            "Several each morning"
+          ],
+          [
+            "Kalimpong → Lolegaon",
+            "₹150–250",
+            "2–2.5 h",
+            "A few a day, mostly morning"
+          ],
+          [
+            "Kalimpong → Pedong",
+            "₹60–100",
+            "1 h",
+            "Frequent through the morning"
+          ],
+          [
+            "Kalimpong → Darjeeling",
+            "₹200–300",
+            "2.5–3 h",
+            "Several each morning"
+          ],
+          [
+            "Kalimpong → Gangtok",
+            "₹250–400",
+            "3–3.5 h",
+            "Several each morning"
+          ],
+          [
+            "Lava → Siliguri via Gorubathan",
+            "₹250–400",
+            "4 h",
+            "One or two a day"
+          ],
+          [
+            "Kalimpong town shared taxi",
+            "₹20–40",
+            "10–20 min",
+            "All day on main roads"
+          ]
         ]
       }
     },
@@ -37,7 +82,8 @@
       "heading": "From Siliguri, NJP and Bagdogra",
       "paras": [
         "Kalimpong jeeps leave Siliguri from the stands near the Tenzing Norgay bus terminus on Hill Cart Road and from the Panitanki More area. NBSTC, the state bus company, also runs buses from the terminus to Kalimpong for a little less than a jeep seat, slower and at fixed times. From NJP station, a shared auto or a short taxi ride brings you to the jeep stands. From Bagdogra airport, an app cab or prepaid taxi to Siliguri town costs a few hundred rupees and still leaves a couple well ahead of a ₹3,000–4,500 reserved car to Kalimpong.",
-        "The ride follows the Teesta past Sevoke and the Coronation Bridge, then up the river to Teesta Bazaar and the final climb to Kalimpong. Sit on the left going up for river views. If you get car sick, ask for a middle-row seat and eat lightly. For the return, buy your seat at the Kalimpong motor stand the evening before, and leave at least three hours of margin before a train from NJP or a flight from Bagdogra."
+        "The ride follows the Teesta past Sevoke and the Coronation Bridge, then up the river to Teesta Bazaar and the final climb to Kalimpong. Sit on the left going up for river views. If you get car sick, ask for a middle-row seat and eat lightly. For the return, buy your seat at the Kalimpong motor stand the evening before, and leave at least three hours of margin before a train from NJP or a flight from Bagdogra.",
+        "Travellers arriving on an overnight train from Kolkata or Guwahati can be in Kalimpong by late morning. Walk out of NJP, take a shared auto to the Siliguri bus terminus area for ₹20–40, and look for the Kalimpong counter. If several of you arrive together, ask the counter to hold the back row so you sit together, and pay for all the seats at once."
       ]
     },
     {
@@ -52,6 +98,13 @@
         "Lava to Kolakham, reserved car: about ₹800–1,500.",
         "Lava to Lolegaon, reserved car: about ₹1,500–2,500.",
         "Neora Valley from Lava: permitted park jeeps only, ₹1,500–2,500 per jeep, shared with other visitors if you ask at the forest office."
+      ]
+    },
+    {
+      "heading": "Crossing to Darjeeling, Gangtok and the Dooars",
+      "paras": [
+        "Kalimpong is a good hub for moving on. Shared jeeps to Darjeeling leave the motor stand through the morning and take two and a half to three hours, dropping to the Teesta at Teesta Bazaar and climbing through the Peshok tea gardens. Seats cost about ₹200–300, indicative 2026. Darjeeling jeeps arrive near the town's main motor stand below Chowk Bazaar, a steep walk or short taxi ride from most hotels.",
+        "Jeeps to Gangtok follow the Teesta upstream to Rangpo, where you enter Sikkim. Indian travellers show photo ID at the checkpost; foreign nationals need a Sikkim permit, which can be issued at Rangpo or arranged in advance. Check current status before you travel. For the Dooars, there is no frequent shared service from Kalimpong itself. The easiest way is a jeep down to Siliguri and a bus or jeep east to Malbazar and Lataguri, or one of the few jeeps from Lava to Siliguri via Gorubathan, which pass close to the tea gardens. Families heading to Gorumara usually hire a car from Lava for about ₹3,000–4,500."
       ]
     },
     {
@@ -77,16 +130,51 @@
       ]
     }
   ],
-  "related_places": ["kalimpong", "lava", "lolegaon", "pedong", "rishyap", "kolakham", "neora-valley-national-park"],
+  "related_places": [
+    "kalimpong",
+    "lava",
+    "lolegaon",
+    "pedong",
+    "rishyap",
+    "kolakham",
+    "neora-valley-national-park"
+  ],
   "faqs": [
-    {"q": "Where do shared jeeps to Kalimpong leave from in Siliguri", "a": "From the stands near the Tenzing Norgay Central Bus Terminus on Hill Cart Road and from the Panitanki More area. Jeeps leave when full, from early morning until about mid-afternoon. A seat costs ₹200–300, indicative 2026, and the trip takes 2.5 to 3.5 hours. Ask locals for the current stand, as counters sometimes move."},
-    {"q": "Is there a bus from Siliguri to Kalimpong", "a": "Yes. NBSTC, the North Bengal State Transport Corporation, runs buses from the Siliguri bus terminus to Kalimpong at set times through the day. They cost a little less than a jeep seat and are slower, with more stops. Buses suit travellers with time and light luggage. Check current timings at the terminus, as schedules change."},
-    {"q": "How do I get from Kalimpong to Lava without a car", "a": "Take a shared jeep from the Kalimpong motor stand. Several leave each morning, the seat costs ₹100–150, indicative 2026, and the ride takes about 1.5 hours through Algarah. Buy your ticket the evening before or arrive early. The jeep drops you in Lava bazaar, a short walk from the forest lodge and the Neora permit office."},
-    {"q": "Is there a shared jeep from Lava to Rishyap", "a": "Not regularly. Most days there is no scheduled service between Lava and Rishyap. You can walk the 4 km forest trail, best uphill with a local guide, or hire a car for about ₹800–1,200, indicative 2026. Some homestays arrange pickups from Lava if you book with them. Carry luggage light if you plan to walk."},
-    {"q": "Can I travel from Kalimpong to Gangtok by shared jeep", "a": "Yes. Shared jeeps to Gangtok leave Kalimpong in the morning for about ₹250–400 a seat, indicative 2026, and take three to three and a half hours via the Teesta and Rangpo. Carry photo ID for the Sikkim checkpost; foreign nationals need a Sikkim permit. Check current status before you travel, since NH10 closures affect this route too."},
-    {"q": "Are shared jeeps safe for women travelling alone", "a": "Generally yes. Shared jeeps carry families, schoolchildren and office workers, and women travel alone on them every day. Sit beside other women where you can, travel in daylight, and keep your phone charged. If something feels wrong, get off at the next town; another jeep will come. Drivers and fellow passengers tend to look out for visitors."},
-    {"q": "What happens to shared jeeps when NH10 is closed", "a": "Jeeps take the detours, either by Gorubathan and Lava or by Darjeeling and Peshok. Journeys take one to three hours longer, fares rise a little, and fewer jeeps run, so seats sell out early. Ask at the stand about the day's route before you buy. Check current status before you travel, especially from June to September."},
-    {"q": "Can I book a shared jeep seat in advance", "a": "On busy routes, yes, but usually only in person, the evening before, at the counter where the jeep leaves. Few shared jeeps can be booked online. Paying for a front seat ahead is common. If you arrive on a late train, a reserved car is more reliable than hoping for a seat."},
-    {"q": "How much luggage can I take on a shared jeep", "a": "One medium bag per person is normal, and it goes on the roof under a tarpaulin. Very large suitcases may be refused or charged as an extra seat. Keep a small daypack inside with valuables, medicines, water and a jacket. Pack your roof bag in a plastic liner, because rain and dust find their way in."}
+    {
+      "q": "Where do shared jeeps to Kalimpong leave from in Siliguri",
+      "a": "From the stands near the Tenzing Norgay Central Bus Terminus on Hill Cart Road and from the Panitanki More area. Jeeps leave when full, from early morning until about mid-afternoon. A seat costs ₹200–300, indicative 2026, and the trip takes 2.5 to 3.5 hours. Ask locals for the current stand, as counters sometimes move."
+    },
+    {
+      "q": "Is there a bus from Siliguri to Kalimpong",
+      "a": "Yes. NBSTC, the North Bengal State Transport Corporation, runs buses from the Siliguri bus terminus to Kalimpong at set times through the day. They cost a little less than a jeep seat and are slower, with more stops. Buses suit travellers with time and light luggage. Check current timings at the terminus, as schedules change."
+    },
+    {
+      "q": "How do I get from Kalimpong to Lava without a car",
+      "a": "Take a shared jeep from the Kalimpong motor stand. Several leave each morning, the seat costs ₹100–150, indicative 2026, and the ride takes about 1.5 hours through Algarah. Buy your ticket the evening before or arrive early. The jeep drops you in Lava bazaar, a short walk from the forest lodge and the Neora permit office."
+    },
+    {
+      "q": "Is there a shared jeep from Lava to Rishyap",
+      "a": "Not regularly. Most days there is no scheduled service between Lava and Rishyap. You can walk the 4 km forest trail, best uphill with a local guide, or hire a car for about ₹800–1,200, indicative 2026. Some homestays arrange pickups from Lava if you book with them. Carry luggage light if you plan to walk."
+    },
+    {
+      "q": "Can I travel from Kalimpong to Gangtok by shared jeep",
+      "a": "Yes. Shared jeeps to Gangtok leave Kalimpong in the morning for about ₹250–400 a seat, indicative 2026, and take three to three and a half hours via the Teesta and Rangpo. Carry photo ID for the Sikkim checkpost; foreign nationals need a Sikkim permit. Check current status before you travel, since NH10 closures affect this route too."
+    },
+    {
+      "q": "Are shared jeeps safe for women travelling alone",
+      "a": "Generally yes. Shared jeeps carry families, schoolchildren and office workers, and women travel alone on them every day. Sit beside other women where you can, travel in daylight, and keep your phone charged. If something feels wrong, get off at the next town; another jeep will come. Drivers and fellow passengers tend to look out for visitors."
+    },
+    {
+      "q": "What happens to shared jeeps when NH10 is closed",
+      "a": "Jeeps take the detours, either by Gorubathan and Lava or by Darjeeling and Peshok. Journeys take one to three hours longer, fares rise a little, and fewer jeeps run, so seats sell out early. Ask at the stand about the day's route before you buy. Check current status before you travel, especially from June to September."
+    },
+    {
+      "q": "Can I book a shared jeep seat in advance",
+      "a": "On busy routes, yes, but usually only in person, the evening before, at the counter where the jeep leaves. Few shared jeeps can be booked online. Paying for a front seat ahead is common. If you arrive on a late train, a reserved car is more reliable than hoping for a seat."
+    },
+    {
+      "q": "How much luggage can I take on a shared jeep",
+      "a": "One medium bag per person is normal, and it goes on the roof under a tarpaulin. Very large suitcases may be refused or charged as an extra seat. Keep a small daypack inside with valuables, medicines, water and a jacket. Pack your roof bag in a plastic liner, because rain and dust find their way in."
+    }
   ]
 }

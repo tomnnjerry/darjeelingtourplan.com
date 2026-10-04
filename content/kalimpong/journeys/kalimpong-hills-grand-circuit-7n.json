@@ -3,23 +3,58 @@
   "title": "Darjeeling, Kalimpong, Lava, Lolegaon: 7 nights",
   "region": "kalimpong",
   "nights": 7,
-  "themes": ["mountain-views", "toy-train", "village-homestays", "monasteries", "birding-and-orchids"],
+  "themes": [
+    "mountain-views",
+    "toy-train",
+    "village-homestays",
+    "monasteries",
+    "birding-and-orchids"
+  ],
   "stops": [
-    {"place": "darjeeling", "nights": 2},
-    {"place": "kalimpong", "nights": 2},
-    {"place": "lava", "nights": 2},
-    {"place": "lolegaon", "nights": 1}
+    {
+      "place": "darjeeling",
+      "nights": 2
+    },
+    {
+      "place": "kalimpong",
+      "nights": 2
+    },
+    {
+      "place": "lava",
+      "nights": 2
+    },
+    {
+      "place": "lolegaon",
+      "nights": 1
+    }
   ],
   "start": "Bagdogra Airport (IXB) or NJP station",
   "end": "Bagdogra Airport (IXB) or NJP station",
   "price_from_inr": 20500,
-  "fares": {"budget": 20500, "comfort": 32500, "premium": 62000},
+  "fares": {
+    "budget": 20500,
+    "comfort": 32500,
+    "premium": 62000
+  },
   "fare_notes": {
     "budget": "A budget hotel near the Mall in Darjeeling, Deolo Tourist Lodge or a guesthouse in Kalimpong, the WBFDC Lava Eco Tourism Centre and the WBFDC Lolegaon Eco Tourism Centre or a homestay, twin sharing; a private small car shared by four from Darjeeling onwards, shared jeep up from Siliguri; a shared Neora jeep; breakfast daily, dinner at Lava and Lolegaon.",
     "comfort": "A good mid-range hotel in Darjeeling, Morgan House or Holumba Haven in Kalimpong, the better rooms in Lava and Lolegaon; a private car throughout; toy-train joy ride and Neora jeep booked ahead; breakfast and dinner daily.",
     "premium": "Windamere or The Elgin in Darjeeling, Mayfair Himalayan Spa Resort or Elgin Silver Oaks in Kalimpong, then the best available rooms in Lava and Lolegaon, which are simple by comparison; a private Innova-class car; steam joy ride where running; a bird guide in Neora; breakfast and dinner daily."
   },
-  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "best_months": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2,
+    1
+  ],
   "pace": "Balanced",
   "max_altitude_m": 2590,
   "meta_description": "Darjeeling, Kalimpong, Lava and Lolegaon in 7 nights from ₹20,500 per person: toy train, Tiger Hill, Durpin, Neora Valley, Rishyap and a forest village.",
@@ -105,11 +140,19 @@
       "place": "siliguri",
       "overnight": "",
       "drive": "≈ 120 km · 4.5–5 h",
-      "text": "A last sunrise from Jhandi Dara above Lolegaon, then breakfast and the drive down through Kalimpong and the Teesta, or by Lava and Gorubathan if NH10 is closed. Allow 4.5–5 hours to Bagdogra or NJP and book trains or flights after 3 pm. Check current status before you travel, because NH10 has closed often since the October 2023 flood.",
+      "text": "A last sunrise from Jhandi Dara above Lolegaon, then breakfast and the drive down through Kalimpong and the Teesta, or by Lava and Gorubathan if NH10 is closed. Allow 4.5–5 hours to Bagdogra or NJP and book trains or flights after 3 pm. Check current status before you travel, because NH10 has closed often since the October 2023 flood. If you have time before your flight, stop for tea at Teesta Bazaar or for an hour at a Siliguri market for last gifts of Darjeeling tea.",
       "meals": "Breakfast"
     }
   ],
-  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "wbfdc-lava-eco-tourism-centre", "wbfdc-lolegaon-eco-tourism-centre"],
+  "stays": [
+    "deolo-tourist-lodge-kalimpong",
+    "morgan-house-kalimpong",
+    "holumba-haven-kalimpong",
+    "mayfair-himalayan-spa-resort-kalimpong",
+    "elgin-silver-oaks-kalimpong",
+    "wbfdc-lava-eco-tourism-centre",
+    "wbfdc-lolegaon-eco-tourism-centre"
+  ],
   "includes": [
     "7 nights: 2 Darjeeling, 2 Kalimpong, 2 Lava, 1 Lolegaon, twin sharing",
     "Breakfast daily; dinners at Lava and Lolegaon on all tiers, and every night on comfort and premium",
@@ -137,14 +180,41 @@
     "NH10 closes often in the rains; diversions add one to three hours to transfer days."
   ],
   "faqs": [
-    {"q": "Is 7 nights enough for Darjeeling and Kalimpong district", "a": "Yes, for a full but relaxed look. Two nights each in Darjeeling, Kalimpong and Lava, plus one in Lolegaon, cover the toy train, Tiger Hill, Kalimpong's monasteries, Neora Valley, Rishyap and a forest village. You will not see Sandakphu, Sikkim or the Dooars. For those, add three to four nights or pick a different trip."},
-    {"q": "How much does a 7-night Darjeeling and Kalimpong trip cost", "a": "From about ₹20,500 per person on our budget tier, twin sharing, indicative 2026, with breakfast daily, dinners in the villages and a shared car from Darjeeling. Comfort runs about ₹32,500 and premium about ₹62,000 per person. Peak weeks in May, October and late December cost more."},
-    {"q": "Why stay in Lava rather than doing it as a day trip", "a": "Neora Valley's jeep leaves at first light, and the best of the forest is in the early morning. A day trip from Kalimpong means a 5 am start and three hours of driving before you even enter the park. Sleeping at Lava also gives you the pine forest at dusk and the chance of Kanchenjunga at dawn."},
-    {"q": "Is Lolegaon worth one night", "a": "Yes. One night gives you the canopy walk in the afternoon and the Jhandi Dara sunrise in the morning, which are the two reasons to go. Two nights suit travellers who want a quiet day of village walks. It is also a sensible last stop, since the road down to Siliguri is straightforward."},
-    {"q": "Can we see Kanchenjunga on this trip", "a": "Very likely, between October and April. You get three chances at sunrise, from Tiger Hill, Tiffin Dara at Rishyap and Jhandi Dara at Lolegaon, plus daytime views from Darjeeling and Kalimpong. October to December is the most reliable. From June to September the peaks are hidden on most days."},
-    {"q": "Can we do this trip in reverse", "a": "Yes. Starting at Lolegaon and ending in Darjeeling works well, and puts the shortest drive, Darjeeling to Bagdogra, at the end. The only catch is booking the toy-train joy ride for a fixed date late in the trip. We choose the direction based on your flight times and which road is open."},
-    {"q": "Do foreigners need permits for this trip", "a": "No special permits are needed for Darjeeling, Kalimpong, Lava or Lolegaon. Foreign nationals pay a higher entry fee for Neora Valley, about ₹500 against ₹120–150 for Indians, indicative 2026, and must carry their passport. Permits are needed only if you continue into Sikkim. Check current status before you travel."},
-    {"q": "Is this trip suitable for seniors", "a": "Yes, at the comfort tier with a private car. Walks are short, and the altitudes, 1,250–2,590 m, suit most healthy older travellers. Skip the Changey Falls trail and choose lodge rooms near the road at Lava. The two pre-dawn starts are optional. Carry warm clothes and regular medicines, as Lava and Lolegaon have limited medical care."},
-    {"q": "What is the best month for this circuit", "a": "October and November for clear views and dry roads, and March to April for rhododendrons, birds and mild days. December to February is clear but cold, with Lava near freezing at night. May is pleasant but hazy and busy. We avoid mid-June to mid-September for landslides and the Neora Valley closure."}
+    {
+      "q": "Is 7 nights enough for Darjeeling and Kalimpong district",
+      "a": "Yes, for a full but relaxed look. Two nights each in Darjeeling, Kalimpong and Lava, plus one in Lolegaon, cover the toy train, Tiger Hill, Kalimpong's monasteries, Neora Valley, Rishyap and a forest village. You will not see Sandakphu, Sikkim or the Dooars. For those, add three to four nights or pick a different trip."
+    },
+    {
+      "q": "How much does a 7-night Darjeeling and Kalimpong trip cost",
+      "a": "From about ₹20,500 per person on our budget tier, twin sharing, indicative 2026, with breakfast daily, dinners in the villages and a shared car from Darjeeling. Comfort runs about ₹32,500 and premium about ₹62,000 per person. Peak weeks in May, October and late December cost more."
+    },
+    {
+      "q": "Why stay in Lava rather than doing it as a day trip",
+      "a": "Neora Valley's jeep leaves at first light, and the best of the forest is in the early morning. A day trip from Kalimpong means a 5 am start and three hours of driving before you even enter the park. Sleeping at Lava also gives you the pine forest at dusk and the chance of Kanchenjunga at dawn."
+    },
+    {
+      "q": "Is Lolegaon worth one night",
+      "a": "Yes. One night gives you the canopy walk in the afternoon and the Jhandi Dara sunrise in the morning, which are the two reasons to go. Two nights suit travellers who want a quiet day of village walks. It is also a sensible last stop, since the road down to Siliguri is straightforward."
+    },
+    {
+      "q": "Can we see Kanchenjunga on this trip",
+      "a": "Very likely, between October and April. You get three chances at sunrise, from Tiger Hill, Tiffin Dara at Rishyap and Jhandi Dara at Lolegaon, plus daytime views from Darjeeling and Kalimpong. October to December is the most reliable. From June to September the peaks are hidden on most days."
+    },
+    {
+      "q": "Can we do this trip in reverse",
+      "a": "Yes. Starting at Lolegaon and ending in Darjeeling works well, and puts the shortest drive, Darjeeling to Bagdogra, at the end. The only catch is booking the toy-train joy ride for a fixed date late in the trip. We choose the direction based on your flight times and which road is open."
+    },
+    {
+      "q": "Do foreigners need permits for this trip",
+      "a": "No special permits are needed for Darjeeling, Kalimpong, Lava or Lolegaon. Foreign nationals pay a higher entry fee for Neora Valley, about ₹500 against ₹120–150 for Indians, indicative 2026, and must carry their passport. Permits are needed only if you continue into Sikkim. Check current status before you travel."
+    },
+    {
+      "q": "Is this trip suitable for seniors",
+      "a": "Yes, at the comfort tier with a private car. Walks are short, and the altitudes, 1,250–2,590 m, suit most healthy older travellers. Skip the Changey Falls trail and choose lodge rooms near the road at Lava. The two pre-dawn starts are optional. Carry warm clothes and regular medicines, as Lava and Lolegaon have limited medical care."
+    },
+    {
+      "q": "What is the best month for this circuit",
+      "a": "October and November for clear views and dry roads, and March to April for rhododendrons, birds and mild days. December to February is clear but cold, with Lava near freezing at night. May is pleasant but hazy and busy. We avoid mid-June to mid-September for landslides and the Neora Valley closure."
+    }
   ]
 }
