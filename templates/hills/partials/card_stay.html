@@ -1,0 +1,7 @@
+{% load hills %}<a class="card card--stay rv" href="{{ s.url }}" data-item data-region="{{ s.region }}" data-kind="{{ s.tier }}" data-land="{{ s.region }}">
+  <span class="stamp stamp--{{ s.tier }}">{{ s.tier }}</span>
+  {% photo s|first_img alt=s.name sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
+  <span class="card__title card__title--s">{{ s.name }}</span>
+  <span class="card__meta">{{ s.kind|capfirst }}{% if s.place_obj %} · {{ s.place_obj.name }}{% endif %}</span>
+  <span class="rate">{{ s.rate_band }}</span>
+</a>

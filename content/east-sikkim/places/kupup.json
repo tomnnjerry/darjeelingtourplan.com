@@ -1,0 +1,175 @@
+{
+  "slug": "kupup",
+  "name": "Kupup",
+  "region": "east-sikkim",
+  "kind": "valley",
+  "wiki": "Kupup",
+  "image_query": "Kupup Elephant Lake Sikkim",
+  "lat": 27.333,
+  "lng": 88.83,
+  "altitude_m": 3980,
+  "tagline": "Elephant Lake, the Yak Golf Course and the old road to Jelep La",
+  "meta_description": "Kupup at ≈ 3,980 m: Elephant Lake (Bitang Tso), the Army's Yak Golf Course, Jelep La and the wool road, Silk Route permits for Indians, costs 2026.",
+  "summary": "Kupup is a high Army hamlet at about 3,980 m on the Silk Route, roughly 3 hours from Gangtok via Tsomgo and Baba Mandir. It is known for Elephant Lake (Bitang Tso), the Army's Yak Golf Course, listed by Guinness as the world's highest, and views towards Jelep La. Indian nationals only, on a Silk Route permit.",
+  "intro": [
+    "Kupup sits in a wide, open valley below the Dongkya Range, the ridge that marks the border with Tibet. It is a hamlet of Army camps, a few houses and yak pasture, at about 3,980 m. For most travellers it is a stop, not a stay: the high point of the drive between Gangtok and Zuluk, or a stretch past Baba Mandir. There are no trees here, only grass, juniper scrub, rocks and sky, and in winter a lot of snow.",
+    "Three things bring people. Elephant Lake, or Bitang Tso, a glacial lake just below the road that locals say is shaped like an elephant. The Yak Golf Course, an Army course that Guinness World Records lists as the highest in the world. And the view towards Jelep La, about 5 km away, the pass that carried the Kalimpong wool trade into Tibet for more than half a century. None of these takes long, so an hour covers them all.",
+    "Kupup lies in the protected border zone, on the Silk Route. Indian nationals need a Protected Area Permit for the route, arranged by a Gangtok agent or at Rongli, and travel in a locally registered car. Foreign nationals are not allowed here. The road is often blocked by snow from December to March. Visit on a clear morning between April and November, when the road is most reliable, and check current status before you travel."
+  ],
+  "story": {
+    "title": "The valley that 1,500 men could camp in",
+    "paras": [
+      "In late 1873 J. W. Edgar, the Deputy Commissioner of Darjeeling, walked these passes to find the best road into Tibet. He described Kupup as a grassy and rather marshy valley where 1,500 men could encamp, with plenty of fuel and rhododendron scrub. He noted a stream running down from Jelep La, past a steep rise called Tent Hill, into Menmecho Lake, which he thought especially beautiful. Edgar preferred Jelep La to Nathu La on physical grounds, and his report shaped what followed.",
+      "The British began a cart road to Jelep La in 1884, and Kalimpong grew into the market where Tibetan wool met Indian buyers. In 1910 the 13th Dalai Lama fled Chinese troops over Jelep La to Sikkim and Darjeeling. The route closed after the 1962 war. Today a motorable road follows much of the old British line from Kalimpong to Kupup, and soldiers rather than mule drivers keep the valley busy. In 2017, during the Doklam standoff, Kupup was a key supply link for the Indian Army."
+    ],
+    "source": "J. W. Edgar, Report on a visit to Sikhim and the Thibetan frontier (1874); Wikipedia articles Kupup and Jelep La"
+  },
+  "did_you_know": [
+    "Guinness World Records lists the Yak golf course at Kupup, 3,970 m above sea level and part of an Indian Army base, as the highest golf course in the world, measured on 10 October 2006.",
+    "Bitang Tso, or Elephant Lake, beside Kupup is conventionally regarded as the source of the Dichu river, which flows south-east into Bhutan.",
+    "Jelep La, about 5 km from Kupup, stands at about 4,390 m, a little higher than Nathu La, and was the main pass for the Kalimpong–Lhasa wool trade."
+  ],
+  "facts": [
+    ["Best months", "Apr – May, Oct – Nov"],
+    ["Nights we suggest", "0 (stop on the Silk Route)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 185 km via Gangtok"],
+    ["From Gangtok", "≈ 60–65 km · 3 h"],
+    ["Altitude", "≈ 3,980 m"],
+    ["Permit", "Silk Route PAP; Indian nationals only"],
+    ["Known for", "Elephant Lake, Yak Golf Course, Jelep La view"]
+  ],
+  "best_months": [1, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (stop on the Silk Route)",
+  "highlights": [
+    {"title": "Elephant Lake, or Bitang Tso", "text": "A small glacial lake in the hollow below Kupup, said by locals to look like an elephant lying down, trunk and all, when seen from the road above. It is green in summer, often frozen in winter, and regarded as the source of the Dichu river."},
+    {"title": "The Yak Golf Course", "text": "An Army golf course at 3,970 m that Guinness World Records lists as the highest in the world. It belongs to an Army base, so treat it as a view from the road, not a round you can book. Snow covers it for much of the winter."},
+    {"title": "The road towards Jelep La", "text": "Jelep La, at about 4,390 m, is around 5 km from Kupup. It was the pass of the Kalimpong wool trade, and the road you drive follows the old British line. The pass itself is closed to tourists; you see the ridge it crosses."},
+    {"title": "A high valley without trees", "text": "At nearly 4,000 m Kupup is above the tree line: grass, juniper and dwarf rhododendron, yaks grazing, and the Dongkya Range on the skyline. In May and June small alpine flowers come up between the rocks. It feels nothing like the forests around Gangtok."},
+    {"title": "The Silk Route crossing", "text": "Kupup is the link between the Nathu La road and the zigzag road down to Zuluk. Coming from Gangtok, it is the start of the Silk Route proper; coming from Zuluk, it is the last high stretch before Baba Mandir and Tsomgo."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "There are no regular shared jeeps to Kupup for tourists. Some Gangtok agents add Kupup to group Silk Route tours, with the price per seat depending on numbers. A full Silk Route trip in a shared group usually works out cheaper than a reserved car only with 5–6 people. Check current status before you travel."},
+    {"mode": "Reserved car", "text": "Most people pass through Kupup in a reserved car on the Silk Route: Gangtok to Zuluk via Tsomgo, Baba Mandir, Kupup and Nathang, about ₹5,500–7,500 one way, or ₹14,000–20,000 for a 2–3 day circuit, indicative 2026. The agent arranges the permit. Check current status before you travel."},
+    {"mode": "Rail / Air", "text": "Fly to Bagdogra (IXB) or take a train to New Jalpaiguri (NJP). Reach Gangtok, about 125 km, or the Silk Route base at Rongli and Zuluk via Rangpo. Pakyong Airport has no scheduled flights as of 2026. Spend a night at Gangtok or Zuluk before you climb to Kupup."}
+  ],
+  "where_to_stay": "We do not suggest sleeping at Kupup. At nearly 4,000 m, a night here invites altitude sickness, and there is no tourist accommodation we can recommend. Instead, sleep lower and pass through. On the Silk Route, Indian travellers stay in registered village homestays at Zuluk, around 2,900 m, with full board at about ₹1,500–2,500 a person a night, indicative 2026. From the Gangtok side, sleep in town: Hotel Sonam Delek or Mintokling Guest House on a budget, Netuk House or Royal Plaza in the middle range, and Elgin Nor-Khill or Taj Guras Kutir at the top end.",
+  "stays": [],
+  "costs": [
+    ["Reserved car, Gangtok to Zuluk via Kupup", "₹5,500–7,500 one way"],
+    ["Silk Route vehicle, 2–3 days", "₹14,000–20,000"],
+    ["Silk Route permit via agent", "≈ ₹200 a person"],
+    ["Zuluk homestay, full board", "₹1,500–2,500 a person a night"],
+    ["Tea and snacks on the road", "₹50–150"]
+  ],
+  "budget_tip": "Rather than a separate Kupup day from Gangtok, cross Kupup on your way to Zuluk: the same car that does Tsomgo and Baba Mandir carries you over the top, and you pay one Silk Route fare instead of two trips.",
+  "tips": [
+    "Do not sleep at Kupup; stop for 20–40 minutes and move on, and spend the night at Zuluk or Gangtok.",
+    "Treat the Yak Golf Course as a sight from the road; it is part of an Army base, and photography of Army installations is restricted.",
+    "Foreign nationals cannot visit Kupup or the Silk Route; for them, Tsomgo Lake is the limit on this road.",
+    "Between December and March, ask your agent each evening whether the Kupup road is open; snow can block it for days.",
+    "Carry cash in small notes, water and dry snacks, because there are few shops and patchy mobile signal between Baba Mandir and Zuluk."
+  ],
+  "themes": ["high-passes", "mountain-views", "budget-trips"],
+  "nearby": ["baba-harbhajan-singh-mandir", "nathang-valley", "zuluk", "tsomgo-lake"],
+  "experiences": [
+    {
+      "slug": "kupup-elephant-lake-viewpoint",
+      "title": "Elephant Lake from the road above",
+      "kind": "nature",
+      "duration": "20–30 minutes",
+      "best_time": "Morning, May–June and Oct–Nov",
+      "cost": "Free (Silk Route permit and car extra)",
+      "image_query": "Elephant Lake Kupup Bitang Tso",
+      "wiki": "",
+      "summary": "Bitang Tso, the small glacial lake below Kupup that locals call Elephant Lake for its shape. Seen from the road above, the outline of a resting elephant is easy to pick out. It is the source of the Dichu river.",
+      "body": [
+        "Bitang Tso lies in the same high hollow as Kupup, on its south-eastern side. From the road above, drivers point out its shape: a body, a head and a long trunk, like an elephant lying down. That is the local explanation of the name, and once you see it you cannot unsee it. In summer the water is dark green and the grass around it bright. In winter it often freezes and disappears under snow.",
+        "The lake is conventionally regarded as the source of the Dichu river, though other streams off the Dongkya Range carry more water. The Dichu runs south-east past Mount Gipmochi and into Bhutan. So from one roadside stop you are looking at water bound for Bhutan, while the streams a short way behind you drain north-west towards Menmecho Lake and the Teesta. The watershed between two river systems, and two countries' rivers, runs right past your car.",
+        "Stop where your driver suggests; the road shoulder is narrow and Army trucks use it. You will usually view the lake from above rather than walk down to it, since this is a restricted border area. Mornings are clearer, and by early afternoon cloud often rolls over the valley. Keep the stop to 20 or 30 minutes. At nearly 4,000 m, even standing still for a photograph is tiring, so let the youngest and oldest stay in the warm car."
+      ],
+      "good_for": ["photographers", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Why is it called Elephant Lake", "a": "Local tradition explains the name by its shape. Seen from the road above, the lake's outline looks like an elephant lying down, with a trunk stretching to one side. Its older name is Bitang Tso, and it is also called Kupup Lake. The likeness is clearest in summer, when the water is open and the shore is green, rather than in winter under snow."},
+        {"q": "Can we walk down to Elephant Lake", "a": "Usually not. Kupup is a restricted border area with Army camps around it, and tourists are expected to view the lake from the road. Some drivers know a spot where you can stand a little closer, but follow their lead and any Army instructions. Do not wander off the road on your own, both for security and because the ground is boggy."},
+        {"q": "Is Elephant Lake frozen in winter", "a": "Often, yes. From about December to March the lake is frequently frozen and covered with snow, and the elephant shape can vanish under white. The road to Kupup may also be closed for days in this period. For the clearest view of the outline, come between May and June or in October and November. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kupup-yak-golf-course-view",
+      "title": "The Yak Golf Course, highest in the world",
+      "kind": "culture",
+      "duration": "10–15 minutes",
+      "best_time": "Apr–Nov, when free of snow",
+      "cost": "Free to view (not open for public play)",
+      "image_query": "Yak Golf Course Kupup Sikkim",
+      "wiki": "",
+      "summary": "Guinness World Records lists the Yak golf course at Kupup, at 3,970 m, as the highest golf course in the world. It is part of an Indian Army base. For visitors it is a view and a photo from the road, not a tee time.",
+      "body": [
+        "Guinness World Records lists the Yak golf course at Kupup as the highest altitude golf course in the world, at 13,025 ft, or 3,970 m, measured on 10 October 2006. It is about 6,026 yards long and forms part of an Indian Army base. A signboard by the road usually marks it, and drivers stop there because nearly everyone wants the photograph. The course sits in the open valley close to Elephant Lake, so the two stops go together.",
+        "Expect rough, grassy fairways between rocks, shaped by the valley rather than by bulldozers, and flags that may or may not be out on the day. Weather here changes fast, and the course is often closed by snow, cloud or wind. As far as we know, it is not open for tourists to play, and we would not plan a trip around a round of golf. Treat it as one of Kupup's sights.",
+        "Photography of the signboard and the open course from the road is usually fine, but do not photograph Army buildings, vehicles or soldiers, and move on if asked. The stop works best combined with the Elephant Lake viewpoint nearby. If you play golf and want a story to take home, a photo at the world's highest course will do the job, and it costs nothing. Keep it brief; the wind here cuts through thin jackets."
+      ],
+      "good_for": ["first-timers", "families", "photographers"],
+      "faqs": [
+        {"q": "Is the Yak Golf Course really the highest in the world", "a": "Guinness World Records lists the Yak golf course at Kupup, East Sikkim, at 13,025 ft or 3,970 m, as the highest altitude golf course in the world, measured on 10 October 2006. It is about 6,026 yards long and part of an Indian Army base. Other high courses exist elsewhere, but this is the one Guinness names."},
+        {"q": "Can tourists play golf at Kupup", "a": "We would not count on it. The Yak Golf Course belongs to an Indian Army base, and as far as we know it is not open for tourists to book a round. Weather also closes it often. Enjoy it as a view from the road and a photo stop, and follow any instructions from Army staff about where you may stand."},
+        {"q": "Where is the Yak Golf Course", "a": "It is at Kupup, on the Silk Route road in East Sikkim, a short drive beyond Baba Mandir and about 3 hours from Gangtok via Tsomgo. It lies in the open valley close to Elephant Lake. Indian nationals need a Silk Route Protected Area Permit to drive this far. Foreign nationals cannot visit. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kupup-jelep-la-wool-road",
+      "title": "Looking towards Jelep La and the wool road",
+      "kind": "culture",
+      "duration": "15–20 minutes",
+      "best_time": "Clear mornings, Oct–Nov and Apr–May",
+      "cost": "Free (Silk Route permit and car extra)",
+      "image_query": "Jelep La pass Sikkim",
+      "wiki": "Jelep La",
+      "summary": "From Kupup you look towards Jelep La, about 5 km away at roughly 4,390 m, the pass that carried Tibetan wool to Kalimpong for decades. The pass is closed to tourists, but standing here and knowing its story changes the whole Silk Route drive.",
+      "body": [
+        "Jelep La was the great trade pass of this frontier. The route ran from Kalimpong through Pedong, Rhenock and Rongli, up past Zuluk and Nathang to Kupup, then over Jelep La into the Chumbi Valley and on to Lhasa. The British started a cart road to the pass in 1884, and by the early 20th century Kalimpong was the market where Tibetan wool met Indian buyers. Mule trains carried wool south and cloth, tools and grain north.",
+        "The pass also carried history. In 1888 Tibetan troops were pushed back over it after the fighting at Gnathang. Younghusband's expedition used it in 1903–04. In 1910 the 13th Dalai Lama crossed it in flight from Chinese troops, staying almost two years in Darjeeling and Sikkim. After the 1962 war it was closed, and unlike Nathu La it has not reopened for trade. Talk of reopening it comes up from time to time, but nothing has changed on the ground.",
+        "You cannot go to Jelep La; it is a closed border pass. From the Kupup area your driver can point out the ridge it crosses on the Dongkya Range. Below it lies Menmecho Lake, the source of the Rangpo Chu, which is also closed to tourists. Stand for a few minutes, look north-east, and picture a line of mules with bells on the slope, the drivers wrapped in wool against the same wind you feel."
+      ],
+      "good_for": ["students", "solo", "seniors"],
+      "faqs": [
+        {"q": "Can tourists visit Jelep La", "a": "No. Jelep La is a closed border pass between Sikkim and Tibet, and tourists are not allowed to go up to it. From the Kupup area you can see the ridge it crosses, and your driver can point it out on a clear day. The nearest pass you can actually visit is Nathu La, for Indian nationals on a permit. Check current status before you travel."},
+        {"q": "What is the difference between Jelep La and Nathu La", "a": "They are about 5 km apart on the same Dongkya Range. Jelep La, at about 4,390 m, served Kalimpong and the wool trade; Nathu La, at 4,310 m, served Gangtok. Both closed after 1962. Nathu La reopened for border trade in 2006 and is open to Indian tourists. Jelep La has stayed closed to trade and to visitors."},
+        {"q": "Can we visit Menmecho Lake from Kupup", "a": "No. Menmecho Lake lies below Jelep La at about 3,830 m and is closed to tourists. It is known for its trout and has a fish farm nearby, and it feeds the Rangpo Chu, a tributary of the Teesta. Kupup's Elephant Lake is the lake you can see on this stretch, from the road. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kupup-high-road-to-nathang",
+      "title": "The high road from Kupup to Nathang and Zuluk",
+      "kind": "adventure",
+      "duration": "2–2.5 hours with stops",
+      "best_time": "Apr–May and Oct–Nov; start by 10 am",
+      "cost": "Part of the Silk Route car, ₹5,500–7,500 one way",
+      "image_query": "Silk Route Sikkim Kupup road",
+      "wiki": "",
+      "summary": "From Kupup the Silk Route runs over open high ground past the old bunker shrine and Nathang Valley, then drops down the famous zigzags to Zuluk. About 35 km and 2 hours, and the best way to see this frontier from a car seat.",
+      "body": [
+        "Leaving Kupup towards Zuluk, the road crosses bare high ground at around 4,000 m. On the way you pass the old Baba Mandir at the site of Harbhajan Singh's bunker, and the open bowl of Nathang Valley, where yak herders graze their animals around a small village. The views are long, the air thin, and Army convoys share the road. Pull over when the driver signals; the trucks have right of way on the narrow bends.",
+        "Below Nathang the road reaches the Thambi viewpoint and then begins its famous descent to Zuluk, often counted as more than 30 hairpin bends in a short distance. On a clear morning, Kangchenjunga shows on the western skyline from this stretch. By early afternoon cloud usually rises from the valleys. That is why we cross the top in the morning and reach Zuluk by lunch, with the afternoon free to rest and adjust.",
+        "This is a Silk Route drive, for Indian nationals only, on a permit arranged through a Gangtok agent or at Rongli. Use an experienced local driver in a locally registered car. Carry water, snacks and warm layers, and do not plan to stop overnight above Zuluk. In winter, snow can close the road between Kupup and Nathang for days, and drivers will not take risks with it. Check current status before you travel."
+      ],
+      "good_for": ["couples", "photographers", "students", "solo"],
+      "faqs": [
+        {"q": "How long does it take from Kupup to Zuluk", "a": "About 35 km and 2 to 2.5 hours with stops, depending on snow, Army traffic and how often you stop for photos. The route passes the old Baba Mandir, Nathang Valley and the Thambi viewpoint before the zigzag descent. From Gangtok to Zuluk via Tsomgo and Kupup, plan on 5 to 6 hours. Check current status before you travel."},
+        {"q": "Is the Silk Route road from Kupup safe", "a": "Yes, when it is officially open and you travel with an experienced local driver. The road is narrow in places, with steep drops and Army trucks, and the main risks are snow, ice and altitude. Travel in daylight, start early, and let the driver decide when to stop. In winter, wait for the road to be cleared rather than pushing on."},
+        {"q": "Can we start the Silk Route from Gangtok", "a": "Yes, and it is a popular choice. From Gangtok you drive to Tsomgo, Baba Mandir and Kupup, then down past Nathang to Zuluk for the night. The other direction, from Rongli up to Zuluk, is gentler on the body because you climb more slowly. Both need a Silk Route permit for Indian nationals. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Kupup", "a": "Kupup is a hamlet at about 3,980 m in East Sikkim, near the border with Tibet and close to Jelep La. It sits on the Silk Route road between Baba Mandir and Nathang, about 60–65 km and 3 hours from Gangtok via Tsomgo, or about 35 km and 2 hours above Zuluk. It is mostly Army camps, yak pasture and open valley."},
+    {"q": "Do I need a permit for Kupup", "a": "Yes. Kupup is in a protected border area on the Silk Route. Indian nationals need a Protected Area Permit, arranged through a registered Gangtok agent or at Rongli, with two passport photos and a copy of a photo ID per person, at about ₹200 a person. Foreign nationals are not permitted. Check current status before you travel."},
+    {"q": "Can foreigners visit Kupup", "a": "No. Kupup and the rest of the Silk Route, including Zuluk and Nathang, are closed to foreign nationals, and OCI card holders are treated the same. Foreigners can visit Tsomgo Lake on a day permit through a registered agent, usually in a group of two or more, but not beyond. Check current status before you travel."},
+    {"q": "Can we visit Kupup on a day trip from Gangtok", "a": "It is possible with the right permit, but most people see Kupup on the way to Zuluk, not as a return day trip. The return drive from Gangtok is long, about 6 to 7 hours of driving at high altitude. Crossing Kupup to sleep at Zuluk, about 2,900 m, is easier on the body and better value. Ask your agent, and check current status before you travel."},
+    {"q": "Is Kupup open in winter", "a": "Not reliably. From December to March the road over Kupup is often blocked by snow, sometimes for days, and permits for the stretch may be suspended. February is usually the hardest month. When the road is open, the snowfields are beautiful, but keep spare days. April–May and October–November are the dependable windows. Check current status before you travel."},
+    {"q": "How high is Kupup and is altitude sickness a risk", "a": "Kupup is at about 3,980 m, and the Yak Golf Course is listed at 3,970 m. That is high enough for headaches, breathlessness and nausea, especially if you came straight from the plains. Do not sleep here, stop for under an hour, walk slowly and drink water. Anyone with heart or lung conditions, or who is pregnant, should consult a doctor first."},
+    {"q": "What is Elephant Lake at Kupup", "a": "Elephant Lake, also called Bitang Tso or Kupup Lake, is a small glacial lake beside Kupup. Locals name it for its outline, which from the road above looks like an elephant lying down. It is regarded as the source of the Dichu river, which flows into Bhutan. Tourists view it from the road; it is often frozen in winter."},
+    {"q": "Is there food or a place to stay at Kupup", "a": "Not for tourists in any reliable way. There may be a tea stall or small shop, but do not count on a meal, and we do not recommend sleeping at this height. Eat at Tsomgo or Zuluk, and carry water and snacks. Plan the night at Zuluk, in a registered homestay with full board for about ₹1,500–2,500 a person, indicative 2026."},
+    {"q": "Why was Kupup important in history", "a": "Kupup lies on the old road from Kalimpong to Jelep La, the main pass of the wool trade with Tibet. J. W. Edgar surveyed it in 1873 and recorded that 1,500 men could camp in its valley. The British built a cart road to the pass from 1884, and in 2017 Kupup was a key link for the Indian Army during the Doklam standoff."}
+  ]
+}

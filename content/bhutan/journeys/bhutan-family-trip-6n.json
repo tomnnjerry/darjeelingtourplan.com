@@ -1,0 +1,142 @@
+{
+  "slug": "bhutan-family-trip-6n",
+  "title": "Bhutan family trip in 6 nights",
+  "region": "bhutan",
+  "nights": 6,
+  "themes": ["family-trips", "monasteries", "village-homestays"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 2},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 33500,
+  "fares": {"budget": 33500, "comfort": 54000, "premium": 180000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Lobesa in Punakha and Hotel Olathang in Paro, twin sharing, with family rooms where available; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per adult per night. Fares are per adult. The budget fare assumes 4–6 travellers sharing one vehicle. Couples travelling alone pay more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk in Thimphu, Dhensa Boutique Resort in Punakha and a 4-star hotel in Paro, with interconnecting or family rooms where available; a private car and guide; breakfast and dinner; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, the best luxury lodge available in Punakha and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights extra."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3120,
+  "meta_description": "An easy-paced Bhutan family trip: 6 nights in Thimphu, Punakha and Paro with takin, archery and a farmhouse visit, from ₹33,500 per adult with SDF.",
+  "summary": "Bhutan at a child's pace: short drives, no early starts except one, and things children remember: the takin, an archery match, a suspension bridge over a glacier river and dinner in a farmhouse. Six nights in Thimphu, Punakha and Paro from ₹33,500 per adult, twin sharing, with SDF, guide, car and two meals a day.",
+  "intro": [
+    "We plan family trips around one rule: no drive longer than about 4 hours, and something to see every hour of it. This route keeps the longest stretches to Thimphu–Punakha and Punakha–Paro, both broken at Dochula. Thimphu and Paro sit at about 2,200–2,300 m, which most children handle well if they drink water and rest on day one. Punakha at about 1,250 m is warm, flat and good for running about.",
+    "Bhutan is also kind to family budgets. Indian children aged 6–12 pay half the SDF, ₹600 a night, and under-6s pay nothing. Our fares are per adult, for Indian nationals, and include SDF at ₹1,200 per adult per night and a licensed guide, which the Department of Tourism notification of 8 April 2026 requires beyond the first checkpoint. A good guide with children is worth a great deal: ask us for one who enjoys them."
+  ],
+  "highlights": [
+    "The takin, Bhutan's national animal, at the Motithang preserve",
+    "An archery match at the ground in Thimphu, the national sport since 1971",
+    "The long suspension bridge over the river in Punakha",
+    "Dinner and a hot stone bath at a Paro farmhouse",
+    "A family-paced Tiger's Nest walk to the halfway cafeteria or all the way"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Land at Paro, settle in Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Children love the landing at Paro, a visual approach down a valley between ridges. Show a passport or original Voter ID for each adult; children under 18 without a passport need their original birth certificate. Your guide meets you outside. The drive to Thimphu takes about an hour and a half with a tea stop at Chhuzom, where two rivers meet beside three chortens. After lunch, rest. Late afternoon, walk to Clock Tower Square and watch the policeman directing traffic by hand from his painted box: Thimphu has no traffic lights, which children always find hard to believe.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Takin, archery and a giant Buddha",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Start at the Motithang Takin Preserve, where the national animal grazes in a fenced forest. Tell the children the legend: Drukpa Kunley, the Divine Madman, ate a cow and a goat, then stuck the goat's head on the cow's bones and the takin walked away. Then the Folk Heritage Museum, set in an old-style farmhouse. After lunch, the archery ground; archery became the national sport in 1971 and teams shoot at targets about 145 m away, singing and dancing when they hit. End at Buddha Dordenma, about 51.5 m high. Fees Nu 300–500 for adults, usually half for children, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dochula and down to Punakha",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "A relaxed start. At Dochula, 22 km and about 45 minutes from Thimphu at 3,100 m, children can count the 108 chortens and look for the snow peaks on a clear day. A little further down, the Royal Botanical Park at Lamperi has easy forest paths; entry Nu 100, indicative 2026. The road then drops to Punakha at about 1,250 m, warm enough for T-shirts much of the year. Afternoon by the hotel or a short walk along the river. If your children are older, the 20–30 minute walk through rice fields to Chimi Lhakhang, built in 1499, is easy and pretty.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Punakha Dzong and the swinging bridge",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 30 km in the valley",
+      "text": "Cross the wooden cantilever bridge into Punakha Dzong, built in 1637–38 where the Pho Chhu and Mo Chhu meet. It looks like a fortress from a storybook, and it was the seat of government until 1955. The first king was crowned here in 1907. Entry Nu 500 for adults, indicative 2026. Then walk across the long suspension bridge over the Pho Chhu, hung with prayer flags, which sways gently as you cross; hold small hands. Picnic lunch on the riverbank. Families with teenagers can ask us about a gentle rafting float on the river in the right season.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "To Paro and a farmhouse evening",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 130 km · 4–4.5 h",
+      "text": "The longest drive of the trip, broken into two halves: over Dochula to Thimphu for lunch, then on to Paro. Late afternoon we visit a farmhouse in the Paro valley. The family shows you the house, often with the altar room upstairs, and serves dinner: red rice, kewa datshi with potato and cheese, ema datshi for those who like chilli, and butter tea. Parents can book a hot stone bath, ₹1,500–3,000, where river stones heated in a fire warm a wooden tub. Children usually prefer to watch the stones go in.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tiger's Nest at a family pace",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Start by 7.30 am from the car park at about 2,600 m. The cafeteria viewpoint, roughly halfway, is a good target for families with children under 10: about 1–1.5 hours up, with the temple in full view across the gorge. Older children who walk regularly can go the whole way, about 500 m of climbing to about 3,120 m and 4–6 hours return. Tell them the legend: Guru Rinpoche flew here on a tigress. Entry to the temple Nu 1,000 for adults, indicative 2026. Afternoon at Rinpung Dzong, consecrated in 1646, and the National Museum.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "Most flights from Paro leave in the morning. Reach the airport 2 hours before departure with every family member's ID and Entry Permit. Pack snacks and a book: Paro flights depend on visibility and can be delayed. Keep a buffer of several hours before onward trains or flights from Bagdogra, Kolkata or Delhi. If you have time, buy small souvenirs on Paro's main street: prayer flags, woven bags and postage stamps, which Bhutan has long been known for. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "6 nights in Department of Tourism-certified hotels in your chosen tier, twin sharing, family rooms where available",
+    "Breakfast and dinner daily, with a farmhouse dinner in Paro",
+    "SDF at the Indian rate of ₹1,200 per adult per night; children 6–12 pay ₹600 and under-6s nothing",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for all transfers and sightseeing",
+    "Entry Permit help and the Route Permit for Punakha"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument fees: Tiger's Nest Nu 1,000, dzongs Nu 300–500, usually half for children aged 6–18, indicative 2026",
+    "Lunches, drinks and snacks",
+    "Hot stone bath, rafting and pony hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Travel with another family and share one Hiace and one guide; the vehicle costs the same for four people or eight.",
+    "Travel in the December school break or early March rather than the Puja and May peaks, when flights and hotels cost most.",
+    "Ask for a triple or family room where the hotel allows it; a child sharing your bed costs far less than a separate room."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per adult per night; children aged 6–12 pay half and under-6s pay nothing. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indian adults need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry their original birth certificate.",
+    "Children dress like adults at dzongs: long sleeves, long trousers or skirts and no caps.",
+    "Most hotels can make food without chilli; ask the guide to order for the children each evening."
+  ],
+  "faqs": [
+    {"q": "Is Bhutan good for a family holiday with kids", "a": "Yes, if you keep the pace slow. Bhutan is clean, calm and safe, with short distances between Thimphu, Punakha and Paro. Children enjoy the takin, archery matches, suspension bridges and farmhouse visits. The main things to manage are altitude on day one, a few winding roads and spicy food, all easy with planning. Our family trip keeps every drive under about 4.5 hours."},
+    {"q": "Can I do Tiger's Nest with kids", "a": "Yes, with a plan. Children under about 10 usually manage the walk to the halfway cafeteria, about 1–1.5 hours up, where the temple is in full view. Older children who walk often can go the whole way, about 500 m of climbing to about 3,120 m and 4–6 hours return. Ponies can often be hired for the first section. Carry water, snacks and a warm layer."},
+    {"q": "Do children pay SDF in Bhutan", "a": "Yes, at a reduced rate. For Indian nationals, children aged 6–12 pay half the SDF, ₹600 per night, and children under 6 pay nothing. Children from 13 pay the full ₹1,200. For other nationalities, the same half-rate and free bands apply to the US$100 fee. Check current status before you travel."},
+    {"q": "What documents do children need to enter Bhutan", "a": "Indian children with a passport use it. Children under 18 without a passport need their original birth certificate, and adults need a passport valid for 6 months or an original Voter ID with passport photos. Aadhaar is not accepted for anyone. Carry photocopies as well as originals. Check current status before you travel."},
+    {"q": "How much does a 6-night Bhutan family trip cost", "a": "Our 6-night family trip costs from ₹33,500 per adult on budget, ₹54,000 on comfort and ₹1,80,000 on premium, twin sharing, indicative 2026, without flights. Children cost less because they pay half or no SDF and can often share a room. Tell us their ages and we will quote the whole family. The budget fare assumes 4–6 travellers share one vehicle."},
+    {"q": "Will children get altitude sickness in Bhutan", "a": "It is uncommon on this route. Thimphu is at about 2,320 m and Paro at about 2,200 m, and the highest points are Dochula at 3,100 m for a short stop and the Tiger's Nest at about 3,120 m. We keep day one easy so bodies adjust. Watch for headaches, vomiting or unusual tiredness, give plenty of water and tell your guide at once."},
+    {"q": "What is the best time to visit Bhutan with children", "a": "October and November are the best: dry, clear and mild, though Puja holidays fill flights. March to May is also good, with flowers and warmer days. December and January are cold at night but sunny and cheaper. June to August is the monsoon, with cloud, rain and flight delays, so we suggest other months for families."},
+    {"q": "Is the food in Bhutan too spicy for children", "a": "Some of it is. Ema datshi, the national dish of chillies and cheese, is very hot. But hotels and farmhouses also serve kewa datshi with potato, momos, red rice, dal, eggs and noodles, and most kitchens will cook without chilli if asked. Your guide can order for the children at each meal."},
+    {"q": "Is a guide compulsory in Bhutan for Indian families", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, including from Paro airport, and at monuments. We read this as covering Indians too. For families it is a help: the guide handles permits, tickets and meals. Our fares include one. Check current status before you travel."}
+  ]
+}

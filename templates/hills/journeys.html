@@ -1,0 +1,18 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Darjeeling, Sikkim and Bhutan tour packages with prices · Darjeeling Tour Plan{% endblock %}
+{% block description %}Tour packages from 2 to 10 nights across Darjeeling, Kalimpong, Sikkim, Bhutan and the Dooars, each with a budget, comfort and premium fare per person.{% endblock %}
+{% block content %}
+<header class="wrap phead--plain"><div class="phead__in" style="padding-top: 18px">
+  <p class="eyebrow">{% icon "ticket" %} Tour packages</p><h1 class="h-xl">Every package, every fare</h1>
+  <p class="lede">Prices are per person, twin sharing, starting and ending at Bagdogra, NJP or Siliguri. The ticket shows the budget fare; open a package to see comfort and premium.</p>
+</div></header>
+<section class="sec--tight"><div class="wrap">
+  <div class="filter-bar" data-filter-group="#pk-grid"><span class="label">Filter</span>
+    <select data-key="region" aria-label="Land"><option value="">All lands</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+    <select data-key="budget" aria-label="Budget"><option value="">Any budget</option><option value="under-15k">Under ₹15,000</option><option value="15-25k">₹15,000 – 25,000</option><option value="25k-plus">₹25,000 and above</option></select>
+    <select data-key="length" aria-label="Length"><option value="">Any length</option><option value="short">Up to 3 nights</option><option value="mid">4 to 6 nights</option><option value="long">7 nights or more</option></select>
+    <select data-key="themes" aria-label="Style"><option value="">Any style</option>{% for t in themes %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select></div>
+  <div class="grid grid--4" id="pk-grid" data-fill>{% for j in journeys %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  <p class="muted" data-empty hidden>No package matches all of those. Loosen a filter, or ask us to build one.</p>
+</div></section>
+{% endblock %}

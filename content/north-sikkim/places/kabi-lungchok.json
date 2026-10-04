@@ -1,0 +1,138 @@
+{
+  "slug": "kabi-lungchok",
+  "name": "Kabi Lungchok",
+  "region": "north-sikkim",
+  "kind": "village",
+  "wiki": "Kabi Lungchok",
+  "image_query": "Kabi Lungchok memorial stone Sikkim",
+  "lat": 27.42,
+  "lng": 88.61,
+  "altitude_m": 1400,
+  "tagline": "Where Lepcha and Bhutia leaders swore blood brotherhood",
+  "meta_description": "Kabi Lungchok, North Sikkim: the Lepcha–Bhutia blood brotherhood treaty, memorial stones, forest walk, how to reach from Gangtok and nearby Phensang.",
+  "summary": "Kabi Lungchok is a forest clearing on the North Sikkim Highway, about 17–21 km from Gangtok, where stone pillars mark the blood brotherhood sworn between the Lepcha leader Thekong Tek and the Bhutia prince Khye Bumsa. No permit is needed for Indians, and it makes a perfect first stop on the drive north.",
+  "intro": [
+    "Kabi Lungchok is a small, quiet site in a patch of forest beside the North Sikkim Highway, near the village of Kabi. The Mangan district administration puts it 17 km from Gangtok; other sources say about 21 km by road. It takes 45 minutes to an hour by car, and it is the first real stop on the way to Phodong, Mangan, Lachung or Lachen.",
+    "What you see is modest: a cluster of standing stones in a clearing among tall trees, prayer flags, a small shrine and, in recent years, statues of the two leaders. What it means is large. This is where, according to Sikkim's founding story, the Lepchas, the indigenous people of Sikkim, and the Bhutias, who came from Tibet, swore to live as brothers. The stones are said to mark the spot.",
+    "Ritual prayers are still held here each year to remember the treaty. For travellers, a 20–30 minute stop helps make sense of everything you will see further north: Lepcha Dzongu, Bhutia Lachen and Lachung, and the monasteries that link them. Indian citizens do not need a permit, and shared jeeps to Mangan pass the gate."
+  ],
+  "story": {
+    "title": "The oath sworn on blood at Kabi",
+    "paras": [
+      "In the 13th century, according to Sikkimese tradition, a Tibetan prince named Khye Bumsa, honoured for his strength in raising the pillars of a monastery at Sakya, settled in the Chumbi valley. He and his wife had no children, and he travelled to Sikkim to seek the blessing of the Lepcha leader and sage Thekong Tek. After that blessing, the story says, three sons were born.",
+      "Out of gratitude, Khye Bumsa returned to visit Thekong Tek, and the two men sealed a treaty of blood brotherhood at Kabi Lungchok, binding Lepchas and Bhutias together. Khye Bumsa swore not to discriminate against his new Lepcha subjects, and stone pillars were set up to mark the place where the oath was taken.",
+      "Khye Bumsa's descendant Phuntsog Namgyal was crowned the first Chogyal of Sikkim at Yuksom in 1642. The name Kabi Lungchok is usually explained as 'stone erected by our blood'. Treat the details as tradition, recorded in Sikkimese histories, but the friendship it stands for still matters in Sikkim's politics today."
+    ],
+    "source": "Wikipedia, 'Kabi Lungchok' and 'Indigenous peoples of Sikkim'; Mangan district administration"
+  },
+  "did_you_know": [
+    "Kabi Lungchok is also the name of a Sikkim assembly constituency, one of three in Mangan district.",
+    "Phensang Monastery, a Nyingma gompa founded in 1721, stands on the hillside between Kabi Lungchok and Phodong.",
+    "The forest around the site is home to birds such as the rufous-necked hornbill and crested serpent eagle, according to the site's Wikipedia article."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "0 (stop on the drive north)"],
+    ["Nearest airport", "Bagdogra (IXB) via Gangtok"],
+    ["From Gangtok", "≈ 17–21 km · 45 min–1 h"],
+    ["Altitude", "≈ 1,400 m"],
+    ["Known for", "Lepcha–Bhutia blood brotherhood stones"]
+  ],
+  "best_months": [2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2],
+  "nights": "Stopover",
+  "highlights": [
+    {"title": "The memorial stones", "text": "A group of upright stones in a forest clearing marks the place where the treaty was sworn. Walk around them slowly; they are treated as sacred. A signboard explains the history in English."},
+    {"title": "Statues of the two leaders", "text": "Life-size statues of the Lepcha leader Thekong Tek and the Bhutia prince Khye Bumsa have been erected at the site. They make the story easy to explain to children."},
+    {"title": "The forest itself", "text": "The site lies in a patch of mixed broadleaf forest with alder, chestnut and other trees. It is cool, shady and quiet, a good place to stretch your legs after the first hour of the drive."},
+    {"title": "Phensang Monastery nearby", "text": "On the slope between Kabi and Phodong, Phensang Monastery of the Nyingma school was founded in 1721. It is a short detour if you have time on the way north."},
+    {"title": "Free and permit-free", "text": "There is no entry fee, and Indian citizens do not need a permit. It costs nothing but 20–30 minutes of your journey, and gives the rest of the trip context."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps from Gangtok to Mangan pass Kabi Lungchok; ask to be dropped at the gate and flag down another jeep afterwards. The fare to Kabi is about ₹80–150, indicative, 2026. Return jeeps can be full in the afternoon."},
+    {"mode": "Reserved car", "text": "On any North Sikkim package, ask your driver to stop for 20 minutes. As a half-day trip from Gangtok with Phodong, a reserved car costs about ₹2,500–3,500, indicative, 2026."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the railhead NJP, about 135 km away. Go to Gangtok first, then take the North Sikkim Highway towards Mangan."}
+  ],
+  "where_to_stay": "Most travellers visit Kabi Lungchok as a stop on the way north and do not stay. Gangtok, under an hour away, has hundreds of hotels at every price. If you want to stay further up the highway, Mangan and Singhik, about two hours on, are quiet and cheap, and the government-owned Singhik Bungalow has views of Kanchenjunga. Small homestays exist around Kabi and Phodong; ask locally.",
+  "stays": ["singhik-bungalow-mangan"],
+  "costs": [
+    ["Entry", "Free"],
+    ["Shared jeep Gangtok → Kabi", "₹80–150 a seat, indicative, 2026"],
+    ["Half-day car Gangtok–Kabi–Phodong", "₹2,500–3,500, indicative, 2026"],
+    ["Tea at a roadside stall", "₹20–40, indicative, 2026"]
+  ],
+  "budget_tip": "Combine Kabi Lungchok, Phensang and Phodong in one half-day car from Gangtok, or see them free on the drive north by asking your package driver for short stops.",
+  "tips": [
+    "Ask your driver the evening before to stop at Kabi; it is easy to pass without noticing.",
+    "Walk clockwise around the stones and shrine, and do not climb on them.",
+    "Carry a light jacket; the forest is cool and damp even in summer.",
+    "Mid-morning light under the trees is best for photographs.",
+    "Combine with Phodong Monastery for a half-day history circuit."
+  ],
+  "themes": ["monasteries", "budget-trips", "family-trips"],
+  "nearby": ["phodong", "mangan", "dzongu"],
+  "experiences": [
+    {"slug": "kabi-lungchok-treaty-stones", "title": "Standing at the blood brotherhood stones", "kind": "culture", "duration": "20–30 minutes", "best_time": "Mornings, any season", "cost": "Free", "image_query": "Kabi Lungchok stones", "wiki": "Kabi Lungchok",
+      "summary": "A short, quiet stop at the stones that mark the Lepcha–Bhutia blood brotherhood, the founding story of Sikkim. Read the signboard, walk around the stones and tell the story to your children.",
+      "body": [
+        "Kabi Lungchok is easy to miss: a gate by the highway, a short path and a clearing in the trees. In the centre are the memorial stones, upright slabs set in the ground and hung with prayer flags. Nearby are newer statues of the Lepcha leader Thekong Tek and the Bhutia prince Khye Bumsa.",
+        "According to Sikkimese tradition, this is where the two leaders swore blood brotherhood in the 13th century, binding their peoples together. Khye Bumsa promised not to discriminate against the Lepchas, and his descendant became the first Chogyal of Sikkim in 1642. The site is still used for annual prayers.",
+        "There is little to do but stand, read and think, and that is the point. Walk clockwise around the stones, keep your voice down and do not touch or climb them. Twenty minutes here gives you the key to Sikkim's history before you reach Lepcha Dzongu and the Bhutia valleys further north."
+      ],
+      "good_for": ["families", "students", "seniors", "couples"],
+      "faqs": [
+        {"q": "What happened at Kabi Lungchok", "a": "According to Sikkimese tradition, the Lepcha leader Thekong Tek and the Tibetan prince Khye Bumsa swore a treaty of blood brotherhood here in the 13th century, binding the Lepcha and Bhutia peoples. Stone pillars mark the place. Khye Bumsa's descendant Phuntsog Namgyal became the first Chogyal of Sikkim in 1642."},
+        {"q": "What does Kabi Lungchok mean", "a": "The name is commonly explained as 'stone erected by our blood', referring to the memorial stones set up when the blood brotherhood treaty was sworn. The site is near the village of Kabi on the North Sikkim Highway. It is also sometimes spelled Kabi Longstok."},
+        {"q": "Is there an entry fee at Kabi Lungchok", "a": "No. Entry is free, and Indian citizens need no permit. The site is open during daylight. There are no facilities beyond the clearing, the stones, a small shrine and signboards, so use toilets in Gangtok or at roadside stops further on."}
+      ]},
+    {"slug": "kabi-lungchok-phensang-monastery", "title": "Detour to Phensang Monastery", "kind": "spiritual", "duration": "45 minutes", "best_time": "Mornings", "cost": "Free; offerings welcome", "image_query": "Phensang Monastery Sikkim", "wiki": "Phensang Monastery",
+      "summary": "Phensang, a Nyingma monastery founded in 1721, sits on the slope between Kabi Lungchok and Phodong. It is a quieter companion to Phodong and an easy detour on the drive north.",
+      "body": [
+        "Phensang Monastery belongs to the Nyingma school, the oldest tradition of Tibetan Buddhism and the dominant one in Sikkim. It was established in 1721, during the time of the lama Jigme Pawo, and stands on a hillside the Mangan district administration describes as between Kabi Lungchok and Phodong, with open views over the valley.",
+        "It receives far fewer visitors than Phodong. On a quiet morning you may find monks at prayer or young novices at study, and the courtyard is usually calm. Like other Sikkimese gompas, it holds annual ceremonies and masked dances on dates set by the Tibetan calendar.",
+        "Ask your driver to take the turn-off on the way north or back. Remove your shoes before the prayer hall, walk clockwise and ask before photographing inside. A small offering at the altar is welcome. Combined with Kabi and Phodong, it makes a short history-and-monastery circuit."
+      ],
+      "good_for": ["seniors", "couples", "solo"],
+      "faqs": [
+        {"q": "When was Phensang Monastery built", "a": "Phensang Monastery was established in 1721, during the time of the lama Jigme Pawo, and belongs to the Nyingma school of Tibetan Buddhism. It stands on a hillside between Kabi Lungchok and Phodong on the North Sikkim Highway, according to the Mangan district administration."},
+        {"q": "Is Phensang Monastery worth visiting", "a": "Yes, if you enjoy quiet monasteries. It sees far fewer visitors than Phodong or Rumtek, so it is calmer, and the setting has good valley views. It is an easy detour on the way north. If you have time for only one monastery, Phodong is the more important."},
+        {"q": "Can I see a mask dance at Phensang", "a": "Phensang holds annual ceremonies with masked dances, on dates fixed by the Tibetan lunar calendar, usually in the winter months. Ask your operator or the monastery for exact dates in your year. Phodong's chaam, held in December before Losoong, is better known."}
+      ]},
+    {"slug": "kabi-lungchok-forest-birding", "title": "Birding in the Kabi forest", "kind": "wildlife", "duration": "1.5–2 hours", "best_time": "6–9 am, Mar–May and Oct–Dec", "cost": "Free; local guide ₹800–1,500, indicative, 2026", "image_query": "rufous-necked hornbill Sikkim", "wiki": "",
+      "summary": "The mixed broadleaf forest around Kabi Lungchok holds a good list of hill birds. An early-morning walk on the edges of the site and the highway is a quiet start to a North Sikkim trip.",
+      "body": [
+        "The forest around Kabi Lungchok is subtropical mixed broadleaf, with alder, chestnut, Engelhardia, Michelia and other trees. Wikipedia's article on the site lists birds such as the pariah kite, crested serpent eagle, shaheen falcon, rufous-necked hornbill, chestnut-breasted partridge, black-breasted parrotbill and Ward's trogon. Some of these are rare and hard to find.",
+        "Come early, between 6 and 9 am, when birds are most active and traffic is light. Walk the edges of the clearing and the quiet stretches of road nearby, stopping often. Binoculars matter more than cameras. A local guide from Gangtok or Kabi who knows calls will find far more than you will alone.",
+        "Keep to paths, do not use playback calls near nesting birds, and give the memorial site the respect it deserves. Spring, March to May, is the best season for song and breeding plumage; October to December gives clearer skies and wintering species."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "students"],
+      "faqs": [
+        {"q": "What birds can I see at Kabi Lungchok", "a": "Species recorded in the area include the crested serpent eagle, shaheen falcon, rufous-necked hornbill, chestnut-breasted partridge, black-breasted parrotbill and Ward's trogon, along with many common hill birds. The rarer species need luck, patience and ideally a local guide."},
+        {"q": "When is the best time for birding near Gangtok", "a": "Early mornings, 6–9 am, in spring (March to May) for song and breeding plumage, and October to December for clear weather and winter visitors. Monsoon months are wet and leechy, with poor visibility. Forest patches like Kabi are good starting points."},
+        {"q": "Do I need a guide for birding at Kabi", "a": "Not strictly, but a local guide who knows calls and habitats will find far more birds. Guides can be arranged from Gangtok for about ₹800–1,500 for a morning, indicative, 2026. Bring binoculars and a field guide to the birds of the Indian subcontinent."}
+      ]},
+    {"slug": "kabi-lungchok-history-circuit", "title": "Half-day history circuit: Kabi, Phodong, Tumlong", "kind": "culture", "duration": "4–5 hours from Gangtok", "best_time": "Oct–May", "cost": "Car ₹2,500–3,500, indicative, 2026", "image_query": "Phodong Monastery Sikkim", "wiki": "Tumlong",
+      "summary": "A half-day from Gangtok that links Sikkim's founding treaty at Kabi with Phodong Monastery and Tumlong, the old royal capital below it. No permit needed for Indians.",
+      "body": [
+        "Leave Gangtok at 8 am. Your first stop, under an hour away, is Kabi Lungchok and the blood brotherhood stones. Continue past Phensang to Phodong, about 38 km from Gangtok, one of Sikkim's six most important monasteries, of the Karma Kagyu school, built in the 18th century.",
+        "Below Phodong lies Tumlong, a village on the Dik Chu that was the capital of the Kingdom of Sikkim in the 19th century, after the court moved inland from Rabdentse. The Treaty of Tumlong was signed there with the British in 1861. Little remains of the palace, but knowing it was here changes how you see the valley.",
+        "Return to Gangtok by about 1 pm, or continue north to Mangan if you are heading to Dzongu. A reserved car costs about ₹2,500–3,500, indicative, 2026. Add the Seven Sisters Waterfall, about 32 km from Gangtok, for a short photo stop on the way."
+      ],
+      "good_for": ["families", "students", "seniors", "couples"],
+      "faqs": [
+        {"q": "Can I visit Kabi Lungchok and Phodong in half a day", "a": "Yes. Both are on the North Sikkim Highway, within about 38 km of Gangtok. With a reserved car, a half-day of 4–5 hours covers Kabi Lungchok, Phensang, Phodong and the Seven Sisters Waterfall. No permit is needed for Indian citizens."},
+        {"q": "What is the Treaty of Tumlong", "a": "The Treaty of Tumlong was signed in 1861 between the British and the ruler of Sikkim at Tumlong, then Sikkim's capital, after a British expedition. It brought Sikkim under strong British influence. Tumlong remained the capital until the court moved to Gangtok."},
+        {"q": "How much does a half-day tour from Gangtok to Phodong cost", "a": "A reserved car from Gangtok for a 4–5 hour trip to Kabi Lungchok, Phensang and Phodong costs about ₹2,500–3,500, indicative, 2026. Entry to all sites is free. Shared jeeps to Mangan are cheaper but make it harder to stop at several places."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "How far is Kabi Lungchok from Gangtok", "a": "About 17–21 km by the North Sikkim Highway, depending on the source; the Mangan district administration gives 17 km. The drive takes 45 minutes to an hour. It is the first major stop on the road north to Phodong, Mangan, Lachung and Lachen."},
+    {"q": "Do I need a permit for Kabi Lungchok", "a": "No. Indian citizens do not need a Protected Area Permit for Kabi Lungchok, which lies on the open part of the North Sikkim Highway. Foreign nationals should check their Sikkim permit conditions with their operator. Check current status before you travel."},
+    {"q": "Who were Thekong Tek and Khye Bumsa", "a": "Thekong Tek was a Lepcha leader and sage, and Khye Bumsa a prince from Tibet who settled in the Chumbi valley. According to Sikkimese tradition, they swore blood brotherhood at Kabi Lungchok in the 13th century, uniting Lepchas and Bhutias. Khye Bumsa's descendants became the Chogyals of Sikkim."},
+    {"q": "How long should I spend at Kabi Lungchok", "a": "Twenty to thirty minutes is enough for the stones, statues and signboards. Add 45 minutes for Phensang Monastery and an hour for Phodong if you are making a history circuit. Birdwatchers may want 1.5–2 hours in the early morning."},
+    {"q": "Is Kabi Lungchok good for children", "a": "Yes, as a short stop. The path is easy, the forest is pleasant and the story of two leaders becoming brothers is simple to tell. There are no facilities, so plan toilet and snack stops in Gangtok or further on. Keep children off the stones."},
+    {"q": "Is there an annual event at Kabi Lungchok", "a": "Yes. Ritual prayers are held every year to commemorate the blood brotherhood treaty, with participation from Lepcha and Bhutia communities and officials. Dates vary; ask in Gangtok if you want to attend, and treat it as a ceremony rather than a tourist show."},
+    {"q": "Can I reach Kabi Lungchok by shared jeep", "a": "Yes. Shared jeeps from Gangtok to Mangan pass the site; ask to be dropped at Kabi Lungchok, about ₹80–150, indicative, 2026. Getting a seat back in the afternoon can be hard, as jeeps pass full, so a reserved car is easier if you have plans after."},
+    {"q": "What else is near Kabi Lungchok", "a": "Phensang Monastery (1721) on the slope towards Phodong, Phodong Monastery about 38 km from Gangtok, the Seven Sisters Waterfall about 32 km from Gangtok, and Tumlong, the old royal capital below Phodong. Further north are Mangan, Singhik and Dzongu."},
+    {"q": "Is Kabi Lungchok worth a stop on a Lachung trip", "a": "Yes. It adds only 20–30 minutes to the long drive and gives you the founding story of Sikkim. Ask your driver the evening before, since group vehicles do not always stop by default. It also breaks the drive nicely about an hour out of Gangtok."}
+  ]
+}

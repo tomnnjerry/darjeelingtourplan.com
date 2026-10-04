@@ -1,0 +1,91 @@
+{
+  "slug": "darjeeling-pelling-4n",
+  "title": "Darjeeling and Pelling in 4 nights",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["toy-train", "tea-gardens", "mountain-views", "monasteries"],
+  "stops": [
+    {"place": "darjeeling", "nights": 2},
+    {"place": "pelling", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 13000,
+  "fares": {"budget": 13000, "comfort": 21500, "premium": 48000},
+  "fare_notes": {
+    "budget": "A budget hotel near the Mall or Chowrasta in Darjeeling and Hotel Garuda or a similar budget hotel in Upper Pelling, twin rooms with attached bathrooms. A small car for your party for the transfers and sightseeing. Breakfast and dinner daily.",
+    "comfort": "A mid-range Darjeeling hotel with heating on request and Norbu Ghang Resort cottages in Pelling, mountain-facing rooms requested. Private SUV throughout and the toy-train joy ride ticket. Breakfast and dinner daily.",
+    "premium": "Windamere Hotel or Mayfair Darjeeling in Darjeeling, then The Elgin Mount Pandim or The Chumbi Mountain Retreat & Spa in Pelling. Private SUV with an experienced hill driver, joy ride ticket and entry fees paid. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2590,
+  "meta_description": "Darjeeling and Pelling, 4 nights: Tiger Hill, Batasia Loop, the toy train, Happy Valley tea, then Pemayangtse and Rabdentse, from ₹13,000 per person.",
+  "summary": "A 4-night trip that joins Darjeeling and Pelling by the short road through Jorethang, about 75 km. Two nights in Darjeeling for Tiger Hill, Batasia Loop, a toy-train joy ride and a tea estate. Two nights in Pelling for Pemayangtse, the ruins of Rabdentse and Kangchenjunga at dawn.",
+  "intro": [
+    "Most people treat Darjeeling and Pelling as two separate trips from Siliguri. They are not far apart. The road drops from Darjeeling to Jorethang on the Rangeet, about 30 km, then climbs through Legship and Gyalshing to Pelling, about 75 km and 4–5 hours in all. That one link lets you see Kangchenjunga from two sides in four nights, and saves you a second long drive up from the plains.",
+    "We keep the Darjeeling days light: Tiger Hill at dawn, Batasia Loop and Ghum on the way back, the toy-train joy ride, and Happy Valley Tea Estate, started in 1854. In Pelling we spend a full day on Pemayangtse Monastery, founded in 1647, and Rabdentse, Sikkim's capital from 1670 to 1814. October to December gives the clearest mornings at both ends. Foreign nationals need a Sikkim permit for the Pelling half."
+  ],
+  "highlights": [
+    "Sunrise on Kangchenjunga from Tiger Hill, 2,590 m, about 11 km from Darjeeling",
+    "A toy-train joy ride on the Darjeeling Himalayan Railway, a UNESCO World Heritage Site, round Batasia Loop",
+    "Happy Valley Tea Estate, about 3 km from town, planted from 1854",
+    "The cross-country road from Darjeeling to Pelling through Jorethang on the Rangeet",
+    "Pemayangtse Monastery and the ruins of Rabdentse, Sikkim's second capital"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h",
+     "text": "Your car meets you at Bagdogra Airport or NJP station and climbs through Sukna and the tea gardens to Kurseong, then on through Sonada and Ghum to Darjeeling at about 2,050 m. The toy-train line runs beside the road and crosses it many times. Stop for tea in Kurseong. Arrive by early afternoon, check in and walk up to Chowrasta, the open square at the top of town, and along the Mall. Evenings are cold from November to February, so keep a jacket handy. Early dinner, because tomorrow starts at about 4 am.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Tiger Hill, Batasia Loop and Happy Valley", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km local · 6–7 h",
+     "text": "Leave at about 4 am for Tiger Hill, 2,590 m and about 11 km away, to watch first light reach Kangchenjunga; clear mornings are likeliest from October to December. On the way back stop at Ghum Monastery and at Batasia Loop, the spiral built in 1919 to ease the railway's gradient, with its Gorkha war memorial. After breakfast take the toy-train joy ride, about 2 hours from Darjeeling to Ghum and back, ₹1,000–1,800 a seat, indicative; book online early and check current status before you travel. In the afternoon walk down to Happy Valley Tea Estate for the factory and a tasting.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Darjeeling to Pelling via Jorethang", "place": "pelling", "overnight": "Pelling", "drive": "≈ 75 km · 4–5 h",
+     "text": "After breakfast we drop about 1,700 m in 30 km, through tea gardens to Jorethang on the Rangeet, where you cross into Sikkim. Foreign nationals must already hold the Sikkim Restricted Area Permit; get it online through e-FRRO before the trip. Some West Bengal taxis hand over to a Sikkim car at the border, which we arrange in advance. From Jorethang the road follows the river to Legship, where the Kirateshwar Mahadev Temple stands on the bank, and climbs through Gyalshing to Pelling at about 2,150 m. Monsoon slides can close this road, so check current status before you travel.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Kangchenjunga dawn and Pelling's old sites", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 5–6 h",
+     "text": "Be outside by 5:30 am: from Upper Pelling Kangchenjunga, 8,586 m, stands straight across the valley. After breakfast we visit Pemayangtse, founded in 1647 by Lhatsun Chenpo, one of the three lamas who crowned Sikkim's first Chogyal at Yuksom in 1642. Its top floor holds a seven-tiered wooden model of Guru Rinpoche's heavenly palace. Then a 15-minute forest walk to Rabdentse, the capital from 1670 to 1814, with its chortens and the stone seat where judges sat. After lunch, the Chenrezig statue and the glass-floored Skywalk at Sanga Choeling. Entry fees come to under ₹200 each, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Pelling to Bagdogra or NJP", "place": "siliguri", "overnight": "—", "drive": "≈ 140–150 km · 5–6.5 h",
+     "text": "A last look at the mountain over breakfast and we leave by 8 am. The road runs down through Gyalshing and Legship to Jorethang, along the Rangeet to Melli, where you leave Sikkim, and down the Teesta past Sevoke to Siliguri. We stop for lunch near Jorethang or Melli. NJP is about 140 km from Pelling and Bagdogra about 150 km. Book flights after 4 pm and trains in the evening: one slow truck on a narrow stretch, or a landslide in the rains, can cost an hour or more. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-garuda-pelling", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling", "chumbi-mountain-retreat-pelling"],
+  "includes": [
+    "4 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily",
+    "Car from Bagdogra or NJP to Darjeeling, Darjeeling to Pelling, and Pelling back to the plains",
+    "Tiger Hill dawn trip with Ghum and Batasia Loop, and the Pelling sightseeing day",
+    "Toy-train joy ride ticket on comfort and premium"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Toy-train joy ride on budget, ₹1,000–1,800 a seat, indicative",
+    "Entry fees on budget and comfort, under ₹500 per person in all, indicative",
+    "Lunches, drinks, tips and camera fees",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in late November, January or February, when hotel rates drop at both ends and the mornings are often clearest.",
+    "Go from Darjeeling to Pelling by shared jeep in two legs, ₹150–200 to Jorethang and ₹150–250 on to Gyalshing or Pelling, indicative, instead of a reserved car at ₹4,000–5,500.",
+    "Pick the diesel joy ride over steam if you want the loop and the views for less; both stop at Batasia and Ghum."
+  ],
+  "good_to_know": [
+    "Darjeeling needs no permit. Foreign nationals need a free Sikkim Restricted Area Permit for Pelling, best applied for online through e-FRRO before you travel; check current status before you travel.",
+    "Indian nationals need no permit for Pelling; carry photo ID for the checkposts.",
+    "Toy-train joy rides sell out in October, the Christmas week and May; book as soon as your dates are firm.",
+    "Tiger Hill gets crowded on clear October and December mornings; leaving by 4 am gets you a better spot.",
+    "Both towns are close to 0 °C on winter mornings and many budget rooms have no heating; ask for a heater or extra blanket."
+  ],
+  "faqs": [
+    {"q": "How far is Pelling from Darjeeling", "a": "About 75 km and 4–5 hours by road via Jorethang, Legship and Gyalshing. The first 30 km drop from Darjeeling to Jorethang on the Rangeet, then the road climbs again to Pelling. A reserved car costs about ₹4,000–5,500 one way and shared jeeps in two legs about ₹300–450 a seat in all, indicative for 2026. Check current status before you travel."},
+    {"q": "Is 4 nights enough for Darjeeling and Pelling", "a": "Yes, for the main sights at both ends. Two nights in Darjeeling cover Tiger Hill, Batasia Loop, the toy train and a tea estate. Two in Pelling give one full day for Pemayangtse, Rabdentse and the Skywalk, plus a dawn view. Add a night in Pelling for Khecheopalri Lake and Yuksom, or one in Darjeeling for a slower town day."},
+    {"q": "Do we need a permit to go from Darjeeling to Pelling", "a": "Indian nationals need only photo ID. Foreign nationals need a Sikkim Restricted Area Permit, free and valid for 30 days. The easiest way is online through e-FRRO before the trip, so you are not looking for a permit counter on the way. Carry your passport and permit copies, as the checkpost may ask for them. Check current status before you travel."},
+    {"q": "How much is the Darjeeling toy train joy ride", "a": "Expect about ₹1,000–1,800 a seat for the 2-hour joy ride from Darjeeling to Ghum and back, indicative for 2026; steam costs more than diesel. The train stops at Batasia Loop and at Ghum, where the railway museum is. Seats go fast in season, so book online once your dates are firm and check current status before you travel."},
+    {"q": "When is the best time to see Kangchenjunga from Tiger Hill and Pelling", "a": "October to December is best, with January and February close behind but colder. Views are clearest in the first two hours after sunrise. From March to May haze often hides the peaks by mid-morning, and from June to September the mountain is mostly in cloud. Whatever the month, plan for early starts at both places."},
+    {"q": "Can we visit a tea estate in Darjeeling", "a": "Yes. Happy Valley Tea Estate, about 3 km from town, was started in 1854 and is the closest estate to Darjeeling. Visitors can usually see the factory and taste tea; March to May is first-flush season, when processing is in full swing. Opening hours and tour fees change, so check current status before you travel."},
+    {"q": "Is the road from Darjeeling to Pelling safe in monsoon", "a": "It is open most days but slow and risky from June to September. Landslides between Jorethang and Legship, and on the Darjeeling side, can close it for hours. We do not run this trip in those months. If you must travel then, start early, keep a spare day and check current status before you travel."},
+    {"q": "Which is better for the mountain view, Darjeeling or Pelling", "a": "Pelling is closer. From Upper Pelling Kangchenjunga rises straight across one valley, so it looks bigger than from Darjeeling. Tiger Hill above Darjeeling gives the classic sunrise with the whole range lit pink. This trip gives you both, and two chances at a clear morning if one is cloudy."},
+    {"q": "Can we do this trip with older parents", "a": "Yes, with care. The longest drive is about 5–6.5 hours on the last day, and the Darjeeling to Pelling leg is 4–5 hours on winding roads. Tiger Hill means a 4 am start, which older travellers can skip and see the range from the hotel instead. Rabdentse needs a 15-minute walk on a forest path; Pemayangtse has steps."}
+  ]
+}

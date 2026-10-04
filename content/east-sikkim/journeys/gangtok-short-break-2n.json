@@ -1,0 +1,100 @@
+{
+  "slug": "gangtok-short-break-2n",
+  "title": "Gangtok weekend break in 2 nights",
+  "region": "east-sikkim",
+  "nights": 2,
+  "themes": ["mountain-views", "monasteries", "honeymoons", "family-trips"],
+  "stops": [{"place": "gangtok", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 7000,
+  "fares": {"budget": 7000, "comfort": 11500, "premium": 25000},
+  "fare_notes": {
+    "budget": "Budget hotels of the Hotel Sonam Delek or Hotel Tibet class near MG Marg, twin sharing; shared jeep seats from NJP and back; a shared seat on the Tsomgo and Baba Mandir tour with the permit; breakfast only.",
+    "comfort": "Comfort hotels such as Royal Plaza or Netuk House; a private small car for the Bagdogra or NJP transfers; a reserved car to Tsomgo and Baba Mandir; the early viewpoint drive on day 3; breakfast and dinner.",
+    "premium": "Mayfair Spa Resort, Elgin Nor-Khill or Taj Guras Kutir; a private Innova-class car with driver for the whole stay; breakfast and dinner; permit papers collected before you arrive."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 4000,
+  "meta_description": "A Gangtok weekend: 2 nights from ₹7,000 per person with Tsomgo Lake, Baba Mandir, MG Marg and a sunrise viewpoint, from Bagdogra or NJP.",
+  "summary": "Two nights in Gangtok, built for a long weekend from Kolkata, Delhi or Bengaluru. Day one is the drive up and MG Marg, day two is Tsomgo Lake and Baba Mandir, and day three starts with Kangchenjunga at sunrise before the drive back to Bagdogra. From ₹7,000 per person, twin sharing.",
+  "intro": [
+    "Two nights is the shortest stay in Gangtok that still works, and only if you plan around the roads. The drive from Bagdogra takes 4.5–5.5 hours each way, so arrival and departure days carry little sightseeing. That leaves one full day, and we give it to Tsomgo Lake and Baba Mandir, because the permit, the altitude and the early start make it the hardest thing to fit in later. The town itself we fit into the evenings and one early morning.",
+    "Book a morning flight into Bagdogra if you can. Land by 11 am and you reach Gangtok by 5 pm, in time for a walk on MG Marg and dinner. Your agent needs your photo ID and two passport photos a day before Tsomgo, so we collect them by message before you travel. On the last morning we drive to Tashi View Point or Ganesh Tok at first light, when Kangchenjunga is most often clear, and leave for the plains by 9–10 am."
+  ],
+  "highlights": [
+    "Tsomgo Lake at 3,753 m, about 40 km above Gangtok",
+    "Baba Harbhajan Singh Mandir, the soldiers' shrine near 4,000 m",
+    "Kangchenjunga at sunrise from Tashi View Point or Ganesh Tok",
+    "An evening on car-free MG Marg with momos and thukpa",
+    "Enchey Monastery on the hill above town, free to enter"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra to Gangtok and MG Marg at dusk",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "We meet you at Bagdogra or NJP. Budget travellers take a shared jeep seat from Siliguri for ₹400–600; comfort and premium guests have a private car. The road runs along the Teesta on NH10 past Sevoke, Melli and Rangpo, the Sikkim border. Stop for tea at Melli or Rangpo, not at the first roadside stall after Sevoke, which is often crowded. At the hotel you pay the ₹50 Sikkim tourist fee; check current status before you travel. After dark, walk the length of MG Marg, about 1 km of car-free street, and eat momos or thukpa for ₹60–150. Send your ID and photos to the agent tonight.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Tsomgo Lake and Baba Mandir",
+      "place": "tsomgo-lake",
+      "overnight": "Gangtok",
+      "drive": "≈ 115 km round trip · 7–8 h",
+      "text": "Leave at about 7 am in a Gangtok-registered car, the only kind allowed on this road. The Protected Area Permit costs about ₹200 per person through the agent. In 40 km the road climbs from 1,650 m to Tsomgo Lake at 3,753 m. Hire boots and a coat for ₹100–300 if it is cold; a yak ride is ₹300–600 and optional. Continue to Baba Harbhajan Singh Mandir near 4,000 m. Soldiers' tradition holds that the Punjab Regiment sepoy, who died near Nathu La in 1968, still watches the border. Back by 3–4 pm. On the way down, stop at Enchey Monastery, about 3 km above MG Marg. Check current status before you travel; snow can close the road.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Sunrise viewpoint, then down to the plains",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "Wake at about 5 am in October to February, earlier in spring. Tashi View Point, about 8 km north of town, and Ganesh Tok, closer in, both face Kangchenjunga and Siniolchu across the valley. A reserved car for the run costs ₹600–1,000; budget travellers can share one. Views are clearest from October to early April and rare in July and August. Back for breakfast, then leave by 9–10 am. For a flight, allow 5–6 hours to Bagdogra, because traffic at Rangpo and Sevoke is slow after midday. Shared jeeps stop in Siliguri, where an auto or taxi to the airport costs ₹300–600. NH10 closes in heavy rain; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "hotel-tibet-gangtok", "royal-plaza-gangtok", "netuk-house-gangtok", "mayfair-spa-resort-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "2 nights in a Gangtok hotel of your chosen tier, twin sharing",
+    "Breakfast daily; dinners on the comfort and premium tiers",
+    "Transfers from Bagdogra or NJP and back (shared jeep on budget, private car on comfort and premium)",
+    "Tsomgo Lake and Baba Mandir with Protected Area Permit",
+    "Sunrise viewpoint drive on day 3 (comfort and premium)"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Sikkim tourist fee of ₹50 per person",
+    "Lunches, and dinners on the budget tier",
+    "Coat and boot hire, yak rides, entry tickets",
+    "Nathu La add-on, tips and personal expenses"
+  ],
+  "save_more": [
+    "Fly into Bagdogra on a Thursday and out on a Sunday; Friday and Saturday hotel rates in Gangtok are often higher in peak months.",
+    "Take the shared Tsomgo seat (₹800–1,300) instead of a reserved car (₹4,500–6,500) if there are only two of you.",
+    "Skip the viewpoint car on day 3 and walk up to the Ridge above MG Marg at first light; on clear mornings the snow peaks show from there for free."
+  ],
+  "good_to_know": [
+    "Tsomgo and Baba Mandir need a Protected Area Permit arranged through a registered agent a day ahead; carry the original ID you sent.",
+    "Foreign nationals need a free Restricted Area Permit to enter Sikkim and may visit Tsomgo on an agent-arranged day permit. Check current status before you travel.",
+    "With only one full day, a closed Tsomgo road means we switch to a Gangtok monastery day; there is no spare day to move it.",
+    "Pakyong Airport near Gangtok has no scheduled flights as of 2026; plan around Bagdogra.",
+    "The ₹50 Sikkim tourist fee is collected at check-in for everyone aged 5 and over."
+  ],
+  "faqs": [
+    {"q": "Is 2 nights enough for Gangtok", "a": "It is enough for Tsomgo Lake, Baba Mandir, MG Marg and one sunrise viewpoint, which is what most first-timers want. It is not enough for Nathu La, Rumtek and the full city tour as well. If you can add one night, take our 3-night trip and keep the extra day as a spare for weather on the Tsomgo road."},
+    {"q": "How much does a Gangtok weekend trip cost", "a": "From ₹7,000 per person, twin sharing, on our budget tier, indicative for 2026. Comfort costs about ₹11,500 with private transfers and hotels such as Royal Plaza, and premium about ₹25,000 at hotels such as Mayfair or Taj Guras Kutir. Flights, lunches, the ₹50 tourist fee and small extras such as coat hire are not included."},
+    {"q": "Can we visit Tsomgo Lake on the day we arrive", "a": "No. Tsomgo tours leave Gangtok at about 7 am and need a Protected Area Permit issued the day before, while flights into Bagdogra land too late to reach Gangtok before afternoon. Arriving the night before and going the next morning is the only practical way. Check current status before you travel, as permit timings can change."},
+    {"q": "Which days of the week work best for this trip", "a": "Any days work for Tsomgo and Baba Mandir, which are open daily when the road is clear. If you want to add Nathu La, your full day must fall between Wednesday and Sunday, because the pass is closed to tourists on Monday and Tuesday. Weekdays usually mean thinner crowds at the lake. Check current status before you travel."},
+    {"q": "Is Tsomgo Lake safe for children and older parents", "a": "Most healthy children and older travellers manage a short visit, since you spend 1–2 hours at 3,753 m and sleep at 1,650 m in Gangtok. Walk slowly, keep warm and avoid alcohol the night before. People with heart or lung conditions should ask their doctor first. Tell the driver at once about headache, breathlessness or vomiting, and come down."},
+    {"q": "Can foreigners book this weekend trip", "a": "Yes. Foreign nationals need a Restricted Area Permit to enter Sikkim, free and issued online, at Rangpo and at Sikkim Tourism offices. Tsomgo Lake is open to foreigners on a day permit through a registered agent, usually for two or more people together. Nathu La and Zuluk are not open to foreigners. Check current status before you travel."},
+    {"q": "What if the Tsomgo road is closed on our day", "a": "We switch to a Gangtok day: Enchey Monastery, the Namgyal Institute of Tibetology, Do Drul Chorten, the ropeway and Hanuman Tok. Shared seat money is refunded by most agents if permits are not issued that day; reserved-car terms vary. Closures are most common in January to March for snow and July to August for landslides. Check current status before you travel."},
+    {"q": "How early should we leave Gangtok for a Bagdogra flight", "a": "Leave at least 5–6 hours before your flight. The drive is about 125 km and normally takes 4.5–5.5 hours, but jams at Rangpo, Melli and Sevoke and roadworks on NH10 can add an hour or more. For an afternoon flight we leave by 9 am. In monsoon, ask us whether NH10 is open; check current status before you travel."},
+    {"q": "Is Gangtok good for a short honeymoon", "a": "Yes, if you choose the comfort or premium tier. Two nights in a hotel such as Taj Guras Kutir or Elgin Nor-Khill, a private car to Tsomgo and a quiet sunrise at Tashi View Point make a calm weekend. Book a room with a valley view, and travel in March–May or October–November for the clearest skies."}
+  ]
+}

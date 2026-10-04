@@ -1,0 +1,123 @@
+{
+  "slug": "thimphu-paro-classic-4n",
+  "title": "Thimphu and Paro classic in 4 nights",
+  "region": "bhutan",
+  "nights": 4,
+  "themes": ["monasteries", "mountain-views", "family-trips"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 26000,
+  "fares": {"budget": 26000, "comfort": 42000, "premium": 130000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels, including Hotel Olathang in Paro, twin sharing; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%. Flights are extra.",
+    "comfort": "4-star and boutique hotels such as Hotel Druk in Thimphu; a private car and private licensed guide for your party; breakfast and dinner; SDF included. Flights are extra.",
+    "premium": "Taj Tashi in Thimphu and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights are extra."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3120,
+  "meta_description": "Fly into Paro for 4 nights in Thimphu and Paro with Dochula and the Tiger's Nest hike, from ₹26,000 per person with SDF, guide and car.",
+  "summary": "The shortest proper Bhutan trip: fly into Paro, two nights in Thimphu and two in Paro, with Dochula on the way and the Tiger's Nest hike on the last full day. From ₹26,000 per person, twin sharing, including SDF, guide, car, hotels and two meals a day. Flights extra.",
+  "intro": [
+    "Four nights is enough for Bhutan's two best-known valleys if you fly in. Drukair runs a small number of weekly flights from Bagdogra to Paro, about 45 minutes on an ATR, and Drukair and Bhutan Airlines fly from Delhi and Kolkata. The landing at Paro is famous: pilots fly a visual approach between ridges. From the airport it is about 50 km to Thimphu, so you are in the capital by lunch on day one.",
+    "We put Thimphu first on purpose. At 2,320 m it lets your body adjust before the Tiger's Nest climb to about 3,120 m on day four. Thimphu and Paro sit inside the area the Entry Permit covers, so no Route Permit is needed and nothing depends on an office being open. Fares are for Indian nationals and include the SDF at ₹1,200 per person per night and a licensed guide, which the April 2026 Department of Tourism notification makes compulsory."
+  ],
+  "highlights": [
+    "The visual approach into Paro, one of the best-known landings in the Himalaya",
+    "Buddha Dordenma and the Memorial Chorten in Thimphu",
+    "Dochula pass at 3,100 m with its 108 chortens",
+    "Rinpung Dzong and the National Museum in Paro",
+    "The Tiger's Nest hike to about 3,120 m"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly into Paro, drive to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Sit on the left side of the plane from Bagdogra or Kolkata for the best mountain view, weather permitting. At Paro, Indians show a passport or original Voter ID for the Entry Permit, unless it was issued online. Your guide waits outside arrivals. The road follows the Paro river to Chhuzom, where it meets the Thimphu river beside three chortens, then turns up to the capital. After lunch, walk the circuit at the Memorial Chorten, built in 1974 for the Third King, and end at Clock Tower Square. Thimphu has no traffic lights; police direct traffic from a painted box. Early night after a travel morning.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thimphu's dzongs, Buddha and takin",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Drive up to Buddha Dordenma, about 51.5 m of gilded bronze completed in 2015, for the view down the valley. Then the Motithang Takin Preserve, home to the national animal; legend says Drukpa Kunley made the first takin from a goat's head and a cow's skeleton. After lunch, Simtokha Dzong, built by the Zhabdrung in 1629 and among the oldest in the country. If you are in town near the weekend, when it is busiest, walk through the Centenary Farmers' Market by the river. End at Tashichho Dzong, rebuilt by the Third King and completed in 1968, which houses the king's offices; your guide times the visit to its opening hours. Fees Nu 300–500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dochula, then on to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 100 km · 3.5–4 h",
+      "text": "An early start to Dochula, 22 km and about 45 minutes east of Thimphu at 3,100 m. On a clear winter morning you see the eastern Himalaya from here. The 108 chortens were built by Queen Mother Ashi Dorji Wangmo Wangchuck after the December 2003 operation against insurgent camps in southern Bhutan. Return through Thimphu and drive down to Paro. In the afternoon walk up to Rinpung Dzong, consecrated in 1646, and on to the National Museum in the old Ta Dzong watchtower above it. Cross back over the cantilever bridge below the dzong for the classic photograph. Eat early tonight.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tiger's Nest and Kyichu Lhakhang",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Be at the car park, about 2,600 m, by 7.30 am. The trail climbs about 500 m to Paro Taktsang at about 3,120 m; allow 4–6 hours return with a tea stop at the cafeteria halfway. Legend says Guru Rinpoche flew here on a tigress in the 8th century; the temple was built in 1692, damaged by fire in 1998 and restored by 2005. Entry Nu 1,000, indicative 2026; phones and cameras go in the locker. On the way back stop at Kyichu Lhakhang, which tradition counts among the 108 temples of Songtsen Gampo. A farmhouse hot stone bath tonight costs ₹1,500–3,000.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "Paro airport is a short drive from most hotels. Flights to India usually leave in the morning, because winds in the valley pick up after midday, so breakfast may be packed. Reach the airport 2 hours before departure and keep your Entry Permit and ID handy. If your flight is later, walk Paro's main street for Bhutanese textiles, or drive about 20 minutes up the valley to Drukgyel Dzong, the old fortress that guarded the route to Tibet. Drukair and Bhutan Airlines change schedules by season, so check current status before you travel and before you book onward trains or flights.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-olathang-paro", "hotel-druk-thimphu", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "4 nights in Department of Tourism-certified hotels in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 4 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for airport transfers, Dochula and all sightseeing",
+    "Entry Permit help"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument entry fees: Tiger's Nest Nu 1,000, dzongs and museums Nu 300–500, indicative 2026",
+    "Lunches and drinks",
+    "Hot stone bath and pony hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Fly into Paro but leave by road to Phuentsholing and Siliguri; one flight instead of two can save a good share of the airfare, though it adds a night.",
+    "Pick February, early March or December for lower hotel rates and clear skies.",
+    "Book as a group of 4–6 so the car and guide costs are shared."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "Under the Department of Tourism notification of 8 April 2026, all tourists need a licensed guide on tours beyond the first checkpoint, including the drive from Paro airport to Thimphu. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Paro flights can be delayed or cancelled by weather, as pilots fly by sight; keep a buffer before onward connections.",
+    "Long sleeves and long trousers or skirts at dzongs and temples, no caps, and no photographs inside shrine rooms."
+  ],
+  "faqs": [
+    {"q": "How much does a 4-night Thimphu and Paro trip cost", "a": "Our 4-night trip costs from ₹26,000 per person on budget, ₹42,000 on comfort and ₹1,30,000 on premium, twin sharing, indicative 2026, without flights. It includes certified hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide and a car. The budget fare assumes 4–6 people share the car and guide; a couple alone pays about 15–25% more."},
+    {"q": "Are there flights from Bagdogra to Paro", "a": "Yes, Drukair runs a small number of flights a week between Bagdogra and Paro, about 45 minutes on an ATR turboprop. The schedule changes by season and seats go fast in October and April. Drukair and Bhutan Airlines also fly to Paro from Delhi and Kolkata. Check current status before you travel and book flights before you fix hotel dates."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists must have a certified, licensed guide on tours beyond the first checkpoint, and it names the drive from Paro airport to Thimphu and monument visits. We read it as covering Indians too. Our fares include a guide for all 4 days. Check current status before you travel."},
+    {"q": "Can Indians fly to Bhutan with a Voter ID instead of a passport", "a": "Bhutan accepts an Indian passport valid for 6 months or an original Voter ID card, with passport photos, for the free Entry Permit. Aadhaar, PAN and driving licences are not accepted. Airlines may ask for one of these at check-in too, so carry the original. If you have a passport, bring it; it is the simplest. Check current status before you travel."},
+    {"q": "Is 4 nights enough for Bhutan", "a": "Four nights is enough for Thimphu and Paro, with Dochula and the Tiger's Nest hike, if you fly in and out of Paro. It is not enough to add Punakha without rushing. With 6 nights you can add two nights in Punakha, about 75 km beyond Thimphu, which is the most common way to stretch this trip."},
+    {"q": "Can senior citizens do the Tiger's Nest hike", "a": "Many fit seniors do it, slowly. The climb is about 500 m from the car park to about 3,120 m, and takes 5–6 hours return at an easy pace. Ponies can often be hired for the first part of the climb. Anyone with heart or lung problems should ask a doctor first. The cafeteria viewpoint halfway is a good turning point for those who want a shorter walk."},
+    {"q": "What is the best month for a Thimphu and Paro trip", "a": "March to May and late September to December are the best months. Spring brings rhododendrons and the Paro Tshechu; October and November bring the clearest mountain views. December to February is cold, often below freezing at night, but dry and cheaper. June to August is the monsoon, with cloud over the hills and flight delays at Paro."},
+    {"q": "Do we need a permit for Thimphu and Paro", "a": "Only the Entry Permit, which is free for Indians and covers Thimphu and Paro. You get it online in advance or on arrival at Paro airport. Places beyond, such as Punakha, Phobjikha or Haa, need a Route Permit from Thimphu, which your operator arranges on a working day. Check current status before you travel."},
+    {"q": "Can we use UPI and Indian cards in Thimphu and Paro", "a": "Sometimes. Some hotels and larger shops take UPI or Indian cards, but small cafes, farmhouses and market stalls want cash. Indian rupees work everywhere at 1:1 with the ngultrum. Indians may carry up to ₹25,000 in ₹500 or smaller notes, and more only in ₹100 or smaller notes. ATMs are in Thimphu and Paro."}
+  ]
+}

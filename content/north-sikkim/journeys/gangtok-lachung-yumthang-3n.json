@@ -1,0 +1,77 @@
+{
+  "slug": "gangtok-lachung-yumthang-3n",
+  "title": "Gangtok, Lachung and Yumthang",
+  "region": "north-sikkim",
+  "nights": 3,
+  "themes": ["mountain-views", "family-trips", "budget-trips"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachung", "nights": 1}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 10500,
+  "fares": {"budget": 10500, "comfort": 18500, "premium": 38000},
+  "fare_notes": {
+    "budget": "Shared jeeps Siliguri–Gangtok, budget Gangtok hotel, shared group package to Lachung with a family hotel, dinner and breakfast in Lachung, permits.",
+    "comfort": "Reserved car from Siliguri and back, 3-star Gangtok hotel with breakfast, private car to Lachung with Le Coxy Resort or similar, breakfast and dinner, permits.",
+    "premium": "Private Innova throughout, premium Gangtok hotel such as Mayfair or Elgin Nor-Khill, Yarlam Resort in Lachung, all meals in Lachung, Zero Point charge included if open, permits."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3564,
+  "meta_description": "Gangtok, Lachung and Yumthang in 3 nights from Siliguri: permits, Yumthang morning, snow or rhododendrons, Kabi and Phodong on the way, from ₹10,500.",
+  "summary": "Three nights from Siliguri: Gangtok, one night in Lachung and the dawn trip to Yumthang Valley, with Kabi Lungchok and Phodong on the drive. It stays below 3,600 m, so it suits families and first-timers. Permits come through a registered operator; check current status before you travel.",
+  "intro": [
+    "This is the shortest sensible North Sikkim trip from the plains. You go up to Gangtok on day 1, give the operator a day to collect your permit, drive north to Lachung on day 2, see Yumthang at dawn on day 3 and come back down to Gangtok the same afternoon. The highest point is Yumthang at 3,564 m, unless you add Zero Point, so the altitude risk is much lower than on a Lachen trip.",
+    "It works in every season the road is open. In late April and May you get rhododendrons in the Shingba sanctuary; from December to March you get snow, sometimes so much that the road stops short of the valley; in October and November you get clear skies and autumn colour. We add two history stops on the way north, Kabi Lungchok and Phodong, which most packages drive straight past."
+  ],
+  "highlights": [
+    "Dawn at Yumthang Valley, 3,564 m, with the hot spring",
+    "Rhododendrons in spring or snow in winter",
+    "Kabi Lungchok, where Lepcha and Bhutia leaders swore brotherhood",
+    "Phodong Monastery, one of Sikkim's six great gompas",
+    "An evening on MG Marg in Gangtok"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "Arrive at Bagdogra Airport or NJP station and drive up the Teesta valley through Sevoke and Rangpo, where Sikkim's entry checkpost is, to Gangtok. Budget travellers take a shared jeep from Siliguri, about ₹350–500 a seat. Check in, hand your ID copies and photographs to the operator if you have not sent them already, and rest. In the evening walk MG Marg, the pedestrian high street, and eat momos and thukpa. Go to bed early; the next day is a long drive.", "meals": "None"},
+    {"day": 2, "title": "North to Lachung via Kabi and Phodong", "place": "lachung", "overnight": "Lachung", "drive": "≈ 122 km · 6–7 h", "text": "Leave Gangtok by 10 am once the permit is collected. Stop at Kabi Lungchok, an hour out of town, where stones mark the blood brotherhood between the Lepcha leader Thekong Tek and the Bhutia prince Khye Bumsa. Pause at the Seven Sisters Waterfall and, time allowing, Phodong Monastery. Continue through Mangan and the Toong checkpost to Chungthang for lunch, then up the Lachung valley. Reach Lachung around dusk, about 2,700 m. Dinner at the hotel and an early night.", "meals": "Dinner"},
+    {"day": 3, "title": "Yumthang Valley, back to Gangtok", "place": "yumthang-valley", "overnight": "Gangtok", "drive": "≈ 170 km · 9–10 h in total", "text": "Leave Lachung at 5.30–6 am for Yumthang, 24 km up through the Shingba Rhododendron Sanctuary. Spend an hour on the meadow and at the hot spring; in winter, play in the snow wherever the cleared road ends. Zero Point is optional, paid per vehicle, and only if the road is open. Return to Lachung for breakfast, check out by about 10.30 am and drive back to Gangtok, crossing the Toong checkpost before 4 pm. Reach Gangtok in the evening.", "meals": "Breakfast"},
+    {"day": 4, "title": "Gangtok to Siliguri", "place": "gangtok", "overnight": "", "drive": "≈ 115 km · 4–5 h", "text": "After breakfast, if your flight or train is in the afternoon, visit Enchey Monastery or the Namgyal Institute of Tibetology for an hour. Then drive down to Bagdogra or NJP, allowing at least five hours for the road and possible delays along the Teesta. Budget travellers can take a shared jeep. Plan flights for after 2 pm and trains for the evening; landslides on National Highway 10 can add hours in wet weather.", "meals": "Breakfast"}
+  ],
+  "stays": ["bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung"],
+  "includes": [
+    "Protected Area Permit processing for Lachung and Yumthang",
+    "Transport as per tier: shared jeeps and shared North Sikkim vehicle (budget), private car (comfort, premium)",
+    "Three nights' accommodation, twin sharing",
+    "Dinner and breakfast in Lachung; breakfast in Gangtok on comfort and premium tiers",
+    "Stops at Kabi Lungchok, Seven Sisters Waterfall and Phodong"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Lunches and Gangtok dinners",
+    "Zero Point charge, about ₹3,000–4,500 per vehicle (except premium)",
+    "Snow-gear hire, room heaters where charged, tips",
+    "Extra nights caused by road closures"
+  ],
+  "save_more": [
+    "Use shared jeeps between Siliguri and Gangtok and a shared group package for Lachung; it halves the cost of a private car.",
+    "Travel in the last week of April or in November, when Lachung rates are below their May and Puja peaks.",
+    "Stay near the North Sikkim departure point in Gangtok to avoid an extra taxi on the morning of day 2."
+  ],
+  "good_to_know": [
+    "Your operator needs ID copies and photographs at least 3–5 days before day 2.",
+    "Yumthang can be snowbound from December to March; the car goes as far as the road is cleared.",
+    "Vehicles must cross the Toong checkpost by 4 pm under the September 2026 order.",
+    "Foreign nationals can usually visit Lachung and Yumthang on a Restricted Area Permit, in a group of two or more.",
+    "Monsoon landslides often close the road from June to September; check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "Is 3 nights enough for Gangtok and Lachung", "a": "Yes, for a first look. You get a night in Gangtok, a night in Lachung, the Yumthang morning and a night back in Gangtok before going down. It is tight but not rushed for healthy travellers. Add a night if you want Gangtok sightseeing or Zero Point without hurry."},
+    {"q": "How much does a Gangtok–Lachung 3-night trip cost", "a": "Our budget fare starts at about ₹10,500 per person twin sharing from Siliguri, using shared jeeps and a group package. Comfort with private cars and better hotels is about ₹18,500, and premium with Yarlam Resort about ₹38,000. These are indicative 2026 figures."},
+    {"q": "Is this trip good for families with small children", "a": "Yes, it is one of the better North Sikkim options for families because it stays at or below Yumthang's 3,564 m. Keep children warm and hydrated in Lachung, avoid Zero Point with children under five and bring snacks for the long drives."},
+    {"q": "Will I see snow in Lachung on this trip", "a": "From about December to March, usually yes, either in Lachung or on the road to Yumthang. In April and October–November you may see snow on the peaks and sometimes at Zero Point. In May you will see rhododendrons rather than snow at Yumthang itself."},
+    {"q": "Can I add Lachen and Gurudongmar to this trip", "a": "Yes, by adding one or two nights. Our 4-night Lachen–Gurudongmar–Lachung trip covers both valleys, and the 5-night version adds an acclimatisation night in Lachen. Remember that Gurudongmar is far higher at 5,430 m and needs more care."},
+    {"q": "When is the best time for Yumthang on a short trip", "a": "Late April to May for rhododendrons, October to November for clear skies, December to March for snow. Avoid June to August, when monsoon landslides often close the road. Early March and November are good value for budget travellers."},
+    {"q": "What should I pack for Lachung", "a": "Thermals, a fleece and a down or padded jacket, a woollen cap, gloves, two pairs of warm socks, waterproof shoes, sunglasses, sunscreen and a refillable bottle. In winter add waterproof trousers or hire them in Lachung. Bring ID copies and cash."},
+    {"q": "Is Zero Point included", "a": "Not on budget and comfort tiers. Zero Point is optional, paid per vehicle, about ₹3,000–4,500, indicative, 2026, and only if the road is open. It is included on the premium tier when open. Decide on the morning at Yumthang."},
+    {"q": "What if my permit is delayed", "a": "That is why day 1 is a full night in Gangtok. If the permit is still delayed, operators usually shift the Lachung night by a day. Keep your return booking flexible, especially in peak season, and check current status before you travel."}
+  ]
+}

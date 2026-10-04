@@ -1,0 +1,173 @@
+{
+  "slug": "mahananda-wildlife-sanctuary",
+  "name": "Mahananda Sanctuary and Sevoke",
+  "region": "dooars",
+  "kind": "wildlife sanctuary",
+  "wiki": "Mahananda Wildlife Sanctuary",
+  "image_query": "Coronation Bridge Sevoke Teesta",
+  "lat": 26.85,
+  "lng": 88.42,
+  "altitude_m": 170,
+  "tagline": "Forest on Siliguri's doorstep and the 1941 bridge over the Teesta",
+  "meta_description": "Mahananda Wildlife Sanctuary and Sevoke guide: Sukna forest, Latpanchar hornbills, the 1941 Coronation Bridge, Sevoke Kali temple, costs and timings.",
+  "summary": "Mahananda Wildlife Sanctuary covers about 159 sq km of forest between the Mahananda and Teesta rivers, rising from 166 m at Sukna, 13 km from Siliguri, to about 1,500 m near Latpanchar. At its eastern edge, Sevoke has the 1941 Coronation Bridge and a hill Kali temple. All of it is a half-day from Siliguri.",
+  "intro": [
+    "Most travellers drive past Mahananda without noticing. The road to Darjeeling via Sukna and Rohini, and the road to Gangtok and the Dooars via Sevoke, both skirt its edges. Yet this is a large sanctuary, about 159 sq km of forest between the Mahananda and Teesta rivers, climbing from the plains near Sukna to around 1,500 m in the hills near Latpanchar. It was first protected as a game sanctuary in the 1950s, mainly for gaur and tigers, and became a wildlife sanctuary in 1976.",
+    "For a visitor with half a day in Siliguri, Mahananda offers three things. First, a forest drive or walk from the Sukna side, through sal and riverine forest where elephants and gaur live. Second, the hornbills of the upper sanctuary around Latpanchar, where great, rufous-necked and oriental pied hornbills are seen in season. Third, Sevoke, where the Teesta comes out of its gorge and the Coronation Bridge crosses it in a single steel-and-concrete arch.",
+    "Sevoke is the hinge of the region. From here, the road over the Coronation Bridge leads east into the Dooars, while the road up the Teesta valley leads to Kalimpong and Sikkim. The river view from the bridge, the Sevokeshwari Kali temple up its flight of steps, and the tea and momo stalls by the road make it a natural first or last stop on any Dooars trip."
+  ],
+  "story": {
+    "title": "A bridge for a coronation",
+    "paras": [
+      "In 1937 the Governor of Bengal, Sir John Anderson, laid the foundation stone of a new bridge over the Teesta at Sevoke to mark the coronation of King George VI and Queen Elizabeth. The design, by the British executive engineer John Chambers with three Bengali engineers, used a single reinforced-concrete arch springing from rock on each side of the gorge, so that no pier would stand in the Teesta's monsoon floods. It cost about ₹6 lakh and was finished in 1941.",
+      "Locals call it the Baghpool, the tiger bridge, after the pair of big-cat statues at one end, though they are usually described as lions. For more than eighty years it has carried traffic from Siliguri into the Dooars and towards Assam, and its age means repairs and traffic limits come up from time to time. Check current status before you travel if you are in a large vehicle."
+    ],
+    "source": "Wikipedia 'Coronation Bridge'; Wikipedia 'Mahananda Wildlife Sanctuary'"
+  },
+  "did_you_know": [
+    "The Coronation Bridge at Sevoke was begun in 1937 to mark the coronation of George VI and completed in 1941 at a cost of about ₹6 lakh.",
+    "Mahananda Wildlife Sanctuary rises from 166 m in the Sukna forest to about 1,500 m at Latkothi, so it holds both plains and hill forest.",
+    "Three hornbill species, the great, rufous-necked and oriental pied, are recorded in the Mahananda sanctuary."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "0 (half-day from Siliguri)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 28 km to Sukna"],
+    ["From Siliguri", "Sukna ≈ 13 km · 30 min; Sevoke ≈ 22 km · 45 min"],
+    ["Altitude", "166 – 1,500 m"],
+    ["Known for", "Coronation Bridge, hornbills, gaur"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 1, 0, 0, 1, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "The Coronation Bridge", "text": "A single arch over the Teesta gorge at Sevoke, built 1937–41. Stop at a safe point near the bridge to see the river coming out of the hills; the view upstream into the gorge is the best part."},
+    {"title": "Sevokeshwari Kali temple", "text": "A hill temple to Kali at Sevoke, reached by a long flight of steps from the road. Pilgrims stop here on the way to the Dooars and Sikkim; the climb gives a view over the Teesta."},
+    {"title": "Sukna forest", "text": "The southern gate of the sanctuary at Sukna, 13 km from Siliguri, opens into sal and riverine forest. Forest drives and nature walks are organised from here in season."},
+    {"title": "Latpanchar hornbills", "text": "In the upper sanctuary near Latpanchar, hornbills nest in tall trees; spring is the season to see them. It is a separate trip up into the hills from Siliguri or Kurseong."},
+    {"title": "The Teesta at Sevoke", "text": "Sevoke is where the Teesta leaves its narrow gorge and spreads into the plains. The riverbank and road stalls are a classic stop for tea and momos."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Siliguri, a car to Sevoke and the Coronation Bridge takes about 45 minutes; to the Sukna forest gate about 30 minutes. A half-day car covering both costs about ₹1,500–2,500, indicative 2026. Every reserved car to the Dooars passes the bridge anyway."},
+    {"mode": "Bus / shared vehicle", "text": "Buses and shared jeeps from Siliguri towards Kalimpong, Gangtok and Malbazar pass through Sevoke. Get off at Sevoke bazaar for the bridge and temple; the fare is about ₹30–60, indicative 2026."},
+    {"mode": "Rail", "text": "Sevoke station is on the Siliguri–Alipurduar line, and Sukna is a station on the Darjeeling Himalayan Railway. Most visitors use road transport, which is more frequent."}
+  ],
+  "where_to_stay": "Stay in Siliguri and visit Mahananda and Sevoke as a half-day trip; the city's hotels, from WBTDC's Mainak Tourism Property to Sinclairs, Courtyard by Marriott and Mayfair Tea Resort, are all within 30–45 minutes. A few resorts and homestays have opened along the Sevoke road and near the forest edges; choose carefully. For the hornbills of Latpanchar, stay in a homestay in Latpanchar village in the hills.",
+  "stays": ["mainak-tourism-property-siliguri", "mayfair-tea-resort-siliguri"],
+  "costs": [
+    ["Half-day car Siliguri → Sevoke and Sukna", "₹1,500–2,500, indicative 2026"],
+    ["Bus or shared jeep Siliguri → Sevoke", "₹30–60, indicative 2026"],
+    ["Sanctuary entry and vehicle fees at Sukna", "₹100–500, indicative 2026"],
+    ["Tea and momos at Sevoke", "₹50–150, indicative 2026"]
+  ],
+  "budget_tip": "If you are heading to the Dooars or Kalimpong anyway, ask your driver for a 15-minute stop at Sevoke; the bridge and river cost nothing to see.",
+  "tips": [
+    "Do not stop on the bridge itself; use the pull-offs near the ends and watch for traffic.",
+    "Drones and photography of the railway and military areas nearby may be restricted; follow signs.",
+    "The Sukna forest closes in the monsoon like other sanctuaries; check current status before you travel.",
+    "Elephants cross the Sevoke road and the Siliguri–Sukna road; do not stop for photos if you see them.",
+    "Climb the Kali temple steps early or late to avoid midday heat."
+  ],
+  "themes": ["birding-and-orchids", "wildlife-safaris", "budget-trips"],
+  "nearby": ["siliguri", "lataguri", "gorumara-national-park"],
+  "experiences": [
+    {
+      "slug": "mahananda-coronation-bridge-sevoke",
+      "title": "The Coronation Bridge and the Teesta gorge",
+      "kind": "culture",
+      "duration": "30–60 minutes",
+      "best_time": "Mornings, Oct – May; monsoon for the river in spate",
+      "cost": "Free",
+      "image_query": "Coronation Bridge Sevoke",
+      "wiki": "Coronation Bridge",
+      "summary": "The 1941 Coronation Bridge spans the Teesta at Sevoke in a single arch, where the river leaves its gorge. Stop near the bridge to see the river, the arch and the lions that give it its local name, Baghpool.",
+      "body": [
+        "Coming from Siliguri, the road climbs out of Sevoke bazaar and swings onto the bridge. Below, the Teesta squeezes out of a forested gorge, green and clear in winter, brown and roaring in the monsoon. The bridge, a reinforced-concrete arch of about 120 m with its main span over the water, leaps across with no pier in the river, a design meant to survive the Teesta's floods.",
+        "Its story is a small piece of empire. The foundation stone was laid in 1937 by the Governor of Bengal to mark the coronation of George VI and Queen Elizabeth, and the bridge opened in 1941. Local people know it as Baghpool, after the big-cat statues at one end. It has carried traffic into the Dooars ever since.",
+        "There is no proper viewing platform. Ask your driver to stop at a safe pull-off near one end, and watch for trucks; do not stand on the carriageway. Photography of the bridge is common, but follow any signs, as the area has security installations nearby."
+      ],
+      "good_for": ["photographers", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Why is it called the Coronation Bridge", "a": "Its foundation stone was laid in 1937 to commemorate the coronation of King George VI and Queen Elizabeth. The bridge was completed in 1941. Locally it is called Baghpool, or tiger bridge, after the big-cat statues at one end, usually described as lions."},
+        {"q": "Where is the Coronation Bridge", "a": "At Sevoke, about 22 km from Siliguri, where the Teesta comes out of the hills. It carries the road from Siliguri into the Dooars. Every car going from Siliguri to Lataguri, Jaldapara or Bhutan by the main route crosses it."},
+        {"q": "Can I stop on the Coronation Bridge", "a": "Stopping on the bridge itself is unsafe and may be prohibited. Ask your driver to use a safe pull-off near either end and walk a short way for the view, keeping off the carriageway. Traffic rules on the old bridge change during repairs; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "mahananda-sevokeshwari-kali-temple",
+      "title": "Steps up to the Sevoke Kali temple",
+      "kind": "spiritual",
+      "duration": "45–60 minutes",
+      "best_time": "Mornings, all year",
+      "cost": "Free; small donations optional",
+      "image_query": "Sevoke Kali Mandir",
+      "wiki": "",
+      "summary": "On the hillside above the road at Sevoke, a temple to Kali is reached by a long flight of steps. Travellers stop to pray before heading into the hills or the Dooars, and the climb gives a view over the Teesta.",
+      "body": [
+        "The Sevokeshwari Kali temple sits on a forested slope just off the road at Sevoke, near the point where the routes to Sikkim and the Dooars divide. A steep flight of steps leads up from the roadside, with small shrines and bells on the way. Drivers and pilgrims often stop for a quick prayer and blessing before a long journey.",
+        "The climb takes 10–20 minutes, depending on your pace. At the top, the shrine is modest and busy with devotees on Tuesdays and Saturdays and during Kali Puja. Look back for a view over the Teesta and the forest of Mahananda.",
+        "Remove shoes where indicated, dress modestly, and keep small change for offerings if you wish. Monkeys may be around; keep food out of sight. Combine the visit with the Coronation Bridge and a cup of tea in Sevoke bazaar."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Where is the Sevoke Kali temple", "a": "On the hillside at Sevoke, about 22 km from Siliguri, near the junction of the roads to Sikkim and the Dooars. A long flight of steps climbs from the roadside. Most cars passing through Sevoke can stop briefly nearby."},
+        {"q": "How many steps are there at Sevoke Kali temple", "a": "There is a long, steep flight of steps from the road, which takes most people 10–20 minutes to climb. Go slowly, especially in heat. People with knee or heart problems may prefer to pray at the lower shrine."},
+        {"q": "When is Sevoke Kali temple busiest", "a": "On Tuesdays and Saturdays, during Kali Puja in October or November, and on holiday weekends when traffic to the hills is heavy. Early mornings are quieter. The temple is open in daytime; hours are informal."}
+      ]
+    },
+    {
+      "slug": "mahananda-sukna-forest-drive",
+      "title": "Forest drive from the Sukna gate",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Early morning, Nov – Apr",
+      "cost": "₹500–2,000 per vehicle with fees, indicative",
+      "image_query": "Mahananda Wildlife Sanctuary Sukna forest",
+      "wiki": "Mahananda Wildlife Sanctuary",
+      "summary": "The southern gate of Mahananda at Sukna, 13 km from Siliguri, leads into sal and riverine forest at the foot of the hills. A short forest drive or guided nature walk here is the easiest wildlife outing from Siliguri.",
+      "body": [
+        "Sukna sits where the Darjeeling road begins to climb, with the toy train line running alongside. The sanctuary's southern gate here opens into flat and gently rising forest, cut by streams that come down from the hills. Gaur, elephants, barking deer, wild boar and peafowl live here, and leopards, though they are seldom seen.",
+        "The forest department has organised forest drives and nature walks from the Sukna side in season, with a guide and entry fees per person and vehicle. Arrangements change from year to year, so ask at the Sukna range office or your hotel in Siliguri. Early morning, before traffic noise builds, is best.",
+        "This is not Jaldapara; do not expect rhinos or certain sightings. It is a pleasant, short forest outing for people with a few spare hours in Siliguri, and a good place for birds. Carry water and ID. Check current status before you travel."
+      ],
+      "good_for": ["families", "students", "photographers"],
+      "faqs": [
+        {"q": "How far is Mahananda Wildlife Sanctuary from Siliguri", "a": "The Sukna gate, at the southern edge of the sanctuary, is about 13 km from Siliguri and 28 km from Bagdogra Airport, roughly 30 minutes by car. Sevoke, on its eastern edge, is about 22 km from Siliguri."},
+        {"q": "Which animals can I see in Mahananda", "a": "Gaur, elephants, barking deer, sambar, wild boar and peafowl are the most likely, with leopards present but shy. The sanctuary also holds Himalayan black bears and clouded leopards higher up, which visitors rarely see. Birds include three hornbill species."},
+        {"q": "Is Mahananda sanctuary closed in the monsoon", "a": "Like other protected areas in North Bengal, Mahananda closes to tourism activities in the monsoon, usually from mid-June to mid-September. Forest drives and walks are seasonal and arrangements change. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "mahananda-latpanchar-hornbill-season",
+      "title": "Hornbill season in upper Mahananda",
+      "kind": "nature",
+      "duration": "Full day or overnight from Siliguri",
+      "best_time": "Mar – May, dawn",
+      "cost": "₹3,000–4,500 for a car plus guide, indicative",
+      "image_query": "rufous-necked hornbill Latpanchar",
+      "wiki": "",
+      "summary": "In the upper reaches of Mahananda around Latpanchar, hornbills nest in tall trees in spring. With a local guide you may see great, rufous-necked or oriental pied hornbills at dawn. It is a trip into the hills from Siliguri, best with a night in a village homestay.",
+      "body": [
+        "The upper part of the Mahananda sanctuary climbs towards Latpanchar and Latkothi at about 1,500 m, where old forest still has the tall trees hornbills need. All three species recorded in the sanctuary, the great, rufous-necked and oriental pied hornbills, nest in tree cavities, with the female sealed inside while the male brings food. Spring, roughly March to May, is when they are most visible.",
+        "Local homestays and guides in Latpanchar know nest trees and feeding spots. Go out at dawn, when the birds are active and calls carry, and wait quietly at a distance. Never approach a nest tree closely or play calls; disturbance can make birds abandon a nest.",
+        "Latpanchar is in the Darjeeling hills above Sukna, reached by a steep road from Siliguri in about two hours. Stay a night for the dawn session, and combine it with cinchona plantations and the views from the ridge. Check access rules for the sanctuary with your guide."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "When is the best time to see hornbills near Latpanchar", "a": "March to May, during the nesting season, at dawn. Hornbills can be seen at other times of year, but spring gives the best chances because males make regular feeding trips to nest trees. Go with a local guide and keep a respectful distance."},
+        {"q": "How far is Latpanchar from Siliguri", "a": "Roughly 40–45 km, about two hours by car on a steep hill road via Sukna or Sevoke. A car for the day costs about ₹3,000–4,500, indicative 2026. Because hornbills are best at dawn, most people stay a night in a Latpanchar homestay."},
+        {"q": "Which hornbills live in Mahananda", "a": "Three species are recorded: the great hornbill, the rufous-necked hornbill and the oriental pied hornbill. The rufous-necked hornbill is the most sought-after, as it is scarce across its range. Sightings depend on season, luck and a good local guide."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Mahananda Wildlife Sanctuary known for", "a": "Forest close to Siliguri, gaur and elephants, three species of hornbill, and a range of habitats from 166 m at Sukna to about 1,500 m near Latpanchar. It covers about 159 sq km between the Mahananda and Teesta rivers and became a wildlife sanctuary in 1976."},
+    {"q": "Is Mahananda worth visiting", "a": "As a half-day from Siliguri, yes: a forest drive from Sukna, the Coronation Bridge and the Kali temple at Sevoke. For birders, the hornbills of the upper sanctuary in spring are worth a dedicated trip. For big-mammal sightings, Gorumara and Jaldapara are better."},
+    {"q": "How do I visit the Coronation Bridge from Siliguri", "a": "Take any bus or shared jeep towards Kalimpong, Gangtok or the Dooars and get off at Sevoke, about 22 km and 45 minutes from Siliguri, or use a car. The bridge is just beyond Sevoke bazaar on the road to the Dooars."},
+    {"q": "When was the Coronation Bridge built", "a": "Construction began in 1937, when the Governor of Bengal laid the foundation stone to mark George VI's coronation, and the bridge was completed in 1941. It was designed by John Chambers with three Bengali engineers and cost about ₹6 lakh."},
+    {"q": "Is Mahananda open all year", "a": "The sanctuary closes to tourist activities in the monsoon, usually from mid-June to mid-September, like other North Bengal protected areas. The roads through Sevoke and Sukna stay open, subject to landslides. Check current status before you travel."},
+    {"q": "Can I see elephants near Sevoke", "a": "Yes. Elephants cross the roads around Sevoke and Sukna, especially at dusk and night. Drivers know the crossing points. Never stop close to them, get out, or use a flash. If one is on the road, wait at a distance until it moves away."},
+    {"q": "Where should I stay to visit Mahananda", "a": "Siliguri is the best base, within 30–45 minutes of Sukna and Sevoke, with hotels at every budget. For the hornbills of the upper sanctuary, stay in a homestay at Latpanchar in the hills for an early start."},
+    {"q": "Is Sevoke on the way to Gangtok", "a": "Yes. The road from Siliguri to Gangtok, Kalimpong and the Dooars all pass through Sevoke. At Sevoke, the Dooars road turns right over the Coronation Bridge, while the road to Sikkim and Kalimpong continues up the Teesta valley along NH10."},
+    {"q": "Is there a railway at Sevoke", "a": "Yes. Sevoke station is on the line from Siliguri to the Dooars and Alipurduar, and the Sevoke–Rangpo railway line to Sikkim has been under construction from here. Most visitors still travel by road. Check current status of the Sikkim line before you travel."}
+  ]
+}

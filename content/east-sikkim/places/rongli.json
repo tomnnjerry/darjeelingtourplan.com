@@ -1,0 +1,176 @@
+{
+  "slug": "rongli",
+  "name": "Rongli",
+  "region": "east-sikkim",
+  "kind": "river town",
+  "wiki": "Rongli",
+  "image_query": "Rongli Sikkim bazaar",
+  "lat": 27.204,
+  "lng": 88.702,
+  "altitude_m": 850,
+  "tagline": "Old trade bazaar on the Rangpo River and the Silk Route permit gate",
+  "meta_description": "Rongli, East Sikkim: the old trade-route bazaar where Silk Route permits are checked, plus shared jeep fares, Lingtam, Padamchen and when to go.",
+  "summary": "Rongli is a small river-bottom bazaar at about 850 m in Pakyong district, East Sikkim, and the gate to the Silk Route. It was one of Sikkim's oldest markets on the Kalimpong–Tibet trade line. Today travellers stop here to have Protected Area Permits issued or checked before climbing to Lingtam, Padamchen and Zuluk.",
+  "intro": [
+    "Rongli is where the Silk Route stops being a gentle hill drive. The town sits low in the valley at about 850 m, where the Rongli Khola meets the Rangpo River, some 62–69 km from Gangtok depending on the road and about 20 km from Aritar. It is the headquarters of Rongli subdivision of Pakyong district, so it has a police station, government offices, a market street of general stores and canteens, and a taxi stand. Above it the road climbs about 2,000 m in 30-odd km to Zuluk.",
+    "For travellers, Rongli matters for one reason: permits. Indian nationals going on to Lingtam, Padamchen, Zuluk, Nathang and Kupup need a Protected Area Permit, and Rongli is where it is usually issued or checked, through the local police and administration or through a Gangtok agent who has filed it in advance. You need two passport photos and a copy of photo ID per person. Foreign nationals cannot go beyond Rongli on this route. Check current status before you travel.",
+    "Most people see Rongli for twenty minutes through a car window, but the bazaar rewards an hour. This was one of the oldest markets in Sikkim on the trade line from Kalimpong to Tibet, and it still serves the villages up the valley with rice, oil, hardware, school uniforms and seasonal fruit. A breakfast of puri-sabzi or momos with milk tea in a canteen costs ₹80–150. For a slower night, Rolep lower on the Rangpo River and Lingtam up the Zuluk road both have registered homestays."
+  ],
+  "story": {
+    "title": "Market town on the mule road to Tibet",
+    "paras": [
+      "Rongli grew because mules needed to stop. On the trade line that ran from Kalimpong through Pedong and Rhenock to Jelep La and on to Lhasa, Rongli was the last sizeable halt in the warm valley before the long climb to Zuluk and the passes. It is described as one of the oldest markets in Sikkim on the Kalimpong–Tibet route. Caravans bringing wool and furs down from Tibet, and manufactured goods up from Kalimpong, rested their animals and restocked here before the next hard stage.",
+      "The trade ended after the 1959 crackdown in Tibet and the 1962 war, when Jelep La and Nathu La were closed. Nathu La reopened for limited border trade in 2006, but that traffic runs from Gangtok via Sherathang, not through Rongli. The bazaar survived as a local market and an administrative town. The river beside it still ties Rongli to the old route: the Rangpo River rises at Menmecho Lake below Jelep La, runs down past Rongli and Rorathang, and joins the Teesta at Rangpo."
+    ],
+    "source": "Wikipedia: Rongli, Rangpo River, Jelep La"
+  },
+  "did_you_know": [
+    "The Rangpo River at Rongli rises at Menmecho Lake below Jelep La and joins the Teesta at Rangpo; it is often listed as Sikkim's third largest river after the Teesta and the Rangeet.",
+    "From Rorathang down to Rangpo, the Rangpo River forms the border between Pakyong district of Sikkim and Kalimpong district of West Bengal.",
+    "Rongli is the headquarters of Rongli subdivision, which takes in Aritar, Zuluk and the rest of the Silk Route villages of Pakyong district."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "0–1"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 120 km"],
+    ["From Gangtok", "≈ 62–69 km · 2.5–3 h"],
+    ["From Siliguri", "≈ 110–120 km · 4–5 h"],
+    ["Altitude", "≈ 850 m"],
+    ["Permit", "Silk Route PAP issued or checked here"],
+    ["Known for", "Old bazaar, permit stop, Rangpo River"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "The permit stop, done right", "text": "Every Indian traveller heading for Zuluk passes the Rongli permit check. If your agent filed the Protected Area Permit in advance, it takes minutes; if not, it can take a morning. Carry photos, ID copies and originals, and arrive in office hours. Check current status before you travel."},
+    {"title": "Breakfast in the bazaar", "text": "Rongli's market street has canteens serving puri-sabzi, momos, chowmein and sweet milk tea from early morning, at ₹80–150 a head. It is the last proper place to eat a hot meal and stock up on snacks, water and basic medicines before the climb to Zuluk."},
+    {"title": "The Rangpo River", "text": "The Rangpo River, which rises at Menmecho Lake below Jelep La, runs past the bazaar here after the Rongli Khola joins it. A short walk down to the bank gives you cold clear water, round grey boulders and a sense of how deep in the valley the old caravans began their climb."},
+    {"title": "Lingtam village", "text": "A short drive up the Zuluk road, Lingtam is a small village with terraced fields, a monastery nearby and a few registered homestays. Permits are often checked here too. It makes a gentler first night than Zuluk for travellers who want to climb slowly."},
+    {"title": "The forest climb to Padamchen", "text": "Above Lingtam the road winds up through thick forest to Padamchen, at roughly 8,000 ft by local counts, then on to Zuluk. In spring rhododendrons flower along the road. It is one of the steepest gains in height on any tourist road in Sikkim, so take it slowly."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run to Rongli from Gangtok and from Siliguri, mostly leaving in the morning; ask at the stand the day before. Expect roughly ₹150–250 a seat from Gangtok and ₹250–400 from Siliguri, indicative 2026. Beyond Rongli you need a reserved Sikkim-registered vehicle and a Protected Area Permit."},
+    {"mode": "Reserved car", "text": "A small car from NJP or Bagdogra costs about ₹5,000–7,000 for the 4–5 hour drive via Rangpo and Rorathang; from Gangtok, about ₹3,500–5,000 one way. Most travellers pass through Rongli on a Silk Route package rather than hire a car only this far. Check current status before you travel, as slides can cut the road in monsoon."},
+    {"mode": "Rail / Air", "text": "The nearest railhead is New Jalpaiguri (NJP) and the nearest working airport is Bagdogra (IXB), both near Siliguri. Pakyong Airport is closer but has no scheduled flights as of 2026. The Sivok–Rangpo railway, still under construction, will end at Rangpo, about an hour's drive from Rongli. Check current status before you travel."}
+  ],
+  "where_to_stay": "Few travellers sleep in Rongli itself. The bazaar has a handful of basic lodges and hotels used mostly by officials, drivers and traders, with rooms around ₹1,000–2,500 a night, indicative 2026. For a better night, go back 20 km to Aritar, or up the Zuluk road to Lingtam and Padamchen, where registered village homestays charge ₹1,500–2,500 per person with meals; those two need the Silk Route permit. Rolep, on the Rangpo River below Rongli, has a few riverside homestays too. We do not name properties because standards change; your driver or agent will know which are open.",
+  "stays": [],
+  "costs": [
+    ["Protected Area Permit via agent or driver", "≈ ₹200 per person, more with agent fees"],
+    ["Shared jeep seat Gangtok → Rongli", "₹150–250"],
+    ["Shared jeep seat Siliguri → Rongli", "₹250–400"],
+    ["Basic lodge room in the bazaar", "₹1,000–2,500 per night"],
+    ["Canteen breakfast with tea", "₹80–150 per person"]
+  ],
+  "budget_tip": "Have your Gangtok agent or driver file the Protected Area Permit a day ahead, so you do not lose half a morning, and possibly an extra night's stay, waiting at Rongli.",
+  "tips": [
+    "If your permit is being issued at Rongli, arrive in the morning; offices keep government hours and may close on public holidays.",
+    "Carry the original photo ID you used for the permit, as checkposts beyond Rongli match names against it.",
+    "Buy snacks, water and any medicines you need here; there is little to buy between Rongli and Zuluk.",
+    "In the monsoon the roads around Rongli and above Lingtam can be cut by landslides; keep a spare day and check current status before you travel.",
+    "Foreign travellers in a mixed group can stay at Aritar while the Indian members do the Zuluk loop, and everyone meets again on the way down."
+  ],
+  "themes": ["budget-trips", "food-and-markets", "village-homestays", "high-passes"],
+  "nearby": ["aritar", "rhenock", "zuluk"],
+  "experiences": [
+    {
+      "slug": "rongli-bazaar-breakfast-walk",
+      "title": "Breakfast and a bazaar walk in Rongli",
+      "kind": "food",
+      "duration": "1 hour",
+      "best_time": "Mornings, year-round",
+      "cost": "₹80–200 per person, indicative",
+      "image_query": "Rongli bazaar Sikkim",
+      "wiki": "Rongli",
+      "summary": "While your permit is checked, eat a hot breakfast in a Rongli canteen and walk the length of the bazaar. It was one of Sikkim's oldest markets on the Kalimpong–Tibet trade line, and it still supplies the villages of the upper valley.",
+      "body": [
+        "Rongli's bazaar is a single main street with shops on both sides, a taxi stand and a few lanes running down towards the river. Canteens open early for drivers and office workers. Order puri-sabzi, aloo dum, momos or a plate of chowmein with sweet milk tea; a full breakfast costs ₹80–150 a head, indicative 2026. Ask for a cup of black tea if you prefer it without milk and sugar, which is common in the hills.",
+        "Then walk. The shops sell rice, cooking oil, pots, tools, school uniforms, plastic sandals and, in season, mandarins, ginger and vegetables from the villages above. This is a working market, not a souvenir street, so do not expect handicrafts. It is still worth an unhurried look: the same valley floor once filled with mule caravans resting before the climb to Zuluk and Jelep La, and the bazaar grew to serve them.",
+        "Use the stop to stock up for the Silk Route. Buy drinking water, biscuits, dry fruit, a few packets of instant noodles and any medicines you might need, including something for headaches and an upset stomach. There is very little to buy between Rongli and Zuluk, and nothing at all at Nathang. Take a photo of your permit papers on your phone as a backup before you set off up the hill."
+      ],
+      "good_for": ["families", "students", "first-timers", "solo"],
+      "faqs": [
+        {"q": "Where can we eat in Rongli", "a": "Rongli bazaar has several small canteens and roadside eateries along the main street, open from early morning for drivers and office workers. They serve puri-sabzi, aloo dum, momos, chowmein, rice meals and tea at about ₹80–150 per person, indicative 2026. Food is simple and fresh. This is the last good place to eat a hot meal before Zuluk, so use it."},
+        {"q": "Are there ATMs and shops in Rongli", "a": "Rongli has a market street with general stores, pharmacies and small eateries, and it is the last proper bazaar before Zuluk. ATMs exist in the wider area but are not always stocked, so draw the cash you need in Gangtok, Rangpo or Siliguri before you arrive. Carry enough for homestays, food and tips for the whole Silk Route stretch."},
+        {"q": "What should we buy in Rongli before going to Zuluk", "a": "Buy drinking water, biscuits, dry fruit, chocolate and instant noodles for the road, and basic medicines for headache, nausea, colds and upset stomachs. Add a woollen cap and gloves if you forgot them. There is very little to buy between Rongli and Zuluk and almost nothing at Nathang or Kupup, so stock up here."}
+      ]
+    },
+    {
+      "slug": "rongli-rangpo-riverside-walk",
+      "title": "A riverside hour on the Rangpo at Rongli",
+      "kind": "nature",
+      "duration": "45 minutes–1 hour",
+      "best_time": "Mornings, Oct–May",
+      "cost": "Free",
+      "image_query": "Rangpo River Sikkim",
+      "wiki": "Rangpo River",
+      "summary": "The Rangpo River, born at Menmecho Lake below Jelep La, runs past Rongli after the Rongli Khola joins it. A short walk down to the bank gives cold clear water, big boulders and a quiet break while the permit paperwork is done.",
+      "body": [
+        "The Rangpo River starts high up at Menmecho Lake, below Jelep La and not far from Zuluk, and drops fast through forest to reach Rongli, where the Rongli Khola joins it. From here it flows west past Rorathang, where it begins to mark the border between Sikkim and West Bengal, and meets the Teesta at Rangpo. It is often listed as Sikkim's third largest river after the Teesta and the Rangeet.",
+        "From the bazaar, lanes and paths lead down towards the water. Pick a spot on the boulders, sit, and listen. In October and November the river runs clear and green-grey; in spring it is lower; in the monsoon it turns brown and loud. Look for wagtails and forktails on the stones and dippers working the fast water. Children love throwing pebbles here, but keep them well back from the edge.",
+        "Do not swim. The water is cold even in summer, the current is stronger than it looks, and it can rise quickly after rain upstream. Stay off the river completely from June to September. Take your rubbish back up with you, as there are no bins by the water. If you want a longer riverside stay, Rolep, a village lower down on the Rangpo, has a few homestays near the bank."
+      ],
+      "good_for": ["families", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Where does the Rangpo River start", "a": "The Rangpo River rises at Menmecho Lake, below Jelep La near Zuluk, in East Sikkim. It flows down past Rongli, where the Rongli Khola joins it, then past Rorathang and on to Rangpo town, where it meets the Teesta. From Rorathang to Rangpo it forms the border between Sikkim and the Kalimpong district of West Bengal."},
+        {"q": "Is it safe to swim in the Rangpo River at Rongli", "a": "No, we advise against it. The water is very cold, the current is stronger than it looks, and the river can rise quickly after rain upstream, even on a sunny day. Paddling at the edge in calm spots is fine with care, but keep children well back. From June to September stay away from the water completely."},
+        {"q": "Can we see birds along the river at Rongli", "a": "Yes, often. Look on the boulders and at the edge of fast water for wagtails, forktails, dippers and redstarts, especially in the early morning from October to April. Kingfishers sometimes fly along the river. Bring binoculars and stand still for a few minutes; most river birds return quickly once you stop moving."}
+      ]
+    },
+    {
+      "slug": "rongli-lingtam-village-stop",
+      "title": "Lingtam village stop on the Zuluk road",
+      "kind": "village",
+      "duration": "1–2 hours, or an overnight",
+      "best_time": "Oct–May",
+      "cost": "Free to walk; homestay ₹1,500–2,500 per person with meals, indicative",
+      "image_query": "Lingtam village Sikkim",
+      "wiki": "",
+      "summary": "Lingtam is a small farming village a short drive above Rongli on the road to Zuluk, with terraced fields, a monastery nearby and a few registered homestays. Permits are often checked here, and it makes a gentle first night for travellers who want to climb slowly.",
+      "body": [
+        "Leave Rongli on the Zuluk road and you climb quickly out of the valley. Lingtam is the first village of any size, a scatter of houses, fields and a small bazaar on the slope. Permits are often checked and names registered here, so your driver will stop anyway. Instead of waiting in the car, get out and walk a little way along the road and village paths while the papers are seen to.",
+        "Lingtam is a working village. You see maize and vegetable plots, cows and goats, children walking to school and women carrying fodder in bamboo baskets. Traditional Sikkimese houses stand alongside newer concrete ones, and there is a monastery nearby. In spring rhododendrons flower on the slopes above. Ask before you photograph people or step into a courtyard, and keep to paths rather than cutting across fields. A small shop will usually sell you tea and biscuits while you wait.",
+        "If you want to climb slowly, sleep here. At its lower height Lingtam makes a gentler first night than Zuluk, and a few registered homestays offer simple rooms and home meals for about ₹1,500–2,500 per person, indicative 2026. Book through your driver or agent, as the stop has to fit your permit route. Lingtam is beyond the permit point, so it is open only to Indian nationals with a Protected Area Permit. Check current status before you travel."
+      ],
+      "good_for": ["families", "seniors", "students", "couples"],
+      "faqs": [
+        {"q": "Do we need a permit for Lingtam", "a": "Yes. Lingtam lies beyond the Rongli permit point, so Indian nationals need the same Protected Area Permit used for Zuluk, Nathang and Kupup. Permits are often checked and names registered at Lingtam itself. Foreign nationals are not allowed beyond Rongli on this route. Your agent or driver usually handles the paperwork. Check current status before you travel."},
+        {"q": "Is it worth staying a night in Lingtam", "a": "It is if you want to climb slowly or travel with seniors or young children. Lingtam is much lower than Zuluk, so the night is warmer and altitude is not a concern, and the next day's drive to Zuluk and Thambi is shorter. Registered homestays charge about ₹1,500–2,500 per person with meals, indicative 2026. It is quiet, simple and rural."},
+        {"q": "How far is Lingtam from Rongli", "a": "Lingtam is a short drive above Rongli on the Zuluk road, usually 20–30 minutes depending on the road and the permit check. From Lingtam it is a further climb of a couple of hours through Padamchen to Zuluk. Monsoon slides can slow this road, so keep time in hand and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "rongli-padamchen-forest-climb",
+      "title": "The forest climb from Rongli to Padamchen",
+      "kind": "nature",
+      "duration": "1.5–2.5 hours by car, with stops",
+      "best_time": "Mornings, Mar–May and Oct–Nov",
+      "cost": "Part of a Silk Route vehicle hire",
+      "image_query": "Padamchen Sikkim road forest",
+      "wiki": "",
+      "summary": "Between Rongli and Zuluk the road climbs about 2,000 m through thick forest, with Padamchen, at roughly 8,000 ft by local counts, as the main stop. In spring rhododendrons line the road. Treat it as a journey with pauses, not a transfer.",
+      "body": [
+        "Few tourist roads in Sikkim gain height as fast as this one. From the valley floor at Rongli, around 850 m, the road twists up past Lingtam into dense forest and reaches Padamchen, a small village local guides put at around 8,000 ft, before the last stretch to Zuluk at about 2,900 m. That is roughly 2,000 m of climb in some 30 km. You feel the air cool and thin as you go.",
+        "The forest changes with height. Lower down there are broadleaf trees, ferns and moss; higher up come oaks, magnolias and, from late March to May, rhododendrons in red, pink and white. Ask your driver to stop at a safe, wide bend, step out and listen for laughingthrushes and barbets. Padamchen itself has a few homestays and a viewpoint, and a tea stop here breaks the climb nicely before the last hour up to Zuluk.",
+        "Drive this stretch in daylight and do not rush it. The road is narrow, with steep drops and heavy army and Border Roads traffic, and in the monsoon slides are common. If anyone in the car feels unwell, stop and rest before carrying on. This road is beyond the permit point, so it is open only to Indian nationals with a Protected Area Permit. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "students", "first-timers"],
+      "faqs": [
+        {"q": "How long is the drive from Rongli to Zuluk", "a": "About 30–35 km, which usually takes 1.5–2.5 hours with the permit check at Lingtam and a tea stop at Padamchen. The road climbs about 2,000 m through forest and has many sharp bends. In winter snow and in the monsoon it can take much longer or close for a time. Drive in daylight and check current status before you travel."},
+        {"q": "What is Padamchen known for", "a": "Padamchen is a small village on the road between Rongli and Zuluk, at roughly 8,000 ft by local counts. It is known for its forest setting, rhododendron bloom in spring and a few registered homestays used by travellers who want to break the climb to Zuluk. It needs the same Protected Area Permit as Zuluk and is open only to Indian nationals."},
+        {"q": "Is the Rongli to Zuluk road dangerous", "a": "It is narrow, steep and winding, with sharp drops and frequent army and Border Roads traffic, but it is driven daily by experienced local drivers. The real risks are monsoon landslides, winter ice and travelling after dark. Go in daylight, use a Sikkim-registered vehicle with a local driver, avoid June to September if you can, and check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where do we get the Silk Route permit at Rongli", "a": "Silk Route Protected Area Permits for Indian nationals are issued or checked at Rongli through the local police and administration, and many travellers have them filed in advance by a registered Gangtok agent or their driver. You need two passport photos and a photo ID copy per person, plus the originals. Office hours and procedures change, so check current status before you travel."},
+    {"q": "Can foreigners go beyond Rongli", "a": "No. Foreign nationals are not allowed beyond Rongli on the East Sikkim Silk Route, so Lingtam, Padamchen, Zuluk, Nathang and Kupup are closed to them. They can visit Rongli, Aritar and Rhenock with the standard Sikkim Restricted Area Permit. Foreign travellers can see Tsomgo Lake instead on a day permit through a Gangtok agent. Check current status before you travel."},
+    {"q": "How far is Rongli from Gangtok", "a": "Rongli is about 62–69 km from Gangtok depending on the route, usually 2.5–3 hours by road via Ranipool, Pakyong and Rorathang. Shared jeeps run from Gangtok, mostly in the morning, at roughly ₹150–250 a seat; a reserved small car costs about ₹3,500–5,000 one way, indicative 2026. Monsoon slides can add time, so check current status before you travel."},
+    {"q": "How far is Rongli from NJP and Siliguri", "a": "Rongli is roughly 110–120 km from NJP and Siliguri, about 4–5 hours by road via Sevoke, Rangpo and Rorathang. When NH10 is blocked by landslides, drivers often use the Kalimpong–Pedong–Rhenock road instead. Shared jeeps run from Siliguri at around ₹250–400 a seat; a reserved small car costs about ₹5,000–7,000, indicative 2026. Check current status before you travel."},
+    {"q": "Is it worth staying a night in Rongli", "a": "For most travellers, no. Rongli is a working bazaar town with basic lodges, and nights are warmer and quieter at Aritar, 20 km away, or at Lingtam and Padamchen up the Zuluk road. A night here makes sense only if you arrive late, need to collect a permit early next morning, or are travelling on a very tight budget by shared jeep."},
+    {"q": "What is the altitude of Rongli", "a": "Rongli bazaar lies low in the Rangpo River valley at about 850 m, according to terrain data, though some sources quote much higher figures for the wider Rongli area. Either way, it is warm compared with the Silk Route above. From here the road climbs about 2,000 m in roughly 30 km to Zuluk, so expect a big change in temperature."},
+    {"q": "When is the best time to visit Rongli and the Silk Route", "a": "October and November are best for clear views and dry roads, and March to May for rhododendrons and mild weather. December to February is good for snow higher up, though roads above Zuluk may close. Avoid June to September if you can, when landslides often cut the roads around Rongli. Check current status before you travel."},
+    {"q": "Can we take a shared jeep from Rongli to Zuluk", "a": "Not as a tourist. Shared jeeps run to Rongli from Gangtok and Siliguri, but beyond Rongli the Protected Area Permit is normally issued for a reserved, Sikkim-registered tourist vehicle with a local driver. Most travellers hire a vehicle for the whole Silk Route loop, about ₹14,000–20,000 for 2–3 days, indicative 2026. Check current status before you travel."},
+    {"q": "What documents do we need for the Silk Route permit", "a": "Each Indian traveller needs two recent passport-size photos and a self-attested copy of a government photo ID such as an Aadhaar card, voter ID, passport or driving licence, plus the original to show at checkposts. Children need ID too; a school ID or birth certificate is usually accepted, but confirm with your agent. Check current status before you travel."}
+  ]
+}

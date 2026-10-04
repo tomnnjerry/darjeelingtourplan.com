@@ -1,0 +1,103 @@
+{
+  "slug": "gangtok-pelling-darjeeling-7n",
+  "title": "Gangtok, Pelling and Darjeeling circuit",
+  "region": "west-sikkim",
+  "nights": 7,
+  "themes": ["mountain-views", "monasteries", "toy-train", "family-trips", "tea-gardens"],
+  "stops": [
+    {"place": "gangtok", "nights": 3},
+    {"place": "pelling", "nights": 2},
+    {"place": "darjeeling", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 22000,
+  "fares": {"budget": 22000, "comfort": 36000, "premium": 82000},
+  "fare_notes": {
+    "budget": "Clean budget hotels near MG Marg in Gangtok and near the Mall in Darjeeling, and Hotel Garuda or a hotel of the same class in Upper Pelling. A small car for the transfers and sightseeing, with a shared seat on the Tsomgo tour. Breakfast and dinner daily.",
+    "comfort": "Good mid-range hotels in Gangtok and Darjeeling, and Norbu Ghang Resort cottages in Pelling, with mountain-facing rooms requested. Private SUV for the whole trip. Breakfast and dinner daily.",
+    "premium": "Premium hotels such as Elgin Nor-Khill in Gangtok and a heritage hotel such as the Windamere or Mayfair in Darjeeling, with The Elgin Mount Pandim in Pelling. Private SUV with a senior driver, entry fees and toy-train joy-ride tickets paid. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3753,
+  "meta_description": "Gangtok, Pelling and Darjeeling in 7 nights: Tsomgo Lake, Pemayangtse, Rabdentse, Tiger Hill and the toy train, from ₹22,000 per person.",
+  "summary": "The classic three-hill circuit in 7 nights. Three nights in Gangtok with a Tsomgo Lake day, two in Pelling for Pemayangtse, the ruins of Rabdentse and the Kangchenjunga dawn, and two in Darjeeling for Tiger Hill, Batasia Loop and a toy-train joy ride. No drive is longer than about 5.5 hours.",
+  "intro": [
+    "Most first trips to the eastern Himalaya pick Gangtok and Darjeeling and skip West Sikkim. We put Pelling in the middle, because it has the closest everyday view of Kangchenjunga and the deepest history: Pemayangtse Monastery, founded in 1647, and Rabdentse, the kingdom's capital from 1670 to 1814. The route also makes sense on the map. Gangtok to Pelling is about 120 km and Pelling to Darjeeling about 75 km via Jorethang, so you never double back, and each drive is a half day.",
+    "Gangtok, Sikkim's capital, gives you MG Marg, the car-free main street, and the day trip to Tsomgo Lake at 3,753 m, which needs a permit arranged through a registered agency. Darjeeling gives you the sunrise from Tiger Hill and a ride on the Darjeeling Himalayan Railway, a UNESCO World Heritage Site since 1999. The budget tier keeps to clean hotels and a small car; premium uses Elgin hotels and a heritage stay in Darjeeling. October to December and March to May suit it best."
+  ],
+  "highlights": [
+    "Tsomgo Lake at 3,753 m on a day trip from Gangtok, with a permit arranged for you",
+    "An evening on MG Marg, Gangtok's car-free main street",
+    "Pemayangtse Monastery and the ruins of Rabdentse, Sikkim's capital from 1670 to 1814",
+    "Kangchenjunga at dawn from Pelling and again from Tiger Hill above Darjeeling",
+    "A toy-train joy ride round Batasia Loop on the Darjeeling Himalayan Railway"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station. The road runs through the Sevoke forest and up the Teesta to Rangpo, where you enter Sikkim; foreign nationals collect or show their Restricted Area Permit here. Stop for tea by the river around Melli. The Teesta road is often hit by landslides in monsoon and drivers may detour, so check current status before you travel. Gangtok sits at about 1,650 m. In the evening walk down to MG Marg, the main street, which is closed to cars and kept free of litter and smoking.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Day trip to Tsomgo Lake", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 80 km round trip · 6–7 h",
+     "text": "Tsomgo Lake needs a permit, which a registered Gangtok agency or your hotel arranges a day ahead with photos and ID copies. We leave by 8 am. The road climbs about 2,000 m in under 40 km to the lake at 3,753 m, so walk slowly and drink water. In winter and spring the shores are often snowy; coats and boots can be hired on the way. Foreign nationals can usually visit in a group of two or more through an agency. Snow or slides can close the road for a day; check current status before you travel. Back in Gangtok by mid-afternoon.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "A slow Gangtok day", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 30 km local · 4–5 h",
+     "text": "A late start after yesterday's high day. With a local car we visit Enchey Monastery above town and the Namgyal Institute of Tibetology, with its collection of Buddhist texts and art, then a viewpoint over the town on a clear day. The afternoon is free. Families often walk MG Marg again for shopping and snacks; others rest. Try a plate of momos or a bowl of thukpa in a small local place, usually ₹100–250, indicative. Pack tonight, because tomorrow's road to Pelling takes most of the morning.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Gangtok to Pelling via Ravangla", "place": "pelling", "overnight": "Pelling", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "We leave Gangtok after breakfast and drop to the Teesta at Singtam, then climb to Ravangla at about 2,100 m. Stop at Buddha Park, where a 130-foot Buddha was consecrated by the 14th Dalai Lama in 2013; entry ₹50–100, indicative. From Ravangla the road runs down to Legship on the Rangeet and up through Gyalshing to Pelling at about 2,150 m. Arrive by mid-afternoon. Ask your hotel which window or terrace faces Kangchenjunga, and set an alarm for 5:30 am. Pelling is quiet after dark, so eat early at the hotel.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Pelling dawn, Pemayangtse and Rabdentse", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 6 h",
+     "text": "On a clear morning Kangchenjunga, 8,586 m, turns pink across the valley at sunrise. After breakfast we visit Pemayangtse, founded in 1647 by Lhatsun Chenpo, one of the three lamas who crowned the first Chogyal at Yuksom in 1642. Its top floor holds a seven-tiered carved model of Guru Rinpoche's palace. Then a 15-minute forest walk to Rabdentse, capital from 1670 until 1814, which a Gorkha army took in 1788. After lunch, the Chenrezig statue and the glass-floored Skywalk near Sanga Choeling, built in 1697. Entry fees total under ₹200, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Pelling to Darjeeling via Jorethang", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 75 km · 4–5 h",
+     "text": "We drive down through Gyalshing to Legship, where the Kirateshwar Mahadev Temple stands by the Rangeet; Hindu tradition says Shiva appeared here to Arjuna as a hunter. The road follows the river to Jorethang, the market town where you leave Sikkim, then climbs about 30 km to Darjeeling at about 2,050 m. This last climb is steep and narrow, so we drive it in daylight. After check-in walk the Mall and Chowrasta, the open square at the top of town. Darjeeling is colder than Pelling in the evening, so keep a jacket handy.",
+     "meals": "Breakfast, dinner"},
+    {"day": 7, "title": "Tiger Hill, Batasia Loop and the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km local · 6 h",
+     "text": "Leave at about 4 am for Tiger Hill at 2,590 m to watch the sunrise reach Kangchenjunga; clear mornings are most common from October to February. On the way back stop at Batasia Loop, where the railway spirals round a garden. After breakfast and a rest, take a toy-train joy ride from Darjeeling to Ghum and back, about 2 hours, ₹1,000–1,800 a seat, indicative. The Darjeeling Himalayan Railway became a UNESCO World Heritage Site in 1999. Book online early, because timetables and fares change; check current status before you travel.",
+     "meals": "Breakfast, dinner"},
+    {"day": 8, "title": "Darjeeling to Bagdogra or NJP", "place": "siliguri", "overnight": "—", "drive": "≈ 70 km · 3–3.5 h",
+     "text": "A slow breakfast, then the drive down through Ghum, Sonada and Kurseong to the plains. The toy-train line runs beside the road for much of the way and crosses it several times. Kurseong makes a good tea stop. When roads are clear we reach Bagdogra or NJP in 3–3.5 hours; your driver will pick the faster road on the day. Book flights after 1 pm or an evening train. If you have an extra day, Mirik's lake and tea gardens are an easy detour on the way down.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-garuda-pelling", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling"],
+  "includes": [
+    "7 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily",
+    "Car for all transfers: Bagdogra or NJP to Gangtok, Gangtok to Pelling, Pelling to Darjeeling, Darjeeling back to the plains",
+    "Tsomgo Lake day trip with permit processing (shared seat on budget, private car on comfort and premium)",
+    "Local sightseeing in Gangtok, Pelling and Darjeeling, including the Tiger Hill early car",
+    "Entry fees and toy-train joy-ride tickets, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Entry fees and toy-train tickets on budget and comfort",
+    "Nathu La and Baba Mandir extensions from Tsomgo",
+    "Coat and boot hire, yak rides and ropeway tickets",
+    "Lunches, drinks and tips",
+    "Extra nights or costs caused by landslides, snow or road closures"
+  ],
+  "save_more": [
+    "Travel in February, March or late November, when hotel rates in all three towns are below the October and May peaks.",
+    "Take the shared seat on the Tsomgo tour instead of a private car; it often saves ₹3,000 or more for a couple.",
+    "Book the toy-train joy ride yourself on the official railway site as soon as dates open; last-minute seats through agents cost more."
+  ],
+  "good_to_know": [
+    "Foreign nationals need a free Sikkim Restricted Area Permit, from e-FRRO or at Rangpo; Tsomgo needs an extra permit through an agency. Check current status before you travel.",
+    "Tsomgo Lake is at 3,753 m: walk slowly, drink water, and skip it if you have heart or lung problems.",
+    "You leave Sikkim at Jorethang on Day 6 and Darjeeling is in West Bengal; keep ID handy for checkposts.",
+    "Kangchenjunga is clearest from October to February; spring brings flowers and haze, and monsoon hides it.",
+    "June to August brings landslides on all three roads; we do not run this trip in those months."
+  ],
+  "faqs": [
+    {"q": "Is 7 nights enough for Gangtok, Pelling and Darjeeling", "a": "Yes, for the main sights at an easy pace. Three nights in Gangtok cover Tsomgo Lake and the town, two in Pelling give you one full day and a dawn, and two in Darjeeling cover Tiger Hill and the toy train. Add a night if you want North Sikkim, Nathu La or a spare day for bad weather."},
+    {"q": "How far is Pelling from Gangtok and Darjeeling", "a": "Pelling is about 120 km from Gangtok, 4.5–5.5 hours via Singtam, Ravangla and Legship, and about 75 km from Darjeeling, 4–5 hours via Jorethang. A reserved car costs about ₹5,000–6,500 from Gangtok and ₹4,000–5,500 from Darjeeling, one way, indicative for 2026. Shared jeeps also run via Gyalshing. Check current status before you travel."},
+    {"q": "Which is better for Kangchenjunga views, Pelling or Darjeeling", "a": "Both are good, and this trip gives you two chances. Pelling sits closer to the mountain and sees it straight across the valley from most hotels, without a pre-dawn drive. Darjeeling's classic view is from Tiger Hill at 2,590 m, where you watch the sun reach the whole range. From October to February your chances are best at either."},
+    {"q": "Do we need a permit for Tsomgo Lake", "a": "Yes. Tsomgo Lake needs a permit arranged through a registered Gangtok agency or your hotel, usually a day ahead, with photos and ID copies. Indian nationals can also add Nathu La on some days at extra cost. Foreign nationals can usually visit Tsomgo in a group of two or more, but not Nathu La. Check current status before you travel."},
+    {"q": "Do Indians need a permit for Sikkim", "a": "No permit is needed for Gangtok, Pelling or Ravangla; carry a photo ID such as Aadhaar or a passport for checkposts. Only Tsomgo Lake on this trip needs a permit, which we arrange. Foreign nationals need a free Restricted Area Permit for Sikkim, valid 30 days, online or at Rangpo. Check current status before you travel."},
+    {"q": "How much does a Gangtok, Pelling and Darjeeling tour cost", "a": "Our 7-night plan starts from ₹22,000 per person on twin sharing, with budget hotels, breakfast and dinner, a small car and a shared Tsomgo seat. Comfort, with mid-range hotels and a private SUV, is about ₹36,000. Premium, with Elgin hotels and a heritage stay in Darjeeling, is about ₹82,000 per person. All prices are indicative for 2026."},
+    {"q": "Is this trip good for families with children", "a": "Yes. Drives are 4–5.5 hours at most, with stops, and the sights suit children: snow at Tsomgo in winter and spring, the glass Skywalk at Pelling, and the toy train in Darjeeling. Tsomgo at 3,753 m is the one place to watch young children and grandparents for breathlessness; keep the visit short. Pack motion-sickness tablets for the hill roads."},
+    {"q": "Can we see snow on this trip", "a": "Often, at Tsomgo Lake, from about December to April, and sometimes into May. Gangtok, Pelling and Darjeeling themselves rarely get snow. In October and November you see snow on the high peaks but usually not on the ground. Heavy snow can close the Tsomgo road for a day or two; we then move the trip to another day if we can."},
+    {"q": "Can we do the route in reverse, starting with Darjeeling", "a": "Yes. Darjeeling first, then Pelling, then Gangtok works just as well, and the drives are the same length. Some travellers prefer to end in Gangtok because it has more evening life. If you fly, check that your arrival and departure suit the order; Bagdogra is about 3–3.5 hours from Darjeeling and 4.5–5.5 hours from Gangtok."}
+  ]
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "siliguri-to-lataguri",
+    "from": "siliguri",
+    "to": "lataguri",
+    "distance_km": 80,
+    "summary": "Siliguri to Lataguri, the base for Gorumara, is about 80 km via Sevoke, the Coronation Bridge, Odlabari and Malbazar. By car it takes 2–2.5 hours; by bus or train via New Mal, about 3 hours and far cheaper.",
+    "options": [
+      {"mode": "Reserved car", "time": "2–2.5 h", "cost": "₹2,800–3,800 per car, indicative 2026", "text": "The easiest option, from NJP, Siliguri or Bagdogra. The road crosses the Teesta at the Coronation Bridge, runs through tea gardens and the forest edge past Odlabari and Malbazar, then enters the Gorumara forest belt before Lataguri. Most lodges can arrange a pickup. Ask for a short stop at Sevoke for the bridge."},
+      {"mode": "Bus", "time": "2.5–3.5 h", "cost": "₹100–200 a seat, indicative 2026", "text": "NBSTC and private buses leave the Tenzing Norgay terminus for Malbazar, Maynaguri and Jalpaiguri. Some pass through Lataguri; for others, change at Malbazar to a shared vehicle or bus. Morning departures are best. Luggage goes on the roof or at the back."},
+      {"mode": "Train", "time": "2–3 h plus transfer", "cost": "₹30–150 a seat, plus ₹300–600 auto, indicative 2026", "text": "Trains on the Dooars line from Siliguri Junction and NJP stop at New Mal Junction, about 10 km from Lataguri. The Kanchankanya Express from Sealdah also stops there. From New Mal, take an auto or a lodge car to Lataguri. Check the timetable before you travel."}
+    ],
+    "stops_on_way": ["Sevoke and the Coronation Bridge", "Sevokeshwari Kali temple", "Odlabari tea gardens", "Gajoldoba Teesta barrage (detour)", "Malbazar"],
+    "tip": "Leave Siliguri by 10 a.m. so you can make an afternoon watchtower slot at Gorumara on arrival day.",
+    "faqs": [
+      {"q": "How long does it take from NJP to Lataguri", "a": "About two to two and a half hours by car for roughly 80–85 km via Sevoke, the Coronation Bridge and Malbazar, depending on traffic and stops. Buses take longer, three hours or more, often with a change at Malbazar."},
+      {"q": "What is the taxi fare from Bagdogra to Lataguri", "a": "A reserved small car costs about ₹2,800–3,800 and a larger SUV ₹3,500–4,500, indicative 2026, for a drive of about two and a half hours. Prices rise on holidays. Agree on the fare and whether tolls and parking are included before you start."},
+      {"q": "Is there a train from Siliguri to Lataguri", "a": "There is no station at Lataguri itself. Trains on the Dooars line stop at New Mal Junction, about 10 km away, and Chalsa. From New Mal, an auto or car to Lataguri costs about ₹300–600, indicative 2026. Check current timetables before you travel."},
+      {"q": "Is the road from Siliguri to Lataguri safe at night", "a": "The road is good but passes through forest where elephants cross, especially between Malbazar and Lataguri. Driving at night is legal, but go slowly, never stop near elephants, and avoid it if you can. Plan to arrive before dark."}
+    ]
+  },
+  {
+    "slug": "siliguri-to-jaldapara",
+    "from": "siliguri",
+    "to": "jaldapara-national-park",
+    "distance_km": 125,
+    "summary": "Siliguri to Madarihat, the gateway for Jaldapara, is about 125 km via Sevoke, Malbazar and Birpara. Allow 3–3.5 hours by car, about 4 by bus, or take a train on the Dooars line to Madarihat or Hasimara.",
+    "options": [
+      {"mode": "Reserved car", "time": "3–3.5 h", "cost": "₹4,000–5,000 per car, indicative 2026", "text": "From NJP, Siliguri or Bagdogra, drive via Sevoke, the Coronation Bridge, Malbazar and Birpara to Madarihat. The road passes tea gardens and forest stretches. Break at Malbazar or Birpara for tea. If you are also visiting Gorumara, stay a night at Lataguri on the way."},
+      {"mode": "Bus", "time": "4 h", "cost": "₹150–250 a seat, indicative 2026", "text": "NBSTC and private buses from the Tenzing Norgay terminus run towards Alipurduar, Hasimara and Jaigaon via Birpara and Madarihat. Ask for Madarihat and get off at the town, close to the park gate and lodges. Morning buses are more reliable."},
+      {"mode": "Train", "time": "3–4 h", "cost": "₹50–400 a seat, indicative 2026", "text": "Madarihat and Hasimara stations are on the Dooars line from Siliguri Junction and NJP to Alipurduar. The Kanchankanya Express from Sealdah runs this way. From Hasimara, an auto to Madarihat takes 20–30 minutes. Check current timetables before you travel."}
+    ],
+    "stops_on_way": ["Coronation Bridge at Sevoke", "Malbazar", "Chalsa tea gardens", "Birpara"],
+    "tip": "If you are going to both parks, split the drive: one or two nights at Lataguri, then on to Madarihat, so neither day is just a long transfer.",
+    "faqs": [
+      {"q": "How far is Jaldapara from Siliguri", "a": "Madarihat, the gateway to Jaldapara, is about 125 km from Siliguri and a little more from NJP and Bagdogra. By car it takes three to three and a half hours via Sevoke, Malbazar and Birpara."},
+      {"q": "Is there a direct bus from Siliguri to Jaldapara", "a": "Buses towards Alipurduar, Hasimara and Jaigaon from the Tenzing Norgay terminus pass through Madarihat. Ask the conductor to drop you at Madarihat. Expect about four hours and ₹150–250, indicative 2026."},
+      {"q": "Which railway station is nearest to Jaldapara", "a": "Madarihat station is closest to the park gate, and Hasimara, about 20–30 minutes away, has more trains stopping. Both are on the Dooars line between Siliguri and Alipurduar. Check current timetables before you travel."},
+      {"q": "Can I visit Jaldapara as a day trip from Siliguri", "a": "It is possible but tiring: about seven hours of driving for one safari slot, and morning slots start at dawn. We recommend at least one night at Madarihat, which also lets you take two safaris and visit Chilapata or Totopara."}
+    ]
+  },
+  {
+    "slug": "lataguri-to-jaldapara",
+    "from": "lataguri",
+    "to": "jaldapara-national-park",
+    "distance_km": 75,
+    "summary": "Lataguri to Madarihat for Jaldapara is about 75 km east along the highway through Chalsa, Nagrakata and Birpara. By car it takes about 2 hours; buses and the Dooars train line also connect them.",
+    "options": [
+      {"mode": "Reserved car", "time": "2 h", "cost": "₹2,500–3,500 per car, indicative 2026", "text": "The usual way to link the two parks. Leave Lataguri after a morning safari and breakfast, and reach Madarihat for lunch and an afternoon slot. The road runs through tea gardens and forest belts past Chalsa, Nagrakata, Binnaguri and Birpara."},
+      {"mode": "Bus", "time": "2.5–3 h", "cost": "₹80–150 a seat, indicative 2026", "text": "Buses run along the highway towards Birpara, Hasimara and Alipurduar; you may need to change at Malbazar or Birpara. Ask locally for the next direct service. It is cheap but slow with luggage."},
+      {"mode": "Train", "time": "2–2.5 h plus transfers", "cost": "₹30–200 a seat, indicative 2026", "text": "From New Mal Junction or Chalsa, trains on the Dooars line run east to Madarihat and Hasimara. Timings are limited, so check them in advance and plan autos at both ends."}
+    ],
+    "stops_on_way": ["Chalsa hilltop view", "Chapramari forest", "Nagrakata tea gardens", "Birpara"],
+    "tip": "Book a morning Gorumara slot and an afternoon Jaldapara slot on the same day only if you are sure of the timings; otherwise keep the transfer day relaxed.",
+    "faqs": [
+      {"q": "How far is Gorumara from Jaldapara", "a": "About 75 km between Lataguri, the Gorumara base, and Madarihat, the Jaldapara gate. By car it takes about two hours via Chalsa, Nagrakata and Birpara. Many travellers spend two nights in each place."},
+      {"q": "Can I do Gorumara and Jaldapara in one day", "a": "It is possible to do a dawn safari at Gorumara and an afternoon safari at Jaldapara, with a two-hour drive in between, but it is a long day. With children or older travellers, spend at least one night in each place."},
+      {"q": "What is the car fare from Lataguri to Madarihat", "a": "About ₹2,500–3,500 for a small car, indicative 2026, one way. Lodges in Lataguri can arrange it. If you keep the same car for the whole trip, the daily rate usually works out cheaper."},
+      {"q": "Is there a bus from Lataguri to Madarihat", "a": "There are buses along the highway towards Birpara and Alipurduar, but you may need to change at Malbazar or Birpara. Ask in Lataguri for direct services. It is cheap but slow, about two and a half to three hours."}
+    ]
+  },
+  {
+    "slug": "lataguri-to-samsing",
+    "from": "lataguri",
+    "to": "samsing",
+    "distance_km": 37,
+    "summary": "Lataguri to Samsing is about 35–40 km via Chalsa and Matelli, climbing from the plains into the first hills at about 750 m. By car it takes 1–1.25 hours; shared vehicles run from Chalsa and Matelli in the mornings.",
+    "options": [
+      {"mode": "Reserved car", "time": "1–1.25 h", "cost": "₹1,500–2,000 one way, or ₹2,000–3,000 for a day trip, indicative 2026", "text": "Drive east to Chalsa, then north through Matelli and tea gardens, crossing the Murti before the climb to Samsing. Continue 2 km to Rocky Island and a few km to Suntalekhola. A day trip with a car from Lataguri covers all three."},
+      {"mode": "Shared vehicle", "time": "1.5–2 h", "cost": "₹50–150 a seat, indicative 2026", "text": "Take a bus or shared vehicle from Lataguri to Chalsa, then a shared jeep from Chalsa or Matelli to Samsing, mostly in the morning. Return services thin out in the afternoon, so ask your homestay to help with transport back."},
+      {"mode": "Auto-rickshaw", "time": "1.5 h", "cost": "₹1,000–1,500, indicative 2026", "text": "Autos from Chalsa can take you to Samsing and Rocky Island, though the climb is slow. It is cheaper than a car for a couple travelling light."}
+    ],
+    "stops_on_way": ["Chalsa", "Matelli tea gardens", "Murti river crossing"],
+    "tip": "Start by 9 a.m. so you have the full day for Samsing, Rocky Island and Suntalekhola and are back before dark.",
+    "faqs": [
+      {"q": "How far is Samsing from Lataguri", "a": "About 35–40 km via Chalsa and Matelli, one to one and a quarter hours by car. Rocky Island is 2 km beyond Samsing, and Suntalekhola a few kilometres further. A day trip by car costs about ₹2,000–3,000, indicative 2026."},
+      {"q": "Is there public transport from Lataguri to Samsing", "a": "Partly. Buses and shared vehicles go from Lataguri to Chalsa, and shared jeeps run from Chalsa or Matelli to Samsing, mostly in the morning. Services back are limited after midday. A car is easier for a day trip."},
+      {"q": "Can I visit Samsing and Murti on the same day", "a": "Yes. Murti is on the way, about 7 km from Chalsa. A common plan is Samsing, Rocky Island and Suntalekhola in the morning and early afternoon, then the Murti riverbank at sunset before returning to Lataguri."},
+      {"q": "Is the road to Samsing steep", "a": "The last stretch climbs into the hills with bends and a few steep sections, but it is paved and fine for normal cars in the dry season. In the monsoon, small landslides can affect it. Travel in daylight with a local driver."}
+    ]
+  },
+  {
+    "slug": "siliguri-gateway-to-darjeeling",
+    "from": "siliguri",
+    "to": "darjeeling",
+    "distance_km": 70,
+    "summary": "From NJP or Siliguri to Darjeeling is about 65–80 km depending on the road, 3–3.5 hours by shared jeep or car, or about 7 hours by toy train. Shared jeeps leave from NJP and the Tenzing Norgay terminus between about 7 a.m. and 3 p.m.",
+    "options": [
+      {"mode": "Shared jeep", "time": "3–3.5 h", "cost": "₹300–400 a seat, indicative 2026", "text": "Jeeps (Sumo, Bolero, Max) leave from the NJP forecourt and the stand near the Tenzing Norgay terminus on Hill Cart Road when full, about 10 passengers. Most run between 7 a.m. and 3 p.m. Book the two front seats for comfort, or the back row if you are a group. Bags go on the roof."},
+      {"mode": "Reserved car", "time": "3–3.5 h", "cost": "₹3,500–5,000 per car, indicative 2026", "text": "Prepaid counters at Bagdogra and NJP, and drivers at the jeep stands, offer reserved cars. Routes go via Rohini road and Kurseong, via Hill Cart Road through Kurseong, or via Mirik on the longer western road. Reserved cars can stop at Kurseong or the Batasia Loop."},
+      {"mode": "Toy train", "time": "7–8 h", "cost": "₹1,400–1,600 first class or AC chair, indicative", "text": "The Darjeeling Himalayan Railway's through train leaves NJP in the morning and climbs 88 km through loops and zig-zags. It is an experience rather than transport. Book on IRCTC early; seats are few. Check current timetables before you travel."},
+      {"mode": "Bus", "time": "3.5–4 h", "cost": "₹100–200, indicative 2026", "text": "NBSTC and private buses run from the Tenzing Norgay terminus in the morning. They are the cheapest option but slower and more crowded, with limited luggage space."}
+    ],
+    "stops_on_way": ["Sukna (Mahananda forest)", "Rohini or Tindharia", "Kurseong", "Ghum", "Batasia Loop"],
+    "tip": "If you land after 2 p.m., stay the night in Siliguri and take a 7–8 a.m. jeep rather than driving up the hill in the dark.",
+    "faqs": [
+      {"q": "How much is a shared jeep from NJP to Darjeeling", "a": "About ₹300–400 a seat, indicative 2026, for a three to three and a half hour ride. Jeeps leave from the NJP forecourt and the stand near the Tenzing Norgay bus terminus when full, mostly between 7 a.m. and 3 p.m. Fares rise in peak season."},
+      {"q": "Which is the best road from Siliguri to Darjeeling", "a": "Most cars take the Rohini road to Kurseong and then Hill Cart Road to Ghum and Darjeeling, which is the quickest. Pankhabari road is steeper. The Mirik route is longer but scenic. Landslides can close any route in the monsoon, so drivers choose on the day."},
+      {"q": "What time do shared jeeps leave for Darjeeling", "a": "From about 7 a.m., leaving as soon as each jeep fills. After 2 p.m. there are fewer, and after 3 p.m. you may not find one. Arrive early, especially in peak season when demand is high."},
+      {"q": "Can I take the toy train from NJP to Darjeeling", "a": "Yes. The Darjeeling Himalayan Railway runs through trains from NJP to Darjeeling, taking about seven to eight hours. Seats are booked on IRCTC and sell out in peak seasons. Many travellers go up by road and ride a shorter section instead."}
+    ]
+  },
+  {
+    "slug": "siliguri-gateway-to-gangtok",
+    "from": "siliguri",
+    "to": "gangtok",
+    "distance_km": 115,
+    "summary": "Siliguri or NJP to Gangtok is about 115–125 km along the Teesta on NH10, normally 4–5 hours. Shared jeeps leave from NJP and the SNT terminus on Hill Cart Road. Since the 2023 Teesta flood, NH10 has had frequent closures, with diversions via Lava or other routes.",
+    "options": [
+      {"mode": "Shared jeep", "time": "4–5 h", "cost": "₹400–550 a seat, indicative 2026", "text": "Shared jeeps leave from NJP in daytime and from the Sikkim Nationalised Transport (SNT) terminus on Hill Cart Road, three minutes from the Tenzing Norgay terminus. They leave when full, mostly before 2 p.m. There are no shared jeeps from Bagdogra Airport. App-booked shared cabs also run on this route."},
+      {"mode": "Reserved car", "time": "4–5 h", "cost": "₹4,500–6,000 per car, indicative 2026", "text": "Book at the prepaid counters at Bagdogra or NJP, or with jeep-stand drivers. The route crosses into Sikkim at Rangpo, where foreign nationals need the Sikkim permit. If NH10 is closed, drivers divert via Lava and Rhenock or other roads, adding hours; ask before you set off."},
+      {"mode": "SNT bus", "time": "5 h", "cost": "₹200–350, indicative 2026", "text": "Sikkim Nationalised Transport runs buses from its Siliguri terminus to Gangtok. They are cheaper and steadier than jeeps but slower, with fewer departures."},
+      {"mode": "Helicopter", "time": "35 min", "cost": "Check current fares", "text": "A helicopter service between Bagdogra and Gangtok has run in some seasons, with very few seats and a baggage limit of around 10 kg. It is weather dependent. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Sevoke and the Teesta gorge", "Teesta Bazaar", "Rangpo checkpost", "Singtam"],
+    "tip": "Check NH10 status the evening before and the morning of travel; drivers and SNT staff know the latest diversions.",
+    "faqs": [
+      {"q": "Where do shared jeeps for Gangtok leave from in Siliguri", "a": "From NJP station in daytime and from the SNT terminus on Hill Cart Road, a short walk from the Tenzing Norgay bus terminus. Jeeps leave when full, mostly before 2 p.m. There are no shared jeeps from Bagdogra Airport itself."},
+      {"q": "Is NH10 to Gangtok open", "a": "NH10 along the Teesta has had repeated landslide closures since the October 2023 Teesta flood, including in September 2026, when stretches were reopened after repairs. Traffic is sometimes diverted via Lava or other routes. Check current status before you travel."},
+      {"q": "Do I need a permit to go from Siliguri to Gangtok", "a": "Indian citizens do not need a permit for Gangtok. Foreign nationals need the Sikkim Restricted Area Permit, available at the Rangpo checkpost with passport, visa and photos, or in advance through Sikkim Tourism. Check current status before you travel."},
+      {"q": "How much is a taxi from Bagdogra to Gangtok", "a": "A reserved small car costs about ₹4,500–5,500 and a larger SUV ₹5,500–6,500, indicative 2026, for four to five hours. Diversions due to NH10 closures can add time and cost. Agree the fare and route before you start."}
+    ]
+  },
+  {
+    "slug": "siliguri-gateway-to-kalimpong",
+    "from": "siliguri",
+    "to": "kalimpong",
+    "distance_km": 68,
+    "summary": "Siliguri to Kalimpong is about 65–73 km via Sevoke, the Teesta valley on NH10 and the climb from Teesta Bazaar. It takes about 2.5–3 hours. Shared jeeps leave from Hill Cart Road, Darjeeling More and Sevoke Road stands.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2.5–3 h", "cost": "₹250–350 a seat, indicative 2026", "text": "Jeeps for Kalimpong leave from the stand near the Tenzing Norgay terminus, from Darjeeling More, and from near Vishal cinema at 2nd Mile on Sevoke Road, mostly before 3 p.m. Shared jeeps also run from NJP in daytime, with fewer after 2 p.m."},
+      {"mode": "Reserved car", "time": "2.5–3 h", "cost": "₹3,000–4,000 per car, indicative 2026", "text": "From NJP, Siliguri or Bagdogra, the drive follows NH10 up the Teesta valley to the Teesta Bridge, then climbs to Kalimpong. If NH10 is closed, drivers use alternative roads. Ask about road status before setting off."},
+      {"mode": "Bus", "time": "3–3.5 h", "cost": "₹120–200, indicative 2026", "text": "NBSTC and private buses run from the Tenzing Norgay terminus to Kalimpong. They are slower and less frequent than jeeps, but cheap and steady."}
+    ],
+    "stops_on_way": ["Sevoke Kali temple", "Coronation Bridge view", "Teesta Bazaar", "Lovers' Meet viewpoint"],
+    "tip": "Kalimpong jeeps fill fastest in the morning; arrive at the stand before 10 a.m. for the best choice of seats.",
+    "faqs": [
+      {"q": "How far is Kalimpong from Siliguri", "a": "About 65 km from Siliguri and around 73 km from NJP, two and a half to three hours by road via Sevoke, NH10 and Teesta Bazaar. Landslides on NH10 can add time. Check current status before you travel."},
+      {"q": "How much is a shared jeep from Siliguri to Kalimpong", "a": "About ₹250–350 a seat, indicative 2026. Jeeps leave from Hill Cart Road near the Tenzing Norgay terminus, Darjeeling More and Sevoke Road, mostly before 3 p.m. Fares rise a little in peak season."},
+      {"q": "Can I go from the Dooars to Kalimpong directly", "a": "Yes. From Lataguri or Malbazar, roads climb to Kalimpong via Gorubathan or via Sevoke and the Teesta valley. The route via Lava and Algarah is also possible. Ask your driver which is open; hill roads change with landslides."},
+      {"q": "Is there a bus from Siliguri to Kalimpong", "a": "Yes, NBSTC and private buses run from the Tenzing Norgay terminus. They are cheaper than jeeps, about ₹120–200, indicative 2026, but slower and less frequent. Morning departures are most reliable."}
+    ]
+  },
+  {
+    "slug": "siliguri-gateway-to-phuentsholing",
+    "from": "siliguri",
+    "to": "phuentsholing",
+    "distance_km": 160,
+    "summary": "Siliguri to Phuentsholing in Bhutan is about 160 km via the Dooars highway through Malbazar, Birpara and Hasimara to Jaigaon. It takes 4–5 hours by car or bus. Indians get an entry permit at Phuentsholing; foreigners need a visa in advance.",
+    "options": [
+      {"mode": "Bus", "time": "4.5–5 h", "cost": "₹200–400 a seat, indicative 2026", "text": "Buses run from the Tenzing Norgay terminus to Phuentsholing and to Jaigaon, the Indian border town next to it. Bhutanese and Indian operators run services; morning departures are best. Walk through the Bhutan Gate from Jaigaon if your bus stops on the Indian side."},
+      {"mode": "Reserved car", "time": "4–5 h", "cost": "₹5,000–6,500 per car, indicative 2026", "text": "A car from NJP, Siliguri or Bagdogra runs along the Dooars highway via Sevoke, Malbazar, Birpara and Hasimara to Jaigaon. Indian cars need a permit to go beyond Phuentsholing. Many travellers combine this with a night at Lataguri or Madarihat."},
+      {"mode": "Train and car", "time": "4–5 h", "cost": "₹100–400 train plus ₹600–1,000 car, indicative 2026", "text": "Take a train on the Dooars line to Hasimara, about 18 km from Jaigaon, then a car or bus to the border. Check current timetables before you travel."}
+    ],
+    "stops_on_way": ["Coronation Bridge", "Malbazar", "Birpara", "Hasimara", "Jaigaon"],
+    "tip": "Reach Phuentsholing by early afternoon so you have time for the permit office, which keeps set hours and closes on Bhutanese holidays.",
+    "faqs": [
+      {"q": "How far is Phuentsholing from Siliguri", "a": "About 160 km, four to five hours by road via Sevoke, Malbazar, Birpara, Hasimara and Jaigaon. From Madarihat (Jaldapara) it is only about an hour. Buses and cars both run the route."},
+      {"q": "What documents do Indians need for Phuentsholing", "a": "A valid passport or voter ID card, passport photos and hotel booking details. The entry permit is issued at the Phuentsholing immigration office, and the Sustainable Development Fee applies to overnight stays. Rules change, so check current status before you travel."},
+      {"q": "Can foreigners enter Bhutan at Phuentsholing", "a": "Yes, but foreign nationals need a Bhutan visa arranged in advance, usually through a licensed Bhutanese tour operator, and must pay the Sustainable Development Fee at the foreign-visitor rate. They also need to exit India properly at the border. Check current status before you travel."},
+      {"q": "Is there a bus from Siliguri to Phuentsholing", "a": "Yes. Buses run from the Tenzing Norgay terminus in Siliguri to Phuentsholing and to Jaigaon next door, taking about four and a half to five hours. Morning services are most reliable. Check current schedules locally."}
+    ]
+  }
+]

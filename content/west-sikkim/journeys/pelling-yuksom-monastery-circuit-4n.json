@@ -1,0 +1,91 @@
+{
+  "slug": "pelling-yuksom-monastery-circuit-4n",
+  "title": "Pelling and Yuksom monastery circuit",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["monasteries", "mountain-views", "treks-and-walks"],
+  "stops": [
+    {"place": "pelling", "nights": 2},
+    {"place": "yuksom", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 13000,
+  "fares": {"budget": 13000, "comfort": 22000, "premium": 46000},
+  "fare_notes": {
+    "budget": "Hotel Garuda in Upper Pelling and Hotel Yangrigang in Yuksom, or budget hotels of the same class, twin rooms with attached bathrooms. A small car shared by your party for transfers and sightseeing. Breakfast and dinner daily.",
+    "comfort": "Norbu Ghang Resort cottages in Pelling and a good mid-range hotel or homestay in Yuksom. Private SUV for the whole trip. Breakfast and dinner daily.",
+    "premium": "The Elgin Mount Pandim or The Chumbi Mountain Retreat & Spa in Pelling, and the best rooms available in Yuksom, which has no luxury hotel. Private SUV with an experienced hill driver, entry fees paid, a local guide for the Yuksom day. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2150,
+  "meta_description": "West Sikkim monastery circuit, 4 nights: Pemayangtse, Rabdentse, Khecheopalri Lake, Yuksom, Dubdi and Tashiding, from ₹13,000 per person.",
+  "summary": "A 4-night circuit through the places where the Sikkim kingdom began. Two nights in Pelling for Pemayangtse, Rabdentse and Sanga Choeling, then Khecheopalri Lake on the way to Yuksom, where the first Chogyal was crowned in 1642. A Yuksom day takes in Norbugang, a walk up to Dubdi and an afternoon at Tashiding.",
+  "intro": [
+    "Most of Sikkim's royal story happened in a small corner of the west. In 1642 three lamas crowned Phuntsog Namgyal the first Chogyal at Yuksom. In 1647 one of them, Lhatsun Chenpo, founded Pemayangtse. From 1670 the court sat at Rabdentse, near Pelling, until 1814. This trip links those places in four nights without long days. Pelling to Yuksom is only about 35 km, but the roads are narrow and slow, so we keep each drive under 3 hours and walk where the car cannot go.",
+    "We start with two nights in Pelling at about 2,150 m, for the Kangchenjunga dawn and the sites near town. Then we cross to Yuksom at 1,780 m by way of Khecheopalri Lake, sacred to Buddhists and Hindus. Yuksom is quiet, green and full of trekkers heading for Dzongri. The budget tier uses two long-running hotels and a shared small car. Comfort and premium add a private SUV and better rooms. October to May suits it; monsoon brings landslides on the Pelling to Yuksom road."
+  ],
+  "highlights": [
+    "The Norbugang coronation throne at Yuksom, where Sikkim's first Chogyal was crowned in 1642",
+    "Pemayangtse Monastery, founded in 1647, and the ruined capital of Rabdentse",
+    "Khecheopalri Lake, a wish-fulfilling lake sacred to Buddhists and Hindus",
+    "The hour's walk up to Dubdi Monastery, founded in 1701 and described as Sikkim's oldest surviving monastery",
+    "Tashiding Monastery on its hilltop between two rivers, home of the Bumchu sacred vase"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri, NJP or Bagdogra to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 140 km · 5–6 h",
+     "text": "Your car meets you at NJP station, Bagdogra Airport or Siliguri. The road follows the Teesta to Melli, where you enter Sikkim, then the Rangeet to Jorethang and Legship, and climbs through Gyalshing to Pelling at about 2,150 m. Foreign nationals show or collect their Restricted Area Permit at Melli; Indians carry photo ID. Bagdogra adds about 10 km and half an hour. In monsoon, slides on the Melli to Legship stretch can add hours, so check current status before you travel. In the evening walk the short loop of Upper Pelling and ask your hotel which window faces Kangchenjunga.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Pemayangtse, Rabdentse and Sanga Choeling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 6–7 h",
+     "text": "Be outside by 5:30 am for the dawn on Kangchenjunga. After breakfast we visit Pemayangtse, a Nyingma monastery founded in 1647 and enlarged in 1705; its monks were traditionally drawn from Bhutia families and its head lama anointed the Chogyals. The top floor holds a seven-tiered wooden model of Guru Rinpoche's palace. Then a 15-minute forest walk to Rabdentse, capital from 1670 until 1814; look for the Taphap Chorten, where visitors got off their horses. After lunch, the Chenrezig statue and Skywalk, and the steep path on to Sanga Choeling, built in 1697.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Khecheopalri Lake on the way to Yuksom", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 55 km · 3 h",
+     "text": "We leave Pelling after breakfast and drive about 30 km to Khecheopalri Lake at about 1,700 m. Legend says birds pick up any leaf that falls on the water. A plaque tells another legend, of a Lepcha couple who saw two conch shells fall from the sky before the earth shook and the lake rose. Walk the boardwalk quietly; boating, fishing and swimming are not allowed. Entry is ₹20–50, indicative. Then about 25 km on to Yuksom, passing Kanchenjunga Falls on the main road. In the evening, walk to Kathok Lake, whose water consecrated the first Chogyal.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Norbugang, Dubdi and a Tashiding afternoon", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 40 km round trip · 7–8 h",
+     "text": "Start at Norbugang, where a stone throne with four seats stands under an old cryptomeria. Here in 1642 three lamas crowned Phuntsog Namgyal. Tradition says Guru Rinpoche had foretold a fourth man from the east, found churning milk near present-day Gangtok. In Lepcha, Yuksom means the place where the three monks met. Then walk about an hour uphill to Dubdi, founded in 1701. After lunch we drive 19 km to Tashiding, founded in 1641, where tradition says seeing the Thongwa Rang Drol chorten frees you. Ask about Bumchu, when the sacred vase is opened each spring.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Yuksom back to the plains", "place": "siliguri", "overnight": "—", "drive": "≈ 160 km · 6–7 h",
+     "text": "This is the longest drive of the trip, so we leave by 7 am. The road drops past Tashiding to Legship on the Rangeet, then follows the river down to Jorethang and Melli before joining the Teesta to Siliguri. Lunch in Jorethang or Melli. On a clear road you reach NJP, Siliguri or Bagdogra by mid-afternoon. Book flights after 4 pm, or better, an evening train. If you would rather split the drive, swap the last Yuksom night for a night in Pelling; tell us when you book.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-garuda-pelling", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling", "chumbi-mountain-retreat-pelling", "hotel-yangrigang-yuksom"],
+  "includes": [
+    "4 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily",
+    "Car from Siliguri, NJP or Bagdogra and back, and for all sightseeing in the plan",
+    "Day trip to Tashiding from Yuksom",
+    "Entry fees and a local guide for the Yuksom day, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Entry fees on budget and comfort, about ₹200–350 per person for the whole trip, indicative",
+    "Lunches, drinks and tips",
+    "Donations at monasteries",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in February, March or late November, when rates drop and the roads are dry; avoid the October Puja weeks.",
+    "Use shared jeeps on the transfer days: Siliguri to Gyalshing ₹400–550 a seat and Gyalshing to Yuksom ₹120–180, indicative; hire local cars only for the sightseeing.",
+    "Walk to Norbugang, Kathok Lake and Dubdi from your Yuksom hotel; none of them needs a car."
+  ],
+  "good_to_know": [
+    "The Pelling to Yuksom road is narrow and slips in monsoon; from June to August we do not run this trip. Check current status before you travel.",
+    "Foreign nationals need a free Sikkim Restricted Area Permit, online through e-FRRO or at the Melli checkpost. Check current status before you travel.",
+    "The Dubdi path is steep stone steps through forest, about an hour up; wear shoes with grip and carry water.",
+    "Monasteries close for prayers at times; walk clockwise, dress modestly and ask before photographing inside.",
+    "Yuksom has simple hotels and homestays, not resorts; hot water and heating vary, so ask before you book."
+  ],
+  "faqs": [
+    {"q": "Why is Yuksom important in Sikkim's history", "a": "Yuksom was Sikkim's first capital. In 1642 three lamas crowned Phuntsog Namgyal the first Chogyal at Norbugang, and the court stayed here until 1670, when it moved to Rabdentse. The stone coronation throne, the Norbugang Chorten and Kathok Lake, whose water was used in the ceremony, are all a short walk from the bazaar. Dubdi Monastery, founded in 1701, sits on the hill above."},
+    {"q": "How far is Yuksom from Pelling", "a": "Yuksom is about 35 km from Pelling, 1.5–2 hours by road via Rimbi and Kanchenjunga Falls. With the Khecheopalri Lake detour it is about 55 km and 3 hours of driving. A reserved car costs about ₹2,000–2,800 one way, indicative; shared jeeps run from Gyalshing to Yuksom for ₹120–180 a seat. Monsoon slides can close the road, so check current status before you travel."},
+    {"q": "What is the legend of Khecheopalri Lake", "a": "Local legend says birds pick up any leaf that falls on Khecheopalri Lake, which is why the water stays clear. Another legend, told on the lake's plaque, says a Lepcha couple saw two conch shells fall from the sky, the earth shook and water rose to form the lake. Seen from above, it is said to be shaped like a footprint, of Tara or the Buddha, or of Shiva in Hindu belief."},
+    {"q": "How hard is the walk to Dubdi Monastery", "a": "It is short but steep: about 3 km and an hour uphill on stone steps through forest from the edge of Yuksom, to about 2,100 m. Most reasonably fit people manage it at a slow pace, and the way down takes 30–40 minutes. Go in the morning, carry water and wear shoes with grip. The monastery, founded in 1701, may be locked; ask in the village first."},
+    {"q": "What is Bumchu at Tashiding", "a": "Bumchu is Tashiding's festival of the sacred vase, held on the 14th and 15th days of the first Tibetan month, usually February or March. The vase is opened and its water level read as an omen: full means peace and plenty, overflowing means trouble, low means hard times. Water is shared with pilgrims and the vase is topped up and sealed. Dates move each year; check before you travel."},
+    {"q": "Can we see Kangchenjunga from Yuksom", "a": "Not well. Yuksom sits lower, at about 1,780 m, in a valley, and nearby ridges block most of the big view. Pelling is the place for the Kangchenjunga dawn, which is why we put two nights there first. From Yuksom you see forested hills, the trail towards Dzongri and, on clear days, glimpses of snow peaks. Dzongri, three days' walk away, has the close view."},
+    {"q": "Is this monastery circuit suitable for seniors", "a": "Mostly yes. Pemayangtse, Khecheopalri, Norbugang and Tashiding need only short walks, though Tashiding's hilltop involves a steep climb up from the road. Two parts are harder: the steep paths to Sanga Choeling and to Dubdi, each about 40 minutes to an hour uphill. Seniors can skip those and rest. Daily drives stay under 3 hours except the first and last days."},
+    {"q": "Do Indians need a permit for Yuksom and Tashiding", "a": "No. Indian nationals need no permit for Pelling, Yuksom, Khecheopalri or Tashiding, only a photo ID for checkposts. Foreign nationals need the free Sikkim Restricted Area Permit, valid 30 days, from e-FRRO or the Melli checkpost. Going beyond Yuksom into Khangchendzonga National Park, towards Dzongri, needs a separate park permit. Check current status before you travel."},
+    {"q": "Can we add the Goecha La trek to this trip", "a": "Not easily. The Goecha La trek needs about 9 nights on its own, starting and ending in Yuksom, and a registered agency, guide and permits. The trail starts inside Khangchendzonga National Park, so walking into it needs a park permit from the Yuksom forest checkpost. If you want the full trek, see our 9-night Goecha La trip and add two nights in Pelling at the start. Check current status before you travel."}
+  ]
+}

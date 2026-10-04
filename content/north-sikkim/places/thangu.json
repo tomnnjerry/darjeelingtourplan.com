@@ -1,0 +1,138 @@
+{
+  "slug": "thangu",
+  "name": "Thangu and Chopta Valley",
+  "region": "north-sikkim",
+  "kind": "valley",
+  "wiki": "Thangu Valley",
+  "image_query": "Thangu Valley North Sikkim",
+  "lat": 27.89,
+  "lng": 88.53,
+  "altitude_m": 3900,
+  "tagline": "The tea-and-permit halt on the road to Gurudongmar",
+  "meta_description": "Thangu and Chopta Valley, North Sikkim: altitude, the army checkpost, alpine flowers, foreigners' limit, Gurudongmar acclimatisation tips and costs.",
+  "summary": "Thangu is a small settlement and army post at about 3,900 m, roughly 30 km north of Lachen, where Gurudongmar traffic stops for tea and permit checks. Nearby Chopta Valley is a high meadow of streams and alpine flowers. It is also as far as foreign nationals can usually go. Check current status before you travel.",
+  "intro": [
+    "Thangu sits in a broad valley at about 3,900 m, where the forest gives way to scrub, meadows and moraines. Official figures vary from about 3,800 m to 4,200 m depending on where you measure; plan for roughly 3,900 m. There is a cluster of lodges, tea houses and shops, an army establishment and, in summer, herders' camps. Wikipedia puts the population at around a thousand, many of them seasonal.",
+    "Most people see Thangu at about 6 am, half-asleep in a car from Lachen. It is the compulsory halt on the way to Gurudongmar: the army checks permits and, often, asks how everyone is feeling. Tea stalls sell hot drinks, noodles, momos and eggs. It is the last place with food and toilets before the lake, so use it well, and use the 20–30 minutes to walk slowly and see who in your group is struggling.",
+    "Thangu also matters in its own right. The Chopta Valley, close by, is a high meadow of streams and alpine flowers in summer and a white plain in winter. For foreign nationals, who are not allowed to Gurudongmar, the Lachen valley up to Thangu is usually the end of the permitted road, which makes it a destination rather than a stop."
+  ],
+  "story": {
+    "title": "The high pastures above the tree line",
+    "paras": [
+      "Above Lachen the land belongs as much to herds as to people. Each summer, Lachenpa and Dokpa families move yak and sheep up to grazing grounds around Thangu and the plateau beyond, and bring them down as snow returns. The Lachen Dzumsa, the village council, organises these seasonal movements as part of its traditional duties.",
+      "Wikipedia notes that even in June and July daytime temperatures around Thangu range only from about 4 to 12 °C. The short summer brings a burst of alpine flowers to the meadows, primulas, poppies and other high-altitude plants, which botanists have studied since Joseph Hooker passed through the upper Lachen valley in 1849 on his way to the Kongra Lama pass.",
+      "Because the border with Tibet is so close, the area is also a military zone, which is why Thangu has an army presence, medical post and checkpost. The two worlds, herding and soldiering, sit side by side. Respect both: give herds right of way on the road, and never photograph army installations."
+    ],
+    "source": "Wikipedia, 'Thangu Valley', 'Lachen, Sikkim' and 'Joseph Dalton Hooker'; sikkimproject.org on the Dzumsa"
+  },
+  "did_you_know": [
+    "Thangu lies roughly 30 km north of Lachen and is the last stop with food before Gurudongmar Lake.",
+    "The Mangan district administration describes Thangu as the base for treks to Gurudongmar and to Cho Lhamu, the source of the Teesta.",
+    "Foreign nationals with a Restricted Area Permit can usually travel up the Lachen valley as far as Thangu, but not beyond."
+  ],
+  "facts": [
+    ["Best months", "May – Jun, Oct – Nov"],
+    ["Nights we suggest", "0–1"],
+    ["Nearest airport", "Bagdogra (IXB)"],
+    ["From Lachen", "≈ 30 km · 1–1.5 h"],
+    ["Altitude", "≈ 3,900 m"],
+    ["Known for", "Gurudongmar halt, Chopta Valley, alpine flowers, yaks"]
+  ],
+  "best_months": [0, 0, 1, 1, 2, 1, 0, 0, 1, 2, 2, 0],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Dawn tea stop", "text": "At around 6 am the tea stalls in Thangu are full of travellers in down jackets warming their hands. Have tea, a light snack and water, use the toilet and walk slowly around the parking area to judge how you feel."},
+    {"title": "Chopta Valley", "text": "A short drive from Thangu, Chopta is a high meadow with streams and, in summer, alpine flowers. In winter it is often frozen and white. Whether you can visit depends on your permit and the army; ask your operator."},
+    {"title": "Alpine flowers in summer", "text": "From late May to August the meadows around Thangu flower with primulas and other high-altitude plants. June is the most reliable month, but monsoon landslides below Lachen often block access."},
+    {"title": "The end of the road for foreigners", "text": "Foreign visitors cannot go to Gurudongmar, so Thangu and the Chopta valley are their high point. The views of the surrounding ridges are worth the drive in their own right."},
+    {"title": "Medical check", "text": "Army medical staff at Thangu sometimes check tourists for altitude sickness. Be honest about symptoms. If they advise you not to continue, accept it."}
+  ],
+  "how_to_reach": [
+    {"mode": "Group package", "text": "Thangu is part of every Lachen–Lachung group package, as the stop on the Gurudongmar morning. Packages cost about ₹6,000–9,000 per person for 2N/3D from Gangtok, indicative, 2026, including permit, seat, hotel and meals."},
+    {"mode": "Reserved car", "text": "A private car from Gangtok for the Lachen–Lachung loop costs about ₹16,000–22,000 per car, indicative, 2026. With a private car you can spend longer at Thangu and Chopta if your permit allows, or stop there if someone feels unwell."},
+    {"mode": "Rail / Air", "text": "Fly to Bagdogra (IXB) or take a train to NJP, go to Gangtok, then to Lachen the next day. Thangu is about 1–1.5 hours above Lachen. There is no public transport for tourists beyond Lachen."}
+  ],
+  "where_to_stay": "Most travellers sleep in Lachen, about 30 km below, and pass through Thangu at dawn. Lachen's family hotels serve group packages, and The Apple Orchard Resort offers a little more comfort. Basic lodges in Thangu are sometimes used by operators, especially for foreign groups, but sleeping at about 3,900 m is cold and harder on the body; we only recommend it for well-acclimatised travellers.",
+  "stays": ["apple-orchard-resort-lachen"],
+  "costs": [
+    ["Tea at Thangu stalls", "₹30–60 a cup, indicative, 2026"],
+    ["Noodles, momos or eggs", "₹80–200 per plate, indicative, 2026"],
+    ["Group package Lachen + Lachung, 2N/3D", "₹6,000–9,000 per person, indicative, 2026"],
+    ["Gloves or woollen cap at a stall", "₹150–400, indicative, 2026"]
+  ],
+  "budget_tip": "Buy gloves, caps and woollen socks in Gangtok's Lal Bazaar before the trip; the stalls at Thangu charge double for the same things.",
+  "tips": [
+    "Use the Thangu toilets; there are none at Gurudongmar.",
+    "Eat something light here, even if you are not hungry.",
+    "Tell your driver at once if anyone feels unwell; Thangu is a good place to turn back.",
+    "Never photograph army buildings, vehicles or personnel.",
+    "Carry cash; mobile payments rarely work this high."
+  ],
+  "themes": ["high-passes", "mountain-views", "birding-and-orchids"],
+  "nearby": ["gurudongmar-lake", "lachen", "chungthang"],
+  "experiences": [
+    {"slug": "thangu-dawn-tea-halt", "title": "Dawn tea and a health check at Thangu", "kind": "food", "duration": "30 minutes", "best_time": "6–7 am on the Gurudongmar morning", "cost": "₹80–250 per person, indicative, 2026", "image_query": "Thangu village Sikkim tea stall", "wiki": "",
+      "summary": "The Thangu halt is short but important: hot tea, a light breakfast, the last toilet before the lake and a chance to see how everyone is coping at about 3,900 m.",
+      "body": [
+        "Cars from Lachen usually reach Thangu between 5.30 and 7 am. The tea stalls are warm, steamy and crowded. Order sweet milk tea or black tea, and something plain like noodles, boiled eggs or bread. Heavy, oily food at this height is a bad idea before going up another 1,500 m.",
+        "Use this halt as a check. Ask each person: headache, nausea, dizziness, unusual tiredness? Anyone who has vomited, cannot walk straight or is breathless sitting down should not go higher. They can wait at Thangu with someone or, better, go back down to Lachen. The army may also check tourists and advise them.",
+        "Use the toilets here; there are none at the lake. Fill water bottles, put on your outer layers and sunglasses, and be back in the car on time. Drivers have a schedule set by the army and need to reach the lake and return before the afternoon wind."
+      ],
+      "good_for": ["families", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "What is available to eat at Thangu", "a": "Small tea houses sell tea, coffee, instant noodles, momos, boiled eggs, bread and biscuits. Prices are higher than in Gangtok because of transport. Food is basic but hot. Eat lightly before going to Gurudongmar and carry dry snacks in case stalls are closed early in the season."},
+        {"q": "Are there toilets at Thangu", "a": "Yes, basic toilets are available near the tea stalls and parking area, usually pay-per-use. They are the last toilets before Gurudongmar Lake, so use them. Carry tissues and hand sanitiser. Facilities can be poor in peak season or after heavy snow."},
+        {"q": "Can someone wait at Thangu instead of going to the lake", "a": "Yes. If someone feels unwell or does not want to go higher, they can usually wait at a tea house in Thangu with a companion while the car goes up and comes back. If symptoms are serious, though, descending to Lachen is safer than waiting at 3,900 m."}
+      ]},
+    {"slug": "thangu-chopta-valley-meadow", "title": "Chopta Valley's high meadows", "kind": "nature", "duration": "1–2 hours", "best_time": "Jun (flowers), Oct–Nov (clear)", "cost": "Included if covered by permit; ask operator", "image_query": "Chopta Valley North Sikkim", "wiki": "",
+      "summary": "Close to Thangu, the Chopta Valley is a wide, high meadow of streams, moraines and alpine plants, frozen in winter. Access depends on your permit and the army, so ask your operator before you count on it.",
+      "body": [
+        "Chopta Valley lies near Thangu at roughly 4,000 m. It is a broad, open valley floor with a river winding through grass and gravel, ringed by ridges. In June and July the meadows flower with primulas and other alpine plants. In winter the streams freeze and the valley turns white, and photographers come for the frozen river.",
+        "Unlike Gurudongmar, Chopta is not on every itinerary. Whether you can go depends on the permit your operator obtains and on army instructions on the day. Some foreign groups who cannot go to Gurudongmar are taken to Chopta instead. Ask your operator in writing whether it is included and what it costs extra, if anything.",
+        "Note: this Chopta is not the Chopta in Uttarakhand, which is a different, much lower place on the Tungnath route. Keep the visit short, walk slowly, and stay on firm ground; the meadows can be marshy in summer and icy in winter."
+      ],
+      "good_for": ["photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "Where is Chopta Valley in Sikkim", "a": "Chopta Valley is in the upper Lachen valley near Thangu, about 30 km north of Lachen and on the way to Gurudongmar Lake, at roughly 4,000 m. It should not be confused with Chopta in Uttarakhand, which is a different place on the Tungnath trek route."},
+        {"q": "Do I need a separate permit for Chopta Valley", "a": "It depends on the current rules. Chopta has sometimes been covered by the Lachen–Thangu permit and sometimes restricted by the army. Ask your registered operator whether your permit includes it and confirm on the day. Check current status before you travel."},
+        {"q": "When is Chopta Valley best", "a": "June for alpine flowers, if the road below Lachen is open, and October–November for clear skies. In winter the river freezes and the valley is often white, which is striking but very cold and harder to reach. July to September brings monsoon landslides lower down."}
+      ]},
+    {"slug": "thangu-alpine-flowers", "title": "Alpine flowers around Thangu", "kind": "nature", "duration": "1 hour", "best_time": "Late May – Jul", "cost": "Free", "image_query": "Thangu alpine flowers primula", "wiki": "",
+      "summary": "In the short high-altitude summer, the meadows and moraines around Thangu flower with primulas, poppies and other alpine plants. It is a botanist's corner of North Sikkim, best in June if the road is open.",
+      "body": [
+        "Summer at Thangu is brief. Snow melts from the meadows in May, and from late May to July small, bright flowers appear among the grass and stones: primulas in pinks and purples, yellow and blue poppies in some years, and many cushion plants that hug the ground against the wind.",
+        "You do not need to trek. Walk slowly for 15–20 minutes from the road onto the meadows near Thangu, look down and you will find them. A small macro lens or phone close-up mode is all you need. Do not pick or dig plants; many are slow-growing and protected.",
+        "The problem is access. June and July are monsoon months, and landslides below Lachen often close the road. If flowers are your main interest, plan for early June, build in spare days and accept that the trip may be cancelled. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "students", "seniors"],
+      "faqs": [
+        {"q": "When do flowers bloom at Thangu", "a": "From about late May to July, during the short high-altitude summer. June is usually the best month. However, June and July are monsoon months when landslides often block the road below Lachen, so access is uncertain. Plan spare days and check current status before you travel."},
+        {"q": "What flowers can I see near Thangu", "a": "Mainly alpine plants: primulas of several colours, cushion plants, and in some years poppies, along with dwarf rhododendrons on the slopes. Exact species depend on altitude and timing. A local guide or a field guide to Himalayan flowers helps with identification."},
+        {"q": "Can I pick flowers at Thangu", "a": "No. Many alpine plants are slow-growing, some are rare, and the area is ecologically fragile and partly protected. Photograph them instead, stay on paths or firm ground, and avoid trampling meadows. Local communities and authorities discourage collecting plants of any kind."}
+      ]},
+    {"slug": "thangu-foreigners-high-point", "title": "Thangu as a high point for foreign visitors", "kind": "nature", "duration": "Half day from Lachen", "best_time": "Apr–Jun, Oct–Nov", "cost": "Included in RAP packages; ask operator", "image_query": "Lachen valley Thangu mountains", "wiki": "Thangu Valley",
+      "summary": "Foreign nationals cannot visit Gurudongmar, but they can usually go up the Lachen valley to Thangu. With a good morning and a visit to Chopta where permitted, it is a fine day in its own right.",
+      "body": [
+        "Foreign travellers in mixed groups are often disappointed to learn that Gurudongmar is closed to them. It is a border rule, not an operator's choice. The Restricted Area Permit usually covers Lachen and the valley up to Thangu, and this is how we plan foreign groups' Lachen days.",
+        "Leave Lachen after breakfast rather than at 4 am. Drive up slowly with stops for the views back down the valley, spend an hour or two around Thangu and, where permitted, in the Chopta Valley, then return to Lachen for lunch. The pressure of the dawn dash is gone, and the altitude of about 3,900 m is easier to manage.",
+        "If your group includes Indian and foreign travellers, the Indians can go on to Gurudongmar while foreign members wait at Thangu, but this needs separate vehicles or careful timing. Discuss it with your operator before booking."
+      ],
+      "good_for": ["solo", "couples", "photographers"],
+      "faqs": [
+        {"q": "Can foreigners go to Thangu", "a": "Usually yes. Foreign nationals with a Restricted Area Permit, travelling in a group of at least two through an approved operator, can normally visit Lachen and continue up the valley to Thangu. Gurudongmar Lake beyond is not permitted for foreigners. Check current status before you travel."},
+        {"q": "What can foreigners do instead of Gurudongmar", "a": "Drive up to Thangu, visit the Chopta Valley where permitted, walk on the meadows and return to Lachen for lunch. Then continue to Lachung for Yumthang the next day, which foreigners can usually visit. Lachen Monastery is another good half-day."},
+        {"q": "Can a mixed group of Indians and foreigners travel together", "a": "Yes, but foreign members must stop at Thangu while Indian members go to Gurudongmar. This works with two vehicles or with the foreign members waiting at a tea house. Discuss logistics with your operator in advance and make sure everyone's permits are correct."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Thangu", "a": "Thangu is at roughly 3,900 m (about 12,800 ft), though sources range from about 3,800 m to 4,200 m depending on the point measured. That is more than 1,100 m above Lachen. Most people feel breathless walking here; a few get headaches. Take it slowly."},
+    {"q": "How far is Thangu from Lachen", "a": "About 30 km, roughly 1–1.5 hours by road. On the Gurudongmar morning, cars leave Lachen at 4–5 am and reach Thangu around 6 am for tea and permit checks, then continue about 35 km to the lake."},
+    {"q": "Can I stay overnight in Thangu", "a": "There are basic lodges in Thangu, and some operators use them when permitted. We do not usually recommend it: sleeping at about 3,900 m is cold and raises the risk of altitude sickness. Sleeping in Lachen and passing through Thangu at dawn is easier for most travellers."},
+    {"q": "Is Thangu open for tourists now", "a": "As of early October 2026, permits for the Lachen valley, including Thangu and Gurudongmar, resumed around 10–11 September 2026 after road repairs. Access depends on landslides below Lachen and snow above it. Check current status before you travel."},
+    {"q": "How cold is Thangu", "a": "Very cold at dawn. Even in summer, daytime temperatures are only about 4–12 °C. In October–November expect around −5 °C at 6 am, and much lower in winter with wind. Wear thermals, a fleece, down jacket, windproof layer, cap and gloves for the dawn stop."},
+    {"q": "Is there an army checkpost at Thangu", "a": "Yes. Thangu has an army presence and checkpost where permits are checked on the way to Gurudongmar. Army medical staff may also check tourists. Carry your permit and ID copies, follow instructions and never photograph military installations, vehicles or personnel."},
+    {"q": "What is Chopta Valley in North Sikkim", "a": "A high meadow valley near Thangu, at roughly 4,000 m, with streams, moraines and alpine flowers in summer, frozen in winter. It is visited from Thangu when the permit and army allow. It is a different place from Chopta in Uttarakhand."},
+    {"q": "Should I stop at Thangu if I feel unwell", "a": "Yes. Thangu is the best place to decide. If anyone has a severe headache, vomiting, confusion, loss of balance or breathlessness at rest, they should not go higher. Ideally they should go back down to Lachen. Mild symptoms that ease with rest can be watched carefully."},
+    {"q": "Is there mobile signal in Thangu", "a": "Patchy at best. Some networks, often BSNL, have worked intermittently near Thangu, but do not rely on it. Above Thangu there is usually no signal. Carry cash, tell someone in Lachen your plans and keep your operator's number written down."}
+  ]
+}

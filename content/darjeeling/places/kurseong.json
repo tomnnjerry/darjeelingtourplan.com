@@ -1,0 +1,175 @@
+{
+  "slug": "kurseong",
+  "name": "Kurseong",
+  "region": "darjeeling",
+  "kind": "tea country",
+  "wiki": "Kurseong",
+  "image_query": "Kurseong tea garden hill",
+  "lat": 26.881,
+  "lng": 88.278,
+  "altitude_m": 1458,
+  "tagline": "Tea gardens, Netaji's house and the train in the bazaar",
+  "meta_description": "Kurseong on a budget: Makaibari tea walks, Netaji's house at Giddapahar, Dow Hill and the toy train through the bazaar. Costs, stays and how to get there.",
+  "summary": "Kurseong is a quiet tea town at 1,458 m, about 32 km and 1.5 hours from Siliguri and 30 km below Darjeeling. Come for some of the oldest tea gardens in the hills, Netaji Subhas Chandra Bose's family house at Giddapahar, forest walks on Dow Hill and the toy train running through the bazaar.",
+  "intro": [
+    "Most visitors pass through Kurseong on the way to Darjeeling and stop only for tea and a plate of momos. That is a pity. Kurseong sits half way up the hills, so it is warmer than Darjeeling, greener, and much quieter. Tea gardens fall away on every side: Makaibari, Castleton, Ambootia, Goomtee and others whose names fetch high prices at auction. The air smells of wet leaf and wood smoke.",
+    "The town is built along Hill Cart Road, and the Darjeeling Himalayan Railway shares that road through the bazaar. Shopkeepers step back from their counters as the train eases past, a few feet from the stalls. Above the town, Dow Hill's forests of pine and oak hide old boarding schools and a forest museum. On clear days, the plains of Bengal spread out to the south and Kangchenjunga shows to the north.",
+    "Kurseong is also good value. Hotels cost less than in Darjeeling, shared jeeps from Siliguri take about 1.5 hours, and it makes an easy first night when flights land late at Bagdogra. Give it one or two nights. Walk a tea garden in the morning, visit Netaji's house, and climb to Eagle's Crag in the evening light."
+  ],
+  "story": {
+    "title": "Netaji's months at Giddapahar",
+    "paras": [
+      "In the 1920s Sarat Chandra Bose, a leading Calcutta lawyer and the elder brother of Subhas Chandra Bose, bought a house at Giddapahar on the edge of Kurseong as a family hill retreat. Subhas stayed there more than once. In 1936, after returning to India from Europe, he was arrested by the British and later kept under house arrest at this house, cut off from politics but able to write.",
+      "From Giddapahar he wrote letters and worked on his ideas for India's future, and the house remains the place in the hills most closely tied to the man Indians call Netaji. Today it is the Netaji Subhas Chandra Bose Museum, run by the Netaji Institute for Asian Studies, with photographs, letters, and the bed and furniture of the Bose family. It is small, simple and free to enter, and it gives Kurseong a place in the story of India's freedom struggle."
+    ],
+    "source": "Netaji Institute for Asian Studies, Kurseong; Sugata Bose, His Majesty's Opponent (2011)"
+  },
+  "did_you_know": [
+    "Kurseong is commonly explained as coming from the Lepcha 'Kharsang', usually translated as the land of the white orchid.",
+    "The Darjeeling Himalayan Railway shares Hill Cart Road through Kurseong bazaar, so the train passes within a few feet of shop counters.",
+    "Victoria Boys' School on Dow Hill was founded in 1879, two years before the toy train reached Darjeeling."
+  ],
+  "local_name": {"text": "Kharsang", "language": "Lepcha", "meaning": "land of the white orchid (common explanation)"},
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 45 km"],
+    ["From Siliguri", "≈ 32 km · 1.5 h"],
+    ["Altitude", "1,458 m"],
+    ["Known for", "Tea gardens, Netaji Museum, Dow Hill, toy train"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Makaibari's tea slopes", "text": "Makaibari, one of the oldest gardens in Darjeeling district, is a short drive below the town. Walk the rows with a local guide, see the factory when leaf is coming in, and taste the flushes. Families on the estate also host homestay guests."},
+    {"title": "Netaji Museum at Giddapahar", "text": "The Bose family house where Subhas Chandra Bose was held under house arrest in 1936 is now a small free museum of photographs, letters and family furniture. Give it 45 minutes and read the captions."},
+    {"title": "Eagle's Crag at sunset", "text": "A short climb above the town leads to Eagle's Crag, a viewpoint with a sweep over the plains to the south and, on clear days, Kangchenjunga to the north. Go late afternoon, when the lights of Siliguri start to show."},
+    {"title": "Dow Hill's forest", "text": "Pine and oak forest cover Dow Hill above Kurseong, with Victoria Boys' School, Dow Hill Girls' School and a forest museum along the road. It is a fine walk on a misty afternoon, and the source of many local ghost stories."},
+    {"title": "The train in the bazaar", "text": "Stand by Kurseong station when the toy train comes through. It runs down the middle of Hill Cart Road, between stalls and jeeps, whistling as it goes. Ride the upper section to Darjeeling, about 2.5–3 hours, for the best of the line."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Jeeps for Kurseong leave from NJP and the Tenzing Norgay bus terminus in Siliguri through the day when full: ₹120–200 a seat, 1.5 hours, indicative 2026. From Darjeeling, jeeps leave the Chowk Bazaar stand for Kurseong, 30 km, ₹100–180."},
+    {"mode": "Reserved car", "text": "A reserved car from Bagdogra or NJP costs ₹2,000–3,000, about 1–1.5 hours via Rohini road. Give the driver the exact location if you stay at a tea estate or on Pankhabari road, because estate roads add time."},
+    {"mode": "Rail / Air", "text": "Bagdogra (IXB) is about 45 km away and NJP about 35 km. The daily NJP–Darjeeling toy train stops at Kurseong after about 4–5 hours. Book on IRCTC and check current status before you travel, as landslides often suspend the lower section."}
+  ],
+  "where_to_stay": "Kurseong has fewer hotels than Darjeeling and lower rates. For a cheap, central bed, WBTDC's Kurseong Tourism Property on Hill Cart Road is beside the railway line and a short walk from the station. For comfort with character, Cochrane Place on Pankhabari road is a restored heritage house with a tea-led restaurant. Makaibari's homestay programme places guests with tea-worker families on the estate, a simple, warm and cheap way to see garden life; book through the estate's homestay contacts. Stay in town if you rely on shared jeeps, and outside town only if you have a car.",
+  "stays": ["cochrane-place-kurseong", "kurseong-tourism-property-wbtdc"],
+  "costs": [
+    ["Shared jeep Siliguri → Kurseong", "₹120–200 a seat"],
+    ["Reserved car Bagdogra → Kurseong", "₹2,000–3,000"],
+    ["Makaibari garden walk and tasting", "₹200–500 a person"],
+    ["Netaji Museum, Giddapahar", "Free"],
+    ["Local taxi, half day (Makaibari, Giddapahar, Dow Hill)", "₹1,500–2,200"]
+  ],
+  "budget_tip": "Make Kurseong your first night instead of a pricier Darjeeling hotel when you land after 2 pm: you save a room night's difference of ₹1,000–3,000 and avoid driving the upper hills in the dark.",
+  "tips": [
+    "Kurseong is about 4–5 °C warmer than Darjeeling, so it suits seniors and small children for a first night.",
+    "Ask your driver to take Rohini road up from Siliguri; it is quicker and wider than Pankhabari road.",
+    "Tea factories do not process every day, so ring ahead or ask your hotel before you go for a factory visit.",
+    "Fog settles on Dow Hill most monsoon afternoons; do the forest walk in the morning in June to September.",
+    "Kurseong bazaar has good, cheap momo and thukpa kitchens around the station; eat there rather than at highway stops."
+  ],
+  "themes": ["tea-gardens", "toy-train", "village-homestays", "budget-trips", "treks-and-walks"],
+  "nearby": ["darjeeling", "sittong", "mungpoo", "mirik"],
+  "experiences": [
+    {
+      "slug": "kurseong-makaibari-tea-walk",
+      "title": "Walk the rows at Makaibari",
+      "kind": "tea",
+      "duration": "2–3 hours",
+      "best_time": "Mornings, Mar–May (first and second flush) and Oct–Nov",
+      "cost": "₹200–500 per person, indicative 2026",
+      "image_query": "Makaibari tea estate Kurseong",
+      "wiki": "Makaibari",
+      "summary": "Makaibari, below Kurseong, is one of the oldest tea estates in Darjeeling, long known for organic and biodynamic farming. Walk the slopes with a local guide, see the factory in season, taste the flushes, and meet the families who pluck the leaf.",
+      "body": [
+        "Makaibari's gardens drop steeply from the road below Kurseong towards the Balason valley. The estate dates from the 1850s and was held for generations by the Banerjee family, who turned it into one of the best-known organic gardens in India. Its teas have sold at record prices at auction, and many tea lovers come here first.",
+        "A guided walk takes you through the rows and into the forest patches the estate keeps between sections. In season you meet pluckers working the slopes, and in the factory you see withering troughs, rolling machines and the dryers. The guide explains why first flush tastes light and green and second flush deeper, and lets you taste both.",
+        "For a deeper visit, Makaibari's homestay programme places guests with tea-worker families in the estate villages, with meals at home and a guide for garden walks. It is simple, warm and among the cheapest ways to stay in tea country, at roughly ₹1,200–2,000 a person a night with meals, indicative 2026. Book through the estate's homestay contacts."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "Can I visit Makaibari tea factory", "a": "Usually yes, by arrangement, when leaf is coming in, roughly March to November. Factories do not work every day, and some days are closed to visitors, so call ahead or ask your Kurseong hotel to arrange it. A walk and tasting costs ₹200–500 a person, indicative 2026. Check current status before you travel."},
+        {"q": "What is special about Makaibari tea", "a": "Makaibari is one of Darjeeling's oldest gardens and is known for organic and biodynamic farming, with forest kept between sections of tea. Its teas have fetched very high auction prices. On a visit you taste the difference between first flush, light and floral, and second flush, fuller and muscatel."},
+        {"q": "How do I book a Makaibari homestay", "a": "Families living on the estate host guests through a homestay programme. Contact the programme directly or through a responsible-tourism listing, give your dates, and pay the family. Rates have been around ₹1,200–2,000 a person a night with meals, indicative 2026. Rooms are simple, so pack a towel and a torch."}
+      ]
+    },
+    {
+      "slug": "kurseong-netaji-museum-giddapahar",
+      "title": "Netaji's house at Giddapahar",
+      "kind": "culture",
+      "duration": "1 hour",
+      "best_time": "Mornings, all year (check opening days)",
+      "cost": "Free",
+      "image_query": "Netaji Subhas Chandra Bose museum Giddapahar Kurseong",
+      "wiki": "Giddapahar",
+      "summary": "The Bose family's hill house at Giddapahar, where Subhas Chandra Bose was held under house arrest in 1936, is now a small museum of photographs, letters and family furniture. It is free, quiet, and one of the most meaningful stops in the hills for Indian visitors.",
+      "body": [
+        "Sarat Chandra Bose, elder brother of Subhas, bought this house on the edge of Kurseong as a family retreat. In 1936, after Subhas returned to India from Europe and was arrested by the British, he was kept here under house arrest. The house is now the Netaji Subhas Chandra Bose Museum, run by the Netaji Institute for Asian Studies.",
+        "Inside, rooms hold photographs of Netaji and the Bose family, copies of letters he wrote from Kurseong, and the family's furniture, including the bed he used. Captions trace his life from Cuttack and Calcutta to the Indian National Army. Upstairs windows look out over the hills he saw every day of his internment.",
+        "The museum is small, so 45 minutes is enough. Pair it with Makaibari or Dow Hill on the same morning. It is a short taxi ride from Kurseong town. Opening days and hours change, and it is closed on some holidays, so ask your hotel or check current status before you travel. Photography rules are posted at the entrance."
+      ],
+      "good_for": ["families", "students", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "Where is Netaji's house in Kurseong", "a": "At Giddapahar, on the edge of Kurseong, a short taxi ride from the town centre. Local drivers know it as the Netaji Museum. A half-day taxi covering Giddapahar, Makaibari and Dow Hill costs about ₹1,500–2,200, indicative 2026."},
+        {"q": "Is there an entry fee for the Netaji Museum Kurseong", "a": "Entry has been free. The museum is run by the Netaji Institute for Asian Studies. Donations are welcome. Opening days and hours change and it closes on some holidays, so check current status before you travel and go in the morning."},
+        {"q": "Why was Netaji in Kurseong", "a": "The house belonged to his elder brother, Sarat Chandra Bose, who used it as a family hill retreat. In 1936, after Subhas returned from Europe, the British arrested him and later kept him under house arrest here. He wrote letters and worked on his political ideas during that time."}
+      ]
+    },
+    {
+      "slug": "kurseong-eagles-crag-dow-hill-walk",
+      "title": "Eagle's Crag and the Dow Hill forest",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Mornings for forest, late afternoon for Eagle's Crag, Oct–May",
+      "cost": "Free; taxi ₹500–1,000 if you skip the climb",
+      "image_query": "Dow Hill Kurseong forest road",
+      "wiki": "Dow Hill",
+      "summary": "A walk up from Kurseong town to Eagle's Crag viewpoint, then along the Dow Hill road through pine and oak forest past old boarding schools and a forest museum. Free, shaded, and full of the stories that boarding-school towns collect.",
+      "body": [
+        "Eagle's Crag is a short, steep climb above the town centre, about 15–20 minutes on foot. From the top you look south over the tea slopes to the plains of Bengal, and north towards the snows on clear days. There is a small shelter and a water reservoir. Late afternoon is best, when the plains turn gold and Siliguri's lights begin to show.",
+        "From town, the Dow Hill road climbs through tall pine, oak and cryptomeria. It passes Victoria Boys' School, founded in 1879, and Dow Hill Girls' School, both British-era boarding schools, and a small forest museum with displays of the hills' trees, birds and animals. Mist drifts through the trunks on most monsoon afternoons.",
+        "Dow Hill is known for ghost stories, from a headless boy on the forest road to footsteps in empty school corridors. These are legends, told with relish by drivers and tea-stall owners, and nothing more. Walk it by day, keep to the road, and expect occasional school traffic. Allow 3–4 hours for the full loop on foot."
+      ],
+      "good_for": ["couples", "solo", "photographers", "students"],
+      "faqs": [
+        {"q": "Is Dow Hill Kurseong really haunted", "a": "No one has shown it is. Dow Hill's ghost stories, a headless boy on the road and footsteps in the schools, are local legends told for decades. The forest is quiet, misty and beautiful, and safe to walk by day. Keep to the road and carry a torch if you are out near dusk."},
+        {"q": "How far is Eagle's Crag from Kurseong station", "a": "Roughly 1 km, a 15–20 minute uphill walk from the town centre. It is free to visit. Go late afternoon for the light over the plains, and on clear days look north for Kangchenjunga. Shoes with grip help on the steps."},
+        {"q": "Can tourists visit the Dow Hill schools", "a": "The schools are working boarding schools and are not open for casual visits. You can see the buildings from the road. The Dow Hill forest museum nearby is open to visitors on most days; check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "kurseong-toy-train-bazaar-ride",
+      "title": "Ride the toy train through Kurseong bazaar",
+      "kind": "rail",
+      "duration": "2.5–3 hours to Darjeeling",
+      "best_time": "Oct–May; morning departures",
+      "cost": "Check IRCTC; ≈ ₹800–1,600 for DHR services, indicative 2026",
+      "image_query": "Darjeeling Himalayan Railway Kurseong bazaar",
+      "wiki": "Darjeeling Himalayan Railway",
+      "summary": "In Kurseong the Darjeeling Himalayan Railway runs right through the bazaar, inches from the stalls. Catch the train here for the upper section to Darjeeling via Tung, Sonada, Ghum and Batasia Loop, the best part of the line in under three hours.",
+      "body": [
+        "The Darjeeling Himalayan Railway was built between 1879 and 1881 along the old Hill Cart Road, and in Kurseong it still shares that road. As the train enters town, shopkeepers pull in their goods and jeeps squeeze against the wall. Kurseong station is roughly the half-way point of the 88 km line from NJP.",
+        "From Kurseong, the line climbs about 30 km to Darjeeling, through Tung and Sonada to Ghum at 2,258 m, India's highest station. It then loops round Batasia, where the Gorkha War Memorial stands and Kangchenjunga appears on clear days. The upper section avoids the long, slow lower climb and the frequent landslide closures below Kurseong.",
+        "Services change often. The daily NJP–Darjeeling train passes through Kurseong, and the railway has run special Kurseong-side joyrides at times, including festive services for October 2026 to January 2027. Book on IRCTC, check current status before you travel, and if no seats are left, simply watch the train pass through the bazaar from the station."
+      ],
+      "good_for": ["families", "photographers", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Can I board the toy train at Kurseong", "a": "Yes. The daily NJP–Darjeeling train stops at Kurseong, and you can book Kurseong to Darjeeling on IRCTC, subject to quota. The upper section takes about 2.5–3 hours. Timetables change and services are suspended after slips, so check current status before you travel."},
+        {"q": "Where is the best place to watch the toy train in Kurseong", "a": "Stand on Hill Cart Road near Kurseong station and the bazaar, where the train runs through the middle of the road between shops. Ask at the station for the expected arrival time, as trains often run late."},
+        {"q": "Is the Kurseong to Darjeeling section the best part of the toy train", "a": "For most people, yes. It is short enough to enjoy, climbs through Sonada and Ghum, and ends with Batasia Loop. The lower section from NJP has the famous loops and reverses near Tindharia but takes much longer and is more often closed by landslides."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Kurseong worth visiting", "a": "Yes, for a night or two. It is quieter and warmer than Darjeeling, cheaper to stay, and surrounded by famous tea gardens. Netaji's house, Dow Hill and the toy train through the bazaar are all close. It also breaks the drive from Bagdogra when you land late."},
+    {"q": "How far is Kurseong from Darjeeling", "a": "About 30 km by Hill Cart Road, 1–1.5 hours by car or shared jeep, and about 2.5–3 hours on the toy train. Shared seats cost ₹100–180 and a reserved car ₹1,800–2,500, indicative 2026."},
+    {"q": "What is the best time to visit Kurseong", "a": "March to May for tea plucking, flowers and mild days of 15–24 °C, and October to December for clear skies. June to September brings heavy rain, mist and slips, though the gardens are greenest then. Winter nights fall to about 5 °C."},
+    {"q": "Which tea gardens can I visit in Kurseong", "a": "Makaibari is the easiest to visit and offers walks and homestays. Castleton, Goomtee, Ambootia and others surround the town, but visits are by arrangement and depend on the season. Ask your hotel, and check current status before you travel."},
+    {"q": "Is Kurseong good for a first night from Bagdogra", "a": "Yes. It is about 45 km and 1.5–2 hours from Bagdogra, so you arrive before dark even with an afternoon flight. The lower altitude of 1,458 m is a gentle start, and you can continue to Darjeeling next morning with stops on the way."},
+    {"q": "What does Kurseong mean", "a": "The usual explanation is that it comes from the Lepcha 'Kharsang', commonly translated as the land of the white orchid. White orchids do grow in the forests here. Treat it as the common explanation rather than a proven etymology."},
+    {"q": "How much does a Kurseong sightseeing taxi cost", "a": "A half-day taxi covering Makaibari, Netaji's house at Giddapahar, Dow Hill and Eagle's Crag costs about ₹1,500–2,200, indicative 2026. A full day adding Mirik or Sittong costs ₹3,000–4,000. Agree the stops and the price before you set off."},
+    {"q": "Can I stay in a tea garden near Kurseong", "a": "Yes. Makaibari's homestay programme places guests with tea-worker families on the estate, a simple and cheap way to see garden life. For more comfort, Cochrane Place near town has a tea-led restaurant and arranges garden visits. Book ahead in March to May."},
+    {"q": "Is Kurseong colder than Darjeeling", "a": "No, it is warmer. At 1,458 m it is roughly 600 m lower than Darjeeling, so it is usually 4–5 °C warmer. Winter days are around 10–15 °C and nights 4–7 °C. Bring a jacket all year for the evenings."}
+  ]
+}

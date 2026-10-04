@@ -1,0 +1,109 @@
+{
+  "slug": "gangtok-budget-3n",
+  "title": "Gangtok on a budget in 3 nights",
+  "region": "east-sikkim",
+  "nights": 3,
+  "themes": ["budget-trips", "monasteries", "mountain-views", "food-and-markets"],
+  "stops": [{"place": "gangtok", "nights": 3}],
+  "start": "NJP station, Siliguri or Bagdogra Airport (IXB)",
+  "end": "NJP station, Siliguri or Bagdogra Airport (IXB)",
+  "price_from_inr": 9500,
+  "fares": {"budget": 9500, "comfort": 15500, "premium": 33000},
+  "fare_notes": {
+    "budget": "Budget hotels in Gangtok of the Hotel Sonam Delek or Mintokling Guest House class, twin sharing; shared jeep seats NJP–Gangtok and back; a shared seat on the Tsomgo and Baba Mandir tour with the permit; local shared taxis; breakfast only.",
+    "comfort": "Comfort hotels such as Netuk House or Royal Plaza; a private small car from Bagdogra or NJP and back; a reserved car for Tsomgo and Baba Mandir; a half-day Gangtok car tour; breakfast and dinner daily.",
+    "premium": "Elgin Nor-Khill or Taj Guras Kutir; a private Innova-class car with driver for every transfer and sightseeing day; breakfast and dinner daily; permits arranged in advance by our Gangtok agent."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 4000,
+  "meta_description": "Gangtok on a budget: 3 nights from ₹9,500 per person with shared jeeps from NJP, a shared seat to Tsomgo Lake, monasteries on foot and budget hotels.",
+  "summary": "Three nights in Gangtok for about ₹9,500 per person, twin sharing. We use shared jeeps from NJP, a shared seat on the Tsomgo Lake and Baba Mandir tour, local taxis at ₹20–40 a seat and budget hotels near MG Marg. You still see the lake, the monasteries and the ridge views.",
+  "intro": [
+    "Gangtok is easy to do cheaply because most of the cost sits in two places: the car from the plains and the car to Tsomgo. Swap both for shared seats and a couple saves ₹8,000–10,000 against a private-car package. The shared jeeps from Siliguri are the same Boleros and Sumos that locals ride, with ten seats and a roof rack for bags. The Tsomgo shared tour uses Gangtok-registered vehicles, as it must, and the agent folds the permit into the seat price.",
+    "The rest of Gangtok costs very little. Enchey Monastery and Do Drul Chorten are free, the Namgyal Institute of Tibetology charges ₹10–50, and MG Marg costs nothing to walk. A plate of momos is ₹60–150 and a thali ₹150–300. We keep the hotels simple but clean, close to MG Marg or Tibet Road so you can walk to dinner and save on taxis. This trip suits students, couples and first-timers who want the main sights without paying for a car that waits all day."
+  ],
+  "highlights": [
+    "Shared jeep up the Teesta valley on NH10, about ₹400–600 a seat",
+    "Tsomgo Lake at 3,753 m and Baba Harbhajan Singh Mandir on a shared seat",
+    "Enchey Monastery, Do Drul Chorten and the Namgyal Institute of Tibetology",
+    "Evenings on MG Marg, the car-free, no-smoking main street",
+    "Momos, thukpa and thenthuk for ₹60–300 a meal"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Shared jeep from NJP up to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 120 km · 4–5 h",
+      "text": "Take a shared jeep from the SNT stand or the private stands near Panitanki More in Siliguri, or a seat from outside NJP station. A seat costs about ₹400–600, and an SNT bus ₹275–500 (indicative, 2026). The road follows the Teesta on NH10 through Sevoke, Melli and Rangpo, where Indian travellers enter Sikkim without a permit. Foreign nationals need a Restricted Area Permit, issued free at Rangpo; check current status before you travel. At check-in near MG Marg or Tibet Road, the hotel collects the ₹50 Sikkim tourist fee. In the evening we walk MG Marg, where cars, smoking and littering are not allowed, and eat momos for ₹60–150 a plate.",
+      "meals": "Meals on your own"
+    },
+    {
+      "day": 2,
+      "title": "Monasteries on foot and by shared taxi",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 15 km by local shared taxi",
+      "text": "We keep today almost free. Walk or take a shared taxi (₹20–40 a seat) up to Enchey Monastery, about 3 km from MG Marg; legend holds that the lama Druptob Karpo flew here from Maenam Hill. Ride down to Deorali for the Namgyal Institute of Tibetology (₹10–50), opened in 1958 and named after Sir Tashi Namgyal, and the white Do Drul Chorten beside it. The ropeway from Deorali costs ₹150–250 return and shows the whole town on its ridge. Hand your photo ID copy and two passport photos to the agent booking tomorrow's Tsomgo seat. Dinner is thukpa or thenthuk at a small family kitchen near Lal Bazaar.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 3,
+      "title": "Shared seat to Tsomgo and Baba Mandir",
+      "place": "tsomgo-lake",
+      "overnight": "Gangtok",
+      "drive": "≈ 115 km round trip · 7–8 h",
+      "text": "Shared Tsomgo tours leave Gangtok around 7 am. A seat costs ₹800–1,300 (indicative, 2026) and the agent adds the Protected Area Permit, about ₹200 per person. The road climbs from 1,650 m to Tsomgo Lake at 3,753 m in about 40 km, through the Kyongnosla Alpine Sanctuary. Coats and boots hire for ₹100–300 at the lake; yak rides cost ₹300–600 and are optional. Most shared tours go on to Baba Harbhajan Singh Mandir, near 4,000 m, a shrine to a Punjab Regiment soldier who died near Nathu La in 1968. Back in Gangtok by 3–4 pm. Walk slowly and drink water. Snow and landslides close this road, so check current status before you travel.",
+      "meals": "Breakfast"
+    },
+    {
+      "day": 4,
+      "title": "Back down to NJP or Bagdogra",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 120 km · 4–5 h",
+      "text": "Shared jeeps to Siliguri and NJP leave Gangtok through the morning, and most fill within half an hour. Ask your hotel the night before which stand is running Siliguri jeeps this season, and buy the seat early: front seats go first and cost the same. For a flight from Bagdogra, leave Gangtok at least 5–6 hours before departure, because NH10 slows down at Rangpo, Melli and Sevoke. Shared jeeps stop in Siliguri town; from there an auto or local taxi to Bagdogra costs about ₹300–600. Buy churpi or a packet of Temi tea in town before you leave. Landslides can cut NH10 in the rains; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "mintokling-guest-house-gangtok", "hotel-tibet-gangtok", "netuk-house-gangtok", "royal-plaza-gangtok", "elgin-nor-khill-gangtok"],
+  "includes": [
+    "3 nights in a Gangtok hotel of your chosen tier, twin sharing",
+    "Daily breakfast (budget); breakfast and dinner (comfort and premium)",
+    "Shared jeep seats NJP–Gangtok–NJP (budget) or a private car (comfort and premium)",
+    "Tsomgo Lake and Baba Mandir tour with Protected Area Permit",
+    "Our day-by-day notes and a local contact in Gangtok"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Sikkim tourist fee of ₹50 per person, paid at the hotel",
+    "Lunches, and dinners on the budget tier",
+    "Entry tickets, the ropeway, yak rides and coat or boot hire",
+    "Nathu La add-on, tips and personal expenses"
+  ],
+  "save_more": [
+    "Travel in March, early April or November, when Gangtok hotels often discount rooms and Tsomgo is usually open.",
+    "Take the SNT bus from Siliguri instead of a shared jeep and save ₹100–200 a seat.",
+    "Eat lunch at momo and thali counters off MG Marg for ₹150–300 a person instead of hotel restaurants."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit to enter Sikkim; Tsomgo and Baba Mandir need a Protected Area Permit through a registered agent, with photo ID and two passport photos.",
+    "Foreign nationals need a free Restricted Area Permit to enter Sikkim and can visit Tsomgo on a day permit through an agent, usually as a group of two or more. Check current status before you travel.",
+    "MG Marg is a pedestrian street: no vehicles, no smoking and no littering.",
+    "Tsomgo sits at 3,753 m. Do not drink alcohol the night before, and tell the driver if anyone feels dizzy.",
+    "The Sikkim tourist fee is ₹50 per person aged 5 and over, collected at hotel check-in and valid for 30 days. Check current status before you travel."
+  ],
+  "faqs": [
+    {"q": "How much does a 3-night budget trip to Gangtok cost", "a": "About ₹9,500 per person, twin sharing, from NJP or Siliguri, indicative for 2026. That covers three nights in a budget hotel with breakfast, shared jeep seats both ways, a shared seat to Tsomgo Lake and Baba Mandir with the permit, and local taxis. Add ₹1,500–2,500 for lunches and dinners, plus the ₹50 Sikkim tourist fee and small entry tickets."},
+    {"q": "How much is a shared jeep from NJP to Gangtok", "a": "Expect ₹400–600 a seat in a shared jeep or taxi from Siliguri or NJP to Gangtok, indicative for 2026. The SNT bus costs ₹275–500. A reserved small car costs ₹4,000–5,500 and an Innova or Xylo ₹5,500–7,500. The drive is about 120 km and takes 4–5 hours, longer when NH10 is broken. Fares change with fuel prices, so check current status before you travel."},
+    {"q": "Do Indians need a permit for Gangtok and Tsomgo Lake", "a": "Not for Gangtok. Indian nationals enter Sikkim freely. Tsomgo Lake and Baba Mandir need a Protected Area Permit, which a registered Gangtok travel agent arranges for about ₹200 per person with a photo ID copy and two passport photos. Give the papers a day ahead. Rules can change, so check current status before you travel."},
+    {"q": "Can foreigners do this budget Gangtok trip", "a": "Yes, with one extra step. Foreign nationals need a Restricted Area Permit to enter Sikkim; it is free and issued online, at Rangpo checkpost and at Sikkim Tourism offices in Siliguri, Kolkata and Delhi. Tsomgo Lake is open to foreigners on a day permit through a registered agent, usually for groups of two or more. Nathu La is not open to foreigners. Check current status before you travel."},
+    {"q": "Is Tsomgo Lake open all year", "a": "The road is open most of the year, but heavy snow in January to March and landslides in July and August can close it for a day or several. The lake often freezes in winter. Shared tours run only when permits are being issued for that day, so your agent will confirm the evening before. Keep one spare day if Tsomgo matters most to you, and check current status before you travel."},
+    {"q": "Can we add Nathu La to this trip", "a": "Yes, if you are Indian nationals and the day falls between Wednesday and Sunday, the days Nathu La is open to tourists. A reserved car for Tsomgo, Baba Mandir and Nathu La costs ₹6,500–9,000 per vehicle, against ₹4,500–6,500 without Nathu La. Operators usually will not take children under 5. The pass shuts after heavy snow, so check current status before you travel."},
+    {"q": "Can we fly to Pakyong instead of Bagdogra", "a": "Not at present. Pakyong Airport, about 31 km south of Gangtok, has had no scheduled commercial flights in 2026 after the earlier services stopped. Bagdogra (IXB) is the airport for Gangtok, about 125 km and 4.5–5.5 hours away. Flights to Pakyong may return, so check current status before you travel."},
+    {"q": "What is the cheapest way to eat in Gangtok", "a": "Eat where Gangtok office workers eat. A plate of momos costs ₹60–150, a bowl of thukpa or thenthuk about the same, and a rice thali ₹150–300 at counters off MG Marg and around Lal Bazaar. Hotel restaurants charge two to three times more. Try sel roti in the morning and a piece of chhurpi, the hard local cheese, as a snack."},
+    {"q": "What is the best month for a budget Gangtok trip", "a": "March, April, October and November give the best mix of clear views and fair prices. March and November often bring hotel discounts. December and January are cold, about 4–12 °C in Gangtok, and Tsomgo may close for snow. July and August are the rainiest months, with landslides on NH10 and few views, so we avoid them for this trip."}
+  ]
+}

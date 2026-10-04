@@ -1,0 +1,174 @@
+{
+  "slug": "gorumara-national-park",
+  "name": "Gorumara National Park",
+  "region": "dooars",
+  "kind": "national park",
+  "wiki": "Gorumara National Park",
+  "image_query": "Gorumara National Park rhinoceros",
+  "lat": 26.75,
+  "lng": 88.80,
+  "altitude_m": 110,
+  "tagline": "Small park, big watchtowers, and rhinos on the Murti and Jaldhaka",
+  "meta_description": "Gorumara National Park guide: jeep safaris, Jatraprasad, Chukchuki, Chandrachur and Medla watchtowers, fees, timings, Thursday and monsoon closure, rhinos.",
+  "summary": "Gorumara is an 80 sq km park of sal forest and riverine grassland between the Murti and Jaldhaka rivers, about 2 hours from Siliguri. It is best seen from its watchtowers in 90-minute slots, or on a jeep safari. The 2025 census counted about 61 one-horned rhinos. It closes 16 June to 15 September.",
+  "intro": [
+    "Gorumara is a compact park, just under 80 sq km, and that is its strength. You do not need to spend hours driving to see animals. Instead, the forest department built watchtowers over salt licks and water holes, and you sit on them in 90-minute shifts while gaur, elephants, rhinos, sambar, barking deer and peafowl come out. On a quiet winter afternoon at Jatraprasad or Chukchuki, you can watch a herd of gaur for half an hour without moving.",
+    "The park lies between the Murti and Jaldhaka rivers in the western Dooars, with Lataguri on its southern edge. Sal forest covers the higher ground, with patches of riverine forest and tall grassland along the streams. Gorumara was a sanctuary from 1949 and became a national park in 1992. In 2009 the Ministry of Environment and Forests rated it the best-managed protected area in India, and its rhino numbers have grown steadily since.",
+    "Most visits are booked as a combination: a jeep enters the park, follows a set route, and stops at one or two watchtowers. Separate slots go to Medla, where you ride a bullock cart from the camp to the tower, and to towers on the forest edge such as Chandrachur and Chukchuki. Slots run morning and afternoon, roughly 6:30–8 a.m., 9–10:30 a.m., 1–2:30 p.m. and 3:30–5 p.m., with seasonal changes. Safaris have generally not run on Thursdays."
+  ],
+  "story": {
+    "title": "From a reserved forest to India's best-run park",
+    "paras": [
+      "Gorumara's forests were reserved by the British in the late nineteenth century, mainly for sal timber, while much of the land around them was being cleared for tea gardens. Hunting parties came here for gaur, tiger and rhino through the early twentieth century. In 1949 the forest was declared a wildlife sanctuary, chiefly to protect its small rhino population, which had been reduced by hunting and the loss of grassland to farming.",
+      "For decades the sanctuary was little known outside North Bengal. Upgraded to a national park in 1992, it became famous through its watchtower system and the eco-development committees that employ local villagers as guides, cooks and dancers. In 2009 the ministry ranked it the best protected area in the country. The March 2025 census put Gorumara's rhinos at about 61, with the range of the count between 58 and 63."
+    ],
+    "source": "Wikipedia 'Gorumara National Park'; All India Radio report on the March 2025 West Bengal rhino census"
+  },
+  "did_you_know": [
+    "Gorumara was a wildlife sanctuary from 1949 and was given national park status on 31 January 1992.",
+    "The March 2025 rhino census estimated about 61 one-horned rhinos in Gorumara, between 58 and 63 animals.",
+    "The park records about 50 mammal species and roughly 194 bird species, including great and wreathed hornbills."
+  ],
+  "facts": [
+    ["Best months", "Nov – Apr"],
+    ["Nights we suggest", "2 (stay at Lataguri)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 90 km"],
+    ["From Siliguri", "≈ 80 km · 2–2.5 h"],
+    ["Area", "≈ 80 sq km"],
+    ["Known for", "Watchtowers, gaur, rhino, elephants"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 1, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Jatraprasad watchtower", "text": "Named after a much-loved departmental elephant, Jatraprasad looks over a salt lick and grassland towards the Murti river. It is the most popular tower for rhino and gaur, and its slots are priced slightly higher than the others."},
+    {"title": "Rhino Observation Point", "text": "A tower inside the park built over open grassland where rhinos graze. It is usually visited on the jeep safari route. Morning slots in February and March, after grass burning, give the clearest views."},
+    {"title": "Medla camp and the bullock cart", "text": "At Medla you leave the jeep and ride a bullock cart through the forest to the tower above the Murti river. The camp is run by a local committee, and a folk dance programme is often part of the ticket."},
+    {"title": "Chukchuki for birds", "text": "Chukchuki watchtower stands over wet grassland and is known for birds: hornbills, parakeets, drongos, kingfishers and, in winter, many migrants. Bring binoculars and arrive at the first slot."},
+    {"title": "Chandrachur on the Murti side", "text": "On the Murti side of the forest, Chandrachur watchtower looks across grassland and water. It is a quieter tower and good for gaur and elephants in the afternoon slot."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "Drive from Siliguri or Bagdogra to Lataguri, about 80–90 km in two to two and a half hours, then use a forest-registered jeep for the safari. Private cars may not enter the park on safari routes. A reserved car costs ₹2,800–3,800 one way, indicative 2026."},
+    {"mode": "Bus / shared vehicle", "text": "Take a bus from Siliguri towards Malbazar or Maynaguri and get off at Lataguri, or change at Malbazar. It costs ₹100–200 and takes about three hours. Book a forest jeep for the safari at the Lataguri counter."},
+    {"mode": "Rail", "text": "New Mal Junction, about 10 km from Lataguri, is the nearest station; the Kanchankanya Express from Sealdah and local trains from Siliguri stop there. Chalsa station suits stays at Murti and Chalsa. From either, an auto or car to your lodge costs a few hundred rupees."}
+  ],
+  "where_to_stay": "Stay at Lataguri for the main safari gate, or at Murti and Chalsa for the Chandrachur and Medla side. The forest corporation runs the Lataguri Eco-Tourism Centre and the Murti Banani Eco-Tourism Centre, with simple cottages; WBTDC runs the Moorti Tourism Property on the river. Lataguri has many family lodges at ₹1,200–2,500 and resorts such as The Reserve Gorumara. On the hill above Chalsa, Sinclairs Retreat Dooars is the most comfortable option nearby.",
+  "stays": ["the-reserve-gorumara-lataguri", "murti-banani-eco-tourism-centre", "sinclairs-retreat-dooars-chalsa"],
+  "costs": [
+    ["Jeep safari with watchtower (per jeep, up to 6)", "₹2,500–3,500, indicative 2026"],
+    ["Jatraprasad watchtower ticket", "₹120–160 per person, indicative 2026"],
+    ["Chukchuki or Chandrachur watchtower ticket", "₹70–120 per person, indicative 2026"],
+    ["Medla tower with bullock cart", "₹160–250 per person, indicative 2026"],
+    ["Guide fee per safari", "₹150–300, indicative 2026"]
+  ],
+  "budget_tip": "A watchtower slot with a shared jeep costs a fraction of a private safari and, at Gorumara, usually shows more animals than a drive.",
+  "tips": [
+    "Book the first morning slot or the last afternoon slot; animals are most active then and the light is better.",
+    "Sit still and quiet on watchtowers; one loud group can empty a salt lick for the whole slot.",
+    "Wear earth colours and carry a warm layer in December and January, when open jeeps are cold at 6 a.m.",
+    "Safaris have generally not run on Thursdays, so plan around that and check current status before you travel.",
+    "Bring the same photo ID you used to book; it is checked at the gate."
+  ],
+  "themes": ["wildlife-safaris", "birding-and-orchids", "family-trips"],
+  "nearby": ["lataguri", "murti", "chapramari-wildlife-sanctuary", "samsing"],
+  "experiences": [
+    {
+      "slug": "gorumara-jeep-safari-jatraprasad",
+      "title": "Jeep safari to Jatraprasad and Rhino Point",
+      "kind": "wildlife",
+      "duration": "90 minutes per slot",
+      "best_time": "First morning slot, Nov – Apr",
+      "cost": "₹2,500–3,500 per jeep (up to 6), indicative",
+      "image_query": "Gorumara National Park watchtower jeep",
+      "wiki": "Gorumara National Park",
+      "summary": "The classic Gorumara outing: a forest jeep from Lataguri through sal forest to the Jatraprasad watchtower and the Rhino Observation Point over grassland. Gaur, peafowl and deer are almost certain; rhino and elephant are good odds in season.",
+      "body": [
+        "Safari jeeps are open Gypsies or similar, licensed by the forest department and driven by local drivers, with a forest guide on board. They leave from the Lataguri side at the start of each slot. The route crosses sal forest, where you may see barking deer, wild boar and langurs, before reaching the towers. At Jatraprasad you climb up and wait over a salt lick and open grassland that slopes down towards the Murti.",
+        "The best sightings come from patience. Gaur often graze in the open in the afternoon, rhinos come to wallow and feed in the grassland, and elephants cross from the forest edge. Hornbills fly over in pairs. Each slot is about 90 minutes in total, so time on the tower may be 30–45 minutes. Do not ask the driver to speed up or chase animals; it is against the rules and rarely works.",
+        "Book online on the forest department's portal or at the Lataguri counter. The price covers the jeep, entry, guide and tower fees in most packages, but check exactly what is included. In winter, morning slots are cold and sometimes foggy; the 3:30 p.m. slot is warmer and often better for gaur. Check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "couples"],
+      "faqs": [
+        {"q": "What is the Gorumara jeep safari cost", "a": "A shared or private jeep safari with watchtower stops usually costs about ₹2,500–3,500 per jeep for up to six people, indicative 2026, including vehicle hire, entry, guide and tower fees. Camera fees may be extra. Prices are set by the forest department and change, so check current status before you travel."},
+        {"q": "What are Gorumara safari timings", "a": "Slots usually run about 6:30–8 a.m., 9–10:30 a.m., 1–2:30 p.m. and 3:30–5 p.m., with changes between the summer and winter seasons. The first and last slots are best for animals. Safaris have generally not run on Thursdays. Check current status before you travel."},
+        {"q": "Can I see a rhino at Gorumara", "a": "There is a fair chance, especially from the Rhino Observation Point and Jatraprasad between February and April when grass is short. Gorumara had about 61 rhinos at the 2025 census. Jaldapara, with about 331, gives better odds. Gaur, deer, peafowl and elephants are more common at Gorumara."}
+      ]
+    },
+    {
+      "slug": "gorumara-medla-watchtower-bullock-cart",
+      "title": "Medla watchtower by bullock cart",
+      "kind": "wildlife",
+      "duration": "90 minutes",
+      "best_time": "Afternoon slot, Nov – Mar",
+      "cost": "₹160–250 per person plus vehicle, indicative",
+      "image_query": "Medla watchtower Gorumara bullock cart",
+      "wiki": "",
+      "summary": "At Medla camp you leave the jeep and ride a bullock cart through the forest to a watchtower above the Murti river. It is slow and bumpy, and children love it. The tower looks over grassland where gaur, rhinos and elephants feed.",
+      "body": [
+        "Medla is a forest camp on the Murti side of Gorumara, run with a local eco-development committee. Vehicles drop you at the camp, and from there wooden bullock carts carry visitors along a forest track to the Medla watchtower. The ride takes ten to fifteen minutes and is a large part of the fun. The cart drivers are local men, and the money from tickets supports village committees.",
+        "The tower stands above the Murti river with open grassland and forest beyond. Gaur and elephants come out in the late afternoon, and rhinos are seen here regularly. Kingfishers and egrets work the river below. After the slot, many visits end with a short folk dance programme by local performers at the camp.",
+        "Book Medla as a separate slot online or at the Lataguri counter, and arrange a forest jeep or car to the camp. Morning and afternoon slots both work; the afternoon is warmer and more popular with families. Keep voices down on the cart and the tower. Check current status before you travel."
+      ],
+      "good_for": ["families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "What is the Medla watchtower in Gorumara", "a": "Medla is a watchtower on the Murti side of Gorumara, reached by a bullock-cart ride from Medla camp. It overlooks the Murti river and grassland where gaur, elephants and rhinos often come out. The camp is run with a local committee, and a folk dance programme is often included. Book through the forest department."},
+        {"q": "Is the Medla bullock cart ride safe for children", "a": "Yes, for most children over three or four. The carts are slow and the track is short, though bumpy. Keep small children seated on an adult's lap and hold on. Avoid it if anyone in your group has back problems. It is calmer than an open jeep."},
+        {"q": "How do I book Medla watchtower", "a": "Medla slots are sold by the forest department, online through its booking portal and at the Gorumara counter in Lataguri. You also need a vehicle to the camp, either a forest jeep or your own car where allowed. Book weekend slots in advance. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "gorumara-chukchuki-birding-tower",
+      "title": "Birding from the Chukchuki watchtower",
+      "kind": "nature",
+      "duration": "90 minutes",
+      "best_time": "First morning slot, Nov – Mar",
+      "cost": "₹70–120 per person plus vehicle, indicative",
+      "image_query": "Great hornbill Dooars forest",
+      "wiki": "",
+      "summary": "Chukchuki watchtower stands over wet grassland and scattered trees, which makes it one of the best spots in Gorumara for birds. Hornbills, parakeets, barbets, drongos, kingfishers and raptors are regular, and winter adds ducks and waders.",
+      "body": [
+        "Chukchuki is a watchtower on the edge of Gorumara, close to the forest villages, looking over a marshy stretch and grassland. Birders like it because so many habitats meet: tall trees for hornbills and green pigeons, open ground for lapwings and bee-eaters, water for kingfishers and egrets. Gorumara records about 194 bird species, and many of them pass through this view.",
+        "Arrive at the first slot with binoculars and a field guide or app. Expect red-breasted and Alexandrine parakeets, great and oriental pied hornbills if you are lucky, lineated barbets, black-hooded orioles, crested serpent eagles and several kinds of drongo. In winter, look for migrant ducks and waders in the marsh. Mammals visit too: gaur and deer come to the grassland, and elephants sometimes cross.",
+        "Tickets are cheaper than Jatraprasad, and the tower is less crowded, which matters for birding. Ask your guide to stay quiet and point rather than shout. Combine a morning here with a visit to the Chandrachur tower in the afternoon for a full birding day. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "Which Gorumara watchtower is best for birds", "a": "Chukchuki is generally the best for birds because it overlooks wet grassland with tall trees nearby, giving a mix of hornbills, parakeets, barbets, raptors and waterbirds. Medla and Chandrachur are also good. Go at the first morning slot with binoculars, and choose a weekday when towers are quieter."},
+        {"q": "Can I see hornbills in Gorumara", "a": "Yes, with some luck. Great hornbills and oriental pied hornbills live in Gorumara and the surrounding forests, and wreathed hornbills are recorded in the region. They are often seen flying between tall trees in the early morning. Listen for the loud whoosh of their wingbeats and look up."},
+        {"q": "Do I need a guide for birding in Gorumara", "a": "A forest guide comes with every safari and tower slot, but most are not specialist birders. If birds are your main interest, ask your lodge for a local birding guide to join, or bring a good field guide or app. Keep expectations realistic in a 90-minute slot."}
+      ]
+    },
+    {
+      "slug": "gorumara-chandrachur-watchtower-afternoon",
+      "title": "Afternoon at the Chandrachur watchtower",
+      "kind": "wildlife",
+      "duration": "90 minutes",
+      "best_time": "Last afternoon slot, Nov – Apr",
+      "cost": "₹70–120 per person plus vehicle, indicative",
+      "image_query": "Indian gaur herd Dooars grassland",
+      "wiki": "",
+      "summary": "Chandrachur watchtower, on the Murti side of the forest, overlooks grassland and water and is often quieter than the main towers. In the late afternoon it is a good place to wait for gaur and elephants coming out of the forest.",
+      "body": [
+        "Chandrachur is one of the watchtower slots sold for Gorumara, reached by vehicle from the Murti or Lataguri side. The tower looks over a clearing with a water hole and the forest edge beyond. Because it is less famous than Jatraprasad, it usually has fewer visitors, and on a quiet afternoon you can have long, calm views of gaur herds grazing.",
+        "Gaur are the biggest wild cattle in the world, and the bulls, dark brown with white 'stockings', can weigh close to a tonne. At Chandrachur they often come out in the last hour before dusk. Elephants, sambar, barking deer and peafowl visit too. Light fades fast in winter, so bring a camera that handles low light and keep your settings ready.",
+        "Book the last slot of the day, around 3:30–5 p.m. in winter, through the forest department portal or the Lataguri counter, and arrange a vehicle. If you are staying at Murti, Chandrachur is the most convenient tower. Return to your lodge before dark and do not stop on forest roads. Check current status before you travel."
+      ],
+      "good_for": ["photographers", "couples", "families"],
+      "faqs": [
+        {"q": "Where is the Chandrachur watchtower", "a": "Chandrachur is a watchtower on the Murti side of the Gorumara forests, reached by vehicle from Murti or Lataguri. It overlooks grassland and a water hole. It is sold as one of the Gorumara watchtower slots through the forest department, and is often quieter than Jatraprasad."},
+        {"q": "Which animals can I see at Chandrachur", "a": "Gaur are the most regular, often in herds in the late afternoon. Elephants, sambar, barking deer, wild boar and peafowl are also seen, and rhinos occasionally. Birds include hornbills, parakeets and kingfishers. Sightings are never guaranteed, so a quiet, patient wait gives the best chance."},
+        {"q": "Is one watchtower enough in Gorumara", "a": "One is the minimum. Two slots, such as a morning jeep to Jatraprasad and an afternoon at Chandrachur or Medla, give a much better picture of the park and better odds for rhinos and elephants. Each slot costs a few hundred rupees per person plus the vehicle."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Gorumara National Park open now", "a": "Gorumara is open from 16 September to 15 June each year and closes for the monsoon and breeding season from 16 June to 15 September. Safaris have generally not run on Thursdays. Dates can change with weather and forest department orders, so check current status before you travel."},
+    {"q": "How do I book Gorumara safari online", "a": "The West Bengal forest department sells Gorumara jeep safari and watchtower slots on its online booking portal, and at the counter at the Gorumara Nature Interpretation Centre in Lataguri. Book as early as possible for weekends and holidays, and carry the photo ID you booked with. Avoid touts who offer tickets at the gate."},
+    {"q": "What is the best time to visit Gorumara", "a": "February to April is best for sightings, because grass is short after controlled burning and animals come to water in the open. November to January is cool and pleasant but grass is tall and mornings foggy. Avoid the Puja and Christmas weeks if you dislike crowds. The park is shut from mid-June to mid-September."},
+    {"q": "Which animals can I see at Gorumara", "a": "Gaur, elephants, one-horned rhinos, sambar, barking deer, hog deer, wild boar and peafowl are the main mammals and birds visitors see. Leopards live here but are rarely sighted. Gorumara records about 50 mammal species and roughly 194 bird species, including hornbills."},
+    {"q": "How many rhinos are there in Gorumara", "a": "The March 2025 census estimated about 61 one-horned rhinos in Gorumara, in a range of 58 to 63. Together with Jaldapara's 331, that took West Bengal's total to about 392. Numbers have grown steadily thanks to anti-poaching patrols and grassland management."},
+    {"q": "Can I drive my own car into Gorumara", "a": "Not on the safari routes. Safaris use forest-registered jeeps with a guide. Private cars can drive the public highway through the forest and, at some camps such as Medla, reach the camp gate if allowed by that season's rules. Check current status before you travel."},
+    {"q": "Is Gorumara good for children", "a": "Yes. Watchtower slots are short, there is a good chance of seeing large animals, and the Medla bullock cart is a hit with children. Keep them seated in jeeps and quiet on towers. Avoid the 6:30 a.m. slot for toddlers in winter, when it is cold and foggy."},
+    {"q": "Gorumara or Jaldapara, which is better", "a": "Jaldapara is bigger and has five times as many rhinos, so it is the better bet for a rhino sighting. Gorumara is closer to Siliguri and better for gaur and relaxed watchtower sessions. With four nights, do both; with two, choose Gorumara for ease or Jaldapara for rhinos."},
+    {"q": "Are there tigers in Gorumara", "a": "No resident tigers are reliably reported in Gorumara today. Leopards are present but shy. The big draws are gaur, elephants and rhinos. Do not book Gorumara expecting a tiger; if big cats matter to you, temper expectations in all the Dooars parks."}
+  ]
+}

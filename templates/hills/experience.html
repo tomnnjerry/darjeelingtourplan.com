@@ -1,0 +1,30 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ e.title }}, {{ p.name }} · cost, timing and tips · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ e.summary|truncatechars:158 }}{% endblock %}
+{% block og_image %}{% with img=e|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}{% endblock %}
+{% block content %}
+<header class="wrap phead--plain"><div class="phead__in" style="padding-top: 18px">
+  <p class="eyebrow">{% icon e.kind %} {{ e.kind }} · {{ p.name }}, {{ r.short }}</p>
+  <h1 class="h-xl" style="max-width: 22ch">{{ e.title }}</h1>
+  <div class="chip-row"><span class="chip">{% icon "clock" %}{{ e.duration }}</span><span class="chip">{% icon "sun" %}{{ e.best_time }}</span><span class="chip chip--ink">{% icon "rupee" %}{{ e.cost }}</span></div>
+</div></header>
+<div class="wrap">{% photo e|first_img alt=e.title cls="ratio-pano" eager=True sizes="100vw" %}</div>
+<section class="sec--tight"><div class="wrap split">
+  <div>
+    <div class="answer" style="margin-top: 0">{{ e.summary }}</div>
+    <div class="prose dropcap" style="margin-top: 26px">{% for para in e.body %}<p>{{ para }}</p>{% endfor %}</div>
+    {% if e.good_for %}<p class="eyebrow" style="margin-top: 20px">Good for</p><div class="chip-row">{% for g in e.good_for %}<span class="chip chip--land">{{ g }}</span>{% endfor %}</div>{% endif %}
+    <div style="margin-top: 40px">{% include "hills/partials/faq.html" with faqs=e.faqs %}</div>
+  </div>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">The details</p><ul class="ledger"><li><span>Where</span><i></i><b><a href="{{ p.url }}">{{ p.name }}</a></b></li><li><span>How long</span><i></i><b>{{ e.duration }}</b></li><li><span>Best time</span><i></i><b>{{ e.best_time }}</b></li><li><span>Cost</span><i></i><b>{{ e.cost }}</b></li>{% if p.altitude_m %}<li><span>Altitude</span><i></i><b>{{ p.altitude_m|intcomma_in }} m</b></li>{% endif %}</ul></div>
+    {% include "hills/partials/quick_form.html" with qf_id="exp-aside" qf_land=r.slug qf_title="Add this to a trip" qf_message="Experience: "|add:e.title %}
+  </aside>
+</div></section>
+<section class="sec sec--paper2"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Also in {{ p.name }}</p><h2 class="h-l">More things to do</h2></div><a class="link-go" href="{{ p.url }}">{{ p.name }} guide {% icon "arrow" %}</a></div>
+  <div class="grid grid--4">{% for e in siblings %}{% include "hills/partials/card_exp.html" %}{% endfor %}{% include "hills/partials/card_place.html" %}</div>
+</div></section>
+{% endblock %}

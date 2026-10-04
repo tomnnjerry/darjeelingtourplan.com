@@ -1,0 +1,19 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ t.name }} in {{ r.name }} · places, packages and stays · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ t.name }} in {{ r.name }}: {{ t.tagline }}. Places, tour packages, stays and experiences, with prices.{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block content %}
+<header class="phead phead--slab on-dark"><div class="wrap phead__in">
+  <p class="eyebrow">{% icon t.icon %} {{ r.name }} · trip style</p>
+  <h1 class="h-xl">{{ t.name }} in {{ r.short }}</h1>
+  <p class="lede">{{ t.summary }}</p>
+</div></header>
+{% if journeys %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Tour packages</p><h2 class="h-l">{{ t.name }} packages in {{ r.short }}</h2></div></div>
+  <div class="grid grid--4" data-fill>{% for j in journeys %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
+<section class="sec sec--paper2"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Places</p><h2 class="h-l">Where to go for {{ t.name|lower }}</h2></div></div>
+  <div class="grid grid--4" data-fill>{% for p in places %}{% include "hills/partials/card_place.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div></section>
+{% if experiences %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Experiences</p><h2 class="h-l">Things to do</h2></div></div>
+  <div class="grid grid--4" data-fill>{% for e in experiences|slice:":8" %}{% include "hills/partials/card_exp.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
+{% if stays %}<section class="sec sec--paper2"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Stays</p><h2 class="h-l">Where to sleep</h2></div></div>
+  <div class="grid grid--3" data-fill>{% for s in stays %}{% include "hills/partials/card_stay.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div></section>{% endif %}
+{% endblock %}

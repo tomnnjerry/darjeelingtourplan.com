@@ -1,0 +1,176 @@
+{
+  "slug": "thimphu",
+  "name": "Thimphu",
+  "region": "bhutan",
+  "kind": "city",
+  "wiki": "Thimphu",
+  "image_query": "Thimphu Tashichho Dzong valley",
+  "lat": 27.47,
+  "lng": 89.64,
+  "altitude_m": 2320,
+  "tagline": "A capital without traffic lights, under a giant golden Buddha",
+  "meta_description": "Thimphu guide: Buddha Dordenma, Tashichho Dzong, takin preserve, archery, weekend market, route permits, hotels and indicative 2026 costs for Indians.",
+  "summary": "Thimphu is Bhutan's capital, a small city of about 115,000 people at 2,250–2,650 m with no traffic lights. Give it two nights: the Buddha Dordenma, Tashichho Dzong at dusk, the takin preserve, an archery match and the weekend market. It is also where route permits for Punakha and beyond are issued.",
+  "intro": [
+    "Thimphu fills a long, narrow valley along the Wang Chhu, its houses stacked up the slopes in the same painted style as the dzong at its northern end. It became the official capital in 1961, and even now it feels like a large town rather than a city. About 115,000 people live here, according to the 2017 count. Police in white gloves direct traffic from a painted pavilion at the main junction, because Thimphu has no traffic lights. Monks shop beside office workers in gho and kira, and the national dress is still daily wear in government buildings.",
+    "For visitors, Thimphu does three jobs. It is the place to see how modern Bhutan runs: the government sits in Tashichho Dzong, the king's office is beside it, and the National Assembly is across the river. It has the country's best spread of sights within a short drive: the Buddha Dordenma, the Memorial Chorten, the takin preserve, the Folk Heritage Museum, the Royal Textile Academy and the weekend market. And it is where the immigration office issues route permits for Punakha, Phobjikha, Bumthang and Haa, on working days only, which shapes how you plan the trip.",
+    "Two nights is the right length for most people, three if you want a day hike to Tango or Cheri monastery or a slow Sunday at the market. Thimphu sits around 2,320 m, so evenings are cold from October to March, with frost in December and January; days are clear and bright. Hotels here cost more than in Phuentsholing but less than premium Paro. Mid-range certified hotels cluster around Norzin Lam and the Clock Tower Square, within walking distance of cafes, bookshops and the craft bazaar."
+  ],
+  "story": {
+    "title": "The takin that a saint made from leftovers",
+    "paras": [
+      "Bhutan's national animal looks as if it was assembled from spare parts: the head of a goat on the body of a cow. Bhutanese legend says that is exactly what happened. The 15th-century saint Drukpa Kunley, the 'Divine Madman', was asked by villagers to show a miracle. He demanded a whole cow and a whole goat for lunch, ate both, then stuck the goat's head on the cow's bones and told the creature to get up. It rose and walked off to graze, and people called it the takin. The takin was declared the national animal in 2005.",
+      "The Motithang Takin Preserve has its own true story. Thimphu once kept takins in a small zoo. Wikipedia records that the king felt it was improper for a Buddhist country to keep animals confined, so they were released. The takins did not head for the hills; they wandered the streets of Thimphu for weeks looking for food. The answer was a fenced patch of forest on the edge of the city at Motithang, where they live today and where you can watch them from a raised walkway."
+    ],
+    "source": "Wikipedia, 'Motithang Takin Preserve' (legend of Drukpa Kunley; national animal declared 25 November 2005)"
+  },
+  "did_you_know": [
+    "Thimphu has no traffic lights; police officers direct traffic by hand at the main junctions.",
+    "The Buddha Dordenma statue above Thimphu, finished in 2015, holds 125,000 smaller gilded Buddha statues inside it.",
+    "Simtokha Dzong, built by the Zhabdrung in 1629 just south of Thimphu, is considered the oldest surviving dzong in Bhutan."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Paro (PBH), ≈ 50 km · 1 h+"],
+    ["From Siliguri", "≈ 325 km via Phuentsholing · 10–11 h (break at Phuentsholing)"],
+    ["Altitude", "2,250–2,650 m"],
+    ["Known for", "Tashichho Dzong, Buddha Dordenma, takins, archery, route permits"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 1, 2, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "Buddha Dordenma at Kuensel Phodrang", "text": "A gilded bronze Buddha more than 50 m tall sits on the ridge above the southern edge of the city. Finished in 2015, it holds 125,000 smaller Buddhas. Go late afternoon for the light on the valley; the entry fee for tourists is about Nu 300, indicative 2026."},
+    {"title": "Tashichho Dzong at dusk", "text": "The seat of Bhutan's government and the summer home of the central monk body. Visitors are usually admitted after office hours on weekdays, which means you walk the courtyards as the light goes and the flag is lowered. Long sleeves and trousers are required; entry about Nu 500."},
+    {"title": "Memorial Chorten in the morning", "text": "Built in 1974 in memory of the Third King, the white chorten is circled all day by elderly Thimphu residents spinning prayer wheels and counting beads. Arrive at 7–8 am, walk the clockwise loop with them, and you will see more of daily Bhutanese faith than at any museum."},
+    {"title": "Takins at Motithang", "text": "Bhutan's odd-looking national animal lives in a fenced forest at the top of the city. A raised walkway lets you see them at close range, usually in the morning when they are fed. Combine with Changangkha Lhakhang, where parents bring newborns to be named."},
+    {"title": "Weekend market by the Wang Chhu", "text": "The Centenary Farmers' Market is busiest from Friday to Sunday, when growers bring chillies, red rice, cheese, dried yak cheese and mushrooms. Cross the cantilever footbridge to the craft stalls on the far bank, where prayer flags and wooden masks are cheaper than in hotel shops."},
+    {"title": "An archery match at Changlimithang", "text": "Archery is the national sport, and on weekends and holidays teams compete at the Changlimithang ground with targets about 145 m apart. Teams dance and sing to tease the opposing side. Watching is free; ask your guide which ground has a match."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car with guide", "text": "From Phuentsholing it is about 165 km and 5–6 hours via Rinchending, Gedu, Chukha and Chhuzom. Under the April 2026 Department of Tourism notification, tourists travel with a licensed guide beyond the first checkpoint, so most people use a Bhutan-registered car with driver: ₹4,500–6,500 a day, indicative 2026."},
+    {"mode": "Bus", "text": "Bhutanese buses run Phuentsholing to Thimphu for about Nu 250–350 a seat. They are cheap and safe, but as a tourist you still need your guide with you, which cancels most of the saving. They suit Bhutanese residents better than visitors. Check current status before you travel."},
+    {"mode": "Air", "text": "Paro is the country's international airport, about 50 km and just over an hour from Thimphu. Drukair and Bhutan Airlines fly to Paro from Delhi and Kolkata, and Drukair runs a few weekly flights from Bagdogra; schedules change by season, so check before you book."}
+  ],
+  "where_to_stay": "Stay in the city centre around Norzin Lam, the Clock Tower Square and Chubachu so you can walk to cafes, the craft bazaar and the market. Hotel Druk on the Clock Tower Square is a solid comfortable choice with heating that works. Certified 3-star hotels on Norzin Lam and in Changzamtog are the budget option at ₹3,500–5,500 per room night. For premium, Taj Tashi sits a few minutes' walk from Tashichho Dzong, and Le Méridien Thimphu is close by. Motithang and Babesa are quieter but you will need the car for every outing.",
+  "stays": ["hotel-druk-thimphu", "taj-tashi-thimphu"],
+  "costs": [
+    ["Buddha Dordenma entry", "≈ Nu 300 per person, indicative 2026"],
+    ["Tashichho Dzong, Memorial Chorten, Simtokha", "≈ Nu 500 each, indicative 2026"],
+    ["Licensed guide", "₹2,000–3,000 a day, indicative 2026"],
+    ["Car with driver", "₹4,500–6,500 a day, indicative 2026"],
+    ["Certified 3-star hotel", "₹3,500–5,500 per room night, indicative 2026"],
+    ["Local lunch", "₹250–500 per person, indicative 2026"]
+  ],
+  "budget_tip": "Watch archery, walk the Memorial Chorten loop and browse the weekend market, which cost nothing, and choose two paid monuments rather than five to save ₹1,000–1,500 per person.",
+  "tips": [
+    "Route permits for Punakha, Phobjikha, Haa and Bumthang are issued in Thimphu on working days only, so do not plan to arrive on Friday evening and leave for Punakha on Saturday morning; check current status before you travel.",
+    "Carry long sleeves, long trousers or a long skirt for dzongs and the Memorial Chorten; shorts and caps are not allowed inside.",
+    "Thimphu nights fall below 0 °C in December and January; pack a down jacket and ask if your hotel has room heaters.",
+    "Many museums close on Sundays or government holidays, so check opening days with your guide before building the schedule.",
+    "Buy prayer flags, incense and textiles at the craft bazaar and weekend market stalls rather than hotel shops."
+  ],
+  "themes": ["monasteries", "food-and-markets", "festivals", "family-trips"],
+  "nearby": ["paro", "dochula", "punakha", "druk-path-trek"],
+  "experiences": [
+    {
+      "slug": "thimphu-buddha-dordenma-kuensel-phodrang",
+      "title": "Buddha Dordenma and the Kuensel Phodrang walk",
+      "kind": "spiritual",
+      "duration": "2 hours",
+      "best_time": "Late afternoon, Sep–May",
+      "cost": "≈ Nu 300 entry, indicative 2026",
+      "image_query": "Buddha Dordenma Thimphu statue",
+      "wiki": "Buddha Dordenma statue",
+      "summary": "The gilded Buddha on the ridge south of Thimphu is the city's landmark. We pair it with the forest trail of Kuensel Phodrang nature park, so you get the statue, the shrine hall full of small Buddhas and a quiet walk with the valley below.",
+      "body": [
+        "The Buddha Dordenma sits at Kuensel Phodrang, on a ridge about 15 minutes' drive above the city centre. It is a bronze statue gilded in gold, more than 50 m tall, and one of the largest seated Buddha figures in the world. Construction began in 2006 and finished on 25 September 2015. Inside the throne base is a shrine hall lined with 125,000 smaller gilded Buddhas, 100,000 of them about eight inches tall and 25,000 about twelve inches. The work was funded by foreign donors and built by a company from Nanjing.",
+        "The statue faces down the valley over the southern approach to Thimphu, so the view from its forecourt takes in the whole city and the Wang Chhu. Inside the hall, remove your shoes and hats and do not take photographs. Monks and Bhutanese families come to make offerings, especially on auspicious days in the lunar calendar, and you will often hear chanting. The forecourt is broad and paved; seniors can manage it easily because cars drive right up to it.",
+        "Leave time for Kuensel Phodrang nature park, a protected forest of about 940 acres around the statue that opened as a park in 2011. Trails lead through blue pine to viewpoints and prayer flags, and a gentle 45-minute loop is enough. Go in the late afternoon when the gold catches the sun and the wind drops. Entry is about Nu 300 for tourists, indicative 2026; the park trails are free."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How tall is the Buddha Dordenma in Thimphu", "a": "The statue is more than 50 m tall; Wikipedia gives 54 m, other sources about 51.5 m depending on whether the throne is counted. It is bronze gilded in gold and was completed in September 2015. Inside are 125,000 smaller gilded Buddha statues. It is one of the largest seated Buddha figures in the world."},
+        {"q": "What is the entry fee for Buddha Dordenma", "a": "Tourists pay about Nu 300 per person, indicative 2026, and the rupee is accepted at par. Children usually pay half. Your guide often handles tickets. Fees for monuments in Bhutan are revised from time to time, so check current status before you travel. Walking the surrounding Kuensel Phodrang park trails is free."},
+        {"q": "Can I take photos inside the Buddha Dordenma", "a": "No. Photography is not allowed inside the shrine hall under the statue, as in almost all temples in Bhutan. You can photograph the statue and the forecourt freely from outside. Remove shoes and hats before going in, keep your voice low and walk clockwise around the shrine."}
+      ]
+    },
+    {
+      "slug": "thimphu-tashichho-dzong-evening",
+      "title": "Tashichho Dzong as the offices close",
+      "kind": "culture",
+      "duration": "1.5 hours",
+      "best_time": "Weekday evenings after office hours, all year",
+      "cost": "≈ Nu 500 entry, indicative 2026",
+      "image_query": "Tashichho Dzong Thimphu",
+      "wiki": "Tashichho Dzong",
+      "summary": "Bhutan's government works from inside a dzong, and you can walk its courtyards once the civil servants go home. We explain when to go, what you can and cannot see, the dress code, and the flag-lowering ceremony.",
+      "body": [
+        "Tashichho Dzong sits on the west bank of the Wang Chhu at the north end of Thimphu. It became the seat of government in 1952 and holds the throne room, offices of the king and ministries, and the summer quarters of the central monk body under the Je Khenpo. Like every dzong, it is part fortress, part monastery, part office, built around courtyards with a tall central tower. The present building owes much to a large rebuilding in the 1960s under the Third King.",
+        "Because it is a working government building, tourists are usually admitted after office hours on weekdays and for longer on weekends and holidays, when the monk body is not in residence or the offices are closed. Your guide will confirm the day's timing. You see the main courtyard, the temple of the monk body when open, and the painted galleries. Ministries and the throne room are closed to visitors.",
+        "Dress properly: long sleeves, long trousers or a long skirt, no caps and no shorts. Your guide will wear a kabney, the ceremonial scarf. Photography is allowed in the courtyards but not inside temples. At about 5 pm the national flag is lowered with a small ceremony; stand still and do not photograph the guards up close. Entry is about Nu 500, indicative 2026. From the riverbank opposite you get the classic photo of the whole dzong lit up at night."
+      ],
+      "good_for": ["first-timers", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "What are the visiting hours of Tashichho Dzong", "a": "Tourists are usually let in after government office hours on weekdays, from late afternoon until dusk, and for longer on weekends and holidays. Hours change with the season and with the monk body's movements between Thimphu and Punakha. Your guide will know the day's timing. Check current status before you travel."},
+        {"q": "What should I wear to Tashichho Dzong", "a": "Long sleeves and long trousers or an ankle-length skirt, with closed shoes if possible. No shorts, sleeveless tops or caps. Bhutanese wear the gho or kira with a scarf, but visitors are not asked to. Guards will turn away people who are not dressed properly, so carry a light jacket even on a warm day."},
+        {"q": "Can I see the king at Tashichho Dzong", "a": "Almost certainly not. The king's office is inside the dzong complex, but it is closed to visitors and the king does not meet tourists there. You will see the outside of the throne room wing and the guards. The flag-lowering ceremony around 5 pm is the closest most visitors get to state life."}
+      ]
+    },
+    {
+      "slug": "thimphu-archery-changlimithang",
+      "title": "Watching archery, Bhutan's national sport",
+      "kind": "culture",
+      "duration": "1–2 hours",
+      "best_time": "Weekends and holidays, Oct–May",
+      "cost": "Free to watch",
+      "image_query": "Bhutan archery traditional bamboo bow",
+      "wiki": "Archery in Bhutan",
+      "summary": "Two teams, targets about 145 m apart, singing, dancing and loud heckling. A Bhutanese archery match is the best free entertainment in Thimphu. We tell you where to find one, how scoring works and how to try a bow yourself.",
+      "body": [
+        "Archery was declared Bhutan's national sport in 1971. In the traditional game, archers shoot at small wooden targets placed about 145 m apart, far longer than the Olympic distance of 70 m. Two teams take turns shooting from one end to the other. When someone hits the target, his teammates dance and sing a short victory song in front of it. The opposing side shouts insults and jokes to put him off his aim. It is serious sport and street theatre at once.",
+        "Matches run on weekends, holidays and at festival times. The best known ground is at Changlimithang, beside the national stadium in central Thimphu, but most villages and offices have their own range. Many players now use modern compound bows, which shoot faster and further, while traditional bamboo bows are kept for some competitions. Ask your guide to check which ground has a match; it costs nothing to stand at the side and watch.",
+        "Stand well to the side and never behind the target; arrows come in fast. If you want to try, some hotels and farmhouses in Paro and Thimphu set up a short practice range for guests, and your guide can arrange a bamboo bow for ₹500–1,500, indicative 2026. Expect to miss the target entirely the first dozen times. Children enjoy the singing and dancing even when they do not follow the scoring."
+      ],
+      "good_for": ["families", "students", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Where can I watch archery in Thimphu", "a": "The Changlimithang archery ground next to the national stadium in central Thimphu is the best known, with matches most weekends and holidays. Other ranges are spread across the city. Ask your guide on the morning you want to go, because fixtures are not published widely. Watching is free; stand to the side, never near the target."},
+        {"q": "How far is the target in Bhutanese archery", "a": "In traditional Bhutanese archery the two targets stand about 145 m apart, roughly twice the Olympic distance. Teams shoot back and forth between them. The targets are small painted wooden boards, so hits are rare and greeted with songs and dances by the scoring team. Modern compound bows are now common in matches."},
+        {"q": "Can tourists try archery in Bhutan", "a": "Yes. Several hotels and farmhouses in Thimphu and Paro set up practice sessions, and guides can arrange a session with a bamboo or compound bow for about ₹500–1,500, indicative 2026. You will shoot at a nearer target than the 145 m match distance. Follow the instructor's safety rules; arrows travel fast."}
+      ]
+    },
+    {
+      "slug": "thimphu-motithang-takin-preserve",
+      "title": "The takin preserve and Changangkha Lhakhang",
+      "kind": "wildlife",
+      "duration": "2 hours",
+      "best_time": "Mornings, all year",
+      "cost": "≈ Nu 300–500 entry, indicative 2026",
+      "image_query": "Takin Motithang preserve Thimphu",
+      "wiki": "Motithang Takin Preserve",
+      "summary": "See Bhutan's national animal at close range in a fenced forest above the city, then walk down to a 12th-century temple where parents bring newborns to be named. A good morning for families, with a legend and a true story attached.",
+      "body": [
+        "The Motithang Takin Preserve is a fenced patch of forest at the upper edge of Thimphu, about 15 minutes' drive from the centre. Takins are large goat-antelopes with heavy bodies and thick noses; they live wild at high altitude in Bhutan's north. Legend says the saint Drukpa Kunley made the first takin by fixing a goat's head on a cow's skeleton. The takin became the national animal in 2005. A raised path runs along the fence, and the animals often come close at feeding time in the morning.",
+        "The preserve exists because of a decision of conscience. Takins were once kept in a small zoo in Thimphu; the king felt it was wrong for a Buddhist country to keep animals caged, and they were released. They stayed in town, wandering the streets for food for weeks, so a forested enclosure was built for them instead. You may also see sambar and barking deer that share the space. Allow 45 minutes.",
+        "On the way down, stop at Changangkha Lhakhang, a fortress-like temple on a spur above the city. It was founded by the Tibetan lama Phajo Drugom Zhigpo and extended by his son in the 13th century. Thimphu parents bring newborn babies here to receive their names from the lama, so you may see families in their best clothes. Walk the clockwise path, spin the prayer wheels and enjoy the view across the valley."
+      ],
+      "good_for": ["families", "students", "photographers", "seniors"],
+      "faqs": [
+        {"q": "What is a takin and why is it Bhutan's national animal", "a": "A takin is a large, heavy goat-antelope that lives at high altitude in the eastern Himalaya. Bhutan declared it the national animal in 2005, partly because of its unusual look and partly because of the legend of Drukpa Kunley, who is said to have created it from a cow's skeleton and a goat's head. It is a legend, told with humour."},
+        {"q": "What time is best to see takins at Motithang", "a": "Mornings, when the keepers feed the animals and they gather near the fence. Midday in summer they often rest in the shade further back in the forest. Allow about 45 minutes. Entry is a small fee, roughly Nu 300–500, indicative 2026; check current status before you travel."},
+        {"q": "Is the Thimphu takin preserve good for children", "a": "Yes. The path is short and level, the animals are large and easy to see, and the Drukpa Kunley legend keeps children interested. Keep hands outside the fence and do not feed the animals. Pair it with Changangkha Lhakhang just below, and the Folk Heritage Museum later in the day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Thimphu", "a": "Two nights cover the main sights: Buddha Dordenma, Tashichho Dzong, Memorial Chorten, the takin preserve, Simtokha Dzong, the Folk Heritage Museum and the weekend market. Add a third night for a half-day hike to Tango or Cheri monastery, or to sort a route permit if you arrive at the end of the week."},
+    {"q": "Do Indians need a guide in Thimphu", "a": "Yes, as we read the current rules. A Department of Tourism notification of 8 April 2026 says all tourists must be accompanied by a licensed guide beyond the first checkpoint, including in transit and at monuments. Older advice that Indians can explore Thimphu alone is out of date. Check current status before you travel."},
+    {"q": "Where do I get the route permit for Punakha in Thimphu", "a": "At the Department of Immigration office in Thimphu, on working days, Monday to Friday. Your tour operator or guide normally applies for you with your entry permit and itinerary. It is needed for Punakha, Wangdue, Phobjikha, Haa, Bumthang and other districts beyond Thimphu and Paro. Check current status before you travel."},
+    {"q": "Is Thimphu cold in winter", "a": "Yes. From December to February nights go below 0 °C and days reach about 10–14 °C. Skies are often clear and the light is beautiful, but hotel heating matters. Pack a down jacket, warm socks and gloves. Snowfall in the city is occasional and light; Dochula pass on the Punakha road gets more."},
+    {"q": "What is the best time to visit Thimphu", "a": "March to May and September to November. Spring brings blossom and mild days; autumn brings clear skies and the Thimphu Tshechu festival in September or October. Winter is cold but clear and cheaper. June to August is the monsoon, green but wet, with landslide risk on the road from Phuentsholing."},
+    {"q": "How far is Paro from Thimphu", "a": "About 55 km, roughly 1 to 1.5 hours by car. The road follows the Wang Chhu down to Chhuzom, where the Paro and Thimphu rivers meet, then climbs up the Paro valley. Most itineraries visit Thimphu first and end in Paro, because the airport is there and Tiger's Nest is best done near the end of the trip."},
+    {"q": "Is there a dress code in Thimphu", "a": "On the streets, no. Inside dzongs, temples and the Memorial Chorten you need long sleeves and long trousers or a long skirt, and no caps. Bhutanese wear the gho and kira at work and at religious sites, and visitors who wear them for a festival are welcomed. Smart, modest clothes work everywhere."},
+    {"q": "What can I buy in Thimphu", "a": "Handwoven textiles, prayer flags, incense, wooden masks, bamboo baskets, Bhutanese red rice, dried chillies and local cheese. The craft bazaar and the weekend market stalls are cheaper than hotel shops. Textiles from the Royal Textile Academy shop are pricier but well made. Ask before buying antiques; export of old religious items is restricted."},
+    {"q": "Is Thimphu expensive for Indian tourists", "a": "Moderately. The SDF is ₹1,200 per person per night, a certified 3-star hotel costs ₹3,500–5,500 per room, and a guide plus car run ₹6,500–9,500 a day split across your group. Food in local restaurants is ₹250–500 a meal. A group of four sharing car and guide pays far less per head than a couple; indicative 2026."}
+  ]
+}

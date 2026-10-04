@@ -1,0 +1,176 @@
+{
+  "slug": "paro",
+  "name": "Paro",
+  "region": "bhutan",
+  "kind": "valley",
+  "wiki": "Paro, Bhutan",
+  "image_query": "Paro valley Rinpung Dzong Bhutan",
+  "lat": 27.43,
+  "lng": 89.41,
+  "altitude_m": 2200,
+  "tagline": "Tiger's Nest, the airport valley and Bhutan's red rice fields",
+  "meta_description": "Paro guide: Tiger's Nest hike, Rinpung Dzong, National Museum, Kyichu Lhakhang, hot stone baths, Paro Tshechu, hotels and costs for Indians, 2026.",
+  "summary": "Paro is the broad valley at about 2,200 m that holds Bhutan's international airport, Rinpung Dzong, the National Museum and the Tiger's Nest monastery on its cliff. Spend two or three nights: one day for the Tiger's Nest hike, one for the dzong, museum, Kyichu Lhakhang and a farmhouse hot stone bath.",
+  "intro": [
+    "Paro is the valley most visitors see first and last. Flights drop between ridges into a narrow strip of runway beside the Paro Chhu, and within ten minutes you are among willow trees, red rice paddies and white farmhouses with carved, painted windows. The town itself is one main street of two-storey shops built in traditional style. Above it the river is guarded by Rinpung Dzong, and above that by the round watchtower of Ta Dzong, now the National Museum. Ten kilometres north, the Tiger's Nest clings to a cliff about 900 m above the valley floor.",
+    "Paro is the best place in Bhutan to see village life up close at short distances. The valley is wide by Bhutanese standards, so farms spread across flat land, and many offer lunch, a butter-tea welcome and a hot stone bath in a wooden tub. Paro red rice, grown here for centuries, is sold across the country. The road north to Drukgyel Dzong and the start of the Jomolhari trek passes Kyichu Lhakhang, one of the oldest temples in Bhutan, and a string of guesthouses and farmstays.",
+    "Plan the Tiger's Nest hike near the end of the trip, after a few days in Thimphu at a similar height have helped you acclimatise. Spring, from March to May, brings the Paro Tshechu festival and rhododendrons on the trail; autumn, from late September to November, brings the clearest skies. Paro is also where Bhutan's top-end lodges cluster, from COMO Uma Paro to Amankora, and where certified 3-star hotels are plentiful. Hotel Olathang, built in 1974 for coronation guests, sits in pine forest above town."
+  ],
+  "story": {
+    "title": "A tigress, a cave and a fire in 1998",
+    "paras": [
+      "Bhutanese tradition says that in the 8th century Guru Rinpoche, the teacher who brought tantric Buddhism to the Himalaya, flew to this cliff on the back of a tigress. In the legend the tigress was a former queen who transformed herself to carry him from Tibet. He meditated in a cave here, the Taktsang Senge Samdup, and subdued the local demons. 'Taktsang' means tiger's lair. It is a legend, but it explains why Bhutanese consider this one of the holiest sites in the country and why pilgrims climb it in all weather.",
+      "The buildings came much later. Wikipedia records that the monastery complex around the cave was built in 1692 by the Fourth Desi, Tenzin Rabgye. On 19 April 1998 a fire broke out in the main building and destroyed much of it. Restoration under the Fourth King cost about 135 million ngultrum and was completed in 2005, using traditional methods and materials carried up the same path you will climb. So the temples you see are only about twenty years old, rebuilt faithfully on a site used for over a thousand years."
+    ],
+    "source": "Wikipedia, 'Paro Taktsang' (legend as told in Bhutanese tradition; 1692 construction; fire of 19 April 1998; restoration completed 2005)"
+  },
+  "did_you_know": [
+    "Several scenes of Bernardo Bertolucci's 1993 film Little Buddha were shot at Rinpung Dzong in Paro.",
+    "The National Museum of Bhutan has occupied Ta Dzong, a 17th-century round watchtower above Rinpung Dzong, since 1968.",
+    "Paro is Bhutan's only international airport, and pilots land by sight between mountain ridges, which is why flights operate in daylight only."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Nights we suggest", "2–3"],
+    ["Nearest airport", "Paro (PBH), in the valley"],
+    ["From Siliguri", "≈ 310 km via Phuentsholing · 10 h (break at Phuentsholing)"],
+    ["Altitude", "≈ 2,200 m (Tiger's Nest 3,120 m)"],
+    ["Known for", "Tiger's Nest, Rinpung Dzong, farmhouses, red rice, Paro Tshechu"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 1, 2, 2, 2, 1],
+  "nights": "2–3",
+  "highlights": [
+    {"title": "The Tiger's Nest hike", "text": "Paro Taktsang sits at 3,120 m, about 900 m above the valley. The trail from the car park takes 2.5–3.5 hours up through pine and prayer flags, with a cafeteria halfway and a final flight of steps past a waterfall. Entry about Nu 1,000; start by 8 am."},
+    {"title": "Rinpung Dzong and the covered bridge", "text": "Built under the Zhabdrung in 1644, the 'fortress on a heap of jewels' houses the district administration and the monk body. Walk down through its courtyards to the traditional cantilever bridge over the Paro Chhu, one of the best photographs in Bhutan."},
+    {"title": "National Museum in Ta Dzong", "text": "The round watchtower above the dzong, built in 1649, has held the National Museum since 1968. Galleries cover masks, thangkas, weapons, stamps and natural history. Allow an hour and a half; entry about Nu 500, indicative 2026. Opening days vary, so check with your guide."},
+    {"title": "Kyichu Lhakhang at dawn", "text": "Tradition holds that this small temple was built in the 7th century by the Tibetan king Songtsen Gampo, one of 108 meant to pin down a demoness. Elderly villagers walk around it from first light. It is calm, close to town and rarely crowded."},
+    {"title": "A farmhouse hot stone bath", "text": "River stones are heated in a fire until red hot and dropped into a wooden tub of water with herbs. Farmhouses around Paro offer the dotsho bath, often with a home-cooked dinner, for about ₹1,500–3,000 per person, indicative 2026. Perfect after the Tiger's Nest hike."},
+    {"title": "Paro Tshechu in spring", "text": "Five days of masked dances at Rinpung Dzong in March or April, ending with the dawn display of a giant thongdrel of Guru Rinpoche. Book hotels three to six months ahead, because Paro fills up and prices rise; dates follow the lunar calendar."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car with guide", "text": "From Thimphu it is about 55 km, 1–1.5 hours. From Phuentsholing it is about 150 km, 5 hours via Chhuzom. Tourists travel with a licensed guide, so most people use a Bhutan-registered car with driver at ₹4,500–6,500 a day, indicative 2026; check current status before you travel."},
+    {"mode": "Bus / taxi", "text": "Local buses and taxis link Paro and Thimphu, and a taxi costs about ₹1,500–2,500 one way, indicative 2026. As a tourist you still need your guide with you, so this is rarely cheaper than keeping your hired car for the day."},
+    {"mode": "Air", "text": "Paro International Airport is the country's only international airport. Drukair and Bhutan Airlines fly from Delhi and Kolkata, and Drukair runs a few weekly flights from Bagdogra (about 45 minutes); schedules change by season, so check before you book. Flights land by sight in daylight and can be delayed by weather."}
+  ],
+  "where_to_stay": "Paro town itself has a handful of certified 3-star hotels; more are spread along the valley road towards Drukgyel and on the slopes above the airport. Hotel Olathang, in pine forest above town, has been running since 1974 and is good value. Farmstays and homestays in villages such as Shaba and Dopshari give you dinner with a family and a hot stone bath. At the top end, COMO Uma Paro sits on a ridge above the valley, and Paro also has Amankora's lodge and Zhiwa Ling. Stay north of town if Tiger's Nest is your priority.",
+  "stays": ["hotel-olathang-paro", "como-uma-paro"],
+  "costs": [
+    ["Tiger's Nest entry", "≈ Nu 1,000 per person, indicative 2026"],
+    ["Rinpung Dzong, National Museum, Kyichu Lhakhang", "≈ Nu 500 each, indicative 2026"],
+    ["Pony up to the Tiger's Nest cafeteria", "₹800–1,500 one way, indicative 2026"],
+    ["Farmhouse hot stone bath", "₹1,500–3,000 per person, indicative 2026"],
+    ["Certified 3-star hotel", "₹3,500–6,000 per room night, indicative 2026"],
+    ["Farmhouse dinner", "₹500–900 per person, indicative 2026"]
+  ],
+  "budget_tip": "Book a farmhouse that includes dinner and the hot stone bath in one price, which usually costs less than a hotel spa and a separate restaurant meal.",
+  "tips": [
+    "Do the Tiger's Nest hike on your last or second-last day, after acclimatising in Thimphu, and start before 8 am to avoid the midday sun.",
+    "Carry a jacket with long sleeves for the temple at the top; the climb is warm, the shrine rooms are cold and covered arms are required.",
+    "Photography is not allowed inside the Tiger's Nest temples, and bags and phones may need to be left at a counter at the entrance.",
+    "Paro flights land by sight and can be delayed by cloud; leave a buffer day before an onward flight or train in India.",
+    "Paro fills up in Tshechu week in March or April; book three to six months ahead or plan around it."
+  ],
+  "themes": ["monasteries", "treks-and-walks", "village-homestays", "festivals"],
+  "nearby": ["thimphu", "chele-la", "haa", "druk-path-trek"],
+  "experiences": [
+    {
+      "slug": "paro-tigers-nest-hike",
+      "title": "Hiking to the Tiger's Nest",
+      "kind": "adventure",
+      "duration": "5–7 hours round trip",
+      "best_time": "Early mornings, Mar–May and Sep–Dec",
+      "cost": "≈ Nu 1,000 entry; pony ₹800–1,500 one way, indicative 2026",
+      "image_query": "Paro Taktsang Tiger's Nest monastery cliff",
+      "wiki": "Paro Taktsang",
+      "summary": "The climb to Paro Taktsang is the defining day of most Bhutan trips: about 900 m above the valley, a cafeteria halfway, a waterfall and steps at the end. We cover the timing, the fitness needed, ponies, the dress code and what you see inside.",
+      "body": [
+        "The trail starts at a car park about 10 km north of Paro town, at roughly 2,600 m. The monastery stands at 3,120 m. The path climbs steadily through blue pine and oak hung with prayer flags, past a water-driven prayer wheel, to a cafeteria at about the halfway point with a view straight across to the temples. Most people take 2.5–3.5 hours to reach the top and 1.5–2 hours to come down. Ponies can be hired to the cafeteria, not beyond it, and walking down is on foot for everyone.",
+        "From a viewpoint opposite the monastery, the last section drops down several hundred steps into a gorge, crosses a bridge beside a waterfall that falls about 60 m into a sacred pool, and climbs back up to the gate. Legend says Guru Rinpoche flew here on a tigress in the 8th century and meditated in the cave inside. The complex was built in 1692, burned in 1998 and was restored by 2005. Inside, your guide leads you through several temples, including the cave shrine.",
+        "Start before 8 am, carry 1.5 litres of water and a snack, and wear proper walking shoes. Pack long sleeves and long trousers for the temples; shorts are not allowed inside. Phones, cameras and bags are usually left at a counter at the entrance, and photography inside is not allowed. Children from about 8 and fit seniors manage with breaks. If you have heart or knee problems, hiking to the cafeteria viewpoint is a good and honest compromise."
+      ],
+      "good_for": ["couples", "students", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "How long does the Tiger's Nest hike take", "a": "Most people take 2.5–3.5 hours up and 1.5–2 hours down, plus about an hour inside the monastery, so plan 5–7 hours in total. The climb is about 500–600 m from the car park to the monastery, then a steep descent and ascent of several hundred steps at the end. Start before 8 am and go at your own pace."},
+        {"q": "Can I ride a horse to the Tiger's Nest", "a": "Only part of the way. Ponies carry riders from the car park to the cafeteria at about the halfway point for roughly ₹800–1,500 one way, indicative 2026. From there to the monastery and on the whole descent, everyone walks. Riding downhill is not offered because it is unsafe on the steep path. Book through your guide in the morning."},
+        {"q": "Is the Tiger's Nest hike difficult for beginners", "a": "It is moderate: steady uphill for 2.5–3.5 hours at 2,600–3,120 m, with steps at the end. People of average fitness manage it with breaks. Acclimatise in Thimphu or Paro for two days first, carry water, and turn back at the cafeteria if you feel breathless or dizzy. Children from about 8 usually cope well."}
+      ]
+    },
+    {
+      "slug": "paro-rinpung-dzong-and-museum",
+      "title": "Rinpung Dzong, Ta Dzong and the covered bridge",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Mornings, all year",
+      "cost": "≈ Nu 500 per site, indicative 2026",
+      "image_query": "Rinpung Dzong Paro cantilever bridge",
+      "wiki": "Rinpung Dzong",
+      "summary": "A half day that explains Bhutan: the 17th-century fortress-monastery that still runs Paro district, the watchtower that now holds the National Museum, and the covered wooden bridge below. All within walking distance of town.",
+      "body": [
+        "Start at the National Museum in Ta Dzong, the round seven-storey watchtower on the slope above the dzong. It was built in 1649 to guard Rinpung Dzong and became the home of the National Museum in 1968. Galleries show ritual masks, thangka paintings, old weapons and armour, the famous Bhutanese stamps and natural history exhibits. Allow 60–90 minutes. The view from the terrace takes in the whole of the dzong below, the river and the airport.",
+        "Walk down the path to Rinpung Dzong, founded in 1644 by the Zhabdrung Ngawang Namgyal on a site named 'heap of jewels'. It houses the district administration and the monk body, and the inner courtyard hosts the dances of the Paro Tshechu. The woodwork, painted galleries and the central tower are among the finest in the country. Several scenes of Bertolucci's Little Buddha were filmed here in 1993. Long sleeves, long trousers and no caps are required.",
+        "Leave the dzong by the lower gate and cross the traditional covered cantilever bridge over the Paro Chhu. From the far bank you get the classic photograph of the dzong above the river and the willow trees. Walk 10 minutes back into town for lunch. Entry fees are about Nu 500 at the museum and Nu 500 at the dzong, indicative 2026. Museum and dzong hours vary by day and season, so check with your guide."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "What are the timings of Paro Rinpung Dzong", "a": "Visitors are generally admitted in daytime hours, with longer access on weekends and holidays, because the dzong is a working administrative and monastic building. During the Paro Tshechu the courtyard is full of dancers and spectators. Your guide will confirm the day's hours. Check current status before you travel."},
+        {"q": "Is the National Museum of Bhutan in Paro worth it", "a": "Yes, for 60–90 minutes. It is the best single introduction to Bhutanese masks, thangkas, crafts and natural history, housed in a 17th-century watchtower above Rinpung Dzong. Entry is about Nu 500, indicative 2026. Visit before the dzong, so you understand what you are looking at."},
+        {"q": "Can I photograph inside Rinpung Dzong", "a": "You can photograph the courtyards, galleries and exterior, but not inside temples and shrine rooms. Do not photograph monks closely without asking, and do not use drones; drones need special permission in Bhutan. The best photograph of the dzong is from the covered bridge or the far riverbank."}
+      ]
+    },
+    {
+      "slug": "paro-kyichu-lhakhang",
+      "title": "Kyichu Lhakhang and the valley road at dawn",
+      "kind": "spiritual",
+      "duration": "1.5 hours",
+      "best_time": "Early morning, all year",
+      "cost": "≈ Nu 500 entry, indicative 2026",
+      "image_query": "Kyichu Lhakhang Paro temple",
+      "wiki": "Kyichu Lhakhang",
+      "summary": "One of the oldest temples in Bhutan, a short drive north of Paro town. We go at first light, when villagers circle it with prayer wheels, and explain the old tradition that ties it to a demoness pinned down across the Himalaya.",
+      "body": [
+        "Kyichu Lhakhang stands among fields about 4 km north of Paro town, on the road towards the Tiger's Nest. Bhutanese tradition holds that it was built in the 7th century by the Tibetan king Songtsen Gampo, one of 108 temples raised across the Himalaya in a single night to pin down a giant demoness who was blocking the spread of Buddhism. Kyichu is said to hold down her left foot; Jambay Lhakhang in Bumthang holds her left knee. It is a tradition rather than recorded history, but it is very old.",
+        "The temple is small, with two courtyards, prayer wheels lining the outer wall and orange trees that are said to fruit all year. The old Jowo temple holds a statue of Jowo Shakyamuni. In 1971 Queen Ashi Kesang Choden Wangchuck built a Guru temple beside it, consecrated by Dilgo Khyentse Rinpoche, one of the great Tibetan teachers of the 20th century.",
+        "Go early. From about 6 am elderly villagers walk around the temple again and again, spinning the prayer wheels, and you can join the clockwise loop. It is the quietest, most local experience in Paro and takes no more than an hour. Entry is about Nu 500, indicative 2026. Dress modestly and remove shoes inside. Combine it with the drive north to the Tiger's Nest car park on the same morning."
+      ],
+      "good_for": ["seniors", "couples", "photographers", "solo"],
+      "faqs": [
+        {"q": "How old is Kyichu Lhakhang", "a": "Bhutanese tradition dates Kyichu Lhakhang to the 7th century and the Tibetan king Songtsen Gampo, which would make it one of the two oldest temples in Bhutan, with Jambay Lhakhang in Bumthang. The exact date is a matter of tradition rather than written record. Later shrines were added in the 20th century."},
+        {"q": "How far is Kyichu Lhakhang from Paro town", "a": "About 4 km north, a 10-minute drive on the valley road towards Drukgyel and the Tiger's Nest car park. Many visitors stop here on the way to the hike. Entry is about Nu 500 for tourists, indicative 2026; check current status before you travel."},
+        {"q": "What is the legend of the demoness and Kyichu Lhakhang", "a": "Tradition says a giant demoness lay across Tibet and the Himalaya, obstructing Buddhism, and that King Songtsen Gampo built 108 temples on her body in one night to pin her down. Kyichu Lhakhang is said to hold her left foot, Jambay Lhakhang her left knee. It is a legend told at both temples."}
+      ]
+    },
+    {
+      "slug": "paro-farmhouse-hot-stone-bath",
+      "title": "Farmhouse dinner and a hot stone bath",
+      "kind": "village",
+      "duration": "3 hours",
+      "best_time": "Evenings, Oct–Apr",
+      "cost": "₹1,500–3,000 per person with dinner, indicative 2026",
+      "image_query": "Bhutan hot stone bath wooden tub",
+      "wiki": "",
+      "summary": "Red-hot river stones dropped into a wooden tub, herbs in the water and a farmhouse dinner afterwards. The dotsho bath is the best way to end the Tiger's Nest day, and one of the cheapest good experiences in Paro.",
+      "body": [
+        "The Bhutanese hot stone bath, dotsho, is simple. River stones are heated in a wood fire for several hours until red hot, then lowered with tongs into a chute at one end of a wooden tub filled with water. They hiss, crack and release heat and minerals into the water. Leaves of artemisia, known locally as khempa, are often added. A wooden screen stops the stones from touching you. Bhutanese use it to ease aching joints and tiredness, and after a 6-hour hike most visitors agree.",
+        "Many farmhouses in the Paro valley offer it, usually in a small wooden shed beside the house. You soak for 30–60 minutes and call out when you want another stone. Afterwards the family serves dinner in the kitchen or the main room: red rice, ema datshi, a vegetable, perhaps pork or chicken, butter tea and a glass of ara, the home-distilled spirit, if you want it. Guests sit on cushions on the floor.",
+        "Book through your guide a day ahead so the fire is lit on time. Expect ₹1,500–3,000 per person for bath and dinner, indicative 2026; hotels charge more for the same thing. Bring a towel and swimwear, and remove jewellery. Pregnant women and anyone with high blood pressure or heart conditions should skip the bath or keep it short and warm rather than hot."
+      ],
+      "good_for": ["couples", "families", "seniors", "first-timers"],
+      "faqs": [
+        {"q": "How much is a hot stone bath in Paro", "a": "At a farmhouse, about ₹1,500–3,000 per person including dinner, indicative 2026. Hotel spas charge more, often ₹3,000–6,000 for the bath alone. Book a day ahead through your guide so the stones are heated in time; it takes several hours to get them red hot."},
+        {"q": "Is the Bhutanese hot stone bath safe", "a": "Yes for most healthy adults. A wooden screen keeps the stones away from your body and the family controls the temperature. Pregnant women, people with heart conditions or high blood pressure, and young children should keep it short and only warm, or skip it. Do not drink much ara before bathing."},
+        {"q": "What should I wear for a hot stone bath in Bhutan", "a": "Swimwear or shorts and a T-shirt. Bring your own towel, though some farmhouses supply one. Remove jewellery, because the minerals and heat can discolour silver. Baths are usually private for couples or families, in a small shed beside the farmhouse, with a door that closes."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days do you need in Paro", "a": "Two nights at least: one full day for the Tiger's Nest hike and one for Rinpung Dzong, the National Museum, Kyichu Lhakhang and a farmhouse. Add a third night for a day trip over Chele La to Haa or a slow day around the valley before your flight."},
+    {"q": "Should I do Tiger's Nest at the start or end of my Bhutan trip", "a": "Near the end. After a few days at 2,200–2,400 m in Thimphu and Paro your body is better adapted to the climb to 3,120 m. Most itineraries finish in Paro anyway, because the airport is there. Keep a spare morning in case rain postpones the hike."},
+    {"q": "Can I fly from Bagdogra to Paro", "a": "Yes, on some days. Drukair has run a small number of weekly flights between Bagdogra and Paro, about 45 minutes, with schedules that change by season. Check Drukair's current timetable before you plan. Otherwise Paro has flights from Delhi and Kolkata, or you can enter by road at Phuentsholing."},
+    {"q": "What is the best time to visit Paro", "a": "March to May and late September to November. Spring has the Paro Tshechu, rhododendrons and pleasant days; autumn has the clearest skies for Tiger's Nest views and flights. Winter is cold and clear with fewer visitors. The monsoon, June to August, brings rain, cloud and slippery trails."},
+    {"q": "Do I need a guide in Paro as an Indian tourist", "a": "Yes, on our reading of the current rules. The Department of Tourism notification of 8 April 2026 says all tourists must have a licensed guide at all times beyond the first checkpoint, including at monuments and from Paro airport to other districts. Older advice that Indians can explore Paro alone is out of date. Check current status before you travel."},
+    {"q": "Is Paro better than Thimphu for staying", "a": "They suit different things. Paro is quieter, rural and close to the airport and Tiger's Nest; Thimphu has more restaurants, shops and city sights. On a 5–6 night trip we split nights between both. If you have only one base, Paro works for a slower trip and Thimphu for a busier one."},
+    {"q": "Can I see Mount Jomolhari from Paro", "a": "Not from the town itself. On clear mornings Jomolhari (about 7,326 m) is visible from Chele La pass on the Haa road and from the Drukgyel Dzong area at the head of the valley. October to January gives the best chance. Ask your guide to time the Chele La drive for an early start."},
+    {"q": "What is Paro red rice", "a": "A short-grain rice with a red bran layer grown in the Paro valley, the most common rice in Bhutan. It cooks faster than brown rice, is slightly sticky and nutty, and is served with every datshi. You can buy it in the Paro and Thimphu markets for about ₹100–200 a kilo, indicative 2026."},
+    {"q": "Are there budget hotels in Paro for Indian tourists", "a": "Yes. Paro has many Department of Tourism-certified 3-star hotels at about ₹3,500–6,000 per room night with breakfast, indicative 2026. Hotel Olathang above town is a long-running choice. Farmstays are another good-value option, often with dinner included. Tourists must stay in certified hotels or registered homestays."}
+  ]
+}

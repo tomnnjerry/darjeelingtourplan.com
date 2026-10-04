@@ -1,0 +1,139 @@
+{
+  "slug": "gurudongmar-lake",
+  "name": "Gurudongmar Lake",
+  "region": "north-sikkim",
+  "kind": "lake",
+  "wiki": "Gurudongmar Lake",
+  "image_query": "Gurudongmar Lake Sikkim",
+  "lat": 28.03,
+  "lng": 88.71,
+  "altitude_m": 5430,
+  "tagline": "A sacred lake at 5,430 m, reached at dawn from Lachen",
+  "meta_description": "Gurudongmar Lake at 5,430 m: altitude safety, who should not go, permits, the Padmasambhava legend, 2026 access after the flood, timings and costs from Lachen.",
+  "summary": "Gurudongmar Lake lies at 5,430 m, about 5 km south of the Tibetan border and 3 hours above Lachen. It is sacred to Buddhists and linked by legend to Guru Padmasambhava. It is a serious altitude day: children under five should not go, visits last 20–30 minutes, and roads close often, so check current status before you travel.",
+  "intro": [
+    "Gurudongmar is a glacier-fed lake of about 118 hectares on a high plateau north of the Kangchengyao range, close to the Tibetan plateau. The Government of Sikkim gives its height as 5,430 m (17,800 ft), which makes it one of the highest lakes in the world that you can drive to. It is frozen for much of the year, roughly November to mid-May, and in summer its water is a deep, clear blue against brown moraines and snow peaks.",
+    "You reach it on a single long morning from Lachen. Cars leave at 4–5 am, climb about 30 km to Thangu for tea and permit checks, then cross about 35 km of bare high plateau, with yaks and herders' shelters along the way. Most visitors arrive between 8 and 10 am, spend 20–30 minutes on the shore and start back by noon, when wind and cloud usually build.",
+    "For most travellers this is the highest place they will ever stand, and the altitude is the real challenge. Even fit adults feel breathless walking a few steps. Children under five should not go, and anyone with heart or lung disease, uncontrolled blood pressure or a recent illness should take medical advice first. Foreign nationals are not permitted; they can usually go as far as Thangu."
+  ],
+  "story": {
+    "title": "Guru Rinpoche and the lake that would not freeze",
+    "paras": [
+      "Local Buddhist tradition holds that Guru Padmasambhava, the 8th-century teacher who brought tantric Buddhism to Tibet and is revered across Sikkim as Guru Rinpoche, passed this way on his return from Tibet. The lake was then frozen for most of the year, and the herders here had no water. According to the legend, he touched a part of the lake, and that part never froze again. This is a legend, told with devotion, not a recorded event.",
+      "The lake's name links it to him, and it became a place of pilgrimage. In 1997–98 a Sikh regiment of the Indian Army posted nearby built a gurdwara on the shore, believing Guru Nanak had visited the lake. Local Sikkimese communities objected strongly, holding that the lake had always been a Buddhist sacred site.",
+      "The state government set up a high-level committee. Documents from the Namgyal Institute of Tibetology supported the local claim, the committee accepted it, and on 6 July 2001 the army handed the building over to Lachen Monastery, which placed a lama at the lake as caretaker. Today you will see prayer flags and a small shrine on the shore."
+    ],
+    "source": "Wikipedia, 'Gurudongmar Lake' (folklore and dispute sections); local Buddhist oral tradition"
+  },
+  "did_you_know": [
+    "Gurudongmar Lake covers about 118 hectares, with a shoreline of about 5.3 km.",
+    "Tso Lhamo, counted as the source of the Teesta River, lies about 5 km away and is fed by streams that include Gurudongmar's outflow.",
+    "The road to the lake is National Highway 310C, about 100 km from Chungthang through Lachen and Thangu."
+  ],
+  "facts": [
+    ["Best months", "Apr – Jun, Oct – Nov"],
+    ["Nights we suggest", "0 (dawn trip from Lachen)"],
+    ["Nearest airport", "Bagdogra (IXB)"],
+    ["From Lachen", "≈ 65–70 km · 3 h each way"],
+    ["Altitude", "5,430 m (Govt of Sikkim)"],
+    ["Known for", "Sacred lake, extreme altitude, yak plateau"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 0],
+  "nights": "Day trip",
+  "highlights": [
+    {"title": "The lake in thaw", "text": "From about late May to October the lake is open water, a deep blue that changes with the light. Late May and October are the most reliable months for a clear sky and an open, or partly open, lake."},
+    {"title": "The frozen lake", "text": "From November to mid-May the lake is largely frozen and white. Many visitors find this just as striking. Access depends on snow on the plateau; after heavy falls the road may close for days."},
+    {"title": "The Thangu halt", "text": "On the way up you stop at Thangu, about 3,900 m, for tea, noodles and an army permit check. Use it to walk around slowly, drink water and see how everyone feels before going higher."},
+    {"title": "The high plateau", "text": "Beyond Thangu the landscape turns into open, treeless plateau with moraines and grazing yaks, very different from the forested valleys below. It feels like Tibet because it is, geologically, its southern edge."},
+    {"title": "The lakeside shrine", "text": "A small shrine and prayer flags stand on the shore, looked after by Lachen Monastery. Walk clockwise around it, keep your voice low and leave nothing behind except, if you wish, a khada scarf."}
+  ],
+  "how_to_reach": [
+    {"mode": "Group package", "text": "Gurudongmar is the second morning of a standard Lachen–Lachung 2N/3D package from Gangtok, which costs about ₹6,000–9,000 per person including permit, seat, hotel and meals, indicative, 2026. You sleep in Lachen the night before."},
+    {"mode": "Reserved car", "text": "A private car with a registered local driver for the Lachen–Lachung loop costs about ₹16,000–22,000 per car, indicative, 2026. It lets you add an acclimatisation night in Lachen. Self-drive is not allowed."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the railhead NJP. Go to Gangtok first and spend a night there while your permit is processed, then Lachen the next day. There is no air link to North Sikkim for tourists."}
+  ],
+  "where_to_stay": "There is no accommodation at the lake. Most people sleep in Lachen, at about 2,750 m, 3 hours below. Group packages use simple family hotels on Lachen's main street. For more comfort, The Apple Orchard Resort in Lachen is a small, family-run place with garden views, up about 25 stone steps. Some operators use basic lodges in Thangu when permitted, but sleeping at 3,900 m is harder on the body than sleeping in Lachen.",
+  "stays": ["apple-orchard-resort-lachen"],
+  "costs": [
+    ["Group package Lachen + Lachung, 2N/3D", "₹6,000–9,000 per person, indicative, 2026"],
+    ["Private car, 2N/3D loop", "₹16,000–22,000 per car, indicative, 2026"],
+    ["Tea and noodles at Thangu", "₹50–150 per person, indicative, 2026"],
+    ["Portable oxygen can, bought in Gangtok", "₹500–900, indicative, 2026"],
+    ["Entry to the lake", "No ticket; covered by your permit"]
+  ],
+  "budget_tip": "Buy any oxygen can, gloves and warm socks in Gangtok before the trip; the same things cost more in Lachen and are often sold out at Thangu.",
+  "tips": [
+    "Do not take children under five, and see a doctor first if you have heart, lung or blood-pressure problems.",
+    "Stay 20–30 minutes at the lake and walk slowly; do not run or climb for photos.",
+    "Carry water in a refillable bottle; packaged water is banned in Lachen and above.",
+    "Wear sunglasses and sunscreen; UV and glare at 5,430 m are intense.",
+    "If anyone has breathlessness at rest, confusion or stumbling, descend at once."
+  ],
+  "themes": ["high-passes", "mountain-views", "monasteries"],
+  "nearby": ["thangu", "lachen", "chungthang"],
+  "experiences": [
+    {"slug": "gurudongmar-lakeshore-visit", "title": "Twenty minutes on the Gurudongmar shore", "kind": "spiritual", "duration": "20–30 minutes at the lake", "best_time": "8–10 am, Apr–Jun and Oct–Nov", "cost": "Included in Lachen packages", "image_query": "Gurudongmar Lake shore prayer flags", "wiki": "Gurudongmar Lake",
+      "summary": "The short time at the lake is the point of the whole Lachen trip. Here is how to use those 20–30 minutes: slowly, respectfully and safely at 5,430 m.",
+      "body": [
+        "Cars park a short walk above the shore. Step out slowly and let your breathing settle before you walk. Even a gentle slope will leave you panting. Go down to the lake at a steady, slow pace, and do not carry anything heavy; leave bags in the car.",
+        "The shore has prayer flags and a small shrine kept by Lachen Monastery. Walk clockwise around it, keep your voice low and do not throw coins or anything else into the water. Many Buddhist visitors take a little lake water home in a small bottle; ask your driver about local custom before you do. Do not wade or bathe.",
+        "Take your photographs in the first ten minutes, then simply look. After 20–30 minutes start walking back. If anyone in your group has a strong headache, vomiting, confusion or breathlessness while resting, leave at once. Going down is the only reliable treatment, and the army posts below have medical support."
+      ],
+      "good_for": ["couples", "first-timers", "photographers", "students"],
+      "faqs": [
+        {"q": "How long can I stay at Gurudongmar Lake", "a": "Plan for 20–30 minutes at the lake itself. The altitude is 5,430 m, and staying longer increases the risk of altitude sickness. Drivers and the army usually expect vehicles to start back by about noon in any case, because wind and cloud build in the afternoon."},
+        {"q": "Can I touch or take water from Gurudongmar Lake", "a": "The lake is sacred, and visitors should not wade, bathe, throw objects in or wash in it. Some Buddhist pilgrims carry a little water home in a small bottle as a blessing. If you want to do this, ask your driver or a local first and do it quietly and respectfully."},
+        {"q": "Is there a temple at Gurudongmar Lake", "a": "There is a small Buddhist shrine with prayer flags on the shore, looked after by Lachen Monastery since 2001, when the army handed over a building it had constructed there. Visitors of all faiths can walk around it respectfully. Remove your shoes if you enter, and walk clockwise."}
+      ]},
+    {"slug": "gurudongmar-padmasambhava-legend", "title": "The Guru Rinpoche legend, told on the shore", "kind": "culture", "duration": "Part of the lake visit", "best_time": "Any visit", "cost": "Free", "image_query": "Padmasambhava statue Sikkim", "wiki": "Padmasambhava",
+      "summary": "The lake is named after Guru Padmasambhava, and local tradition says he blessed it so part of it never froze. Knowing the story, and the dispute over the shore, changes how you see the place.",
+      "body": [
+        "Padmasambhava, known in Sikkim as Guru Rinpoche, was an 8th-century Buddhist teacher invited to Tibet by its emperor. He is regarded as the founder of the Nyingma tradition, and Sikkim's Buddhists consider the whole land blessed by him. Many places in North Sikkim, from Chungthang to Gurudongmar, carry stories of his journey.",
+        "At Gurudongmar the legend says that local herders asked him for help because the lake, then called Dorje Nyima, was frozen most of the year. He touched part of it, and that part never froze again, giving water to people and animals through winter. It is a legend, held with deep faith, and the lake's name honours him.",
+        "The legend is also why the lake's ownership mattered so much in the 1990s dispute over a gurdwara built on the shore. A state committee concluded that the lake is a Buddhist sacred site, and the building passed to Lachen Monastery in 2001. Today visitors of every faith come; treat it as a place of worship."
+      ],
+      "good_for": ["students", "couples", "seniors"],
+      "faqs": [
+        {"q": "Why is it called Gurudongmar Lake", "a": "The name links the lake to Guru Padmasambhava, also called Guru Rinpoche, who according to local Buddhist tradition visited it in the 8th century on his way back from Tibet. Before that, legend says, it was called Dorje Nyima. The lake is considered sacred by Sikkim's Buddhists."},
+        {"q": "Does part of Gurudongmar Lake never freeze", "a": "That is the legend: Guru Padmasambhava touched part of the lake so it would not freeze, giving water to herders. In practice the lake is largely frozen from about November to mid-May. Some visitors report patches of open water in winter, but treat the story as faith and legend, not science."},
+        {"q": "Is Gurudongmar sacred to Sikhs", "a": "Some Sikhs associate the lake with Guru Nanak, and in 1997–98 an army Sikh regiment built a gurdwara on the shore. Local Sikkimese communities objected, and a state committee concluded the lake is a Buddhist sacred site. The building was handed to Lachen Monastery in 2001. All visitors are welcome to visit respectfully."}
+      ]},
+    {"slug": "gurudongmar-plateau-drive", "title": "The plateau drive from Thangu", "kind": "nature", "duration": "1.5 hours each way", "best_time": "Early morning, Apr–Jun and Oct–Nov", "cost": "Included in Lachen packages", "image_query": "Gurudongmar road plateau yaks", "wiki": "Tibetan Plateau",
+      "summary": "Beyond Thangu the road leaves the forest and crosses a wide, wind-scoured plateau of moraines and grazing land. For many travellers this landscape is as memorable as the lake itself.",
+      "body": [
+        "The road from Thangu climbs out of the last scrub and onto open ground: rolling brown and grey moraines, glacial streams, stone shelters and, in season, scattered yaks and sheep. On a clear morning snow peaks line the horizon. The plateau is the southern edge of the Tibetan high country, and it looks it.",
+        "There is little to stop for, and in parts stopping is not allowed because this is an army area close to the border. Do not photograph army installations, convoys or soldiers. Your driver knows where a short photo stop is acceptable; ask, and accept a no. On the way, the army runs a medical post where oxygen is available if anyone is struggling.",
+        "This is where altitude sickness usually starts to show, between Thangu and the lake. Keep talking to each other. If someone becomes quiet, confused or very pale, or vomits repeatedly, turn back. The lake will still be there another year; your health may not recover as easily."
+      ],
+      "good_for": ["photographers", "students", "couples"],
+      "faqs": [
+        {"q": "Can I stop for photos on the way to Gurudongmar", "a": "Sometimes, at places your driver knows are permitted. Much of the plateau is army-controlled and close to the border, so stops are restricted and photographing army installations, vehicles or personnel is forbidden. Ask your driver, follow instructions at checkposts and accept a refusal without argument."},
+        {"q": "Is there medical help on the Gurudongmar road", "a": "Yes. The army checks tourists at Thangu and runs medical posts on the road, where oxygen is available for anyone with severe breathlessness. These are for emergencies, not routine top-ups. If you need oxygen, the right next step is to go down, not to continue to the lake."},
+        {"q": "How cold is the Gurudongmar plateau", "a": "Very cold, especially at dawn. In October and November temperatures at the lake can be around −5 to −10 °C with strong wind, and colder in winter. Even in May and June it is often near freezing. Dress in thermals, fleece, a down jacket, windproof layer, gloves and a woollen cap."}
+      ]},
+    {"slug": "gurudongmar-frozen-lake-season", "title": "Seeing Gurudongmar frozen", "kind": "nature", "duration": "Dawn trip from Lachen", "best_time": "Late Nov – Apr, when the road is open", "cost": "Included in Lachen packages", "image_query": "Gurudongmar Lake frozen winter", "wiki": "",
+      "summary": "From late November to about mid-May the lake is largely frozen. Some visitors prefer it this way. Access is less reliable, the cold is extreme, and the safety rules matter even more.",
+      "body": [
+        "Gurudongmar usually begins to freeze from the edges in November and is largely frozen from late in the month until about mid-May. A frozen lake under a blue sky with snow on the peaks is a striking sight, and winter crowds are smaller. The trade-off is that snow on the plateau can close the road for days at a time.",
+        "Winter mornings at 5,430 m are brutally cold, often far below −10 °C with wind chill. Dress in proper layers, with a down jacket, windproof outer shell, insulated gloves, two pairs of thick socks and a balaclava or scarf over your face. Keep phones and camera batteries inside your jacket; cold drains them in minutes.",
+        "Do not walk on the ice, however solid it looks. The lake is sacred, the ice can be thin near inflows and help is far away. View it from the shore, keep the visit short, and accept that some winter trips will be turned back at Thangu."
+      ],
+      "good_for": ["photographers", "couples", "students"],
+      "faqs": [
+        {"q": "When is Gurudongmar Lake frozen", "a": "Usually from about late November until mid-May, according to standard descriptions, with partial freezing in early November and thaw at the edges in late May. Exact timing varies each year. Road access in winter depends on snow on the plateau and can close for days. Check current status before you travel."},
+        {"q": "Can I walk on frozen Gurudongmar Lake", "a": "No. The lake is sacred to local Buddhists, and the ice can be weak near inflows and at the edges. There are no rescue facilities on the lake. View it from the shore and keep your visit to 20–30 minutes because of the altitude and the cold."},
+        {"q": "Is Gurudongmar open in January", "a": "Sometimes, but often not. In January snow on the road between Thangu and the lake frequently stops vehicles, and the army or administration may close the route. Lachen itself has had long closures since 2023. If Gurudongmar matters to you, plan for April–May or October–November instead."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "What is the altitude of Gurudongmar Lake", "a": "The Government of Sikkim gives the altitude as 5,430 m, or 17,800 ft, which is the figure we use. Some maps give lower figures. Either way, it is far higher than anywhere else on a normal Sikkim holiday, and you reach it within about 24 hours of leaving Gangtok, so it needs care."},
+    {"q": "Is Gurudongmar Lake open in 2026", "a": "As of early October 2026, yes. Tourist access resumed in March 2026 after 887 days of closure following the 2023 flood, stopped again in April when the Lachen road was damaged, and permits resumed around 10–11 September 2026. Weather and landslides can close it at short notice; check current status before you travel."},
+    {"q": "Can children go to Gurudongmar Lake", "a": "Children under five should not go; this is widely advised and enforced by many operators. Older children can go if they are healthy, have slept a night in Lachen and are watched closely for headache, vomiting or drowsiness. Keep the visit short and turn back at the first sign of trouble."},
+    {"q": "Can senior citizens visit Gurudongmar Lake", "a": "Healthy seniors do visit, but they should get medical advice first, especially with heart disease, lung disease, high blood pressure or diabetes. Spend two nights in Lachen before going up, keep the lake visit to 20 minutes and do not walk far. If unsure, Thangu is a fine place to stop."},
+    {"q": "Can foreigners go to Gurudongmar Lake", "a": "No. Foreign nationals are not permitted at Gurudongmar Lake because of its closeness to the international border. They can usually visit the Lachen valley as far as Thangu on a Restricted Area Permit through an approved operator, in a group of two or more. Check current status before you travel."},
+    {"q": "How far is Gurudongmar from Lachen", "a": "About 65–70 km, roughly 3 hours each way, via Thangu. Cars leave Lachen at 4–5 am, reach the lake around 8–10 am and return to Lachen for lunch. The whole round trip takes 7–9 hours. After lunch most groups continue to Lachung, about 3 hours away."},
+    {"q": "What should I carry to Gurudongmar", "a": "Thermals, fleece, down jacket, windproof shell, woollen cap, gloves, two pairs of socks, sunglasses, sunscreen, lip balm, a refillable water bottle, dry snacks, your medicines, ID and permit copies. A small oxygen can from Gangtok can help briefly but is not treatment. Pack a bag for any rubbish."},
+    {"q": "What is the best time to visit Gurudongmar Lake", "a": "Late April to June and October to early November are the most reliable. In May–June the lake thaws and access is better; October brings the clearest skies. From late November to April it is frozen and the road is often blocked. June to September is monsoon, with landslides on the road below Lachen."},
+    {"q": "Does Gurudongmar Lake ever fully freeze", "a": "For much of winter it is largely frozen, from about late November to mid-May. Local legend says Guru Padmasambhava blessed a part of it so that it would never freeze. Visitors' reports vary. Treat the unfrozen patch as a matter of faith and legend, and do not walk on the ice."}
+  ]
+}

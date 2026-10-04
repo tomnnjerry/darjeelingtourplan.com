@@ -1,0 +1,254 @@
+[
+  {
+    "slug": "revolver-hotel-darjeeling",
+    "name": "Revolver",
+    "place": "darjeeling",
+    "tier": "budget",
+    "kind": "boutique hotel",
+    "rate_band": "₹1,800–3,000 per room night, indicative",
+    "wiki": "",
+    "image_query": "Revolver hotel Darjeeling Beatles",
+    "summary": "A small Beatles-themed lodge run by a local couple, a short walk below Chowrasta. Five rooms named after John, Paul, George, Ringo and their manager Brian, good coffee downstairs and home-style Naga and local set meals at fair prices.",
+    "body": [
+      "Revolver takes its name from the 1966 Beatles album, and the theme runs through the whole house: posters, framed records and bits of memorabilia on the walls. There are five rooms, each named after a band member or Brian Epstein, plus a family room. Rooms are compact and warm, with private bathrooms. It suits travellers who want character for the price of an ordinary town hotel.",
+      "The small café on the ground floor is the real draw for many guests. Expect fresh coffee, simple breakfasts and set meals that mix Darjeeling home food with dishes from Nagaland, where one of the owners comes from. It sits off the main drag, so it is quieter at night than the hotels on Laden La Road, but Chowrasta and the Mall are an easy uphill walk."
+    ],
+    "why": [
+      "Character and a friendly welcome at a budget price",
+      "Home-style Naga and local meals in the café",
+      "Walkable to Chowrasta, the Mall and the shared-jeep stands"
+    ],
+    "best_for": ["couples", "solo", "students"],
+    "watch_out": "Only five rooms, so it fills early in October and May, and there is no lift or mountain view from most rooms.",
+    "website": "",
+    "faqs": [
+      {"q": "Is Revolver hotel in Darjeeling good for families", "a": "It works for small families. Besides the five double rooms named after the Beatles and Brian Epstein, there is a family room. Rooms are compact, there is no lift and the house is on a slope, so families with very young children or grandparents who struggle with stairs may prefer a larger hotel on the Mall or Gandhi Road. Book well ahead for October and May."},
+      {"q": "Does Revolver Darjeeling serve food", "a": "Yes. The café downstairs serves fresh coffee, breakfasts and set meals that mix Darjeeling home cooking with Naga dishes. Meals are reasonably priced, roughly ₹250–500 a head for a set meal, indicative 2026. Many guests eat dinner in-house on cold evenings rather than walking back up to the Mall."},
+      {"q": "How far is Revolver from Chowrasta", "a": "It is a short uphill walk, usually 10–15 minutes, to Chowrasta and the Mall. The shared-jeep stands at the Chowk Bazaar motor stand are downhill and closer. Porters at the stand will carry heavy bags for a small fee, which we suggest agreeing before they lift anything, typically ₹100–200 a bag."}
+    ]
+  },
+  {
+    "slug": "darjeeling-tourism-property-wbtdc",
+    "name": "Darjeeling Tourism Property (WBTDC)",
+    "place": "darjeeling",
+    "tier": "budget",
+    "kind": "government lodge",
+    "rate_band": "₹2,300–3,500 per room night, indicative",
+    "wiki": "",
+    "image_query": "Darjeeling Tourist Lodge Bhanu Sarani",
+    "summary": "The West Bengal tourism corporation's lodge on Bhanu Sarani, just above Chowrasta. Plain rooms, government rates, a central location and on clear mornings a direct view towards Kangchenjunga. Book online on the WBTDCL site, up to about 180 days ahead.",
+    "body": [
+      "Many Kolkata families first saw Darjeeling from the old Darjeeling Tourist Lodge, now listed by WBTDCL as the Darjeeling Tourism Property. It stands on Bhanu Sarani, the road that runs from Chowrasta round Observatory Hill, so the Mall, Glenary's and the ridge are a five-minute walk. Rooms are simple and clean in the government style, with heaters available in winter.",
+      "The main reasons to stay are the location and the rate. Listed room rates were around ₹2,300–3,200 a night at our last check, well below private hotels with a similar position. Service is functional rather than warm, and the furniture is dated. Book on the official WBTDCL website or at the corporation's office on BBD Bag in Kolkata, and check current rates before you travel."
+    ],
+    "why": [
+      "Government rates a few minutes from Chowrasta",
+      "Mountain-facing position on Bhanu Sarani",
+      "Bookable online months ahead, useful for Puja holidays"
+    ],
+    "best_for": ["families", "seniors", "first-timers"],
+    "watch_out": "Rooms and bathrooms are dated, service is government style, and vehicles cannot always stop at the door, so expect a short walk with bags.",
+    "website": "https://wbtdcl.wb.gov.in/",
+    "faqs": [
+      {"q": "How do I book the WBTDC tourist lodge in Darjeeling", "a": "Book on the official WBTDCL website, which lists it as the Darjeeling Tourism Property, or at the West Bengal Tourism office at 3/2 BBD Bag East Road, Kolkata. Bookings open up to about 180 days ahead. Puja, Christmas and May dates sell out first, so book as soon as your leave is fixed. Carry the same photo ID used to book."},
+      {"q": "Is the Darjeeling tourist lodge close to the Mall", "a": "Yes. It is on Bhanu Sarani, a few minutes on foot from Chowrasta and the Mall. That saves taxi fares, because most of Darjeeling's sights for a first evening, including Observatory Hill, Glenary's and the Mall shops, are within walking distance. Cars may have to drop you a short distance away."},
+      {"q": "Does the WBTDC Darjeeling lodge have heating", "a": "Room heaters are usually available in winter, sometimes for an extra charge. Darjeeling nights fall to 2–5 °C in December and January, and the building is old, so ask for a heater and extra blankets at check-in. Hot water is generally by geyser. Check current arrangements with the lodge before you travel."}
+    ]
+  },
+  {
+    "slug": "kurseong-tourism-property-wbtdc",
+    "name": "Kurseong Tourism Property (WBTDC)",
+    "place": "kurseong",
+    "tier": "budget",
+    "kind": "government lodge",
+    "rate_band": "₹1,900–2,800 per room night, indicative",
+    "wiki": "",
+    "image_query": "Kurseong Tourist Lodge Hill Cart Road",
+    "summary": "West Bengal Tourism's lodge in Kurseong, on Hill Cart Road where the toy train runs past. Simple rooms at government rates, a restaurant, and valley views. A practical, cheap base for Makaibari, Netaji's house at Giddapahar and Dow Hill.",
+    "body": [
+      "The Kurseong Tourist Lodge, now listed by WBTDCL as the Kurseong Tourism Property, is one of the cheapest clean beds in the hills. It sits on Hill Cart Road, the old highway that the Darjeeling Himalayan Railway shares through Kurseong, so you can watch the toy train pass. On clear days the rooms and terrace look south over the plains and the tea slopes below.",
+      "Listed rates were around ₹1,900–2,200 a night at our last check, which makes it a sensible stop for a first night in the hills or a break between Siliguri and Darjeeling. The restaurant does simple Indian and Chinese meals. Rooms are plain and the building is old, so treat it as a base, not a treat. Book on the WBTDCL website and check current status before you travel."
+    ],
+    "why": [
+      "Among the lowest rates for a clean room in the hills",
+      "On the toy-train line, close to Kurseong station",
+      "Good base for Makaibari, Giddapahar and Dow Hill"
+    ],
+    "best_for": ["students", "families", "solo"],
+    "watch_out": "Road and train noise on Hill Cart Road by day, and furnishings are plain and dated.",
+    "website": "https://wbtdcl.wb.gov.in/",
+    "faqs": [
+      {"q": "Is the Kurseong tourist lodge worth it", "a": "For the price, yes. At roughly ₹1,900–2,800 a room night, indicative 2026, it is one of the cheapest clean options in the Darjeeling hills, with a restaurant and valley views. Rooms are plain and the road outside is busy by day. It suits travellers who want a cheap base for Makaibari, Netaji's house and Dow Hill rather than a hotel to linger in."},
+      {"q": "How far is Kurseong tourist lodge from the railway station", "a": "It is on Hill Cart Road, a short walk from Kurseong station on the Darjeeling Himalayan Railway. The toy train runs along the same road through town, so you can see it pass. Shared jeeps to Darjeeling and Siliguri leave from the stands in the town centre, also within walking distance."},
+      {"q": "Can I book Kurseong WBTDC lodge online", "a": "Yes, on the official WBTDCL website, where it appears as the Kurseong Tourism Property, or at the West Bengal Tourism office on BBD Bag in Kolkata. Bookings open up to about 180 days ahead. Carry the photo ID you used for the booking, and check current rates before you travel."}
+    ]
+  },
+  {
+    "slug": "dekeling-hotel-darjeeling",
+    "name": "Dekeling Hotel",
+    "place": "darjeeling",
+    "tier": "comfort",
+    "kind": "hotel",
+    "rate_band": "₹3,500–6,500 per room night, indicative",
+    "wiki": "",
+    "image_query": "Dekeling Hotel Gandhi Road Darjeeling",
+    "summary": "A Tibetan family-run hotel at 51 Gandhi Road, right above the Club Side taxi stand, with wood-panelled rooms, valley views from the upper floors and a restaurant serving Tibetan and Indian food. Central, warm and good value for the comfort tier.",
+    "body": [
+      "Dekeling stands at the busy junction where Gandhi Road, Laden La Road and Nehru Road meet, about five minutes on foot from Chowrasta. The entrance is up a flight of stairs above the shops, and the hotel climbs several floors from there. Rooms are lined in wood, with heaters in winter, and the upper rooms look across to the hills and, on clear mornings, towards Kangchenjunga.",
+      "The family runs it with an eye on the details that matter in a cold town: hot water, extra blankets and a cosy common sitting area. The restaurant downstairs serves Tibetan dishes such as thukpa and momos alongside Indian and Continental food. Its position above the taxi stand makes early starts for Tiger Hill or long transfer days easy."
+    ],
+    "why": [
+      "Central: above the Club Side taxi stand, five minutes from Chowrasta",
+      "Warm wood-panelled rooms and a family welcome",
+      "Tibetan restaurant on site"
+    ],
+    "best_for": ["couples", "first-timers", "families"],
+    "watch_out": "Reception is up a steep staircase from the street and the junction outside is noisy by day.",
+    "website": "",
+    "faqs": [
+      {"q": "Where exactly is Dekeling Hotel in Darjeeling", "a": "At 51 Gandhi Road, at the junction with Laden La Road and Nehru Road, just above the Club Side car park and taxi stand. Chowrasta and the Mall are about five minutes uphill on foot. The central position saves taxi fares, and reserved cars for Tiger Hill can pick you up at the stand below at 4 am."},
+      {"q": "Does Dekeling Hotel have mountain views", "a": "Some rooms do. Upper-floor rooms facing north and east look over the hills, and on clear mornings from October to April you may see Kangchenjunga. Lower rooms and those facing the road do not. Ask for a view room when you book, and expect to pay more for it."},
+      {"q": "Is Dekeling Hotel good for older travellers", "a": "It is central and warm, which helps, but the entrance is up a flight of stairs from Gandhi Road, so check what lift access is available when you book if stairs are a problem. Ask for a lower floor if needed, and the staff can arrange porters for luggage from the taxi stand below."}
+    ]
+  },
+  {
+    "slug": "bellevue-hotel-darjeeling",
+    "name": "The Bellevue Hotel",
+    "place": "darjeeling",
+    "tier": "comfort",
+    "kind": "hotel",
+    "rate_band": "₹3,000–6,000 per room night, indicative",
+    "wiki": "",
+    "image_query": "Bellevue Hotel Chowrasta Darjeeling",
+    "summary": "A Tibetan family-run hotel in a three-storey building right on Chowrasta. You step out of the door onto Darjeeling's main square, and the better rooms look across to the mountains. Rooms range from standard to suites, priced fairly for the location.",
+    "body": [
+      "Few hotels in Darjeeling are as central as the Bellevue. It faces Chowrasta, the open square at the top of the Mall where the town gathers to walk, sit on the benches and watch the mountains. Reception is on the ground floor; the rooms are on the two floors above, reached by a staircase at the back of the building. Room types run from standard and deluxe to suites.",
+      "The appeal is simple: the town's main square is your front yard, Glenary's and Keventers are a few minutes away, and Observatory Hill is just above. Rooms are traditional rather than modern. Note that another hotel with a similar name, the Main Olde Bellevue, stands behind it and is a separate business, so check the name carefully when you book."
+    ],
+    "why": [
+      "On Chowrasta itself, the most central address in town",
+      "Mountain views from the better rooms",
+      "Walk to Observatory Hill, Glenary's and the Mall in minutes"
+    ],
+    "best_for": ["first-timers", "couples", "photographers"],
+    "watch_out": "Cars cannot reach Chowrasta, so you walk up with your bags or hire a porter, and rooms are reached by stairs.",
+    "website": "",
+    "faqs": [
+      {"q": "Can a car drop me at the Bellevue Hotel on Chowrasta", "a": "No. Chowrasta and the upper Mall are pedestrian, so taxis stop below on Gandhi Road or Laden La Road, roughly 5–10 minutes' walk away. Porters wait at the stands and charge around ₹100–200 a bag, indicative 2026. Agree the price before they lift anything, and pack light if you can."},
+      {"q": "Is the Bellevue the same as the Main Olde Bellevue Hotel", "a": "No. The Bellevue Hotel faces Chowrasta and is run by a Tibetan family. The Main Olde Bellevue is a different hotel behind it, with separate owners and bookings. Check the exact name and address on your booking confirmation so you arrive at the right door."},
+      {"q": "Which rooms at the Bellevue Darjeeling have mountain views", "a": "The front and upper rooms facing north towards the mountains get the views, and on clear mornings from October to April Kangchenjunga can fill the window. Ask specifically for a mountain-view room when booking, as standard rooms may face the back."}
+    ]
+  },
+  {
+    "slug": "cochrane-place-kurseong",
+    "name": "Cochrane Place",
+    "place": "kurseong",
+    "tier": "comfort",
+    "kind": "heritage hotel",
+    "rate_band": "₹6,000–11,000 per room night, indicative",
+    "wiki": "",
+    "image_query": "Cochrane Place hotel Kurseong",
+    "summary": "A heritage boutique hotel in Kurseong, built around The Hermitage, the old home of Percy John Cochrane, a British-era magistrate. Antique-furnished rooms, a tea-led restaurant called Chai Country, a spa and views over tea slopes.",
+    "body": [
+      "Cochrane Place began as The Hermitage, the residence of Percy John Cochrane, a magistrate in Kurseong in the early twentieth century. The Arora family restored it and opened it as a hotel in 2004. Rooms are individually furnished with antiques, old prints and four-poster beds in some, and the newer wings follow the same style.",
+      "Tea is the theme. The restaurant, Chai Country, offers a long tea list alongside Anglo-Indian and local dishes, and the staff can arrange visits to nearby gardens such as Makaibari and Castleton. It is a calm, comfortable base for two nights in Kurseong, closer to Bagdogra and NJP than Darjeeling, which makes it a good first or last night of a hill trip."
+    ],
+    "why": [
+      "Heritage house with antique-furnished rooms",
+      "Tea-focused restaurant and garden visits nearby",
+      "Closer to Bagdogra and NJP than Darjeeling"
+    ],
+    "best_for": ["couples", "seniors", "photographers"],
+    "watch_out": "It is outside Kurseong town on Pankhabari Road, so you depend on a car for most outings.",
+    "website": "",
+    "faqs": [
+      {"q": "How far is Cochrane Place from Bagdogra airport", "a": "Roughly 40–45 km, usually 1.5–2 hours by car via the Pankhabari or Rohini road, depending on traffic in Siliguri. That is about an hour less than Darjeeling, which is why many travellers use it for the first or last night of a hill trip. Reserved cars cost around ₹2,500–3,500, indicative 2026."},
+      {"q": "Is Cochrane Place a heritage hotel", "a": "Yes. It is built around The Hermitage, once the home of Percy John Cochrane, a British-era magistrate in Kurseong, and was restored as a hotel by the Arora family in 2004. Rooms are furnished with antiques and old prints, and newer wings follow the same style."},
+      {"q": "Can Cochrane Place arrange tea garden visits", "a": "Yes. The hotel's restaurant, Chai Country, is built around tea, and staff can arrange visits to nearby estates such as Makaibari and Castleton. Factory visits depend on the season and the plucking schedule, and some factories close to visitors on certain days, so check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "windamere-hotel-darjeeling",
+    "name": "Windamere Hotel",
+    "place": "darjeeling",
+    "tier": "premium",
+    "kind": "heritage hotel",
+    "rate_band": "₹14,000–24,000 per room night, indicative",
+    "wiki": "Windamere Hotel",
+    "image_query": "Windamere Hotel Darjeeling Observatory Hill",
+    "summary": "Darjeeling's best-known Raj-era hotel, on Observatory Hill a few minutes above Chowrasta. Cottage-style rooms with fireplaces, hot-water bottles at night, afternoon tea with scones, and a sense of the old hill station that newer hotels cannot copy.",
+    "body": [
+      "The Windamere sits on Observatory Hill, just above Chowrasta, in a cluster of old buildings with names such as Ada Villa. It describes itself as a heritage property of the British era and keeps the customs to match: open fireplaces in the rooms, hot-water bottles slipped into the beds at night, and afternoon tea with sandwiches and scones served in the sitting rooms.",
+      "It is not a modern luxury hotel and does not try to be. Rooms are furnished in period style, the corridors creak, and the charm lies in the quiet, the service and the position. Chowrasta, the Mall and Observatory Hill's prayer flags are a short walk away. It suits couples, history lovers and anyone who wants to feel the old hill station."
+    ],
+    "why": [
+      "The most complete old-Darjeeling experience in town",
+      "Fireplaces, hot-water bottles and afternoon tea",
+      "A short walk from Chowrasta and Observatory Hill"
+    ],
+    "best_for": ["couples", "seniors", "photographers"],
+    "watch_out": "Period rooms rather than modern ones: expect old plumbing, uneven floors and a walk up from where cars stop.",
+    "website": "https://www.windamerehotel.com/",
+    "faqs": [
+      {"q": "Is the Windamere Hotel worth the price", "a": "If you want the old Darjeeling experience, yes. You pay for history, position on Observatory Hill and service: fireplaces, hot-water bottles and afternoon tea. If you want a modern room with the latest fittings, a newer hotel gives more for the money. Rates are around ₹14,000–24,000 a room night, indicative 2026, often with meals."},
+      {"q": "Can non-guests have afternoon tea at the Windamere", "a": "The hotel serves a classic British afternoon tea, and it has at times accepted outside guests by reservation. Policies change, so call ahead to ask whether non-residents are taken on your date and what it costs. Smart-casual dress suits the setting."},
+      {"q": "Can cars reach the Windamere Hotel", "a": "Vehicles are restricted around Chowrasta and Observatory Hill, so cars usually stop below and the hotel arranges porters for luggage. The walk up is short but steep. Tell the hotel your arrival time so staff can meet you, especially if anyone in your group has trouble with slopes."}
+    ]
+  },
+  {
+    "slug": "mayfair-hill-resort-darjeeling",
+    "name": "Mayfair Hill Resort",
+    "place": "darjeeling",
+    "tier": "premium",
+    "kind": "resort",
+    "rate_band": "₹11,000–20,000 per room night, indicative",
+    "wiki": "",
+    "image_query": "Mayfair Hill Resort Darjeeling",
+    "summary": "A heritage-style resort on the Mall, opposite Raj Bhavan, with 53 rooms in an old main building and newer wings, a spa, a library and landscaped gardens. About 1 km from Chowrasta, it suits families and couples who want comfort with space.",
+    "body": [
+      "Mayfair Hill Resort stands on the Mall opposite Raj Bhavan, the Governor's summer residence, about 800 metres from Observatory Hill and roughly a kilometre from the busy end of Mall Road. The property mixes a colonial-style heritage building with newer blocks, set among terraced gardens. There are 53 rooms across categories, from heritage attic rooms to suites and family rooms.",
+      "Facilities are the fullest in Darjeeling town: a wellness spa, a restaurant, a library, a games room, a children's play area and a fitness centre. It is a good choice for families who want space and for couples who want a quiet walk back along the Mall after dinner, away from the bazaar traffic."
+    ],
+    "why": [
+      "Full-service resort with spa, library and gardens",
+      "Quiet Mall location opposite Raj Bhavan",
+      "Family rooms and a children's play area"
+    ],
+    "best_for": ["families", "couples", "seniors"],
+    "watch_out": "It is a resort-style hotel on a slope, so expect steps between blocks, and it feels less intimate than the small heritage houses.",
+    "website": "https://www.mayfairhotels.com/hill-resort-darjeeling/",
+    "faqs": [
+      {"q": "Where is Mayfair Hill Resort in Darjeeling", "a": "On the Mall, opposite Raj Bhavan. It is about 800 metres from Observatory Hill and roughly a kilometre from the main stretch of Mall Road, so you can walk to Chowrasta in 10–15 minutes along a quiet road. The zoo and Himalayan Mountaineering Institute are about 2.3 km away."},
+      {"q": "Is Mayfair Darjeeling good for families with children", "a": "Yes. It has family rooms, a children's play area, a games room and gardens to run around in, which is rare in Darjeeling. The walk to Chowrasta is level and quiet. Expect steps between buildings on the slope, so pack a light stroller or a baby carrier."},
+      {"q": "Does Mayfair Darjeeling have a spa", "a": "Yes, the resort has a wellness spa along with a fitness centre and library. Treatments are priced separately, so ask for the current menu at check-in. Spa slots can fill on weekends and in October, so book a day ahead if you want a particular time."}
+    ]
+  },
+  {
+    "slug": "glenburn-tea-estate",
+    "name": "Glenburn Tea Estate",
+    "place": "darjeeling",
+    "tier": "premium",
+    "kind": "tea bungalow",
+    "rate_band": "₹35,000–50,000 per suite night with all meals, indicative",
+    "wiki": "Glenburn Tea Estate",
+    "image_query": "Glenburn Tea Estate Darjeeling bungalow",
+    "summary": "A working tea estate on the slopes above the Rangeet river, about 1.5–2 hours from Darjeeling, where the Prakash family host guests in two planters' bungalows with eight suites. Meals, estate walks, tea tastings and a riverside picnic are part of the stay.",
+    "body": [
+      "Glenburn was founded in 1859 by a Scottish tea company and has been run by the Kolkata-based Prakash family for four generations. The estate covers about 750 hectares, falling from around 3,000 feet to the Rangeet and Rung Dung rivers, with the Simbong reserve forest inside it. Guests stay in the restored Burra Bungalow, the original planters' house, or the Water Lily Bungalow added in 2008.",
+      "There are eight suites, with names such as Kanchenjunga, Rangeet and Rung Dung. Stays usually include meals, tea in the factory and on the verandah, walks with the estate staff, and a picnic or hike down to the Rung Dung river. It is the most complete tea-estate stay in the Darjeeling hills, and priced accordingly. Most guests stay two or three nights."
+    ],
+    "why": [
+      "Stay inside a working 1859 tea estate",
+      "Meals, walks, tastings and river picnic usually included",
+      "Only eight suites, so it is quiet and personal"
+    ],
+    "best_for": ["couples", "photographers", "seniors"],
+    "watch_out": "The last stretch of road is steep and rough, and the estate is far from town, so plan to stay put rather than tour Darjeeling from here.",
+    "website": "https://glenburnteaestate.com/",
+    "faqs": [
+      {"q": "How far is Glenburn Tea Estate from Darjeeling", "a": "Roughly 1.5–2 hours by car, the last part on a steep estate road down towards the Rangeet river. From Bagdogra airport allow about 3.5–4 hours. The estate usually arranges transfers. It is not a base for daily Darjeeling sightseeing; plan your town nights separately and treat Glenburn as the slow part of the trip."},
+      {"q": "What is included in a Glenburn Tea Estate stay", "a": "Stays are usually priced per suite with all meals, tea, estate walks and factory visits included, and a river picnic or hike when weather allows. Transfers, drinks and some special activities may be extra. Rates are around ₹35,000–50,000 per suite night, indicative 2026; check what the current rate covers when you book."},
+      {"q": "When is the best time to stay at Glenburn", "a": "March to May for first and second flush, when the factory is busiest and the gardens are green, and October to November for clear skies and autumn flush. Monsoon months bring heavy rain and slips on the estate road. Winter is quiet with little plucking, but the views can be clear."}
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+{
+  "slug": "darjeeling-and-bhutan-8n",
+  "title": "Darjeeling and Bhutan by road in 8 nights",
+  "region": "bhutan",
+  "nights": 8,
+  "themes": ["toy-train", "tea-gardens", "monasteries", "mountain-views"],
+  "stops": [
+    {"place": "darjeeling", "nights": 2},
+    {"place": "phuentsholing", "nights": 1},
+    {"place": "thimphu", "nights": 2},
+    {"place": "paro", "nights": 2},
+    {"place": "phuentsholing", "nights": 1}
+  ],
+  "start": "Siliguri (NJP station or Bagdogra Airport, IXB)",
+  "end": "Siliguri (NJP station or Bagdogra Airport, IXB)",
+  "price_from_inr": 39000,
+  "fares": {"budget": 39000, "comfort": 63000, "premium": 220000},
+  "fare_notes": {
+    "budget": "Clean budget hotels in Darjeeling; Department of Tourism-certified 3-star hotels in Bhutan such as Hotel Druk Phuentsholing and Hotel Olathang in Paro; twin sharing; a reserved car in India and a Bhutan-registered car or Hiace in Bhutan; a licensed guide in Bhutan; breakfast and dinner; Bhutan SDF at ₹1,200 per person per night for the 6 Bhutan nights. The budget fare assumes 4–6 travellers sharing one vehicle. Couples travelling alone pay more, usually 15–25%.",
+    "comfort": "A comfortable mid-range hotel near the Mall in Darjeeling, Hotel Druk in Thimphu and 4-star hotels in Phuentsholing and Paro; a private car throughout and a private guide in Bhutan; breakfast and dinner; SDF included.",
+    "premium": "A heritage hotel in Darjeeling such as the Windamere, Taj Tashi in Thimphu, COMO Uma Paro and the best certified hotel in Phuentsholing; a private car and senior guide; breakfast and dinner; SDF included."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "Darjeeling and Bhutan by road: 8 nights with Tiger Hill, the toy train, Thimphu and the Tiger's Nest, from ₹39,000 per person including Bhutan SDF.",
+  "summary": "Two Himalayan hill countries in one road trip. Two nights in Darjeeling for Tiger Hill, the toy train and tea, then across the Dooars to Phuentsholing, two nights each in Thimphu and Paro, and back to Siliguri. From ₹39,000 per person, twin sharing, with Bhutan SDF, guide, cars, hotels and two meals a day.",
+  "intro": [
+    "Darjeeling and western Bhutan sit about 230 km apart by road, and the drive between them runs down through the tea gardens to the plains and across the Dooars to the border at Jaigaon. That makes this the natural pairing for anyone flying into Bagdogra with a week or more. Darjeeling comes first: no permits, no SDF, and two nights at about 2,050 m prepare you for Thimphu at 2,320 m and the Tiger's Nest climb to about 3,120 m.",
+    "In Darjeeling you ride the Darjeeling Himalayan Railway, a UNESCO World Heritage Site since 1999, and watch dawn on Kangchenjunga from Tiger Hill. In Bhutan the Department of Tourism notification of 8 April 2026 means a licensed guide from the first checkpoint above Phuentsholing; ours meets you there. Fares are for Indian nationals and include the Bhutan SDF of ₹1,200 per person per night for the six nights spent in Bhutan. The Darjeeling nights carry no such fee."
+  ],
+  "highlights": [
+    "Sunrise on Kangchenjunga from Tiger Hill, about 2,590 m",
+    "A toy train ride on the Darjeeling Himalayan Railway",
+    "Buddha Dordenma and Tashichho Dzong in Thimphu",
+    "Rinpung Dzong and the Tiger's Nest hike in Paro",
+    "The drive from the Darjeeling hills across the Dooars tea country into Bhutan"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri up to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3 h",
+      "text": "We meet you at NJP or Bagdogra and drive up through Sukna's forest and the tea gardens around Kurseong to Darjeeling at about 2,050 m. Budget travellers can ride a shared jeep from Siliguri; the reserved car is better with bags and children. The road and the toy train line cross each other many times on the way up. After checking in, walk to Chowrasta and the Mall, the flat open square at the top of town, for tea and momos. Bring a warm layer: evenings here are cool in every month except the monsoon.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Tiger Hill, Ghum and the toy train",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 4 h with the train",
+      "text": "Leave at about 4 am for Tiger Hill, about 2,590 m, where dawn lights Kangchenjunga, 8,586 m, on clear mornings from October to April. On the way down stop at Ghum Monastery and the Batasia Loop, where the railway turns a full circle around a war memorial garden. Later take a toy train joyride on the Darjeeling Himalayan Railway, built in 1881 and a UNESCO World Heritage Site since 1999; book seats on IRCTC well ahead. In the afternoon visit the Himalayan Mountaineering Institute and the zoo next to it, or a tea estate below the town.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Down the hills and across to Bhutan",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 230 km · 7–8 h",
+      "text": "The longest drive of the trip, so we leave by 7 am. Down to Siliguri, then east through Sevoke, the Malbazar and Chalsa tea gardens, Birpara and Hasimara to Jaigaon. Lunch on the way. Indian cars stop at Jaigaon; you walk through the gate into Phuentsholing with your passport or original Voter ID, as Aadhaar is not accepted. If you did not get your Entry Permit online, the immigration office at the pedestrian terminal issues it, and the SDF of ₹1,200 per person per night is paid with it. Evening at Zangtho Pelri Lhakhang in town.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Phuentsholing up to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 165 km · 5–6 h",
+      "text": "Your guide and Bhutan-registered car collect you after breakfast. At the Rinchending checkpoint, about 5 km up the road, permits are checked. The road climbs from about 300 m through Gedu, where fog is common, and past the Chukha hydropower area to Chhuzom, where the Paro and Thimphu rivers meet beside three chortens. Then up the Thimphu valley to the capital at 2,320 m. After Darjeeling's traffic, Thimphu feels very calm: there are no traffic lights, and a policeman directs the main junction from a painted box.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Thimphu sightseeing",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Start at the Memorial Chorten, built in 1974 for the Third King, where older residents walk circuits all morning. Then Buddha Dordenma, about 51.5 m high, and the Motithang Takin Preserve; the takin became the national animal in 2005, and legend says Drukpa Kunley made the first one from a goat's head and a cow's skeleton. After lunch, Simtokha Dzong, built by the Zhabdrung in 1629, and Tashichho Dzong, rebuilt by the Third King and completed in 1968. Your guide times the dzong to its visiting hours. Entry fees Nu 300–500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Thimphu to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 55 km · 1–1.5 h",
+      "text": "A short morning drive back to Chhuzom and up the Paro valley past the airport. Walk up to Rinpung Dzong, consecrated in 1646, which still houses the district administration and monks, then on to the National Museum in the old Ta Dzong watchtower above it. In the afternoon visit Kyichu Lhakhang, which tradition counts among the 108 temples built by the Tibetan king Songtsen Gampo in the 7th century. Compare Paro's red rice with Darjeeling's thukpa at dinner, and go to bed early for the hike.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "The Tiger's Nest hike",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Leave by 7 am for the car park at about 2,600 m. The trail climbs about 500 m to Paro Taktsang at about 3,120 m; allow 4–6 hours return, with tea at the cafeteria halfway. Legend says Guru Rinpoche flew here on a tigress in the 8th century and meditated in the cave. The temple was built in 1692, burned in 1998 and was restored by 2005. Entry Nu 1,000, indicative 2026; cameras stay in the locker. After a week of hills, a farmhouse hot stone bath in the evening, ₹1,500–3,000, is money well spent.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 8,
+      "title": "Paro down to Phuentsholing",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 150 km · 5 h",
+      "text": "After breakfast, drive back to Chhuzom and down the long road through Chukha and Gedu to the border, losing about 1,900 m of height in five hours. You arrive by mid-afternoon, with time to shop along Zhung Lam for Bhutanese textiles, incense and handmade paper. The ngultrum equals the rupee, so spend your last ngultrum here rather than carry it home. Your guide signs off at the hotel. Sleeping on the Bhutan side keeps tomorrow's run to Siliguri short enough for an afternoon flight.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 9,
+      "title": "Phuentsholing back to Siliguri",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 160 km · 4–5 h",
+      "text": "Walk back through the gate to Jaigaon after breakfast to meet your car. Leave by 9 am for an afternoon flight from Bagdogra or an evening train from NJP. Traffic around Birpara and Sevoke can add an hour, and in the rains check the Sevoke road for landslides. If you are travelling on a tight budget, the train from Hasimara, 18 km away, reaches NJP in about 3–4 hours, and buses run from Jaigaon to Siliguri for ₹150–300. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-druk-phuentsholing", "hotel-olathang-paro", "hotel-druk-thimphu", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "8 nights in your chosen tier (2 in Darjeeling, 6 in Department of Tourism-certified hotels in Bhutan), twin sharing",
+    "Breakfast and dinner daily",
+    "Bhutan SDF at the Indian rate of ₹1,200 per person per night for the 6 Bhutan nights",
+    "Licensed guide in Bhutan, as the 8 April 2026 Department of Tourism notification requires",
+    "Reserved car in India and a Bhutan-registered car in Bhutan",
+    "Tiger Hill sunrise drive and Darjeeling sightseeing",
+    "Entry Permit help"
+  ],
+  "excludes": [
+    "Toy train tickets, booked on IRCTC",
+    "Monument fees: Tiger's Nest Nu 1,000, dzongs and museums Nu 300–500, indicative 2026; Darjeeling entry tickets",
+    "Lunches and drinks",
+    "Trains and flights to Siliguri",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Take a shared jeep from Siliguri to Darjeeling instead of a reserved car if you travel light.",
+    "Travel as a group of 4–6 so one car and one guide in Bhutan are split many ways.",
+    "Go in late February, early March or December, when hotels in both Darjeeling and Bhutan discount."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the Bhutan SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, Rinchending for Phuentsholing. Plan on a guide for the whole trip beyond Phuentsholing. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos, to enter Bhutan. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Indian taxis from Darjeeling and Siliguri stop at Jaigaon; from there you travel in a Bhutan-registered vehicle.",
+    "Day 3 is a long drive of 7–8 hours; carry snacks, water and motion-sickness tablets for the hill section."
+  ],
+  "faqs": [
+    {"q": "Can we combine Darjeeling and Bhutan in one trip", "a": "Yes, and by road it is the easiest pairing in the region. Darjeeling to the Bhutan border at Jaigaon is about 230 km, a 7–8 hour drive through Siliguri and the Dooars. Two nights in Darjeeling and six in Bhutan make an 8-night trip from Siliguri. You need no flights, only a passport or Voter ID for Bhutan."},
+    {"q": "How far is Darjeeling from Phuentsholing", "a": "About 230 km by road: roughly 70 km and 3 hours down to Siliguri, then about 160 km and 4–5 hours across the Dooars through Sevoke, Malbazar, Birpara and Hasimara to Jaigaon, opposite Phuentsholing. With a lunch stop, plan on 7–8 hours. Leave Darjeeling by 7 am so you reach the immigration office in good time."},
+    {"q": "How much does a Darjeeling and Bhutan package cost", "a": "Our 8-night trip costs from ₹39,000 per person on budget, ₹63,000 on comfort and ₹2,20,000 on premium, twin sharing, indicative 2026. It includes hotels, breakfast and dinner, cars, a licensed guide in Bhutan and the Bhutan SDF at ₹1,200 per night for six nights. The budget fare assumes 4–6 people share the cars; couples alone pay about 15–25% more."},
+    {"q": "Which documents do Indians need for Bhutan", "a": "An Indian passport valid for at least 6 months, or an original Voter ID (EPIC) with passport-size photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport need their original birth certificate. The Entry Permit is free and can be issued online in advance or at Phuentsholing. Check current status before you travel."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, which for Phuentsholing is Rinchending, about 5 km up the highway. We read it as covering Indian tourists too. Darjeeling needs no guide. Our fares include a Bhutan guide. Check current status before you travel."},
+    {"q": "What is the best time for a Darjeeling and Bhutan trip", "a": "October to early December gives the clearest views from Tiger Hill and Dochula, and dry roads. March to May brings rhododendrons, warmer days and the Paro Tshechu, though haze sometimes hides Kangchenjunga. December to February is cold but clear and cheaper. We avoid June to August, when monsoon landslides affect both the Darjeeling roads and the Phuentsholing–Thimphu highway."},
+    {"q": "Should we do Darjeeling or Bhutan first", "a": "Darjeeling first. It needs no permits, so a delayed train or flight costs you nothing there, and two nights at about 2,050 m prepare you for Thimphu and the Tiger's Nest climb to about 3,120 m. Coming back via Phuentsholing also keeps the last day short, about 4–5 hours to Siliguri, so you can catch an afternoon flight."},
+    {"q": "How do we ride the Darjeeling toy train", "a": "The easiest ride is a joyride from Darjeeling to Ghum and back on the Darjeeling Himalayan Railway, with a stop at the Batasia Loop. Book seats on IRCTC as early as you can, because they sell out in October, May and June. Steam and diesel services have different fares and timings, which change; check current status before you travel."},
+    {"q": "Can we use Indian rupees in Bhutan", "a": "Yes. The ngultrum is pegged 1:1 to the rupee and rupees are accepted almost everywhere. The Indian Embassy notes that Indians may carry up to ₹25,000 in ₹500 or smaller notes, and more only in ₹100 or smaller notes. UPI and Indian cards work in some places, but carry cash. ATMs are in Phuentsholing, Thimphu and Paro."}
+  ]
+}

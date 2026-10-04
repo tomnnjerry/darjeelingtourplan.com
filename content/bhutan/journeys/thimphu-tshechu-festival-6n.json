@@ -1,0 +1,142 @@
+{
+  "slug": "thimphu-tshechu-festival-6n",
+  "title": "Thimphu Tshechu festival trip in 6 nights",
+  "region": "bhutan",
+  "nights": 6,
+  "themes": ["festivals", "monasteries"],
+  "stops": [
+    {"place": "thimphu", "nights": 3},
+    {"place": "punakha", "nights": 1},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 36500,
+  "fares": {"budget": 36500, "comfort": 59000, "premium": 210000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels in Thimphu at festival-week rates, Hotel Lobesa in Punakha and Hotel Olathang in Paro, twin sharing; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk on Clock Tower Square in Thimphu, Dhensa Boutique Resort in Punakha and a 4-star hotel in Paro; a private car and guide; breakfast and dinner; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, a short drive from Tashichho Dzong, the best luxury lodge available in Punakha and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights extra."
+  },
+  "best_months": [0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "An autumn Bhutan trip timed to the Thimphu Tshechu: 6 nights with the masked dances, the dawn thongdrel, Punakha and Tiger's Nest, from ₹36,500.",
+  "summary": "An autumn trip built around the Thimphu Tshechu at Tashichho Dzong in September or October. Three nights in the capital for the masked dances and the dawn thongdrel, then Punakha over Dochula and two nights in Paro for the Tiger's Nest. From ₹36,500 per person, twin sharing, with SDF, guide, car and hotels.",
+  "intro": [
+    "The Thimphu Tshechu is the capital's great festival and one of the biggest in Bhutan. The first full public celebration was held at Tashichho Dzong in 1690. Today families come from across the valley in their best clothes for days of cham, the masked dances that tell stories of Guru Rinpoche, with atsara clowns working the crowd in between. On the last morning a giant thongdrel is shown before dawn and rolled up before the sun touches it.",
+    "Autumn is also the best season in Bhutan: the monsoon ends in September, and October usually brings clear skies over Dochula. That is why festival week is the busiest week of the year in Thimphu, with flights and hotels full months ahead. The dates follow the lunar calendar, so we confirm them before you book. Fares are for Indian nationals and include SDF at ₹1,200 per person per night and a licensed guide for the whole trip."
+  ],
+  "highlights": [
+    "Two days of masked dances at the Thimphu Tshechu",
+    "The thongdrel shown at dawn on the final day",
+    "Dochula at 3,100 m in clear October weather",
+    "Punakha Dzong at harvest time, with the rice turning gold",
+    "The Tiger's Nest hike above Paro"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly into Paro, on to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Land at Paro and meet your guide outside arrivals. Indians show a passport or original Voter ID for the Entry Permit if it was not issued online. Drive to Thimphu along the river, past the three chortens at Chhuzom. Festival days are local holidays in Thimphu, so your operator files the Route Permit for Punakha before you arrive. In the afternoon walk the Memorial Chorten, built in 1974 for the Third King, and see the tailors and shops near Clock Tower Square, busy that week with families buying new gho and kira. Your guide can help you buy one.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "The Thimphu Tshechu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 10 km in town",
+      "text": "Spend the day at the festival at Tashichho Dzong, rebuilt by the Third King and completed in 1968, which houses the throne room and the king's offices. Arrive by mid-morning with a cushion, water and a hat for outside the dzong. The cham dances are performed by monks and laymen in painted masks and silk, each with its own meaning: the Black Hat dance, the dance of the stags and hounds, the dances of the lords of the cremation grounds. Your guide explains them as they come. Never walk across the dance ground, and use no flash.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Festival morning, Buddha in the afternoon",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "A second morning at the dances, when you will start to recognise the atsaras, the masked clowns who keep the crowd laughing and collect offerings. After lunch drive up to Buddha Dordenma, about 51.5 m high, completed in 2015 and holding 125,000 smaller statues, then the Motithang Takin Preserve; legend says Drukpa Kunley made the first takin from a goat's head and a cow's bones. Entry fees Nu 300 or so each, indicative 2026. Early dinner and early night: tomorrow begins around 4 am.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thongdrel at dawn, then Punakha",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3–3.5 h",
+      "text": "Walk to the dzong in the dark for the thongdrel, a great appliqué thangka unrolled before dawn on the final day and rolled away before sunlight falls on it. People queue to touch it for blessing. After breakfast, drive 22 km to Dochula at 3,100 m; October often brings clear views of the eastern Himalaya behind the 108 chortens. Descend to Punakha at about 1,250 m for lunch. In the afternoon, cross into Punakha Dzong, built in 1637–38 between the Pho Chhu and Mo Chhu, where the first king was crowned in 1907. Entry Nu 500, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Chimi Lhakhang and on to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 130 km · 4–4.5 h",
+      "text": "Start with a 20–30 minute walk through rice fields, golden at harvest in October, to Chimi Lhakhang. It was built in 1499 by Ngawang Chogyal, cousin of Drukpa Kunley, the Divine Madman who taught through outrageous humour. Then drive back over Dochula, through Thimphu and down to Chhuzom, and up the Paro valley. In the late afternoon walk up to Rinpung Dzong, consecrated in 1646, and to the National Museum in the Ta Dzong watchtower above. Early night before the hike.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "The Tiger's Nest hike",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "October is peak season on the Tiger's Nest trail, so we start at the car park, about 2,600 m, by 7 am. The path climbs about 500 m to Paro Taktsang at about 3,120 m; allow 4–6 hours return with tea at the halfway cafeteria. Legend says Guru Rinpoche flew here on the back of a tigress in the 8th century. The temple dates from 1692 and was restored after a fire in 1998. Entry Nu 1,000, indicative 2026. On the way back, Kyichu Lhakhang, then a farmhouse hot stone bath for ₹1,500–3,000.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "October is the busiest month at Paro airport, so reach it 2 to 2.5 hours before departure with your ID and Entry Permit. Most flights leave in the morning, when the valley is calm. Autumn weather is usually good, but keep a few hours' buffer before onward connections in Bagdogra, Kolkata or Delhi. If you fly later, Paro's main street has textile and handicraft shops, and grocery shops sell Paro red rice to take home. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "6 nights in Department of Tourism-certified hotels in your chosen tier at festival-week rates, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 6 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for all transfers, festival days and the pre-dawn thongdrel",
+    "Entry Permit help and the Route Permit for Punakha, filed before arrival"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument fees: Tiger's Nest Nu 1,000, dzongs and Buddha Dordenma Nu 300–500, indicative 2026",
+    "Lunches, drinks and festival snacks",
+    "Gho or kira purchase",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Book 4–6 months ahead; Thimphu rooms in festival week get scarce and late bookings pay the most.",
+    "Sleep in Paro for the festival nights and drive the 55 km to Thimphu each day; Paro hotels are usually easier to find and cheaper than Thimphu's that week.",
+    "Travel as a group of 4–6 so the car and guide, the largest costs after hotels, are shared."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Festival dates follow the lunar calendar and change each year; we confirm them against the Department of Tourism calendar before you book.",
+    "Festival days are local holidays in Thimphu, so government offices, including the one that issues Route Permits, may be shut. We file permits in advance."
+  ],
+  "faqs": [
+    {"q": "When is the Thimphu Tshechu", "a": "The Thimphu Tshechu falls in September or October each year, on dates set by the Bhutanese lunar calendar. The Department of Tourism publishes the year's festival calendar, and we confirm the dates against it before you book flights. Plan to arrive a day before the first public day and stay until the morning of the final day for the thongdrel. Check current status before you travel."},
+    {"q": "Where is the Thimphu Tshechu held", "a": "At Tashichho Dzong in Thimphu, where the first full public celebration took place in 1690. The dzong, rebuilt by the Third King and completed in 1968, houses the throne room and the king's offices. The dances are held in the open ground by the dzong, and the thongdrel is shown there on the final morning. Your guide knows the best places to stand."},
+    {"q": "How much does a Thimphu Tshechu trip cost", "a": "This 6-night trip costs from ₹36,500 per person on budget, ₹59,000 on comfort and ₹2,10,000 on premium, twin sharing, indicative 2026, without flights. Thimphu hotels charge festival rates that week. Fares include hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide, a car and the Punakha permit. Couples alone on budget pay about 15–25% more."},
+    {"q": "Is the weather good in Bhutan during the Thimphu Tshechu", "a": "Usually, yes. The monsoon tails off in September, so a September festival can still bring afternoon showers, while October is often dry and clear with cool nights around Thimphu. Pack layers, a light rain jacket and something warm for the pre-dawn thongdrel. Clear October mornings also give the best chance of mountain views from Dochula."},
+    {"q": "What is a thongdrel", "a": "A thongdrel is a very large thangka, a religious painting made in appliqué, shown only once a year at the end of a tshechu. The name is usually explained as liberation on sight, because Bhutanese believe seeing it brings blessing. It is unrolled before dawn and rolled up before sunlight falls on it, so you need to be there early."},
+    {"q": "Can tourists wear a gho or kira at the festival", "a": "Yes, and it is welcomed. Many visitors buy or borrow a gho or kira for festival days; your guide can take you to a shop or tailor in Thimphu. It is not required. What is required at the dzong is modest dress: long sleeves, long trousers or skirts and no caps. Bring a cushion, water and sunscreen."},
+    {"q": "How early should we book for the Thimphu Tshechu", "a": "Four to six months ahead. Festival week is the busiest week of the year in Thimphu, and October is also peak season across Bhutan, so flights into Paro and good hotels fill early. If Thimphu rooms are full, we keep you in Paro and drive the 55 km to the festival each morning, about 1–1.5 hours each way."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, including from Paro airport, and at monuments. We read this as covering Indian tourists too. At a crowded festival a guide also handles parking, finds you a place and explains the dances. Our fares include one."},
+    {"q": "Can we see Punakha on a Thimphu Tshechu trip", "a": "Yes. We drive to Punakha on the morning of the final day, straight after the thongdrel, and stay one night. Punakha needs a Route Permit issued in Thimphu on working days, and festival days are local holidays in Thimphu, so we file it before you arrive. Check current status before you travel."}
+  ]
+}

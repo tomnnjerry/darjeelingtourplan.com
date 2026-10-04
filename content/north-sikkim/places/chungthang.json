@@ -1,0 +1,138 @@
+{
+  "slug": "chungthang",
+  "name": "Chungthang",
+  "region": "north-sikkim",
+  "kind": "river town",
+  "wiki": "Chungthang",
+  "image_query": "Chungthang Sikkim Teesta confluence",
+  "lat": 27.62,
+  "lng": 88.63,
+  "altitude_m": 1790,
+  "tagline": "Where two rivers become the Teesta, and the flood struck",
+  "meta_description": "Chungthang, North Sikkim: the Lachen–Lachung confluence, Guru Rinpoche's sacred rock, the Teesta-III dam and 2023 flood, road status and what to see.",
+  "summary": "Chungthang is the town at about 1,790 m where the Lachen Chu and Lachung Chu join to form the Teesta, and where the roads to Lachen and Lachung split. It holds a rock sacred to Guru Rinpoche, and it was at the centre of the 2023 flood that destroyed the Teesta-III dam. It is a transit stop inside the permit zone.",
+  "intro": [
+    "Chungthang lies about 95 km from Gangtok and 28 km beyond Mangan, on a flat at roughly 1,790 m where two rivers meet. From the north comes the Lachen Chu; from the north-east the Lachung Chu; below their confluence they become the Teesta. The highway forks here too, left for Lachen and right for Lachung, so every North Sikkim traveller passes through, usually stopping for tea and a stretch.",
+    "The town has an Indian Army forward base with a medical centre, a few shops and dhabas, a monastery and a gurdwara. It also had, until 4 October 2023, the 1,200 MW Teesta-III dam, the biggest hydropower project in Sikkim. The glacial flood from South Lhonak Lake reached the dam around midnight and destroyed it in minutes, and Chungthang was among the worst-hit places in the state.",
+    "Today you will see the scars: widened riverbeds of grey silt and boulders, rebuilt bridges, temporary roads and construction everywhere. Chungthang lies inside the North Sikkim permit zone, so you visit it on your Lachen or Lachung permit. Treat it as a meaningful halt rather than a destination: twenty minutes at the sacred rock and the confluence gives the long drive a centre."
+  ],
+  "story": {
+    "title": "Guru Rinpoche's rock and the rice that grows here",
+    "paras": [
+      "Buddhist tradition holds that Guru Padmasambhava, Guru Rinpoche, stopped at Chungthang on his way back from Tibet in the 8th century. A rock here, called Lhedo or Neydo, is said to bear the prints of his hands and feet, and a small spring flows from an opening in it. Pilgrims touch the rock and collect the water.",
+      "Next to it is a small patch of paddy. Rice does not normally grow at this height and latitude, but the legend says Guru Rinpoche, after a meal, scattered his leftover grains on this spot, and rice has grown there ever since. Local accounts say a monastery, Tsunthang Rigzin Choeling, was later built nearby, dated by some sources to 1788. These are traditions of faith, told as such.",
+      "Chungthang is also linked by some to the idea of Sikkim as 'Demazong', the hidden valley of rice. The Pilgrim's Guide to the Hidden Land of Sikkim derives the name Tsunthang, its proper pronunciation, from words meaning 'top precious plain'. Stand by the rock, look at the green paddy beside a grey flood plain, and the old stories feel close."
+    ],
+    "source": "Wikipedia, 'Chungthang' (citing Denjong Nye-Yig, The Pilgrim's Guide to the Hidden Land of Sikkim); local Buddhist tradition"
+  },
+  "did_you_know": [
+    "The Teesta-III dam at Chungthang was a 1,200 MW project; its powerhouse was downstream at Singhik.",
+    "Chungthang is about 95 km from Gangtok and sits at roughly 1,790 m, much lower than Lachen or Lachung.",
+    "A gurdwara at Chungthang, Gurdwara Nanak Lama, was built by officers of the Assam Rifles in 1970, according to Wikipedia."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "0 (transit stop)"],
+    ["Nearest airport", "Bagdogra (IXB)"],
+    ["From Gangtok", "≈ 95 km · 4.5–5.5 h"],
+    ["Altitude", "≈ 1,790 m"],
+    ["Known for", "River confluence, Guru Rinpoche rock, 2023 flood"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "Transit",
+  "highlights": [
+    {"title": "The confluence", "text": "Below the town, the Lachen Chu and Lachung Chu meet and become the Teesta, which flows on for over 400 km to Bangladesh. Since the flood the riverbed is wide and grey, and you can see how much ground the water took."},
+    {"title": "Guru Rinpoche's sacred rock", "text": "The Lhedo rock with handprints and footprints attributed to Guru Padmasambhava, a small spring and the legendary paddy patch beside it are a short walk from the bazaar. Ask your driver to stop."},
+    {"title": "Flood scars and rebuilding", "text": "Chungthang was among the places worst hit on 4 October 2023. Silt flats, broken concrete and new bridges tell the story better than any museum. Look, but do not wander into construction zones."},
+    {"title": "The road fork", "text": "This is where the Lachen and Lachung roads divide. If you are doing the full loop, you will pass through twice, once on each side of the Gurudongmar and Yumthang days."},
+    {"title": "Tea and a stretch", "text": "Dhabas in Chungthang serve tea, momos and thalis. It is the usual lunch or tea stop on the long drive from Gangtok, and the last real bazaar before Lachen or Lachung."}
+  ],
+  "how_to_reach": [
+    {"mode": "Group package", "text": "Every Lachen or Lachung group package from Gangtok passes through Chungthang, often with a tea or lunch stop. Ask your driver for 15–20 minutes at the sacred rock; most will agree if you ask early in the day."},
+    {"mode": "Reserved car", "text": "A private car from Gangtok reaches Chungthang in about 4.5–5.5 hours. Since 2025 some traffic has used the Sanklang–Sapho–Shipgyer road on the Dzongu side of the Teesta when the main highway was damaged; heavy vehicles are directed that way under the September 2026 order."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the railhead NJP, both in Siliguri. Go to Gangtok first. Chungthang is inside the North Sikkim permit zone beyond the Toong checkpost, so you need your Lachen or Lachung permit."}
+  ],
+  "where_to_stay": "Few tourists sleep in Chungthang; most continue to Lachen or Lachung, each about an hour further. Lodges in town mainly serve workers, drivers and army visitors, and many were damaged in 2023. If you are delayed by a landslide, your driver will know which lodges are open. For planned stays, choose Lachung, where Le Coxy Resort and Yarlam Resort are options, or Lachen, where The Apple Orchard Resort is a small comfortable choice.",
+  "stays": [],
+  "costs": [
+    ["Tea at a dhaba", "₹20–40 a cup, indicative, 2026"],
+    ["Thali lunch", "₹150–250, indicative, 2026"],
+    ["Momos, plate", "₹80–150, indicative, 2026"],
+    ["Sacred rock and monastery", "Free; offerings welcome"]
+  ],
+  "budget_tip": "Eat lunch at a Chungthang dhaba rather than waiting for Lachen or Lachung, where hotel meals outside your package cost more.",
+  "tips": [
+    "Ask your driver in the morning to plan a 15–20 minute stop at the sacred rock.",
+    "Do not photograph army installations, convoys or personnel.",
+    "Stay clear of riverbed construction sites and the edges of the flood plain.",
+    "Keep your permit handy; checks are common around Chungthang.",
+    "Carry cash; the SBI branch here is the main bank for miles."
+  ],
+  "themes": ["monasteries", "budget-trips"],
+  "nearby": ["lachung", "lachen", "mangan", "dzongu"],
+  "experiences": [
+    {"slug": "chungthang-guru-rinpoche-rock", "title": "Guru Rinpoche's rock and paddy patch", "kind": "spiritual", "duration": "20–30 minutes", "best_time": "Any time on the drive north", "cost": "Free; offerings welcome", "image_query": "Chungthang Guru Rinpoche footprint rock", "wiki": "Padmasambhava",
+      "summary": "A short stop at the sacred Lhedo rock, said to carry Guru Padmasambhava's handprints and footprints, with a spring and a small paddy field that, by legend, grew from rice he scattered.",
+      "body": [
+        "The site is a few minutes from the bazaar. A large rock is enclosed by prayer flags and a shrine; pilgrims point out marks they hold to be the handprints and footprints of Guru Rinpoche. A small spring flows from the rock, and people drink or carry away its water as a blessing.",
+        "Beside it is the patch of paddy that gives the place its legend. According to tradition, Guru Rinpoche threw his leftover rice here after a meal, and rice has grown on this spot ever since, though it does not normally grow in the area. Locals also say that he subdued a troublesome spirit here on his way back from Tibet.",
+        "Visit quietly. Walk clockwise around the rock, take off your shoes if you enter the shrine and ask before taking photographs of people at prayer. A small offering is welcome. Twenty minutes is enough, and it turns Chungthang from a tea stop into a place with meaning."
+      ],
+      "good_for": ["seniors", "couples", "students"],
+      "faqs": [
+        {"q": "What is the sacred rock at Chungthang", "a": "It is a rock known as Lhedo or Neydo, which Buddhist tradition says bears the handprints and footprints of Guru Padmasambhava, who passed through on his way back from Tibet in the 8th century. A spring flows from it. It is a pilgrimage site and a short walk from the bazaar."},
+        {"q": "Why does rice grow at Chungthang", "a": "The legend says Guru Padmasambhava scattered leftover rice here after a meal, and a small patch of paddy has grown on the spot ever since, though rice does not normally grow at this height. It is a story of faith; the patch is still tended and shown to visitors."},
+        {"q": "Can tourists stop at Chungthang on the way to Lachung", "a": "Yes. Most group vehicles stop in Chungthang for tea or lunch. Ask your driver in the morning to include 15–20 minutes at the sacred rock. Keep to the agreed time, since drivers need to reach Lachung or Lachen before dark and observe checkpost timings."}
+      ]},
+    {"slug": "chungthang-confluence-view", "title": "The Teesta begins: the confluence view", "kind": "nature", "duration": "15 minutes", "best_time": "Clear mornings, Oct–Apr", "cost": "Free", "image_query": "Teesta River Chungthang confluence", "wiki": "Teesta River",
+      "summary": "Stand above the point where the Lachen Chu and Lachung Chu meet to form the Teesta, the river you will have followed all the way from Siliguri. Since 2023 it is also a view of what a glacial flood can do.",
+      "body": [
+        "The Teesta is about 414 km long and the largest river in Sikkim. Its waters come from glaciers and lakes such as Tso Lhamo and Gurudongmar in the far north, via the Lachen Chu, and from the Lachung valley. At Chungthang the two arms meet, and from here the river carries the name Teesta south to Mangan, Singtam, Siliguri and Bangladesh.",
+        "Before October 2023, a large dam spanned the river here. Now you see a broad, grey flood plain of sand and boulders where the water spread out and tore through buildings and roads. New embankments, bridges and road cuttings show the scale of rebuilding.",
+        "Find a safe viewpoint with your driver's help, above the river and away from construction. Do not walk down onto the riverbed: water levels can change quickly, and the ground is unstable. A photograph here, and another at Siliguri's Coronation Bridge, tells the whole story of the river."
+      ],
+      "good_for": ["photographers", "students", "families"],
+      "faqs": [
+        {"q": "Where does the Teesta River start", "a": "The Teesta rises from glaciers and high lakes in North Sikkim, with Tso Lhamo lake usually named as its source, fed also by streams from Gurudongmar and the Thangu valley. The upper arm is called the Lachen Chu; at Chungthang it meets the Lachung Chu, and from there it is the Teesta."},
+        {"q": "Can I see the destroyed Teesta-III dam", "a": "You can see the riverbed and surroundings where the dam stood, and the scale of the damage, from the road and viewpoints in Chungthang. Construction and security zones are off-limits. Do not enter them or photograph restricted structures. Ask your driver where it is safe to stop."},
+        {"q": "Is it safe to stop at Chungthang", "a": "Yes, in normal conditions, at the bazaar and established stops. Avoid riverbanks and construction areas, especially in the monsoon when water levels and landslides are unpredictable. Follow police and army instructions, and keep within the time your driver needs to reach Lachen or Lachung."}
+      ]},
+    {"slug": "chungthang-flood-memory-stop", "title": "Understanding the 2023 flood at Chungthang", "kind": "culture", "duration": "30 minutes", "best_time": "Any visit", "cost": "Free", "image_query": "2023 Sikkim flood Chungthang damage", "wiki": "2023 Sikkim flash floods",
+      "summary": "Chungthang is the best place on the road to understand the 2023 South Lhonak flood: where the water came from, what it destroyed and why North Sikkim's roads are still fragile.",
+      "body": [
+        "On the night of 4 October 2023, heavy rain caused South Lhonak, a glacial lake in the far north-west of the district, to burst its moraine dam. The water rushed down the Lachen valley. A warning reached the Teesta-III dam at Chungthang around midnight, but the flood arrived before the gates could be fully opened, and the dam was destroyed.",
+        "Downstream the Teesta rose by 15 to 20 feet. Fifteen bridges were washed away across the state, more than 90 people were confirmed dead within two weeks, and soldiers were among the missing. In Chungthang itself, buildings and roads near the river were swept away or buried in silt.",
+        "The effects lasted years. The Lachen road was cut, and tourist permits for Lachen did not resume until March 2026. Talk to your driver: almost everyone in North Sikkim lost something that night, and many will tell you where they were. Listen more than you photograph."
+      ],
+      "good_for": ["students", "seniors", "solo"],
+      "faqs": [
+        {"q": "What happened at Chungthang in October 2023", "a": "A glacial lake outburst flood from South Lhonak Lake reached Chungthang around midnight on 4 October 2023 and destroyed the 1,200 MW Teesta-III dam within minutes. Buildings, roads and bridges were swept away, and the Teesta rose sharply downstream, causing deaths and damage across Sikkim and West Bengal."},
+        {"q": "Is Chungthang safe now", "a": "Chungthang has been largely rebuilt for road traffic, and tourists pass through daily when North Sikkim is open. Risks remain in heavy rain, when landslides and river surges can occur. Follow official advisories and your driver's advice, and check current status before you travel."},
+        {"q": "Will the Teesta-III dam be rebuilt", "a": "Plans to rebuild have been discussed, and Lepcha groups and others have protested against reconstruction, citing safety and the risk of future glacial floods. The outcome may change, so treat any statement as provisional. You will see construction in the area, but not all of it is the dam."}
+      ]},
+    {"slug": "chungthang-dhaba-lunch", "title": "Lunch at a Chungthang dhaba", "kind": "food", "duration": "45 minutes", "best_time": "Midday on the drive north", "cost": "₹150–300 per person, indicative, 2026", "image_query": "Sikkim roadside dhaba thali momos", "wiki": "",
+      "summary": "Most North Sikkim vehicles break for lunch in Chungthang. Simple dhabas serve rice, dal, vegetables and momos at fair prices, and this is your best-value meal of the day.",
+      "body": [
+        "By the time you reach Chungthang you have been on the road for 4–5 hours. The town's dhabas and small restaurants serve the drivers and army personnel who pass through all day, so the food is fast, hot and cheap: rice, dal, a vegetable or two, sometimes egg or chicken curry, and plates of momos or thukpa.",
+        "Expect ₹150–300 for a full meal, indicative, 2026. Group packages from Gangtok usually include dinner and breakfast at the hotel but not lunch on the first day, so this is where you eat. Order something light if you are heading to Lachen and Gurudongmar next morning.",
+        "Pay in cash; UPI works only when the signal does. Use the toilets here, as there are few good ones between Chungthang and Lachen or Lachung. Be back at the vehicle on time: drivers want to cover the last stretch in daylight."
+      ],
+      "good_for": ["families", "students", "first-timers"],
+      "faqs": [
+        {"q": "Is lunch included in North Sikkim packages", "a": "Usually not on the first day from Gangtok. Most group packages include dinner and breakfast at the hotels, and lunch on the Gurudongmar or Yumthang days varies. Check your package. On the first day most groups stop for lunch in Chungthang or Mangan and pay themselves."},
+        {"q": "What food is available in Chungthang", "a": "Simple roadside fare: rice, dal, vegetable curry, egg or chicken curry, momos, thukpa, noodles, tea and coffee. Vegetarian options are always available. Prices are fair, around ₹150–300 for a full meal, indicative, 2026. Food is cooked fresh for drivers and travellers."},
+        {"q": "Are there clean toilets in Chungthang", "a": "There are basic toilets at dhabas and public facilities, which vary in cleanliness. They are generally better than anything between Chungthang and Lachen or Lachung. Carry tissues and hand sanitiser, and use them when you stop for lunch."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "Where is Chungthang", "a": "Chungthang is a town in Mangan district, North Sikkim, about 95 km from Gangtok and 28 km beyond Mangan, at roughly 1,790 m. It sits at the confluence of the Lachen Chu and Lachung Chu, which form the Teesta, and at the fork of the roads to Lachen and Lachung."},
+    {"q": "Do I need a permit for Chungthang", "a": "Yes. Chungthang lies beyond the Toong checkpost, inside the North Sikkim permit zone. Your Lachen or Lachung permit, arranged through a registered operator, covers passing through. Independent visits to Chungthang alone are not usual for tourists."},
+    {"q": "How far is Lachung from Chungthang", "a": "About 21–23 km, roughly an hour up the Lachung valley. Lachen is about 27–30 km and a little over an hour up the other valley, crossing the new Taram Chu bridge. Road conditions vary with repairs and weather, so allow extra time."},
+    {"q": "Was Chungthang destroyed in the 2023 flood", "a": "Chungthang was among the worst-affected places. The Teesta-III dam was destroyed, and roads, bridges and buildings near the river were swept away or buried in silt. The town has been rebuilt for traffic, but the flood plain and construction works still show the damage clearly."},
+    {"q": "Can I stay overnight in Chungthang", "a": "There are a few lodges, mainly used by workers and drivers, and some may be closed or damaged since 2023. Tourists rarely stay. If a landslide holds you up, your driver will find an open lodge. For planned stays, Lachen and Lachung are about an hour away and have better options."},
+    {"q": "What is there to see in Chungthang", "a": "The Lhedo rock associated with Guru Rinpoche and its spring, the legendary paddy patch, the confluence of the two rivers forming the Teesta, a monastery and a gurdwara. Together they make a 30–45 minute stop on the drive north."},
+    {"q": "What is the Toong checkpost timing for Chungthang", "a": "Under the September 2026 order, all tourist and light vehicles travelling to or from Lachen and Lachung must cross the Toong checkpost, south of Chungthang, by 4 pm in both directions. Heavy vehicles use the Sanklang–Sapho–Shipgyer route. Check current status before you travel."},
+    {"q": "Is there an ATM in Chungthang", "a": "There is a State Bank of India branch in Chungthang, but ATMs in North Sikkim are unreliable and can run out of cash. Carry enough cash from Gangtok for the whole trip, including meals, tips and optional extras like Zero Point."},
+    {"q": "Why is Chungthang important to Sikkim's history", "a": "Buddhist tradition says Guru Padmasambhava blessed the place on his way from Tibet, and some link it to the idea of Sikkim as Demazong, the hidden valley of rice. It is also where the Teesta is formed, and where the 2023 flood destroyed Sikkim's largest dam."}
+  ]
+}

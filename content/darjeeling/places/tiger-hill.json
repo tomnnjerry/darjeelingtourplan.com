@@ -1,0 +1,174 @@
+{
+  "slug": "tiger-hill",
+  "name": "Tiger Hill",
+  "region": "darjeeling",
+  "kind": "viewpoint",
+  "wiki": "Tiger Hill, Darjeeling",
+  "image_query": "Tiger Hill Darjeeling sunrise Kangchenjunga",
+  "lat": 26.996,
+  "lng": 88.295,
+  "altitude_m": 2567,
+  "tagline": "Sunrise on Kangchenjunga from the top of Senchal",
+  "meta_description": "Tiger Hill sunrise from Darjeeling: when to go, car costs, viewing-tower fees, chances of seeing Everest, Senchal forest walks and how to beat the crowds.",
+  "summary": "Tiger Hill is a summit at about 2,567 m, 11 km from Darjeeling, famous for sunrise over Kangchenjunga. On very clear days you also see Everest, Makalu and Lhotse far to the west. Cars leave Darjeeling around 4 am. Go only when the forecast is clear, and pair it with Ghum and Batasia.",
+  "intro": [
+    "Every clear morning in season, a line of headlights winds out of Darjeeling at about 4 am towards Tiger Hill. At the top, a viewing tower and open ground face north. As the sky lightens, the summit of Kangchenjunga, 8,586 m, turns pink before anything else in the landscape, then gold, then white. It takes a few minutes and draws a cheer from the crowd every time.",
+    "On the clearest days, usually in October, November and December, a small dark triangle shows far to the west: Mount Everest, about 170 km away, with Makalu and Lhotse beside it. Most days you will not see Everest, but Kangchenjunga alone is reason enough to get up. The hill is the high point of Senchal Wildlife Sanctuary, one of India's oldest protected forests.",
+    "Tiger Hill is also one of the most crowded spots in the district. In peak weeks hundreds of cars arrive, and parking jams last an hour. We suggest going on a weekday outside Puja and New Year, booking a car the evening before only if the forecast is clear, and staying a little after the crowds leave to walk in the forest. If clouds roll in, Chowrasta in Darjeeling gives a free view on another morning."
+  ],
+  "story": {
+    "title": "A forest that guards the town's water",
+    "paras": [
+      "Tiger Hill rises from the Senchal ridge south-east of Darjeeling. The forest here was declared the Senchal Wildlife Sanctuary in 1915, making it one of the oldest sanctuaries in India. Part of the reason was practical: the Senchal lakes in the forest store water for Darjeeling town, and the British wanted the catchment protected from felling. The sanctuary still covers the slopes around Tiger Hill.",
+      "In the nineteenth century the ridge also held a small British military station at Senchal, abandoned because the cold, wet weather made soldiers ill. The name Tiger Hill is commonly linked to the big cats that once roamed these forests; there are no tigers here now, though barking deer, Himalayan black bears and leopards are still recorded. The first visitors to climb for the sunrise came on foot or on ponies, long before the road."
+    ],
+    "source": "Senchal Wildlife Sanctuary, West Bengal Forest Department; O'Malley, Bengal District Gazetteers: Darjeeling (1907)"
+  },
+  "did_you_know": [
+    "Senchal Wildlife Sanctuary, around Tiger Hill, was declared in 1915 and is one of the oldest wildlife sanctuaries in India.",
+    "From Tiger Hill, Kangchenjunga is about 75 km away, while Everest, when visible, is roughly 170 km to the west.",
+    "The Senchal lakes, in the forest near Tiger Hill, are reservoirs that supply drinking water to Darjeeling town."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – Apr"],
+    ["Nights we suggest", "0 (dawn trip from Darjeeling)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 75 km"],
+    ["From Darjeeling", "≈ 11 km · 35–45 min"],
+    ["Altitude", "2,567 m"],
+    ["Known for", "Sunrise over Kangchenjunga, distant Everest"]
+  ],
+  "best_months": [1, 1, 1, 1, 1, 0, 0, 0, 0, 2, 2, 2],
+  "nights": "0",
+  "highlights": [
+    {"title": "Kangchenjunga at sunrise", "text": "The summit catches the first light minutes before the sun appears over the eastern ridges, turning pink, then gold, then white. Stand facing north-west and keep watching the peak, not the sun."},
+    {"title": "Everest on the clearest days", "text": "On very clear mornings, mostly October to December, Everest, Makalu and Lhotse show as small peaks on the western horizon, about 170 km away. Ask a local where to look; many visitors miss them."},
+    {"title": "The sun over the Bhutan hills", "text": "Turn east to see the sun rise over the hills towards Bhutan and the Dooars. On clear winter mornings you can follow the Teesta valley out towards the plains."},
+    {"title": "Senchal forest after the crowd", "text": "Once the cars leave at about 6.30 am, the forest of oak, magnolia and rhododendron goes quiet. Walk the road for half an hour and listen for laughingthrushes and barking deer."},
+    {"title": "Ghum and Batasia on the way back", "text": "Almost every Tiger Hill trip returns via Ghum monastery and Batasia Loop, both best in the early light. Ask your driver to include them in the fare."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared seats to Tiger Hill are sometimes sold through hotels and agents for the dawn run, about ₹300–500 a person including Ghum and Batasia, indicative 2026. They pack the jeep full, so arrive late and you get a back seat."},
+    {"mode": "Reserved car", "text": "A reserved car for the Tiger Hill sunrise with Ghum monastery and Batasia Loop costs about ₹1,500–2,200, indicative 2026. Book the evening before through your hotel. Pick-up is around 3.45–4.15 am in season."},
+    {"mode": "Rail / Air", "text": "There is no railway to Tiger Hill. Fly to Bagdogra or take a train to NJP, then go up to Darjeeling, 11 km away, and do Tiger Hill as an early-morning trip. Some fit walkers also hike up from Jorebungalow in about 1.5 hours."}
+  ],
+  "where_to_stay": "Stay in Darjeeling and drive out at dawn. The town is only 11 km away and has stays for every budget: WBTDC's Darjeeling Tourism Property and Revolver for budget, Dekeling and the Bellevue for comfort, and the Windamere or Mayfair Hill Resort for heritage. Choose a hotel near a road where cars can reach at 4 am, such as Gandhi Road or Laden La Road, so you do not have to walk up to Chowrasta in the dark. There is no accommodation on Tiger Hill itself.",
+  "stays": [],
+  "costs": [
+    ["Reserved car, Tiger Hill + Ghum + Batasia", "₹1,500–2,200 per car"],
+    ["Shared dawn seat (where offered)", "₹300–500 a person"],
+    ["Viewing tower entry", "₹20–100 depending on deck"],
+    ["Tea and snacks at the top", "₹20–80"],
+    ["Batasia Loop entry", "₹20–50"]
+  ],
+  "budget_tip": "Book the Tiger Hill car only the evening before, after checking the forecast and asking your hotel how the sky looked that morning; a cloudy dawn wastes ₹1,500–2,200 and a night's sleep.",
+  "tips": [
+    "Wear everything warm you have: at 4.30 am on Tiger Hill it is often below 0 °C from December to February.",
+    "Stand facing north-west for Kangchenjunga; the sunrise itself is to the east, but the show is on the mountain.",
+    "Avoid Puja, Christmas and New Year weekends, when traffic jams can stop cars below the summit before sunrise.",
+    "Carry a flask of tea and some cash for the stalls; card machines rarely work at the top.",
+    "Check current status before you travel: entry rules, parking and tower fees have changed in recent years."
+  ],
+  "themes": ["mountain-views", "birding-and-orchids", "treks-and-walks", "honeymoons"],
+  "nearby": ["darjeeling", "ghum", "chatakpur", "lepchajagat"],
+  "experiences": [
+    {
+      "slug": "tiger-hill-kangchenjunga-sunrise",
+      "title": "Kangchenjunga sunrise from Tiger Hill",
+      "kind": "nature",
+      "duration": "3–3.5 hours from Darjeeling",
+      "best_time": "4 am departure, Oct–Dec and Mar–Apr",
+      "cost": "₹1,500–2,200 per car with Ghum and Batasia, indicative 2026",
+      "image_query": "Kangchenjunga sunrise from Tiger Hill",
+      "wiki": "Tiger Hill, Darjeeling",
+      "summary": "Leave Darjeeling around 4 am, reach Tiger Hill before first light, and watch Kangchenjunga turn from pink to gold to white. On very clear days, look west for Everest, Makalu and Lhotse. Return via Ghum and Batasia Loop.",
+      "body": [
+        "Your car picks you up at about 4 am, or earlier in October and May when sunrise comes sooner. The road climbs through Ghum and Jorebungalow into the Senchal forest. Near the top, cars park along the road and you walk the last stretch. There is a viewing tower with decks at different prices, and open ground around it.",
+        "Face north-west. Kangchenjunga, 8,586 m and about 75 km away, is the first thing to catch the light, a few minutes before the sun clears the eastern hills. The colour runs from pink to orange to white over about ten minutes. On very clear days, Everest, Makalu and Lhotse show as small peaks on the western skyline, about 170 km away.",
+        "The crowd leaves fast once the sun is up. On the way back, stop at Ghum monastery and Batasia Loop, both included in most car fares. You are back in Darjeeling by 7.30 or 8 am for breakfast. If the morning is cloudy, accept it: the view from Chowrasta on another clear morning is almost as good, and free."
+      ],
+      "good_for": ["couples", "families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "What time should I leave for Tiger Hill", "a": "Around 3.45–4.15 am from Darjeeling in most months, slightly earlier in April to June and later in December and January when sunrise is later. The drive takes 35–45 minutes, plus queues near the top. Your hotel or driver will set the time the evening before."},
+        {"q": "Can I see Everest from Tiger Hill", "a": "On very clear days, yes. Everest shows as a small dark peak on the western horizon, about 170 km away, with Makalu and Lhotse nearby. The best chances are October to December. Most visitors see only Kangchenjunga, which is far closer and the real show."},
+        {"q": "Is Tiger Hill worth it in cloudy weather", "a": "No. If the forecast is cloudy or the previous morning was hazy, skip it and sleep in. You will pay ₹1,500–2,200 and see nothing. Check the evening before, and on the next clear morning, walk to Chowrasta in Darjeeling for a free view instead."}
+      ]
+    },
+    {
+      "slug": "tiger-hill-senchal-forest-walk",
+      "title": "A morning walk in Senchal forest",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "After sunrise, Oct–May",
+      "cost": "Free; included in Tiger Hill car with extra waiting time",
+      "image_query": "Senchal Wildlife Sanctuary forest Darjeeling",
+      "wiki": "Senchal Wildlife Sanctuary",
+      "summary": "Senchal Wildlife Sanctuary, declared in 1915, surrounds Tiger Hill with oak, magnolia, rhododendron and cryptomeria forest. Stay on after the sunrise crowd leaves and walk the forest road for an hour of birdsong and quiet.",
+      "body": [
+        "Senchal was declared a wildlife sanctuary in 1915, one of the earliest in India, partly to protect the forest that feeds the Senchal lakes, Darjeeling's water supply. It covers the slopes around Tiger Hill and runs towards Sonada and Chatakpur. The forest is mixed: oaks, magnolias, rhododendrons and planted cryptomeria, hung with moss and ferns.",
+        "Once the sunrise cars leave, at about 6.30 am, ask your driver to wait or meet you lower down, and walk the road down through the forest. Mornings bring laughingthrushes, minivets, sibias and sunbirds. Barking deer call from the slopes, and Himalayan black bears and leopards live in the sanctuary, though they are rarely seen.",
+        "Keep to the road or marked paths; this is a protected area, and entering deep forest needs permission from the forest department. In April and May rhododendrons flower red on the slopes. In winter the forest is cold and still, and the light through the trees is good for photographs. Allow an extra hour in your car booking."
+      ],
+      "good_for": ["couples", "photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "What animals live in Senchal Wildlife Sanctuary", "a": "Barking deer, Himalayan black bears, leopards, wild boar and many birds such as laughingthrushes, sibias and sunbirds. Large animals are rarely seen near the road. Early mornings after the Tiger Hill crowd leaves give the best chance of birds."},
+        {"q": "Can I walk in Senchal forest without a permit", "a": "You can walk the main road through the sanctuary to and from Tiger Hill. Going off-road into the forest needs permission from the West Bengal Forest Department. Stay on the road, do not leave litter, and check current status before you travel."},
+        {"q": "When do rhododendrons flower near Tiger Hill", "a": "Mostly April and early May, when the red tree rhododendrons flower in the Senchal forest. Higher ridges such as Sandakphu flower a little later. A morning walk after the Tiger Hill sunrise is a good way to see them."}
+      ]
+    },
+    {
+      "slug": "tiger-hill-walk-down-to-jorebungalow",
+      "title": "Walk down from Tiger Hill to Jorebungalow",
+      "kind": "adventure",
+      "duration": "1.5–2 hours",
+      "best_time": "After sunrise, Oct–May",
+      "cost": "Free; shared jeep back ₹30–60, indicative 2026",
+      "image_query": "Jorebungalow Darjeeling road forest",
+      "wiki": "Jorebungalow",
+      "summary": "Skip the drive back and walk the 6 km down from Tiger Hill through Senchal forest to Jorebungalow, near Ghum. It is downhill, quiet once the cars have gone, and ends at a bazaar with tea and shared jeeps back to Darjeeling.",
+      "body": [
+        "After sunrise, tell your driver you will walk and pay only for the drive up, or arrange to meet at Ghum. The road from Tiger Hill drops through the sanctuary to Jorebungalow, the town just east of Ghum, about 6 km. The traffic thins quickly once the sunrise rush has passed, and the forest is full of birdsong.",
+        "The walk is downhill on a paved road, so it is easy on the lungs but harder on the knees. Wear shoes with grip, as the road can be wet and mossy at the edges. You pass the turn to Senchal and small clearings with views back to Kangchenjunga. Watch for the occasional car on the bends.",
+        "At Jorebungalow, have tea and a plate of momos in the bazaar, then walk on to Ghum monastery and Batasia Loop, or catch a shared jeep to Darjeeling for ₹30–60, indicative 2026. Fit walkers can also do the route in reverse, starting before dawn with a torch, but most people are happier driving up."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "How far is Jorebungalow from Tiger Hill", "a": "About 6 km by road, mostly downhill, which takes 1.5–2 hours on foot. The road is paved and passes through Senchal forest. From Jorebungalow, Ghum is a short walk and shared jeeps to Darjeeling cost ₹30–60, indicative 2026."},
+        {"q": "Is it safe to walk down from Tiger Hill", "a": "Yes, by daylight after sunrise. The road is used by vehicles, so keep to the side and watch the bends. Wear grippy shoes and carry water. Avoid walking it in thick fog or after dark, and do not leave the road into the sanctuary forest."},
+        {"q": "Can I walk up to Tiger Hill for sunrise", "a": "Fit walkers do, starting from Jorebungalow around 3 am with headlamps; it takes about 1.5–2 hours uphill. It is cold and dark, and the road is shared with sunrise traffic. Most travellers are better off driving up and walking down."}
+      ]
+    },
+    {
+      "slug": "tiger-hill-senchal-birding",
+      "title": "Birding on the Senchal ridge",
+      "kind": "wildlife",
+      "duration": "3–4 hours",
+      "best_time": "6–10 am, Mar–May and Oct–Nov",
+      "cost": "₹1,500–3,000 for car and local guide, indicative 2026",
+      "image_query": "Darjeeling Himalayan birds laughingthrush",
+      "wiki": "",
+      "summary": "The forests around Tiger Hill and Senchal hold a good range of Himalayan hill birds. Spend an early morning with a local birder on the forest roads and look for laughingthrushes, minivets, sibias, nuthatches, sunbirds and, with luck, a pheasant.",
+      "body": [
+        "Senchal's forest covers a band of altitude from about 1,500 m to over 2,500 m, so the bird life shifts as you move along the ridge. In spring, from March to May, many species are breeding and singing, and the rhododendrons draw nectar feeders. October and November bring clear, still mornings and good light.",
+        "Common birds along the roads include laughingthrushes, rufous sibias, scarlet minivets, green-tailed sunbirds, white-tailed nuthatches and blue whistling thrushes. Kalij pheasants cross the roads at dawn, and raptors ride the thermals later in the morning. Bring binoculars and a field guide or app, and walk slowly.",
+        "Local birders in Darjeeling can guide you for a morning; ask your hotel for a reference. Keep to roads and permitted trails, as this is a protected sanctuary. Combine birding with the Tiger Hill sunrise, then stay on after the crowds. Silence and patience matter more than distance covered."
+      ],
+      "good_for": ["photographers", "solo", "seniors", "couples"],
+      "faqs": [
+        {"q": "Is Darjeeling good for birdwatching", "a": "Yes. The forests of Senchal around Tiger Hill, Singalila around Sandakphu and the lower valleys at Latpanchar near Sittong hold hundreds of species between them. Spring, March to May, is the best season. Hire a local birder for your first morning."},
+        {"q": "What birds can I see near Tiger Hill", "a": "Common sightings include laughingthrushes, rufous sibias, scarlet minivets, sunbirds, nuthatches, blue whistling thrushes and kalij pheasants. Species change with altitude and season. Go early, before 9 am, and walk quietly along the forest roads."},
+        {"q": "Do I need a guide for birding in Senchal", "a": "Not for walking the public roads, but a local birder helps you find and identify far more species. Going off-road in the sanctuary needs forest department permission. Guides cost roughly ₹1,000–2,000 for a morning, indicative 2026."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Tiger Hill sunrise worth it", "a": "Yes, on a clear morning. Watching Kangchenjunga turn pink and gold above the clouds is one of the great sights of the Himalaya. On cloudy mornings it is a waste of sleep and ₹1,500–2,200. Check the weather the evening before and decide then."},
+    {"q": "How far is Tiger Hill from Darjeeling", "a": "About 11 km, a 35–45 minute drive through Ghum and Jorebungalow. In peak season, queues near the top add time. Most cars leave Darjeeling between 3.45 and 4.15 am."},
+    {"q": "How much does a Tiger Hill car cost", "a": "A reserved car for Tiger Hill sunrise with stops at Ghum monastery and Batasia Loop costs about ₹1,500–2,200, indicative 2026. Shared seats, where offered, cost ₹300–500. Book through your hotel the evening before."},
+    {"q": "What is the best month for Tiger Hill", "a": "October to December gives the clearest mornings and the best chance of seeing Everest too. March and April are also good, with rhododendrons in the forest. June to September is usually cloudy, and January and February are clear but bitterly cold."},
+    {"q": "Is there an entry fee for Tiger Hill", "a": "The viewing tower has paid decks, roughly ₹20–100 a person depending on the level, indicative 2026. Rules and fees have changed in recent years, and forest or vehicle charges may apply. Check current status before you travel."},
+    {"q": "How cold is Tiger Hill at sunrise", "a": "Very. From December to February it is often below 0 °C at dawn, with wind. Even in April and October expect 2–6 °C. Wear thermals, a down jacket, a hat and gloves. Tea stalls at the top help."},
+    {"q": "Can I go to Tiger Hill by shared jeep", "a": "Some hotels and agents sell shared seats for the dawn run, around ₹300–500 a person, indicative 2026. There is no regular shared-jeep service at 4 am otherwise. For families or groups of four or more, a reserved car often costs about the same per head."},
+    {"q": "Is Tiger Hill safe for elderly travellers", "a": "Yes, if they are warm enough. Cars park close to the top, and the walk to the viewing area is short, though there may be steps on the tower. The main risks are cold and crowds. Choose a weekday, and let older travellers wait in the car until the light begins."},
+    {"q": "What can I see on the way back from Tiger Hill", "a": "Most drivers stop at Ghum monastery, the old Yiga Choeling founded in 1850, and at Batasia Loop with the Gorkha War Memorial. Both are best in the early light. You are usually back in Darjeeling by 7.30–8 am."}
+  ]
+}

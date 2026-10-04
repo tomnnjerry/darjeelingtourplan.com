@@ -1,0 +1,88 @@
+{
+  "slug": "barsey-rhododendron-walk-3n",
+  "title": "Okhrey and the Barsey rhododendron walk",
+  "region": "west-sikkim",
+  "nights": 3,
+  "themes": ["treks-and-walks", "birding-and-orchids", "village-homestays", "mountain-views"],
+  "stops": [
+    {"place": "okhrey", "nights": 2},
+    {"place": "barsey-rhododendron-sanctuary", "nights": 1}
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 10000,
+  "fares": {"budget": 10000, "comfort": 14500, "premium": 22000},
+  "fare_notes": {
+    "budget": "Sherpa Lodge or a similar family homestay in Okhrey for two nights and a shared room at the Guras Kunj trekkers' hut in Barsey. A small car shared by your party for the transfers. All meals at the homestay and hut, home-style.",
+    "comfort": "The best rooms at Sherpa Lodge or another Okhrey homestay, a private room at Guras Kunj where available, a private SUV for the whole trip and a local guide for the walk. All meals.",
+    "premium": "Okhrey and Barsey have no luxury stays, so premium buys comfort and support: the best homestay rooms, a private SUV with an experienced driver, a naturalist guide for birds and flowers, a porter for your bags on the walk, and entry fees paid. All meals."
+  },
+  "best_months": [0, 0, 2, 2, 1, 0, 0, 0, 0, 1, 1, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3000,
+  "meta_description": "Barsey rhododendron walk, 3 nights: Sherpa homestay in Okhrey, the 4 km Hilley trail and a night on the ridge at Guras Kunj, from ₹10,000 per person.",
+  "summary": "A 3-night walking break in the far west of Sikkim. Two nights with a Sherpa family in Okhrey, and one night at Guras Kunj, the trekkers' hut on the ridge of Barsey Rhododendron Sanctuary, reached by an easy 4 km trail from Hilley. Best in March and April, when the forest flowers red, pink and white.",
+  "intro": [
+    "Barsey, written Varsey on maps and in Wikipedia, is a sanctuary of about 104 km² on the Singalila Range, where Sikkim meets Nepal to the west and West Bengal to the south. Its rhododendron forests flower from March to May, with the peak at about 3,000 m from mid-March to April. Guras is the Nepali word for rhododendron, and Guras Kunj, the hut at the top, takes its name from it. The walk in from Hilley is 4 km on a broad trail, about 1.5–2 hours, which makes this one of the gentlest overnight walks in the eastern Himalaya.",
+    "We base the trip in Okhrey at about 2,200 m, a Sherpa village above Sombaria with a village monastery and homestays run by Sherpa families. Food is home cooking: rice, dal, greens, perhaps thukpa or momos. The night at Guras Kunj is simple, with shared rooms, but sunset and sunrise on the ridge are the reason to stay. In spring the mountains often hide in haze; from October to December the flowers are gone but Kangchenjunga, Kabru and Pandim are usually clear. Monsoon trails are wet and leech-ridden, so we do not run it then."
+  ],
+  "highlights": [
+    "Rhododendron forest in flower from mid-March to April, at its best around 3,000 m",
+    "A night on the Barsey ridge at Guras Kunj, the trekkers' hut inside the sanctuary",
+    "Kangchenjunga, Kabru and Pandim from the ridge on clear mornings, most reliably October to December",
+    "Two nights with a Sherpa family in Okhrey, with home cooking and the village monastery",
+    "Birds of the high forest, including the Tibetan serin and spotted laughingthrush"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Okhrey", "place": "okhrey", "overnight": "Okhrey", "drive": "≈ 130 km · 5–6 h",
+     "text": "Your car meets you at NJP, Bagdogra or Siliguri. The road follows the Teesta to Melli, where you enter Sikkim, and the Rangeet to Jorethang, the market town at the river crossing. From Jorethang it climbs for about 2 hours through Sombaria to Okhrey, about 10 km beyond Sombaria. Foreign nationals show or collect their Restricted Area Permit at Melli. The last stretch is narrow and can be rough after rain; check current status before you travel. Evening tea with your hosts, and an early dinner by the kitchen fire.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Hilley to Barsey on foot", "place": "barsey-rhododendron-sanctuary", "overnight": "Barsey (Guras Kunj hut)", "drive": "≈ 30 min drive · 4 km walk, 1.5–2 h",
+     "text": "After breakfast we drive about 30 minutes to Hilley, the main gate of the sanctuary, and pay the entry fee, ₹50–100 for Indians and more for foreigners and cameras, indicative. The trail is 4 km, broad and gently rising, through rhododendron and mixed forest. In March and April the flowers run from deep red through pink to white. Walk slowly and listen for birds; the guide will point out what he can. At the top, the Guras Kunj hut sits near the crest of the ridge. Stay out for sunset; it gets cold fast.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 3, "title": "Barsey dawn and back to Okhrey", "place": "okhrey", "overnight": "Okhrey", "drive": "≈ 4 km walk, 1.5 h · 30 min drive",
+     "text": "Be outside by 5:30 am. On a clear morning Kangchenjunga, Kabru and Pandim rise to the north as the light comes up; in spring haze it may be only a pink glow. After breakfast we walk back down to Hilley, about 1.5 hours, and drive to Okhrey for lunch. The afternoon is slow. Visit the village monastery, walk the village lanes and fields, and ask your hosts about Sherpa food and festivals. If you would like to buy local produce, chhurpi, the hard cheese, travels well.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 4, "title": "Okhrey back to the plains", "place": "siliguri", "overnight": "—", "drive": "≈ 130 km · 5–6 h",
+     "text": "We leave Okhrey after an early breakfast and drive back through Sombaria and down to Jorethang on the Rangeet. From there the road follows the river to Melli and the Teesta to Siliguri. Lunch in Jorethang or on the road. On a clear road you reach NJP, Siliguri or Bagdogra by mid-afternoon, so book flights after 4 pm or an evening train. If you would rather continue into the hills, Darjeeling is about 30 km from Jorethang, 1.5–2 hours, and Pelling is an easy same-day drive; we can change the drop for you.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["sherpa-lodge-okhrey"],
+  "includes": [
+    "2 nights in Okhrey and 1 night at Guras Kunj, on twin or shared rooms",
+    "All meals from Day 1 dinner to Day 4 breakfast",
+    "Car from Siliguri, NJP or Bagdogra to Okhrey and back, and to Hilley and back",
+    "Local guide for the walk on comfort and premium; naturalist guide and porter on premium",
+    "Sanctuary entry fees on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Sanctuary entry and camera fees on budget and comfort, ₹50–100 for Indians, more for foreigners, indicative",
+    "A porter on budget and comfort",
+    "Drinks, snacks and tips",
+    "Extra nights or costs caused by weather or road closures"
+  ],
+  "save_more": [
+    "Travel in the second half of March or early April on weekdays; homestay rates hold steady but Guras Kunj is easier to book.",
+    "Share the car: the transfer is the biggest cost, so four friends pay far less each than a couple.",
+    "Skip the porter; the 4 km trail is gentle and a 20-litre daypack is enough for one night."
+  ],
+  "good_to_know": [
+    "Guras Kunj has few beds and basic facilities; if it is full, we walk to Barsey and back in a day and sleep both nights in Okhrey.",
+    "Indians need no permit, but carry photo ID; the sanctuary runs along the Nepal border. Foreign nationals need the free Sikkim Restricted Area Permit. Check current status before you travel.",
+    "Nights on the ridge fall to around freezing in March, and snow is possible from December to February.",
+    "Rhododendron bloom dates shift by a week or two each year with the weather; check with us before you book.",
+    "There is no shop at Barsey; carry a torch, water bottle, warm layers and any snacks you want."
+  ],
+  "faqs": [
+    {"q": "When do rhododendrons bloom at Barsey", "a": "Rhododendrons at Barsey bloom from March to May, with the peak at the ridge, about 3,000 m, usually from mid-March to April. Lower slopes flower first and the higher ones later. The exact timing shifts by a week or two each year with the winter and the rain. For the best chance of full flowers, plan for the last week of March or the first half of April."},
+    {"q": "How long is the walk from Hilley to Barsey", "a": "The trail from Hilley to Barsey is 4 km, on a broad, gently rising path. Most people take 1.5–2 hours up and about 1.5 hours down, with stops for photos. It is the easiest of the main Sikkim forest walks and suits children of about 8 and older and fit seniors. Carry water, a warm layer and a rain jacket, as weather on the ridge changes fast."},
+    {"q": "Where can you stay at Barsey", "a": "The only lodging inside the sanctuary at the top is Guras Kunj, a simple trekkers' hut with shared rooms and basic meals. Most visitors stay in Okhrey, a Sherpa village below, in family homestays such as Sherpa Lodge, Kyilkhor Inn or Royal Barsey Homestay, and walk up from Hilley. Guras Kunj fills in the bloom season, so book early."},
+    {"q": "How do we reach Okhrey from NJP or Bagdogra", "a": "By road, about 130 km and 5–6 hours via Melli, Jorethang and Sombaria; Okhrey is about 10 km beyond Sombaria. A reserved car is the easiest way. Shared jeeps run from Siliguri and Darjeeling to Jorethang, but onward shared vehicles from Jorethang towards Sombaria are few, so ask at the Jorethang stand early and allow a full day."},
+    {"q": "Do we need a permit for Barsey Rhododendron Sanctuary", "a": "Indian nationals need no permit, only the sanctuary entry ticket at the gate and a photo ID, because the area runs along the Nepal border. Foreign nationals need the free Sikkim Restricted Area Permit, from e-FRRO online or at the Melli checkpost, and pay a higher entry fee. Check current status before you travel."},
+    {"q": "Can you see Kangchenjunga from Barsey", "a": "Yes, on clear mornings. From the Barsey ridge Kangchenjunga, Kabru and Pandim rise to the north. October to December gives the most reliable views; in March and April, during the bloom, haze often hides the peaks by mid-morning, so the dawn is your best chance. That is the main reason to spend the night at Guras Kunj rather than walking up and back in a day."},
+    {"q": "Is Barsey good for birdwatching", "a": "Yes, for patient walkers. The sanctuary's high forest holds birds such as the Tibetan serin and the spotted laughingthrush, among many others. Walk the Hilley trail in the early morning, when birds are most active and other walkers are few. Bring binoculars; the premium tier adds a naturalist guide who knows the calls."},
+    {"q": "What should we pack for a night at Barsey", "a": "Pack for cold: thermals, a fleece and a warm jacket, a cap and gloves, as the ridge is near freezing at night in March. Add a rain jacket, walking shoes with grip, a head torch, a water bottle and sunscreen. Hut bedding can be basic, so a light sleeping-bag liner helps. Keep your daypack under about 8 kg."},
+    {"q": "How much does the Barsey trip cost", "a": "Our 3-night plan starts from ₹10,000 per person on twin sharing, with homestay and hut nights, all meals and a shared car. Comfort, with a private SUV and a local guide, is about ₹14,500. Premium, with a naturalist guide, porter and fees, is about ₹22,000. All prices are indicative for 2026. A group of four sharing one car pays less each."}
+  ]
+}

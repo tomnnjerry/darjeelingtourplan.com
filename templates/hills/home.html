@@ -1,0 +1,163 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Darjeeling Tour Plan · Darjeeling, Sikkim and Bhutan trips, priced in the open{% endblock %}
+{% block body_attrs %} data-alt-from="122" data-alt-to="8586" data-alt-label="Climb" data-alt-marks='[["Siliguri",122],["Kurseong",1458],["Darjeeling",2042],["Ghum",2258],["Sandakphu",3636],["Nathu La",4310],["Gurudongmar",5430],["Kangchenjunga",8586]]'{% endblock %}
+{% block content %}
+<section class="hero" data-sky aria-labelledby="hero-h">
+  <div class="hero__sky" aria-hidden="true"></div>
+  <div class="hero__stars" aria-hidden="true"></div>
+  <svg class="hero__ridges" viewBox="0 0 1600 700" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+    <path class="snow" d="M0,470 L90,452 L170,432 L250,402 L330,352 L400,302 L450,270 L480,250 L505,262 L540,250 L580,232 L620,205 L670,178 L715,160 L750,148 L775,158 L800,170 L830,165 L860,190 L900,222 L950,250 L990,272 L1040,300 L1080,292 L1120,282 L1150,296 L1190,330 L1240,348 L1300,336 L1340,352 L1400,388 L1480,420 L1600,445 L1600,700 L0,700 Z"/>
+    <path class="snowlit" d="M0,470 L90,452 L170,432 L250,402 L330,352 L400,302 L450,270 L480,250 L505,262 L540,250 L580,232 L620,205 L670,178 L715,160 L750,148 L775,158 L800,170 L830,165 L860,190 L900,222 L950,250 L990,272 L1040,300 L1080,292 L1120,282 L1150,296 L1190,330 L1240,348 L1300,336 L1340,352 L1400,388 L1480,420 L1600,445 L1600,700 L0,700 Z"/>
+    <line class="peakline" x1="480" y1="226" x2="480" y2="244"/><text class="peaklabel" x="480" y="216" text-anchor="middle">Kabru 7,412 m</text>
+    <line class="peakline" x1="750" y1="122" x2="750" y2="140"/><text class="peaklabel" x="750" y="112" text-anchor="middle">Kangchenjunga 8,586 m</text>
+    <line class="peakline" x1="1120" y1="258" x2="1120" y2="276"/><text class="peaklabel" x="1120" y="248" text-anchor="middle">Pandim 6,691 m</text>
+    <path class="r1" data-ridge="r1" d="M0,520 C200,478 350,500 500,468 S800,502 950,480 S1300,468 1600,500 V700 H0 Z"/>
+    <path class="r2" data-ridge="r2" d="M0,582 C150,540 300,562 450,540 S700,590 900,555 S1250,560 1600,575 V700 H0 Z"/>
+    <g class="lights" data-ridge="lights"><circle cx="412" cy="552" r="1.6"/><circle cx="430" cy="548" r="1.3"/><circle cx="447" cy="545" r="1.7"/><circle cx="462" cy="547" r="1.2"/><circle cx="478" cy="550" r="1.5"/><circle cx="1210" cy="566" r="1.4"/><circle cx="1226" cy="563" r="1.7"/><circle cx="1240" cy="565" r="1.2"/></g>
+    <g data-ridge="r3"><path class="r3" d="M0,640 C200,600 380,630 560,610 S880,650 1100,620 S1400,640 1600,630 V700 H0 Z"/>
+      <path id="hc-track" class="track" d="M-60,652 C200,612 380,642 560,622 S880,662 1100,632 S1400,652 1660,642"/>
+      <g class="hero__train" data-train><rect x="-34" y="-11" width="12" height="8" rx="1.5"/><rect x="-20" y="-11" width="12" height="8" rx="1.5"/><rect x="-6" y="-14" width="10" height="11" rx="1"/><rect x="4" y="-10" width="8" height="7"/><rect x="5" y="-16" width="2.6" height="6"/></g>
+    </g>
+    <path class="r4" data-ridge="r4" d="M0,682 C260,660 520,690 780,670 S1300,692 1600,672 V700 H0 Z"/>
+  </svg>
+  <div class="hero__veil" aria-hidden="true"></div>
+  <div class="hero__now" aria-live="polite"><span>Darjeeling, right now</span><b data-ist>—</b><span class="phase" data-phase>Sky drawn from the real time of day</span><span data-wx="27.04,88.26" hidden><b data-wx-t style="font-size: 18px"></b> <span data-wx-w></span></span></div>
+  <div class="wrap hero__in">
+    <p class="eyebrow eyebrow--light">Darjeeling · Sikkim · Bhutan · Dooars</p>
+    <h1 class="h-hero" id="hero-h">The hills, planned well and priced fairly</h1>
+    <p class="lede">From the plains at Siliguri to the snowline: shared jeep or private car, homestay or heritage hotel, every trip priced three ways. And the stories behind each stop, told by people who know them.</p>
+    <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
+      <label><span>Where</span><select name="land"><option value="">Anywhere in the hills</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+      <label><span>When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+      <label><span>Budget per person</span><select name="budget"><option value="">Not sure</option><option value="under-15k">Under ₹15,000</option><option value="15-25k">₹15,000 – 25,000</option><option value="25-50k">₹25,000 – 50,000</option><option value="50k-plus">Above ₹50,000</option></select></label>
+      <input type="hidden" name="from" value="/">
+      <button class="btn" type="submit" data-cta="hero-finder">Get my free plan</button>
+    </form>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="lands-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Seven lands, one line up</p><h2 class="h-l" id="lands-h">Choose your station</h2>
+      <p class="lede">Each land has its own altitude, its own season and its own price. The yellow board tells you how high you will sleep.</p></div>
+      <a class="link-go" href="{% url 'lands' %}">Compare the lands {% icon "arrow" %}</a></div>
+    <div class="lands-rail">
+      {% for r in regions %}<a class="lcard rv" href="{{ r.url }}" data-land="{{ r.slug }}">
+        {% with img=r|first_img %}{% if img %}<img src="{{ img|src:960 }}" alt="" loading="lazy">{% endif %}{% endwith %}
+        {% include "hills/partials/board.html" with board_name=r.board board_alt=r.alt|intcomma_in %}
+        <span class="lbadge lbadge--foil">{% icon r.slug %}</span>
+        <span class="lcard__name" style="margin-top: 12px">{{ r.name }}</span>
+        <span class="lcard__line">{{ r.line }}</span>
+        <span class="lcard__pal">{{ r.palette }} · best {{ r.best_label }}</span>
+        <span class="lcard__go">Explore {% icon "arrow" %}</span>
+      </a>{% endfor %}
+      <a class="lcard lcard--ask rv" href="{% url 'tool_season' %}" data-cta="home-season-card">
+        <span class="lbadge lbadge--foil lbadge--lg" style="background: var(--gold-foil)">{% icon "sun" %}</span>
+        <span><span class="lcard__name">Not sure which?</span><span class="lcard__line" style="display: block">Choose your month. We show what is at its best, and what is cheapest.</span><span class="lcard__go" style="color: var(--signal)">Season finder {% icon "arrow" %}</span></span>
+      </a>
+    </div>
+  </div>
+</section>
+
+{% include "hills/partials/lungta.html" %}
+
+<section class="sec slab on-dark" aria-labelledby="budget-h" data-land="dooars">
+  <div class="wrap budgetband">
+    <div>
+      <p class="eyebrow">The affordable way up</p>
+      <h2 class="h-xl" id="budget-h">Same hills, <span class="accent">smaller bill</span></h2>
+      <p class="lede">Most of the cost of a hill trip sits in four places: the car, the room, the week you travel and the number of times you move. Here is how we bring each one down without making the trip worse.</p>
+      <ul class="savings" style="margin-top: 26px">
+        <li><span class="lbadge lbadge--foil">{% icon "jeep" %}</span><span><b>Share the jeep on transfer days</b><span>A seat in a shared jeep costs a fraction of a reserved car on the same road. We tell you which stand, which time and which seat.</span></span></li>
+        <li><span class="lbadge lbadge--foil">{% icon "calendar" %}</span><span><b>Travel in the shoulder weeks</b><span>Rates fall sharply outside the Puja holidays, Christmas week and April to June. Late November and February are clear and cheaper.</span></span></li>
+        <li><span class="lbadge lbadge--foil">{% icon "village" %}</span><span><b>Sleep in a village</b><span>Family homestays usually include dinner and breakfast and cost less than a town hotel plus meals.</span></span></li>
+        <li><span class="lbadge lbadge--foil">{% icon "route" %}</span><span><b>Move less</b><span>Two or three bases mean fewer car days, the single biggest line in most quotes.</span></span></li>
+      </ul>
+      <div class="hero__ctas" style="margin-top: 30px"><a class="btn btn--land" href="{% url 'affordable' %}" data-cta="home-affordable">See affordable trips</a><a class="btn btn--ghost" href="{% url 'tool_budget' %}" data-cta="home-calc">Work out a trip cost</a></div>
+    </div>
+    <div>
+      {% for r in regions %}{% if r.slug == "dooars" and r.budget.costs %}{% include "hills/partials/chalk.html" with rows=r.budget.costs chalk_title="Fares from Siliguri" %}{% endif %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="pk-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Tour packages</p><h2 class="h-l" id="pk-h">Tickets to ride</h2>
+      <p class="lede">One route from each land, priced from the budget fare. Every package also shows a comfort and a premium price, so you can see what each step up buys.</p></div>
+      <a class="link-go" href="{% url 'journeys' %}">Every package {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for j in featured %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  </div>
+</section>
+
+{% if stories %}<section class="sec sec--paper2" aria-labelledby="told-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Told in the hills</p><h2 class="h-l" id="told-h">Stories the brochures skip</h2>
+      <p class="lede">Every land page opens with a story: how a place got its name, who was here first, what the old trade carried. True, sourced, and told plainly.</p></div>
+      <a class="link-go" href="{% url 'journal' %}">More stories {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">
+      {% for r in stories %}<a class="card rv" href="{{ r.url }}#story" data-land="{{ r.slug }}">
+        {% photo r|nth_img:1 alt=r.story.title sizes="(max-width: 760px) 100vw, 33vw" credit=False %}
+        <span class="chip chip--land">{% icon r.slug %}{{ r.name }}</span>
+        <span class="card__title">{{ r.story.title }}</span>
+        <p>{{ r.story.paras.0|truncatewords:42 }}</p>
+        <span class="card__meta">Source: {{ r.story.source|truncatechars:90 }}</span>
+      </a>{% endfor %}
+    </div>
+    {% if facts %}<div style="margin-top: 60px"><p class="eyebrow">Pinned to the board</p><h3 class="h-m" style="margin-bottom: 26px">Did you know</h3>
+      <div class="chits chits--5">{% for r, f in facts %}<a class="chit rv" href="{{ r.url }}" data-land="{{ r.slug }}" style="text-decoration: none">{% icon r.slug %}<p>{{ f }}</p></a>{% endfor %}</div></div>{% endif %}
+  </div>
+</section>{% endif %}
+
+{% if in_season %}<section class="sec" aria-labelledby="now-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">At their best in {{ month }}</p><h2 class="h-l" id="now-h">Go now</h2>
+      <p class="lede">Places our almanac rates best for {{ month }}, across all seven lands.</p></div>
+      <a class="link-go" href="{% url 'tool_season' %}">Another month {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for p in in_season %}{% include "hills/partials/card_place.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec sec--paper2" aria-labelledby="alm-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">The almanac</p><h2 class="h-l" id="alm-h">Which land, which month</h2>
+      <p class="lede">Yellow means our best months, striped means good. Click a land for its month-by-month notes, with weather and what rates do.</p></div>
+      <a class="link-go" href="{% url 'seasons' %}">Full almanac {% icon "arrow" %}</a></div>
+    <div class="tbl-wrap"><table class="tbl almanac">
+      <thead><tr><th scope="col">Land</th>{% for m in months_short %}<th scope="col">{{ m }}</th>{% endfor %}</tr></thead>
+      <tbody>{% for r in regions %}<tr data-land="{{ r.slug }}"><th scope="row" style="background: transparent; color: var(--ink); text-transform: none; letter-spacing: 0; font: 400 18px/1.2 var(--f-display)"><a href="{{ r.url }}#months" style="text-decoration: none; display: inline-flex; gap: 8px; align-items: center"><span class="lbadge lbadge--sm lbadge--foil">{% icon r.slug %}</span>{{ r.name }}</a></th>{% for c in r.bar %}<td class="alm alm--{{ c.v }}" title="{{ r.name }} in {{ c.full }}"><a href="{% url 'region_month' r.slug c.full|lower %}" aria-label="{{ r.name }} in {{ c.full }}"></a></td>{% endfor %}</tr>{% endfor %}</tbody>
+    </table></div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="styles-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Trip styles</p><h2 class="h-l" id="styles-h">Travel the way you like</h2></div><a class="link-go" href="{% url 'themes' %}">Every style {% icon "arrow" %}</a></div>
+    <div class="styles">{% for t in themes %}<a class="style rv" href="{{ t.url }}"><span class="lbadge lbadge--ink">{% icon t.icon %}</span><b>{{ t.name }}</b><small>{{ t.tagline }}</small></a>{% endfor %}</div>
+  </div>
+</section>
+
+{% if budget %}<section class="sec sec--tint" aria-labelledby="cheap-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Lowest fare per night</p><h2 class="h-l" id="cheap-h">Good trips under a tight budget</h2></div><a class="link-go" href="{% url 'affordable' %}">Affordable trips {% icon "arrow" %}</a></div>
+    <div class="grid grid--4" data-fill>{% for j in budget %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  </div>
+</section>{% endif %}
+
+<section class="sec" aria-labelledby="read-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Read before you go</p><h2 class="h-l" id="read-h">Guides and festivals</h2></div><a class="link-go" href="{% url 'guides' %}">Every guide {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">
+      {% for g in guides %}{% include "hills/partials/card_guide.html" %}{% endfor %}
+    </div>
+    {% if festivals %}<div class="grid grid--3" style="margin-top: 26px">{% for f in festivals %}<a class="card rv" href="{{ f.url }}" data-land="{{ f.region }}">{% photo f|first_img alt=f.name sizes="33vw" credit=False %}<span class="chip chip--land">{% icon "flags" %}{{ f.when|truncatechars:48 }}</span><span class="card__title card__title--s">{{ f.name }}</span><span class="card__meta">{{ f.place_obj.name }}, {{ f.region_obj.name }}</span></a>{% endfor %}</div>{% endif %}
+  </div>
+</section>
+
+{% if posts %}<section class="sec sec--paper2" aria-labelledby="posts-h">
+  <div class="wrap">
+    <div class="sec-head"><div><p class="eyebrow">Stories</p><h2 class="h-l" id="posts-h">From the hill post</h2></div><a class="link-go" href="{% url 'journal' %}">All stories {% icon "arrow" %}</a></div>
+    <div class="grid grid--3">{% for d in posts %}<a class="card rv" href="{{ d.url }}"{% if d.land %} data-land="{{ d.land }}"{% endif %}>{% photo d|first_img alt=d.title sizes="33vw" credit=False %}<span class="chip chip--land">{{ d.category }} · {{ d.read_min }} min</span><span class="card__title card__title--s">{{ d.title }}</span><p>{{ d.summary|truncatewords:24 }}</p></a>{% endfor %}</div>
+  </div>
+</section>{% endif %}
+{% endblock %}

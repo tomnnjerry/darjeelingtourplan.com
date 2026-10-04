@@ -1,0 +1,177 @@
+{
+  "slug": "kalimpong",
+  "name": "Kalimpong",
+  "region": "kalimpong",
+  "kind": "hill town",
+  "wiki": "Kalimpong",
+  "image_query": "Kalimpong town hills",
+  "lat": 27.06,
+  "lng": 88.47,
+  "altitude_m": 1250,
+  "tagline": "A trade town on a ridge above the Teesta",
+  "meta_description": "Kalimpong travel guide: Durpin and Deolo, monasteries, Graham's Homes, nurseries, Haat Bazaar, real costs, shared jeeps and where to stay on any budget.",
+  "summary": "Kalimpong is a hill town at about 1,250 m on a ridge between Deolo and Durpin hills, 70–80 km from Siliguri. Give it two nights for monasteries, mission history, nurseries, the twice-weekly haat and Kanchenjunga views, and use it as the base for Lava, Pedong and the village homestays.",
+  "intro": [
+    "Kalimpong stretches along a saddle between two hills. Deolo, at 1,704 m, rises to the north-east above Dr. Graham's Homes; Durpin, at 1,372 m, carries the Zang Dhok Palri monastery and an army cantonment to the south-west. The town centre sits between them, around the Haat Bazaar and the main road, with the Teesta far below on one side and the Relli valley on the other. On clear days Kanchenjunga rises over West Sikkim.",
+    "It has never been a resort in the way Darjeeling is. Kalimpong grew as a market for the Tibet wool trade, then as a school town for the Scottish missions, and the old trading families, Tibetan, Bhutanese, Marwari and Nepali, still run many of its shops. Its nurseries grow orchids, cacti and gladioli for sale across India. The result is a busy, ordinary hill town with plenty of history once you know where to look.",
+    "For visitors that means fair prices and a relaxed pace. Two nights let you see Durpin and Deolo, the monasteries, the Lepcha Museum and MacFarlane Church, walk the haat on Wednesday or Saturday, and eat well for little. Kalimpong is also the practical base for day trips to Pedong, Sillery Gaon, Ramdhura and Icchey Gaon, and the starting point for Lava, Rishyap and Lolegaon."
+  ],
+  "story": {
+    "title": "Mules, wool and a Scottish mission",
+    "paras": [
+      "When the British took the hill tract from Bhutan under the Treaty of Sinchula in 1865, Kalimpong was a hamlet. Within a few decades it was the busiest Indian market for the Tibet trade. Caravans of mules came down from Jelep La through Pedong and Algarah carrying wool, furs and musk, and returned with cloth, metal goods, tobacco and tea. Wool was cleaned and baled in town godowns before going on to the plains.",
+      "The Church of Scotland arrived alongside the traders. Rev. William Macfarlane opened the first schools in the early 1870s, and the Gothic MacFarlane Memorial Church was opened on 1 November 1891. Rev. John Anderson Graham, who came in 1889, started the Kalimpong Mela, an agricultural fair, in 1891 and in 1900 opened a cottage home for six children below Deolo, which grew into Dr. Graham's Homes.",
+      "The wool trade ended when Jelep La was closed after the 1962 India–China war. Kalimpong lost its caravans but kept the schools, the monasteries founded with Tibetan and Bhutanese support, and families from both sides of the old frontier. That is why a single walk here can take in a Gelug monastery of 1912, a Scottish church of 1891 and a shop selling Tibetan prayer flags and Swiss-style cheese."
+    ],
+    "source": "Kalimpong, Dr. Graham's Homes, John Anderson Graham and Jelep La articles on Wikipedia; MacFarlane Memorial Church records"
+  },
+  "did_you_know": [
+    "Deolo, at 1,704 m, is the highest point in Kalimpong, and two of the three reservoirs on its top supply the town's drinking water.",
+    "Tharpa Choling, the Gelug monastery above the town, was founded in 1912 by Domo Geshe Rinpoche at the request of Tibetan merchants and Bhutanese leaders.",
+    "Rev. John Anderson Graham, founder of Dr. Graham's Homes, also started the Kalimpong Mela agricultural fair in 1891 and was Moderator of the Church of Scotland in 1931."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – May"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bagdogra (IXB), about 80 km"],
+    ["From Siliguri", "≈ 70 km · 2.5–3.5 h"],
+    ["Altitude", "About 1,250 m (Deolo 1,704 m)"],
+    ["Known for", "Monasteries, nurseries, mission schools, Haat Bazaar"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Zang Dhok Palri on Durpin", "text": "The Nyingma monastery on Durpin Hill was founded by Dudjom Rinpoche and consecrated by the Dalai Lama in 1976. It keeps 108 volumes of the Kangyur brought from Tibet, and its terraces look over the Teesta and Relli valleys to the Sikkim hills."},
+    {"title": "Deolo and Graham's Homes", "text": "Drive or walk up to Deolo for the park, reservoirs and the widest view in town, then come down past the cottages and chapel of Dr. Graham's Homes, founded in 1900. The school is a working campus, so admire it from the road unless invited."},
+    {"title": "Haat Bazaar days", "text": "On Wednesdays and Saturdays farmers bring vegetables, churpi, spices, brooms and handlooms to the Haat Bazaar near the town centre. Come early in the morning, carry small notes, and leave room for a plate of momos at the edge of the market."},
+    {"title": "Lepcha Museum", "text": "A small museum founded by the Padma Shri awardee Sonam Tshering Lepcha keeps Lepcha musical instruments, clothing, ritual objects and manuscripts. It is modest and sometimes closed without notice, but it is the best introduction to the people who lived here first."},
+    {"title": "Churches and monasteries", "text": "Walk from the Gothic MacFarlane Memorial Church of 1891 to Tharpa Choling, the Gelug monastery of 1912 above the town, and Thongsa Gompa from the Bhutanese era. Together they tell the story of a frontier town in about three hours."},
+    {"title": "Nurseries", "text": "Kalimpong grows orchids, cacti, amaryllis and gladioli for sale across India. Several family nurseries let visitors walk through their greenhouses for a small fee. Spring, March to May, is when the orchids and amaryllis are in flower."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps leave Siliguri from near the bus terminus and Panitanki More for Kalimpong when full, from early morning to mid-afternoon, at about ₹200–300 a seat, indicative for 2026. The ride takes 2.5–3.5 hours on NH10. From NJP or Bagdogra, take a local taxi to Siliguri first. NBSTC buses are cheaper and slower."},
+    {"mode": "Reserved car", "text": "A reserved small car or SUV from Bagdogra or NJP costs about ₹3,000–4,500, indicative for 2026, and takes about three hours. When NH10 is closed by landslides, drivers use the longer route via Malbazar, Gorubathan and Lava, or via Darjeeling and Peshok, and the fare rises. Check current status before you travel."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB), about 80 km away, with flights from Kolkata, Delhi, Mumbai, Bengaluru and other cities. The nearest major station is New Jalpaiguri (NJP), about 75 km away. The Sivok–Rangpo railway, under construction, will run below the Kalimpong hills but is not yet open."}
+  ],
+  "where_to_stay": "Stay in or near the town centre if you want to walk to the haat, cafés and monasteries; stay on Durpin or Deolo for views and quiet. On a budget, the WBTDC Deolo Tourist Lodge sits on the town's highest hill, and town-centre guesthouses near the main road cost little. In the comfort range, Morgan House on Durpin is a 1930s mansion run by WBTDC, Holumba Haven offers cottages in an orchid garden below town, and Sinclairs Retreat has a pool 5 km out. At the top end, Mayfair occupies the old Himalayan Hotel, the Elgin Silver Oaks is a small 1930s house in the centre, and Sterling Park is the Maharaja of Dinajpur's former summer house.",
+  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "sinclairs-retreat-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "sterling-park-kalimpong"],
+  "costs": [
+    ["Shared jeep from Siliguri", "₹200–300 a seat, indicative, 2026"],
+    ["Full-day sightseeing car", "₹2,500–3,500 per car, indicative, 2026"],
+    ["Deolo Park entry", "₹20–60 per person, indicative, 2026"],
+    ["Nursery visit", "Free–₹50 per person, indicative, 2026"],
+    ["Plate of momos at the bazaar", "₹60–150, indicative, 2026"],
+    ["Tandem paragliding at Deolo", "₹2,500–4,000, indicative, 2026"]
+  ],
+  "budget_tip": "Skip the fixed 'seven point' tour and split the sights: walk the town centre, churches and haat yourself, then hire a car for just three hours for Durpin and Deolo, which roughly halves the car cost.",
+  "tips": [
+    "Plan your town day for a Wednesday or Saturday to see the Haat Bazaar at its fullest.",
+    "Go up Durpin or Deolo before 8 am for the best chance of a clear Kanchenjunga.",
+    "Dr. Graham's Homes is a working school; view it from the road and do not enter classrooms or hostels without permission.",
+    "Most monasteries welcome visitors quietly; walk clockwise, ask before photographing inside the prayer hall, and keep shoes off where asked.",
+    "Buy Kalimpong lollipops and cheese from shops with a steady turnover so they are fresh."
+  ],
+  "themes": ["monasteries", "mountain-views", "food-and-markets", "birding-and-orchids", "budget-trips", "family-trips"],
+  "nearby": ["pedong", "ramdhura", "icchey-gaon", "teesta-bazaar"],
+  "experiences": [
+    {
+      "slug": "kalimpong-durpin-zang-dhok-palri-morning",
+      "title": "Durpin morning at Zang Dhok Palri",
+      "kind": "spiritual",
+      "duration": "2–3 hours",
+      "best_time": "Early mornings, Oct–Dec and Mar–Apr",
+      "cost": "Free entry; taxi ₹300–600 return, indicative",
+      "image_query": "Zang Dhok Palri Phodang Kalimpong",
+      "wiki": "Zang Dhok Palri Phodang",
+      "summary": "Climb Durpin at dawn for the Nyingma monastery that Dudjom Rinpoche founded and the Dalai Lama consecrated in 1976, with its library of Tibetan scriptures and terraces looking over the Teesta and Relli valleys toward Sikkim.",
+      "body": [
+        "Durpin Hill, at 1,372 m, is the southern end of the Kalimpong ridge. Most of it is army land, but the road to the top is open and leads to Zang Dhok Palri Phodang, a monastery of the Nyingma school. Its name refers to the 'Glorious Copper-Coloured Mountain', the pure land of Guru Rinpoche. Dudjom Rinpoche, the head of the Nyingma school in exile, founded it, and the Dalai Lama consecrated it in 1976.",
+        "Inside, the main hall has large painted images and shelves of scripture. The monastery keeps the 108 volumes of the Kangyur in Tibetan, part of a collection of rare texts that Dudjom Rinpoche brought out after the Chinese takeover of Tibet. Visitors are welcome to sit quietly at the back during morning prayers. Ask before photographing inside, and walk clockwise around the building and its prayer wheels.",
+        "We time this for early morning, when monks chant and the air is clearest. From the terraces you see the Teesta valley, the Relli valley and, on good days, the snows of West Sikkim. Combine it with tea at Morgan House just down the road, or a stop at the Durpin viewpoint. A taxi from town takes about 15 minutes; walking up takes about an hour."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "What are the timings of Zang Dhok Palri monastery", "a": "The monastery is usually open to visitors from early morning until late afternoon, roughly 7 am to 5 pm, with morning prayers in the early hours. Timings are not formally posted and change for festivals and ceremonies. Go before 9 am for chanting and clear views, and avoid arriving at dusk, when the hall may be closed."},
+        {"q": "Can I photograph inside Zang Dhok Palri", "a": "Photography is often discouraged or forbidden inside the main prayer hall, and rules vary with the presiding lama. Outside, on the terraces and around the building, photos are fine. Always ask a monk before photographing people or the interior, never use flash, and do not stand in front of the altar for pictures."},
+        {"q": "Is Durpin Hill open to tourists", "a": "Yes, the road to the monastery and viewpoint is open, though much of Durpin is an army cantonment. Stay on the main road, follow signs, and do not photograph military installations or the helipad. You may be asked to show ID at times. The golf course belongs to the army and is not a public sight."}
+      ]
+    },
+    {
+      "slug": "kalimpong-deolo-grahams-homes-walk",
+      "title": "Deolo hilltop and Graham's Homes walk",
+      "kind": "culture",
+      "duration": "3 hours",
+      "best_time": "Mornings, Oct–May",
+      "cost": "₹20–60 park entry; taxi up ₹300–500, indicative",
+      "image_query": "Dr Graham's Homes Kalimpong",
+      "wiki": "Dr. Graham's Homes",
+      "summary": "Ride up to Deolo, Kalimpong's highest point at 1,704 m, for the park and views, then walk down past the cottages and chapel of Dr. Graham's Homes, the school a Scottish missionary started with six children in 1900.",
+      "body": [
+        "Start at the top. Deolo holds the town's reservoirs, a landscaped park, the WBTDC tourist lodge and the take-off point for tandem paragliding. On a clear morning the view runs across the Relli and Teesta valleys to the West Sikkim hills and Kanchenjunga. The park charges a small entry fee and gets crowded with day-trippers by late morning, so arrive early.",
+        "Below Deolo lies the campus of Dr. Graham's Homes. Rev. John Anderson Graham, a Church of Scotland missionary who reached Kalimpong in 1889, opened a home for six children in a rented cottage on 24 September 1900, on land leased from the Bengal government. Cottages such as Woodburn, opened in 1901, followed, each run like a family house, and by the 1920s the Homes had a farm, hospital and gymnasium. The Katherine Graham Memorial Chapel, finished in 1925, is named for his wife.",
+        "Walk the public road through the estate rather than into school buildings: this is a working boarding school. The walk downhill to the town takes about an hour on a quiet road with pine and cryptomeria. On the way, the Kalimpong Science Centre and a Hindu temple on the Deolo road make short stops. Ask your driver to meet you lower down if you prefer a shorter walk."
+      ],
+      "good_for": ["families", "couples", "students", "first-timers"],
+      "faqs": [
+        {"q": "Can tourists visit Dr. Graham's Homes", "a": "You can see the campus from the public road that runs through and around it, but the buildings are a working school with boarding pupils, so classrooms, cottages and hostels are not open to casual visitors. The chapel and grounds may be visited with permission from the school office. Be quiet, do not photograph pupils, and respect school hours."},
+        {"q": "Is paragliding at Deolo safe", "a": "Tandem flights from Deolo are run by private operators with trained pilots and are popular from October to May. Safety depends on the operator and the weather. Ask to see the pilot's licence and the harness and reserve parachute, check that insurance is included, and do not fly in rain or strong wind. Expect about ₹2,500–4,000, indicative for 2026."},
+        {"q": "How high is Deolo Hill", "a": "Deolo is about 1,704 m above sea level, the highest point in Kalimpong, roughly 450 m above the town centre. The drive up takes 15–20 minutes. Its top holds the town's water reservoirs, a park and the WBTDC Deolo Tourist Lodge. It is noticeably cooler than town, so carry a layer."}
+      ]
+    },
+    {
+      "slug": "kalimpong-haat-bazaar-food-walk",
+      "title": "Haat Bazaar food walk and Kalimpong cheese",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Wednesday or Saturday mornings, all year",
+      "cost": "₹300–700 per person for tastings, indicative",
+      "image_query": "Kalimpong market haat bazaar",
+      "wiki": "Kalimpong cheese",
+      "summary": "Walk Kalimpong's twice-weekly haat with a local, taste hard churpi, shaphaley and momos, and pick up the town's two old-mission foods: Kalimpong cheese and milk lollipops, both rooted in a Swiss Jesuit dairy of the 1950s.",
+      "body": [
+        "The Haat Bazaar fills on Wednesdays and Saturdays, when farmers from the surrounding villages lay out ginger, cardamom, squash, greens, bamboo shoots, ferns and dried fish, alongside brooms, baskets and handloom shawls. Look for blocks of churpi, the hard cheese made from yak or cow milk and chewed for hours, and soft churpi used in soups and pickles. Bargain gently; most prices are fair to begin with.",
+        "Kalimpong cheese comes from a Swiss Jesuit, Father Andre Butty, who stayed in Kalimpong in the 1950s after he could not enter Tibet. He set up the Swiss Welfare Dairy to support a mission orphanage and made a mild, slightly crumbly cow's-milk cheese. The milk lollipops sold in long paper wrappers are the dairy's other legacy: milk reduced in iron pans, rolled and set on sticks. After the dairy closed, local families kept making them as a cottage industry.",
+        "Round off with Tibetan shaphaley, a fried bread stuffed with spiced meat, a bowl of thukpa, or Nepali sel roti from a tea stall. A good walk takes two to three hours and costs little beyond tastings. Wash raw fruit before eating, and choose busy stalls for cooked food."
+      ],
+      "good_for": ["couples", "solo", "students", "families", "photographers"],
+      "faqs": [
+        {"q": "Which days is the Kalimpong Haat Bazaar held", "a": "The main haat is held on Wednesdays and Saturdays, from early morning until early evening, near the town centre. Shops in the surrounding market stay open on other days, but the farmers' stalls and the crowd are biggest on haat days. Arrive between 8 and 11 am for the widest choice of produce and churpi."},
+        {"q": "Where can I buy Kalimpong cheese", "a": "Kalimpong cheese is made in small quantities and is not always in stock. Ask at the older grocery and provision stores near the main road and the haat, and at bakeries in town. Buy it vacuum-packed if you are travelling, and keep it cool. Milk lollipops are easier to find and are sold in most sweet and general shops."},
+        {"q": "What is churpi and is it safe to chew", "a": "Churpi is cheese made from yak or cow milk. Hard churpi is dried into very hard blocks that people chew slowly for an hour or more; soft churpi is used fresh in cooking. It is safe for most people, but go slowly with the hard kind if you have dental work, and avoid it if you are lactose intolerant."}
+      ]
+    },
+    {
+      "slug": "kalimpong-orchid-cactus-nursery-visit",
+      "title": "Orchid and cactus nurseries of Kalimpong",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Mar–May for flowers; Oct–Nov also good",
+      "cost": "Free–₹50 per person entry, indicative",
+      "image_query": "Kalimpong cactus nursery",
+      "wiki": "",
+      "summary": "Kalimpong is one of India's flower towns: about 300 orchid species grow around it, and family nurseries raise cacti, amaryllis and gladioli for sale nationwide. Visit two greenhouses, learn how bulbs are grown and buy plants you can legally carry.",
+      "body": [
+        "The town's mild climate, between hot plains and cold heights, suits a wide range of plants. About 300 orchid species are found in the surrounding forests, and Kalimpong is a major Indian centre for gladioli, alongside amaryllis, anthurium and many other bulbs. Nurseries here grew from British-era gardening and today sell to buyers across the country, with some exporting bulbs and tubers.",
+        "Several nurseries in and around town welcome visitors, charging a small fee or nothing. Cactus houses are especially popular, with rows of succulents from all over the world in glasshouses on steep terraces. Orchid nurseries are best in spring, from March to May, when many species flower. Staff will explain how plants are propagated and potted, and will pack small plants for travel.",
+        "We usually combine two nurseries with a monastery, as they sit close together in the town. Buy only nursery-raised plants with a bill, never wild orchids, and remember that taking plants out of India needs phytosanitary certificates. If you are flying home, small cacti and bulbs travel best in cabin bags."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "When is the best time to see orchids in Kalimpong", "a": "Spring is best, from March to May, when most of the orchids in nurseries and the surrounding forests flower, along with amaryllis and rhododendrons higher up. October and November are also pleasant for nursery visits, with fewer blooms. During the monsoon, from June to September, nurseries stay open but visits are wet and many paths are slippery."},
+        {"q": "Can I buy and carry orchids from Kalimpong", "a": "You can buy nursery-raised orchids, cacti and bulbs with a bill and carry them within India. Do not buy plants collected from the wild, which is illegal for protected species. Taking plants abroad needs a phytosanitary certificate and import permits in the destination country. Ask the nursery to pack plants for travel."},
+        {"q": "Do Kalimpong nurseries charge an entry fee", "a": "Some do, usually a small amount between free and ₹50 per person, indicative for 2026, and some waive it if you buy plants. Nurseries are working businesses, so keep to paths, do not touch plants without asking, and ask before photographing inside greenhouses. Most open in daylight hours and may close on Sundays."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "What is Kalimpong famous for", "a": "Kalimpong is known for its monasteries, especially Zang Dhok Palri on Durpin, its mission schools such as Dr. Graham's Homes, its nurseries of orchids and cacti, and its history as the market town of the Tibet wool trade over Jelep La. Food lovers know it for Kalimpong cheese, milk lollipops and churpi. It is also the base for Lava, Neora Valley and village homestays."},
+    {"q": "How far is Kalimpong from Siliguri and how long does it take", "a": "Kalimpong is about 70 km from Siliguri by NH10, which takes 2.5 to 3.5 hours. From Bagdogra airport it is about 80 km and from NJP station about 75 km. When NH10 is closed by landslides, the detour via Malbazar, Gorubathan and Lava adds about two hours. Check current status before you travel."},
+    {"q": "How many days do I need in Kalimpong", "a": "Two nights is right for most people: one day for the town, monasteries, haat and nurseries, and one for Durpin, Deolo and a short trip to Pedong or Ramdhura. Add more nights if you want village stays at Lava, Rishyap or Lolegaon. One night is too short, as the drive up takes half a day."},
+    {"q": "Is Kalimpong better than Darjeeling", "a": "It is different rather than better. Kalimpong is quieter, cheaper and less crowded, with monasteries, nurseries and a trading-town feel. Darjeeling has the toy train, tea estates and Tiger Hill. If you have five nights, do both: they are about 50 km apart via Teesta Bazaar and Peshok, roughly 2.5 hours by road."},
+    {"q": "What is the best time to visit Kalimpong", "a": "October to December gives the clearest mountain views, and March to May brings flowers in the nurseries and forests. January and February are cold but clear and quiet. Avoid mid-June to mid-September, when heavy rain brings landslides and closures on NH10. Durga Puja, Christmas and May school holidays are the busiest and costliest times."},
+    {"q": "Can I see Kanchenjunga from Kalimpong", "a": "Yes, on clear days. Kanchenjunga is visible from Durpin, Deolo and many hotels on the ridge, best at sunrise from October to December and on clear mornings from January to April. From May to September clouds usually hide it. For bigger, closer views, go to Rishyap, Lolegaon or Sillery Gaon."},
+    {"q": "Is Kalimpong safe for solo women travellers", "a": "Kalimpong is generally considered safe and friendly, with a relaxed town centre and low street crime. Normal precautions apply: use registered taxis or shared jeeps from official stands, avoid isolated roads after dark, and tell your hotel your plans for village trips. Homestays in the surrounding villages are family-run and widely recommended by solo travellers."},
+    {"q": "What should I buy in Kalimpong", "a": "Good buys are Kalimpong cheese and milk lollipops, hard churpi, local ginger and cardamom, nursery-raised cacti and bulbs, Tibetan and Bhutanese handicrafts, prayer flags and handloom shawls. Shop at the Haat Bazaar on Wednesday or Saturday for local produce. Prices are fair, and gentle bargaining is normal for crafts."},
+    {"q": "Is there an ATM and mobile network in Kalimpong", "a": "Yes. Kalimpong town has several bank ATMs and good mobile coverage from the main networks, with 4G in most of the town. Coverage weakens in the villages, especially around Lolegaon, Kolakham and inside Neora Valley, so withdraw cash in Kalimpong before heading out, as many homestays prefer cash or UPI."}
+  ]
+}

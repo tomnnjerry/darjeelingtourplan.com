@@ -1,0 +1,17 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ name }}{% if r %} in {{ r.name }}{% else %} in Darjeeling, Sikkim and Bhutan{% endif %} · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ tagline }}. {{ intro|truncatechars:120 }}{% endblock %}
+{% block body_attrs %}{% if r %} data-land="{{ r.slug }}"{% endif %}{% endblock %}
+{% block content %}
+<header class="phead phead--slab on-dark"><div class="wrap phead__in">
+  <span class="lbadge lbadge--foil lbadge--lg">{% icon kind %}</span>
+  <p class="eyebrow">Experiences{% if r %} · {{ r.name }}{% endif %}</p>
+  <h1 class="h-xl">{{ name }}{% if r %} in {{ r.short }}{% endif %}</h1>
+  <p class="lede"><b>{{ tagline }}.</b> {{ intro }}</p>
+</div></header>
+<section class="sec"><div class="wrap">
+  {% if not r and lands %}<div class="filters" role="group" aria-label="Land" data-filter-group="#kind-grid"><button type="button" data-key="region" data-value="" aria-pressed="true">All lands</button>{% for l in lands %}<button type="button" data-key="region" data-value="{{ l.slug }}" aria-pressed="false">{{ l.name }}</button>{% endfor %}</div>{% endif %}
+  <div class="grid grid--4" id="kind-grid" data-fill>{% for e in exps %}{% include "hills/partials/card_exp.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div>
+  {% if others %}<p class="eyebrow" style="margin-top: 40px">Other kinds</p><div class="chip-row">{% for k, n in others %}<a class="chip chip--land" href="{% if r %}{% url 'region_kind' r.slug k %}{% else %}{% url 'experience_kind' k %}{% endif %}">{% icon k %}{{ n }}</a>{% endfor %}</div>{% endif %}
+</div></section>
+{% endblock %}

@@ -1,0 +1,139 @@
+{
+  "slug": "mangan",
+  "name": "Mangan and Singhik",
+  "region": "north-sikkim",
+  "kind": "hill town",
+  "wiki": "Mangan, India",
+  "image_query": "Mangan town North Sikkim",
+  "lat": 27.52,
+  "lng": 88.53,
+  "altitude_m": 1000,
+  "tagline": "District town of cardamom, with Kanchenjunga from Singhik",
+  "meta_description": "Mangan and Singhik, North Sikkim: no-permit stop for Indians, Kanchenjunga and Siniolchu views, cardamom, the Dzongu gateway, stays and shared jeep fares.",
+  "summary": "Mangan is the headquarters of Mangan district, about 65 km from Gangtok, on a ridge above the Teesta. Four km on, Singhik looks straight at Kanchenjunga and Siniolchu. Indians need no Protected Area Permit here, so it is the cheapest overnight in the north and the gateway to Dzongu.",
+  "intro": [
+    "Mangan is a small administrative town, the headquarters of what was North Sikkim district until 2021 and is now Mangan district. It stands above the Teesta at roughly 1,000 m, with offices, a bazaar, schools, a hospital and a jeep stand. The 2011 census counted about 4,600 people. It is not pretty in the postcard sense, but it is real, cheap and friendly.",
+    "Four kilometres further up the highway is Singhik, a Lepcha village at about 1,560 m on a ridge with one of the best views in Sikkim: the Kanchenjunga massif and Siniolchu, 6,888 m, straight across the valley. The Mangan district administration lists a tourist lodge here, and on clear winter mornings the view alone justifies a night.",
+    "For Indian travellers, Mangan and Singhik lie on the open stretch of the North Sikkim Highway, below the Toong checkpost, so you can visit by shared jeep without a Protected Area Permit. That makes them ideal for budget travellers, for anyone whose North Sikkim permit is delayed and as a base for Dzongu, which lies just across the Teesta via the Sanklang bridge."
+  ],
+  "story": {
+    "title": "The large cardamom capital of the world",
+    "paras": [
+      "Mangan district calls itself the large cardamom capital of the world. Large cardamom, also called black cardamom, is a different plant from the small green cardamom of South India. It grows in shaded, damp gullies under trees such as alder, and its big, smoky pods flavour curries, garam masala and teas across South Asia.",
+      "The climate and terrain of the district suit it well, and for many Lepcha and Nepali farming families in Mangan and Dzongu it is the main cash crop. Pods are harvested in autumn, from about August to November, and dried over wood fires in simple kilns called bhattis, which gives them their smoky taste.",
+      "Cardamom also explains the landscape you see from Singhik. The dark patches of forest on the slopes below the villages are often cardamom plantations under shade trees, not wild jungle. Ask in the Mangan bazaar for a small bag of local pods; they make a better souvenir than anything plastic."
+    ],
+    "source": "Wikipedia, 'Mangan district' and 'Black cardamom'; Mangan district administration"
+  },
+  "did_you_know": [
+    "Mangan district is the largest of Sikkim's six districts by area and had about 43,700 people in 2011, among the lowest totals in India.",
+    "Siniolchu, visible from Singhik, was first climbed in 1936 by the German climbers Karl Wien and Adi Göttner.",
+    "The powerhouse of the Teesta-III project was built at Singhik, downstream of the dam at Chungthang."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 180 km"],
+    ["From Gangtok", "≈ 65 km · 3 h"],
+    ["Altitude", "≈ 1,000 m (Mangan), 1,560 m (Singhik)"],
+    ["Known for", "Kanchenjunga view, cardamom, Dzongu gateway"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1",
+  "highlights": [
+    {"title": "Kanchenjunga from Singhik", "text": "On clear mornings, mostly October to April, the Kanchenjunga massif and Siniolchu fill the skyline from the Singhik ridge. Sunrise lights the peaks pink. Stay a night and be outside by 5.30–6 am."},
+    {"title": "Gateway to Dzongu", "text": "Mangan is where you cross into the Lepcha reserve of Dzongu, by the Sanklang bridge rebuilt in 2025. Homestays pick guests up from the Mangan bazaar once their permit is ready."},
+    {"title": "A permit-free night for Indians", "text": "Mangan and Singhik need no Protected Area Permit for Indian citizens. If your Lachung permit is delayed, or you want a cheaper night closer to the north, this is the place."},
+    {"title": "Cardamom country", "text": "Look for cardamom groves under shade trees on the slopes, and drying kilns in autumn. Local pods are sold in the bazaar at fair prices, often cheaper than in Gangtok."},
+    {"title": "Naga waterfall on the road north", "text": "Between Mangan and Chungthang, the Naga waterfall drops close to the highway. It is a regular photo stop for North Sikkim vehicles; in monsoon it is huge, in winter a thin ribbon."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps leave Gangtok's North Sikkim stand for Mangan through the morning; a seat costs about ₹250–350, indicative, 2026. From Mangan, local jeeps and taxis go on to Singhik, 4 km, for a small fare. No PAP is needed for Indians."},
+    {"mode": "Reserved car", "text": "A reserved car from Gangtok to Mangan or Singhik costs about ₹3,500–4,500 one way, indicative, 2026. From NJP or Bagdogra directly, via Singtam and Dikchu, expect about ₹6,000–8,000."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the railhead NJP, about 160–185 km away depending on route. Shared jeeps from Siliguri to Mangan run on some days; otherwise change at Gangtok or Singtam."}
+  ],
+  "where_to_stay": "Mangan has simple hotels and lodges in and around the bazaar, mostly used by officials and business travellers. For views, stay at Singhik, 4 km up the highway: the government-owned Singhik Bungalow, listed by the district as a tourist lodge, has Kanchenjunga views and simple rooms, and small homestays line the ridge. Check current status before you travel, as operators of government lodges change. For Dzongu homestays, see our Dzongu page.",
+  "stays": ["singhik-bungalow-mangan"],
+  "costs": [
+    ["Shared jeep Gangtok → Mangan", "₹250–350 a seat, indicative, 2026"],
+    ["Reserved car Gangtok → Mangan", "₹3,500–4,500 one way, indicative, 2026"],
+    ["Local taxi Mangan → Singhik", "₹200–400, indicative, 2026"],
+    ["Simple hotel room in Mangan", "₹1,200–2,500 a night, indicative, 2026"],
+    ["Large cardamom, 100 g in the bazaar", "₹150–300, indicative, 2026"]
+  ],
+  "budget_tip": "Indians can sleep in Mangan or Singhik without a permit and join a North Sikkim group vehicle the next morning only if the operator agrees in advance; otherwise use Mangan as a cheap base for Dzongu.",
+  "tips": [
+    "Get up before sunrise at Singhik; cloud usually covers the peaks by 9 am.",
+    "Buy cardamom in the bazaar, not at highway souvenir stalls.",
+    "Shared jeeps from Gangtok fill early; be at the stand by 7–8 am.",
+    "Foreign nationals should check whether their permit covers Mangan.",
+    "Ask at the district office or your homestay about Dzongu permits."
+  ],
+  "themes": ["mountain-views", "budget-trips", "food-and-markets", "village-homestays"],
+  "nearby": ["dzongu", "chungthang", "phodong", "kabi-lungchok"],
+  "experiences": [
+    {"slug": "mangan-singhik-kanchenjunga-sunrise", "title": "Kanchenjunga sunrise from Singhik", "kind": "nature", "duration": "1 hour", "best_time": "5.30–7 am, Oct–Apr", "cost": "Free", "image_query": "Singhik Kanchenjunga view", "wiki": "Singhik",
+      "summary": "From the Singhik ridge, 4 km above Mangan, the Kanchenjunga massif and the sharp pyramid of Siniolchu stand directly across the valley. Sunrise on a clear winter morning is one of the great free views of Sikkim.",
+      "body": [
+        "Singhik is a Lepcha village of about 1,560 m strung along the North Sikkim Highway, where the ridge drops steeply to the Teesta. Across the valley, the mountains of the Khangchendzonga range rise in a wall. The Mangan district administration singles out the views of Kanchenjunga and Siniolchu from here.",
+        "Siniolchu, 6,888 m, was described by the mountaineer Douglas Freshfield as among the most beautiful snow mountains in the world. From Singhik you see it as a sharp, fluted peak close to Kanchenjunga's bulk. At sunrise the peaks turn pink, then gold, then white.",
+        "Stay a night at Singhik or Mangan and be outside by 5.30 am in winter, 5 am in spring. October to April gives the best odds of a clear sky. Bring a warm layer and a flask of tea. By 8–9 am cloud usually rises from the valleys and the show is over."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "solo"],
+      "faqs": [
+        {"q": "Can you see Kanchenjunga from Mangan", "a": "Yes, on clear days, and the view is best from Singhik, 4 km up the highway, where the ridge faces the Khangchendzonga range and Siniolchu directly. October to April gives the clearest mornings. Clouds usually build by mid-morning, so go at sunrise."},
+        {"q": "What is Siniolchu", "a": "Siniolchu is a 6,888 m peak in North Sikkim, near Kanchenjunga, admired for its sharp, fluted shape. Douglas Freshfield called it among the most beautiful snow mountains in the world. It was first climbed in 1936 by Karl Wien and Adi Göttner. It is clearly visible from Singhik."},
+        {"q": "Do I need a permit for Singhik", "a": "Indian citizens do not need a Protected Area Permit for Singhik or Mangan, which lie below the Toong checkpost on the North Sikkim Highway. Foreign nationals should check current rules with their operator. Check current status before you travel."}
+      ]},
+    {"slug": "mangan-cardamom-bazaar", "title": "Cardamom and the Mangan bazaar", "kind": "food", "duration": "1 hour", "best_time": "Mornings; Aug–Nov for fresh harvest", "cost": "₹150–300 per 100 g of cardamom, indicative, 2026", "image_query": "black cardamom Sikkim large cardamom", "wiki": "Black cardamom",
+      "summary": "Walk the small Mangan bazaar, where farmers from Dzongu and the surrounding villages sell large cardamom, oranges in winter, greens and local cheese. Buy cardamom here; it is what the district is known for.",
+      "body": [
+        "Mangan's bazaar is small and practical: grocers, hardware shops, tea houses and a few stalls selling produce from nearby villages. On market mornings, farmers bring greens, beans, oranges in winter, chhurpi (hard yak or cow cheese) and, in season, sacks of large cardamom.",
+        "Large cardamom pods are dark brown, wrinkled and much bigger than green cardamom, with a smoky smell from being dried over wood fires. Choose whole, firm pods without mould. A 100 g pack is plenty for a family kitchen for months; expect ₹150–300, indicative, 2026, depending on season and quality.",
+        "Have tea and a plate of momos at one of the small restaurants and watch the jeeps load up for Lachung, Chungthang and Dzongu. If you are in Mangan between August and November, ask whether anyone can show you a cardamom drying kiln on the edge of town."
+      ],
+      "good_for": ["families", "seniors", "students"],
+      "faqs": [
+        {"q": "Why is Mangan called the cardamom capital", "a": "Mangan district grows a great deal of large cardamom, also called black cardamom, in its shaded, damp valleys, and the district describes itself as the large cardamom capital of the world. It is a major cash crop for farmers in Mangan, Dzongu and the surrounding villages."},
+        {"q": "When is cardamom harvested in Sikkim", "a": "Large cardamom is usually harvested from about August to November, then dried over wood fires in simple kilns, which gives it a smoky aroma. Fresh-season pods reach the Mangan and Gangtok markets in autumn and winter. Dried pods are available year-round."},
+        {"q": "Where can I buy cardamom in North Sikkim", "a": "The Mangan bazaar is a good place, with local pods at fair prices. You can also buy in Gangtok's Lal Bazaar. Look for whole, firm, dry pods without mould or dust. Avoid buying from roadside stalls catering only to tourists, where prices are higher."}
+      ]},
+    {"slug": "mangan-naga-waterfall-stop", "title": "Naga waterfall on the North Sikkim Highway", "kind": "nature", "duration": "15–20 minutes", "best_time": "Sep–Nov when full, any time when passing", "cost": "Free", "image_query": "Naga waterfall North Sikkim", "wiki": "",
+      "summary": "Between Mangan and Chungthang the Naga waterfall comes down beside the highway. It is a regular photo halt on the way to Lachung or Lachen. Stop briefly and stay off the road.",
+      "body": [
+        "North Sikkim's highway is lined with waterfalls, and the Naga waterfall, between Mangan and Chungthang, is one of the best known. It drops in stages down a steep rock face close to the road. After the monsoon, in September and October, it is loud and full; by late winter it can shrink to a thin stream.",
+        "Drivers usually pull over briefly for photos. The space is limited, and trucks and army vehicles use the road, so step well back from the edge and keep children by the hand. Spray makes the rocks slippery; do not climb them.",
+        "This stretch of road is also prone to landslides, especially in the monsoon. If your driver does not want to stop, there will be a reason. You will pass many more waterfalls on the way up."
+      ],
+      "good_for": ["families", "photographers", "first-timers"],
+      "faqs": [
+        {"q": "Where is Naga waterfall in Sikkim", "a": "Naga waterfall is on the North Sikkim Highway between Mangan and Chungthang, close to the road. Vehicles heading to Lachung or Lachen pass it and often stop briefly for photos. It is fullest after the monsoon, in September and October."},
+        {"q": "Is there an entry fee at Naga waterfall", "a": "No. It is a roadside waterfall with no ticket or facilities. Stop only where your driver says it is safe, stand well back from traffic and do not climb the wet rocks. Stops are short because the road is narrow and busy."},
+        {"q": "Do I need a permit to see Naga waterfall", "a": "The waterfall is beyond Mangan on the road towards Chungthang. Depending on its position relative to the Toong checkpost, you may need your North Sikkim permit to reach it. In practice, most visitors see it on their Lachung or Lachen trip. Ask your operator."}
+      ]},
+    {"slug": "mangan-singhik-ridge-walk", "title": "A ridge walk from Singhik to Mangan", "kind": "village", "duration": "1.5–2 hours", "best_time": "Mornings, Oct–Apr", "cost": "Free", "image_query": "Singhik village ridge Sikkim", "wiki": "",
+      "summary": "Walk the 4 km between Singhik and Mangan along the highway and village shortcuts, past Lepcha houses, orange trees and cardamom slopes, with the Teesta far below and the Khangchendzonga range ahead.",
+      "body": [
+        "Singhik and Mangan are about 4 km apart on the North Sikkim Highway. Walking from Singhik down to Mangan after sunrise is an easy way to see village life: children going to school, farmers carrying loads, prayer flags and small shrines, and terraces dropping steeply towards the Teesta.",
+        "Most of the way follows the highway, so walk facing traffic and keep to the side. Ask locals about footpath shortcuts between bends; they will often point you down steps between houses. In winter the orange trees around Singhik and Mangan carry fruit, and sellers set up by the road.",
+        "Finish in the Mangan bazaar with tea and a snack, then take a shared jeep or taxi back if you are staying at Singhik. It is a simple, free morning that shows you a side of North Sikkim most tourists drive straight past."
+      ],
+      "good_for": ["solo", "couples", "students", "seniors"],
+      "faqs": [
+        {"q": "How far is Singhik from Mangan", "a": "About 4 km along the North Sikkim Highway. By car it takes 10 minutes; walking downhill from Singhik to Mangan takes about an hour, more with stops. Local taxis run between the two for a small fare, about ₹200–400, indicative, 2026."},
+        {"q": "Is it safe to walk on the North Sikkim Highway", "a": "Short stretches near villages are walked by locals every day. Walk facing traffic, keep to the side, avoid blind bends where possible and wear something visible. Do not walk after dark or in heavy rain, when landslides and poor visibility add risk."},
+        {"q": "What else is there to do in Mangan", "a": "Walk the bazaar, buy cardamom, watch sunrise from Singhik, and use the town as a base for Dzongu homestays or a day trip to Phodong and Kabi Lungchok on the way back to Gangtok. It is a quiet place, best for a night rather than a long stay."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "How far is Mangan from Gangtok", "a": "About 65 km by the North Sikkim Highway, through Kabi and Phodong. The drive takes about 3 hours in good conditions. Shared jeeps leave Gangtok's North Sikkim stand through the morning, about ₹250–350 a seat, indicative, 2026."},
+    {"q": "Do I need a permit for Mangan", "a": "Indian citizens do not need a Protected Area Permit for Mangan or Singhik. The permit is needed beyond the Toong checkpost for Chungthang, Lachung and Lachen, and a separate permit for Dzongu. Foreign nationals should confirm current rules. Check current status before you travel."},
+    {"q": "Is Mangan worth a night", "a": "Yes, if you want a cheap, quiet night with a Kanchenjunga sunrise, especially at Singhik, or if you are heading to Dzongu. It is also a useful fallback if your Lachung permit or road is delayed. As a destination in itself, one night is enough."},
+    {"q": "What is the altitude of Mangan", "a": "Mangan town is at roughly 1,000 m; Wikipedia gives an average of 956 m. Singhik, 4 km up the highway, is at about 1,560 m. Both are mild compared with Lachung or Lachen, comfortable year-round and cool in winter, with no altitude concerns for healthy visitors."},
+    {"q": "Where should I stay in Mangan", "a": "For views, stay at Singhik: the government-owned Singhik Bungalow and small homestays look straight at Kanchenjunga. Mangan town has simple hotels and lodges near the bazaar. For a Lepcha village stay, cross into Dzongu. Check current status before you travel."},
+    {"q": "Why was North Sikkim renamed Mangan district", "a": "In 2021 Sikkim reorganised and renamed its districts, and North Sikkim district became Mangan district, after its headquarters town. The area is the same. Many travel operators still use the name North Sikkim, which is why you will see both."},
+    {"q": "Can I go from Siliguri directly to Mangan", "a": "Yes. The shorter route from Siliguri runs via Sevoke, Rangpo, Singtam and Dikchu to Mangan without entering Gangtok, about 160–185 km depending on route and 6–7 hours. Shared jeeps on this route run on some days; a reserved car costs about ₹6,000–8,000, indicative, 2026."},
+    {"q": "When is the best time to visit Mangan", "a": "October to April, when skies are clearest and Kanchenjunga is visible from Singhik on most mornings. Autumn is cardamom harvest season. June to September is monsoon, with rain, cloud and landslides on the highway, and few views."},
+    {"q": "Is there an ATM in Mangan", "a": "Yes. Mangan has branches of several banks, including SBI, Central Bank of India, Canara Bank and UCO Bank, according to listings. ATMs are more reliable here than further north, so withdraw what you need for Lachung, Lachen or Dzongu before going on."}
+  ]
+}

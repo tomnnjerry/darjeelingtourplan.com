@@ -1,0 +1,174 @@
+{
+  "slug": "lataguri",
+  "name": "Lataguri",
+  "region": "dooars",
+  "kind": "village",
+  "wiki": "Lataguri",
+  "image_query": "Lataguri Gorumara forest road",
+  "lat": 26.72,
+  "lng": 88.77,
+  "altitude_m": 100,
+  "tagline": "The base for Gorumara, with forest on both sides of the road",
+  "meta_description": "Lataguri travel guide: how to reach from Siliguri, Gorumara safari counter, where to stay on any budget, Rajbanshi food, Jalpesh temple and Gajoldoba birds.",
+  "summary": "Lataguri is a small market town on the highway through Gorumara forest, about 80 km and 2–2.5 hours from Siliguri. It has the park's safari counter, dozens of lodges and resorts, and easy day trips to the Jalpesh temple, the Teesta barrage at Gajoldoba and the tea gardens around Malbazar. Two nights is right.",
+  "intro": [
+    "Lataguri is what most people mean when they say they are going to the Dooars. It is a one-road town on the highway between Malbazar and Maynaguri, with Gorumara National Park on its north side and more forest to the south. The Gorumara Nature Interpretation Centre, where safari and watchtower tickets are sold, is here, and so are most of the forest jeeps. Lodges, homestays and resorts line the road and the lanes behind it, from ₹1,200 rooms to resorts with pools.",
+    "It is not a pretty town in itself: a strip of shops, tea stalls, petrol pumps and resort gates. The point is what is on either side. Elephants cross the highway at night, peafowl call from the forest edge at dawn, and on a winter morning you can be on a watchtower 20 minutes after leaving your room. In the evening, lodges arrange Adivasi and Rajbanshi dance programmes around a fire, and the forest is quiet enough that you hear it through your window.",
+    "Lataguri is also the most convenient hub for the western Dooars. Murti and Chalsa are 20–30 minutes away, Samsing and Rocky Island about an hour, Jhalong and Bindu about two. The Jalpesh temple near Maynaguri and the Teesta barrage at Gajoldoba both make good half-days. Jaldapara is about two hours east. We usually suggest two nights here, with one safari and one watchtower session, before moving on."
+  ],
+  "story": {
+    "title": "A forest town on an old elephant road",
+    "paras": [
+      "Lataguri sits in the forest belt that the British reserved in the late nineteenth century, when they were clearing the rest of the western Dooars for tea. The reserved blocks around Gorumara were kept for timber, and the old highway and the Dooars railway line both cut through them. That is why the town is squeezed into a narrow corridor with forest on both sides, and why elephants still use the same crossings their ancestors did.",
+      "Gorumara was declared a wildlife sanctuary in 1949 and a national park in 1992. As it became known for its rhinos and watchtowers, Lataguri grew from a few forest quarters and a weekly market into a tourism town. That growth puts pressure on the forest edge: loud music, bright lights and fireworks carry far into the park at night and disturb animals that cross the highway. Choose a lodge that keeps the evenings quiet, and you will hear more of the forest too."
+    ],
+    "source": "Wikipedia 'Gorumara National Park' (sanctuary 1949, national park 1992); Wikipedia 'Dooars'"
+  },
+  "did_you_know": [
+    "Gorumara National Park, whose main gate is at Lataguri, was rated the best protected area in India for 2009 by the Ministry of Environment and Forests.",
+    "The Jalpesh temple near Maynaguri, a short drive from Lataguri, was first built in 1524 under Bishwa Singha of the Koch dynasty.",
+    "Gajoldoba on the Teesta, an hour from Lataguri, is where the first Dooars tea garden was opened in 1874."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 90 km"],
+    ["From Siliguri", "≈ 80 km · 2–2.5 h"],
+    ["Nearest station", "New Mal Junction, ≈ 10 km"],
+    ["Known for", "Gorumara safaris, forest lodges, Rajbanshi food"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Safari counter on your doorstep", "text": "The Gorumara Nature Interpretation Centre at Lataguri sells jeep safari and watchtower tickets and has a small exhibit on the park. Forest jeeps queue nearby. From most lodges you can be at a watchtower within 20–30 minutes of waking up."},
+    {"title": "Every budget in one town", "text": "Lataguri has the widest range of rooms in the Dooars: forest corporation cottages, family-run lodges at ₹1,200–2,500, mid-range resorts at ₹3,000–6,000 and a few comfortable resorts with pools. Mid-week rooms are easy to find outside Puja and Christmas."},
+    {"title": "Jalpesh temple", "text": "About 25 km south-east near Maynaguri, the Jalpesh Shiva temple has been rebuilt several times since 1524 by the Koch kings. Its Shivaratri fair draws huge crowds; on ordinary days it is a quiet, impressive stop."},
+    {"title": "Gajoldoba and the Teesta barrage", "text": "On the way from Siliguri, the Teesta barrage at Gajoldoba holds a wide reservoir where thousands of migrant ducks winter. Fishermen take visitors out in boats in the morning. It is also where the Dooars' first tea garden began in 1874."},
+    {"title": "Evening dance programmes", "text": "Many lodges and forest camps arrange Adivasi or Rajbanshi folk dance in the evening for a fee. Treat it as a performance by local groups who are paid for their work, not as a glimpse of village life, and tip the dancers directly."}
+  ],
+  "how_to_reach": [
+    {"mode": "Bus / shared vehicle", "text": "NBSTC and private buses leave the Tenzing Norgay terminus in Siliguri for Malbazar, Maynaguri and Jalpaiguri; some pass through Lataguri, others need a change at Malbazar. Expect ₹100–200, indicative 2026, and two and a half to three hours. Shared vehicles run between Malbazar and Lataguri through the day."},
+    {"mode": "Reserved car", "text": "A reserved car from NJP, Siliguri or Bagdogra costs about ₹2,800–3,800, indicative 2026, for the 80 km drive via Sevoke, the Coronation Bridge, Odlabari and Malbazar. It takes two to two and a half hours. Most lodges can arrange pickup."},
+    {"mode": "Rail", "text": "New Mal Junction, about 10 km away, is on the Dooars line. The Kanchankanya Express from Sealdah reaches it in the morning, and local trains run from Siliguri Junction. From New Mal, an auto or car to Lataguri costs ₹300–600."}
+  ],
+  "where_to_stay": "Lataguri has rooms for every budget along the highway and the lanes behind it. The West Bengal Forest Development Corporation runs the Lataguri Eco-Tourism Centre and the Hornbill Nest cottages on the forest periphery, with simple rooms booked through its website. Small family lodges in the town charge ₹1,200–2,500. For more comfort, The Reserve Gorumara is a 49-room resort about 3 km from the safari gate. Choose a place away from the highway for quieter nights.",
+  "stays": ["the-reserve-gorumara-lataguri"],
+  "costs": [
+    ["Gorumara jeep safari with watchtower", "₹2,500–3,500 per jeep (up to 6), indicative 2026"],
+    ["Watchtower ticket only", "₹70–160 per person plus vehicle, indicative 2026"],
+    ["Family-run lodge room", "₹1,200–2,500 a night, indicative 2026"],
+    ["Mid-range resort room", "₹3,000–6,000 a night, indicative 2026"],
+    ["Car for a half-day trip to Jalpesh or Gajoldoba", "₹1,500–2,500, indicative 2026"]
+  ],
+  "budget_tip": "Book Gorumara watchtower slots yourself and share a jeep with another family from your lodge; it costs a third of a resort-arranged private safari and you see the same animals.",
+  "tips": [
+    "Do not walk on the highway or forest roads after dark; elephants cross often between Lataguri and Chalsa.",
+    "Ask your lodge about the noise rules near the forest and choose one that keeps music low after 9 p.m.",
+    "Carry cash: ATMs in Lataguri sometimes run dry on weekends, and the nearest reliable ones are in Malbazar.",
+    "Safaris have generally not run on Thursdays, so plan arrival or travel days for Thursday and check current status before you travel.",
+    "On Puja and Christmas weekends, book your room and safari slots together, weeks ahead."
+  ],
+  "themes": ["wildlife-safaris", "family-trips", "budget-trips", "food-and-markets"],
+  "nearby": ["gorumara-national-park", "murti", "chapramari-wildlife-sanctuary", "samsing"],
+  "experiences": [
+    {
+      "slug": "lataguri-jalpesh-temple-visit",
+      "title": "The Jalpesh temple near Maynaguri",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Mornings, Oct – Mar; Shivaratri for the fair",
+      "cost": "Free entry; car ₹1,500–2,500 for the trip, indicative",
+      "image_query": "Jalpesh Temple Jalpaiguri",
+      "wiki": "Jalpesh Temple",
+      "summary": "The Jalpesh temple, 7–8 km from Maynaguri on the Jarda river, is one of North Bengal's most important Shiva shrines. Its history runs through the Koch kings of Cooch Behar, and its Shivaratri fair has been held since the seventeenth century.",
+      "body": [
+        "Building at Jalpesh began in 1524 under Bishwa Singha, founder of the Koch dynasty and father of Maharaja Nara Narayan. The temple was rebuilt in 1563 and again in 1663 by King Pran Narayan, and restored in 1899 by Rani Jagadeswari Devi. The present building, with its large dome and arched entrance, shows a mix of styles. The main object of worship is a Shivalinga known as Anadi, set below floor level in the sanctum.",
+        "On ordinary days the temple is calm, with a few pilgrims and a market of flower and sweet stalls at the gate. During the month of Shravan (July–August), devotees carry water from the Teesta on foot, and at Mahashivratri in February or March the Jalpesh Mela fills the fields around the temple with stalls, rides and pilgrims from across North Bengal, Nepal, Bhutan and Bangladesh.",
+        "From Lataguri, drive about 25 km via Maynaguri; it takes 40–50 minutes each way. Dress modestly, leave shoes at the stand, and expect to be asked for small donations by the priests. Combine the visit with lunch in Maynaguri, where small hotels serve river fish and rice."
+      ],
+      "good_for": ["families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How far is Jalpesh temple from Lataguri", "a": "About 25 km, or 40–50 minutes by car via Maynaguri. A half-day car from Lataguri costs about ₹1,500–2,500, indicative 2026. Buses run from Lataguri to Maynaguri, and autos and totos go from Maynaguri to the temple, which is the cheapest way but takes longer."},
+        {"q": "When is the Jalpesh Mela held", "a": "The main Jalpesh Mela is held at Mahashivratri, in February or March depending on the lunar calendar, and lasts several days. There is also a large pilgrimage during Shravan (July–August), when devotees carry Teesta water to the temple. Expect very large crowds at both times, and check dates before you travel."},
+        {"q": "Who built the Jalpesh temple", "a": "Construction began in 1524 under Bishwa Singha, founder of the Koch kingdom. The temple was rebuilt in 1563 and in 1663 under King Pran Narayan, and restored in 1899 by Rani Jagadeswari Devi. The present structure reflects several of those phases."}
+      ]
+    },
+    {
+      "slug": "lataguri-gajoldoba-teesta-barrage-birds",
+      "title": "Winter ducks at the Gajoldoba Teesta barrage",
+      "kind": "nature",
+      "duration": "3–4 hours",
+      "best_time": "Dawn to 10 a.m., Nov – Feb",
+      "cost": "₹300–800 per boat, indicative",
+      "image_query": "Gajoldoba Teesta barrage birds",
+      "wiki": "",
+      "summary": "The Teesta barrage at Gajoldoba creates a wide reservoir that draws thousands of wintering waterfowl, with the Himalaya visible on clear mornings. Fishermen row visitors among the ducks for a modest fee. It is on the way between Siliguri and Lataguri.",
+      "body": [
+        "Gajoldoba is a fishing village on the Teesta, about 30 km from Siliguri by the Odlabari road and roughly an hour from Lataguri. The barrage built here for irrigation holds back a broad stretch of slow water and sandbars. From November to February it fills with ducks: annual waterfowl counts have recorded around 10,000 birds here, including ruddy shelduck, gadwall, northern pintail, common merganser and lesser whistling duck, with cormorants, egrets and terns.",
+        "The best way to see them is from a small country boat with a local fisherman, early in the morning when the water is still and, on clear days, Kangchenjunga shows to the north. Agree the price and duration before you get in, and ask him not to chase birds into flight. Bring binoculars; most ducks keep their distance.",
+        "History lovers will like the other Gajoldoba story. The first tea garden in the Dooars was opened at Gazaldoba in 1874, the start of an industry that changed the whole region. Fish fried fresh at the stalls by the barrage makes a good breakfast. The WBTDC runs a tourism property called Bhorer Alo here if you want to stay."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "solo"],
+      "faqs": [
+        {"q": "When is the best time to see birds at Gajoldoba", "a": "December and January are best, with November and February also good. Arrive at sunrise and stay until about 10 a.m., when the light is soft and birds are active. By March most migrants have left. In the monsoon the barrage area floods and boats do not take visitors."},
+        {"q": "How much is a boat ride at Gajoldoba", "a": "Local fishermen charge roughly ₹300–800 per boat for 45–90 minutes, indicative 2026, depending on season and bargaining. Agree the price and time first. Boats are basic, with no life jackets on many, so ask for one and keep children seated and close."},
+        {"q": "Can I visit Gajoldoba on the way from Siliguri to Lataguri", "a": "Yes. Instead of the main road via Sevoke and Malbazar, take the Odlabari side road to Gajoldoba and continue to Lataguri, which adds roughly an hour. Start early to reach the barrage by 7 or 8 a.m., when the birds are most active."}
+      ]
+    },
+    {
+      "slug": "lataguri-rajbanshi-food-lunch",
+      "title": "A Rajbanshi lunch: dried fish, greens and rice",
+      "kind": "food",
+      "duration": "1–2 hours",
+      "best_time": "Lunch, Oct – Apr",
+      "cost": "₹250–600 per person, indicative",
+      "image_query": "Rajbanshi food dried fish curry",
+      "wiki": "",
+      "summary": "The Rajbanshi community of the Dooars cooks with dried fish, forest greens and an alkaline water called chheka. A few homestays and lodges around Lataguri and Maynaguri will cook a Rajbanshi meal if you ask a day ahead.",
+      "body": [
+        "Rajbanshi cooking grew from farming and fishing in the wet plains between the Teesta and the Brahmaputra. Its best-known item is sidol, small fish pounded with the stem or leaf base of arum and shaped into cakes that are sun-dried and stored; it is then cooked into a pungent curry or chutney. Pelka is a soft, soupy dish of greens, and chheka, an alkaline liquid traditionally made by filtering water through plant ash, is used to cook leafy vegetables and dal.",
+        "You will not find these dishes on most resort menus, which lean to Bengali and North Indian food. Ask your lodge owner or a homestay host a day ahead; families in the area often still cook them at home and are happy to share a plate. Expect rice, a dal, a green dish, a fish item and a sharp chutney. Dried fish has a strong smell that some guests find challenging; try a little first.",
+        "If you cannot arrange a home meal, the small 'hotels' in Maynaguri and Malbazar serve local river fish such as boroli from the Teesta when in season, with rice and dal for ₹150–300. Be clear that you are a guest at a home meal, pay what is asked, and do not photograph the kitchen or family without asking."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "What is sidol in Rajbanshi food", "a": "Sidol is a preserved fish item made by Rajbanshi households. Small fish are washed and pounded with the stem or leaf base of arum, shaped into balls or cakes and sun-dried without salt. It is later cooked into a pungent curry or chutney with chilli and garlic. It has a strong smell and a deep flavour."},
+        {"q": "Where can I eat Rajbanshi food near Gorumara", "a": "Restaurants rarely serve it. Ask your homestay or lodge host near Lataguri, Maynaguri or Malbazar a day ahead; many local families cook it and some hosts will arrange a home meal. Expect to pay about ₹250–600 per person, indicative 2026. Some government-run fairs and food festivals in North Bengal also feature Rajbanshi dishes."},
+        {"q": "Is Rajbanshi food spicy", "a": "It is flavourful rather than very hot. Chutneys and dried-fish preparations can be sharp with green chilli and garlic, while greens and dal are mild. Tell your host if you prefer less chilli. Vegetarians can still enjoy the greens, dal and pelka, but say so clearly because fish is used in many dishes."}
+      ]
+    },
+    {
+      "slug": "lataguri-tea-garden-cycle-morning",
+      "title": "Cycling the tea and forest lanes at dawn",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "6–9 a.m., Nov – Mar",
+      "cost": "₹200–400 per cycle, indicative",
+      "image_query": "Dooars tea garden road morning",
+      "wiki": "",
+      "summary": "The lanes south of the highway run through paddy, betel-nut groves, Rajbanshi villages and the edge of tea gardens. A slow cycle at dawn, with a local guide, shows the farming side of the Dooars that safari visitors miss.",
+      "body": [
+        "Some lodges and resorts in Lataguri keep bicycles for guests or can arrange them from the market. Take the lanes away from the highway and forest, south towards the villages, where the land opens into rice fields, bamboo clumps and areca palms around mud-and-tin homes. In winter the paddy is harvested and threshed in the yards, and children cycle to school along the same lanes.",
+        "Go with a local guide or your host's recommendation for the route. They will keep you on village roads rather than forest tracks, which are off-limits without a permit and dangerous because of elephants. Two to three hours at an easy pace covers 10–15 km on flat ground. Stop at a tea stall for a glass of sweet milky tea and biscuits.",
+        "Keep to the side of roads and greet people as you pass. Ask before photographing homes or people at work. Do not ride inside tea gardens without permission from the garden office; they are private estates and workers' homes. Be back before the heat builds, around 9 a.m."
+      ],
+      "good_for": ["couples", "students", "solo", "families"],
+      "faqs": [
+        {"q": "Is it safe to cycle around Lataguri", "a": "In daylight on village roads, yes. Do not cycle on forest roads or after dark, because elephants and gaur cross. Avoid the highway, which has fast trucks and buses. Go with a local guide or a route your host recommends, wear bright clothing on the road, and carry water."},
+        {"q": "Can I rent a bicycle in Lataguri", "a": "Some lodges and resorts lend bicycles to guests and others can arrange one from the market for about ₹200–400 for a morning, indicative 2026. Quality varies, so check brakes and tyres before you set off. There is no formal bike-rental shop."},
+        {"q": "Can I visit a tea garden near Lataguri", "a": "Tea gardens are private estates, so you need permission. Roads through some gardens are public and you can walk or cycle along them. For a factory visit, ask your lodge whether a nearby garden accepts visitors that season. Chalsa and Malbazar have the most gardens close to the road."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Lataguri from Siliguri", "a": "About 80 km, two to two and a half hours by road via Sevoke, the Coronation Bridge, Odlabari and Malbazar. A reserved car costs ₹2,800–3,800, indicative 2026. Buses to Malbazar or Maynaguri take longer but cost ₹100–200. New Mal Junction railway station is about 10 km from Lataguri."},
+    {"q": "How many days are enough in Lataguri", "a": "Two nights is ideal: arrive by lunch, do an afternoon watchtower, take a morning jeep safari the next day, and spend the rest of that day at Murti, Chapramari or the Jalpesh temple. One night is rushed. Three nights let you add Samsing or Jhalong."},
+    {"q": "Where do I book a Gorumara safari in Lataguri", "a": "Tickets are sold online through the West Bengal forest department's booking portal and at the counter at the Gorumara Nature Interpretation Centre in Lataguri. Book online if you can, especially for weekends; counter slots run out early. Carry the ID you booked with. Check current status before you travel."},
+    {"q": "Is Lataguri good for families with children", "a": "Yes. It has resorts with gardens and pools, short watchtower sessions that suit small children, and simple food. Keep children close on watchtowers and in open jeeps, avoid long safari days for toddlers, and pick a lodge away from the highway. Bring mosquito repellent and a torch."},
+    {"q": "Are there budget hotels in Lataguri", "a": "Plenty. Family-run lodges and homestays in Lataguri charge ₹1,200–2,500 a night, indicative 2026, and the forest corporation's cottages start around ₹2,000. Prices rise on Puja, Christmas and long weekends. Mid-week stays from November to March are the best value."},
+    {"q": "Can I see elephants in Lataguri", "a": "Wild elephants live in Gorumara and the forests around Lataguri and are often seen from watchtowers and safari jeeps, sometimes on the highway at night. Never approach them on foot or stop close in a car. If one blocks the road, wait at a distance with the engine running and let it move on."},
+    {"q": "Is Lataguri open in the monsoon", "a": "The town stays open, but Gorumara and the nearby sanctuaries close from 16 June to 15 September, so there are no safaris. Many resorts stay open at low rates. Rains are heavy and some roads flood. We do not recommend a Lataguri trip in these months. Check current status before you travel."},
+    {"q": "What is the nearest railway station to Lataguri", "a": "New Mal Junction, about 10 km away, is the nearest. The Kanchankanya Express from Sealdah stops there in the morning. Chalsa station is a little further. NJP, the main station in Siliguri, is about 80 km away and has far more trains."},
+    {"q": "Is there ATM and phone signal in Lataguri", "a": "Yes, Lataguri has ATMs and decent mobile coverage on the main networks, though ATMs can run out of cash on busy weekends and signal fades inside the forest. Carry enough cash for safaris, which sometimes accept only cash at the counter, and for small lodges."}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "gangtok-darjeeling-honeymoon-5n",
+  "title": "Gangtok and Darjeeling honeymoon",
+  "region": "east-sikkim",
+  "nights": 5,
+  "themes": ["honeymoons", "mountain-views", "monasteries", "toy-train", "tea-gardens"],
+  "stops": [
+    {"place": "gangtok", "nights": 3},
+    {"place": "darjeeling", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 16000,
+  "fares": {"budget": 16000, "comfort": 27000, "premium": 62000},
+  "fare_notes": {
+    "budget": "Clean budget hotels such as Mintokling Guest House or Hotel Tibet in Gangtok and a similar class in Darjeeling, a room with a view where the hotel has one. Private small car on transfer days, a shared seat on the Tsomgo tour. Breakfast daily.",
+    "comfort": "Comfort hotels such as Netuk House or Royal Plaza in Gangtok and a good mid-range hotel near the Mall in Darjeeling, with a mountain-facing room requested. Private car for the whole trip. Breakfast and dinner daily.",
+    "premium": "Taj Guras Kutir or Elgin Nor-Khill in Gangtok and a heritage or premium hotel in Darjeeling, private SUV with a senior driver for the whole trip, and a private toy-train joy ride booking. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 4000,
+  "meta_description": "Gangtok and Darjeeling honeymoon: 5 nights with Tsomgo Lake, Rumtek, Tiger Hill and the toy train, private car, from ₹16,000 per person.",
+  "summary": "A 5-night honeymoon split between Gangtok and Darjeeling. Three nights in Gangtok with Tsomgo Lake and the monasteries, two in Darjeeling for Tiger Hill and the toy train. A private car, one slow afternoon, a single pre-dawn start for Tiger Hill, and room upgrades we ask for in advance.",
+  "intro": [
+    "We built this for couples who want mountains, a few good walks and time to themselves, not a list of 20 viewpoints. Gangtok, at 1,650 m, gives you the high day: Tsomgo Lake at 3,753 m and Baba Mandir at about 4,000 m. The rest of the Gangtok time is slow, with monasteries in the morning and MG Marg in the evening, where cars are banned and the benches face the street. Darjeeling, about 100 km away by road, gives you Kangchenjunga from Tiger Hill and a short ride on the Darjeeling Himalayan Railway, a UNESCO World Heritage Site since 1999.",
+    "The budget tier is a real honeymoon, not a cut-down one: clean rooms, a private car on the long drives, and one shared seat on the Tsomgo day to save about ₹2,500 a couple. Comfort adds dinner and mountain-facing rooms where hotels have them. Premium uses Taj Guras Kutir or Elgin Nor-Khill in Gangtok and a heritage hotel in Darjeeling. Hotels decide upgrades on the day, so we ask but cannot promise. October to December gives the clearest views; March to May brings flowers and haze."
+  ],
+  "highlights": [
+    "Tsomgo Lake at 3,753 m with the Baba Harbhajan Singh shrine beyond it",
+    "An evening on MG Marg, Gangtok's car-free main street",
+    "Rumtek Monastery, seat of the 16th Karmapa, and its golden stupa",
+    "Sunrise on Kangchenjunga from Tiger Hill at 2,590 m",
+    "A joy ride on the Darjeeling Himalayan Railway around Batasia Loop to Ghum"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station. The road climbs through the Sevoke forest and follows the Teesta on NH10 to Rangpo, where Sikkim begins. Tea and a snack at a riverside dhaba around Melli breaks the drive. NH10 is often cut by landslides in monsoon; drivers then use the Kalimpong side, which adds an hour or two. Check current status before you travel. At the hotel you may be asked for the ₹50 Sikkim tourist fee per person. In the evening walk down to MG Marg, where smoking, spitting and littering are banned and the street is quiet by 9 pm.",
+     "meals": "Dinner (comfort and premium)"},
+    {"day": 2, "title": "Tsomgo Lake and Baba Mandir", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 110 km round trip · 7 h",
+     "text": "We leave at 8 am with the Protected Area Permit your hotel or agent arranged the day before, using two passport photos and an ID copy each. The road climbs 2,100 m in about 38 km to Tsomgo Lake at 3,753 m. Walk slowly round the near shore; yak rides cost ₹300–600 and coats and boots ₹100–300 to hire, indicative. Baba Mandir, at about 4,000 m, is the shrine to Sepoy Harbhajan Singh, who died near Nathu La in 1968. Nathu La is extra, Wednesday to Sunday, Indian nationals only. Check current status before you travel. Back in Gangtok by 3 pm for a rest.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 3, "title": "Rumtek, Enchey and a slow afternoon", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 50 km · 4–5 h",
+     "text": "A late start. We drive about 24 km to Rumtek, rebuilt in the 1960s by the 16th Karmapa after he left Tibet; carry ID for the gate check. On the way back stop at Enchey Monastery, about 3 km above MG Marg, a Nyingma monastery whose present building dates from 1909. The afternoon is free. Couples who like a view take the Gangtok ropeway (₹150–250 return, indicative); others go back to the room. In the evening try thenthuk, a hand-pulled noodle soup, or a plate of momos for ₹60–150. Ask your driver to suggest a place he eats at himself.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 4, "title": "Gangtok to Darjeeling via the Teesta", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 100 km · 4–5 h",
+     "text": "We leave Gangtok after breakfast and follow the Teesta down to Melli, then cross back into West Bengal and climb through Teesta Bazaar and the tea gardens around Peshok to Ghum and Darjeeling at about 2,050 m. The road is narrow in places, so we drive it in daylight. Check current status before you travel. After check-in walk the Mall and Chowrasta, the open square at the top of town, where horse rides, tea stalls and a bench facing the mountains wait. Darjeeling is colder than Gangtok, so keep a jacket out for the evening.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 5, "title": "Tiger Hill, Ghum and the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km local · 6 h",
+     "text": "The one early start worth making: leave at about 4 am for Tiger Hill at 2,590 m, about 11 km away, to watch the sun reach Kangchenjunga. Clear mornings are most common from October to December. On the way back stop at Ghum Monastery and Batasia Loop. After breakfast and a rest, ride the toy train on a Darjeeling–Ghum joy ride, about 2 hours return, ₹1,000–1,800 per seat, indicative. Book online in advance; timetables change, so check current status before you travel. End the day with a pot of first or second flush at a tea room on the Mall.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 6, "title": "Darjeeling to Bagdogra or NJP", "place": "siliguri", "overnight": "", "drive": "≈ 70 km · 3–3.5 h",
+     "text": "A slow breakfast, then the drive down through Ghum, Sonada and Kurseong to the plains. The toy-train line runs beside the road for much of the way, and you will see it cross the road several times. Kurseong is a good tea stop. We reach Bagdogra or NJP in 3–3.5 hours when roads are clear; the Rohini road is quicker, and the driver will choose on the day. Book flights after 1 pm or an evening train. Pakyong Airport near Gangtok has no scheduled flights as of 2026, so Bagdogra is the airport for this trip.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["mintokling-guest-house-gangtok", "hotel-tibet-gangtok", "netuk-house-gangtok", "royal-plaza-gangtok", "elgin-nor-khill-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "5 nights on twin sharing in the class you choose",
+    "Daily breakfast; dinner on comfort and premium",
+    "Private car for airport or station transfers and the Gangtok to Darjeeling drive",
+    "Tsomgo and Baba Mandir day (shared seat on budget, private car on comfort and premium) with permit processing",
+    "Tiger Hill early-morning car in Darjeeling"
+  ],
+  "excludes": [
+    "Flights or trains to Bagdogra or NJP",
+    "Toy-train joy ride tickets, unless you choose premium",
+    "Nathu La permit and vehicle top-up",
+    "Ropeway, yak rides, coat hire and entry tickets",
+    "The ₹50 per person Sikkim tourist fee, paid at check-in",
+    "Lunches, drinks and tips"
+  ],
+  "save_more": [
+    "Travel in March, early April or the second half of November, when Gangtok and Darjeeling rates are below the October and May peaks.",
+    "Take the shared seat on the Tsomgo tour (₹800–1,300 each) instead of a private car for ₹4,500–6,500.",
+    "Book the toy-train joy ride online yourself as soon as dates open; last-minute seats through touts cost more."
+  ],
+  "good_to_know": [
+    "Foreign nationals need a Restricted Area Permit to enter Sikkim, issued free at Rangpo or online; Tsomgo is open to them in a group of two or more, Nathu La is not. Check current status before you travel.",
+    "Nathu La opens to Indian tourists Wednesday to Sunday only and often shuts after snow.",
+    "Room upgrades and decorations depend on the hotel on the day; we request, we do not promise.",
+    "Darjeeling evenings drop to 2–8 °C from December to February.",
+    "June to September is monsoon: views are rare and NH10 often closes."
+  ],
+  "faqs": [
+    {"q": "Is Gangtok or Darjeeling better for a honeymoon", "a": "Both work, and this plan uses each for what it does well. Gangtok is cleaner and calmer at night, with the Tsomgo Lake day trip into snow country. Darjeeling has the Kangchenjunga sunrise from Tiger Hill, the toy train and tea rooms on the Mall. With five nights, three in Gangtok and two in Darjeeling is the balance we suggest."},
+    {"q": "How many days are enough for Gangtok and Darjeeling", "a": "Five nights is the minimum we suggest: three in Gangtok and two in Darjeeling, plus arrival and departure days. Four nights works but drops either the Tsomgo day or the slow Gangtok day. Add a sixth night if you want Nathu La or a spare day in case weather blocks Tsomgo. The two towns are about 100 km apart, 4–5 hours by road."},
+    {"q": "What is the best month for a Darjeeling and Gangtok honeymoon", "a": "October to mid-December gives the clearest Kangchenjunga views and dry, cool days, with night temperatures around 2–10 °C. March to May is warmer with rhododendrons and some haze. January and February are cold but quiet and cheaper; snow can block Tsomgo. We avoid June to September, when rain hides the mountains and landslides cut NH10."},
+    {"q": "Can we see snow on this trip", "a": "Usually yes from December to April at Tsomgo Lake and Baba Mandir, and sometimes into May. In October and November you may see snow on the peaks but not on the ground. Gangtok and Darjeeling themselves rarely get snow. Heavy snowfall can close the Tsomgo road for a day or two; if it does, we move the trip to another day. Check current status before you travel."},
+    {"q": "How much does a Gangtok Darjeeling honeymoon cost", "a": "Our 5-night plan starts from ₹16,000 per person on twin sharing with budget hotels and breakfast. Comfort, with mid-range hotels, dinners and a private car throughout, is about ₹27,000 per person. Premium, with Taj Guras Kutir or Elgin Nor-Khill in Gangtok and a heritage hotel in Darjeeling, is about ₹62,000 per person. All prices are indicative for 2026."},
+    {"q": "Do we need a permit for Tsomgo Lake", "a": "Yes. Tsomgo Lake needs a Protected Area Permit, which your hotel or a registered Gangtok agent arranges a day ahead. Each person gives two passport photos and a copy of photo ID; it costs about ₹200 through an agent. Foreign nationals can visit Tsomgo in a group of two or more but cannot go to Nathu La. Check current status before you travel."},
+    {"q": "Is the Tiger Hill sunrise worth the early start", "a": "On a clear day, yes: you see the sun light Kangchenjunga at 8,586 m before the rest of the range. You leave about 4 am and come back by 7:30 am. From June to September and on many hazy spring days you may see only cloud, so we watch the forecast and keep it flexible across your two Darjeeling mornings."},
+    {"q": "Is the toy train ride worth it", "a": "For most couples a joy ride is the right amount: about 2 hours from Darjeeling to Ghum and back, round Batasia Loop, with a stop at the railway museum at Ghum. The full ride from NJP takes most of a day. Seats cost ₹1,000–1,800, indicative, and sell out in peak months, so book online early. Check current status before you travel."},
+    {"q": "Can we add Pelling or Lachung to this honeymoon", "a": "Yes. Add two nights in Pelling between Gangtok and Darjeeling for Pemayangtse and Kangchenjunga views from the west, or two nights in Lachung for Yumthang Valley. Lachung permits for North Sikkim are issued only through registered agents and are sometimes suspended after landslides, as in 2025. Check current status before you travel, and ask us for a revised plan."}
+  ]
+}

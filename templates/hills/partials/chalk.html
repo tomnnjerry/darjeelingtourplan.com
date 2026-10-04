@@ -1,0 +1,3 @@
+<div class="chalk"><p class="chalk__title"><span>{{ chalk_title|default:"Rate chart" }}</span><small>indicative, 2026</small></p>
+  <ul>{% for row in rows %}<li><span>{{ row.0 }}</span><i></i><b>{{ row.1 }}</b></li>{% endfor %}</ul>
+  <p class="chalk__foot">{{ chalk_foot|default:"Fares and fees change with fuel prices, season and local union rates. Check current rates before you travel." }}</p></div>

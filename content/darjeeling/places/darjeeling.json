@@ -1,0 +1,178 @@
+{
+  "slug": "darjeeling",
+  "name": "Darjeeling",
+  "region": "darjeeling",
+  "kind": "hill town",
+  "wiki": "Darjeeling",
+  "image_query": "Darjeeling town Kangchenjunga view",
+  "lat": 27.041,
+  "lng": 88.266,
+  "altitude_m": 2042,
+  "tagline": "Tea, toy trains and Kangchenjunga from the Mall",
+  "meta_description": "Plan Darjeeling for less: when Kangchenjunga shows, toy-train joyrides, tea walks, HMI, food, honest costs and where to stay on every budget.",
+  "summary": "Darjeeling is a hill town at about 2,042 m in north Bengal, 3–3.5 hours by road from Bagdogra or NJP. Come for Kangchenjunga at sunrise, the UNESCO-listed toy train, tea gardens on every slope and a town shaped by Lepcha, Gorkha, Tibetan and British history. Stay 2–4 nights.",
+  "intro": [
+    "Darjeeling runs along a ridge, so the town is a stack of roads joined by steep stairs. At the top sits Chowrasta, the open square where the Mall begins and where everyone, locals included, comes to walk, sit and look north. On a clear morning Kangchenjunga, at 8,586 m the third-highest mountain on earth, fills the skyline. Below Chowrasta, the bazaar, the motor stands and the railway station crowd the lower roads. Most of what a first-time visitor wants is within a 20-minute walk.",
+    "The town is busy and real. Schoolchildren in blazers, porters with loads strapped to their foreheads, shared jeeps queuing for Siliguri, monks buying vegetables: Darjeeling is a working hill town of about 120,000 people, not a resort. That is its charm. Eat momos where office workers eat them, drink first-flush tea at a tasting counter, and ride the toy train for two hours to Ghum and back instead of seven hours from the plains.",
+    "Spending less here is easy if you plan. Use shared jeeps for transfers, walk the town instead of hiring cars for short hops, and come in March, early April, mid-November or December, when rates fall but the views hold. Book the Tiger Hill sunrise car only if the forecast is clear. Two nights covers the main sights; three or four lets you add tea estates, a village or a walk without rushing."
+  ],
+  "story": {
+    "title": "How a monastery hill became a British sanatorium",
+    "paras": [
+      "The name is commonly traced to Dorje Ling, the place of the thunderbolt in Tibetan, after a Buddhist monastery that once stood on Observatory Hill. Before any of that, these forests were Lepcha country, home to the people who call themselves Rong and who knew every plant on the ridge. The tract passed between Sikkim and Nepal in the wars of the late eighteenth century, and came back to Sikkim after the British defeated Nepal and drew new borders in 1816–17.",
+      "In 1829 two British officers, Captain George Lloyd and J.W. Grant, stopped on the ridge while settling a border dispute and saw a cool, healthy place for a sanatorium. On 1 February 1835 the Chogyal of Sikkim signed a Deed of Grant giving the hill to the East India Company. From 1841 the Company paid him an annual allowance. Archibald Campbell, the first superintendent, planted tea seeds in his garden at Beechwood that same year.",
+      "Tea changed everything. Gardens opened from 1852, labour came from Nepal, and the town grew. In 1881 the Darjeeling Himalayan Railway arrived. Today's Darjeeling, with its Nepali-speaking majority, Lepcha and Bhutia families, Tibetans who came after 1959, Bengali visitors and old British churches and schools, is the result of that history, still argued over in the Gorkhaland debate."
+    ],
+    "source": "Deed of Grant of 1835 with the Chogyal of Sikkim; O'Malley, Bengal District Gazetteers: Darjeeling (1907); Darjeeling Himalayan Railway UNESCO nomination"
+  },
+  "did_you_know": [
+    "Archibald Campbell planted Darjeeling's first tea seeds in his garden at Beechwood in 1841, using China-type seed raised in Kumaon.",
+    "Darjeeling tea was the first product in India to get a Geographical Indication tag, registered in 2004–05.",
+    "Tenzing Norgay, who reached the summit of Everest with Edmund Hillary on 29 May 1953, made his home in Darjeeling and was cremated in 1986 at the Himalayan Mountaineering Institute, where his memorial stands."
+  ],
+  "local_name": {"text": "Dorje Ling", "language": "Tibetan", "meaning": "place of the thunderbolt"},
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "2–4"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 70 km"],
+    ["From Siliguri", "≈ 68 km · 3–3.5 h"],
+    ["Altitude", "2,042 m"],
+    ["Known for", "Kangchenjunga views, toy train, tea, HMI"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2–4",
+  "highlights": [
+    {"title": "Kangchenjunga from Chowrasta", "text": "You do not need Tiger Hill to see the mountain. On clear mornings from October to April, Kangchenjunga rises straight across the valley from Chowrasta and the Mall. Walk up at 6 am with a cup of tea from a stall and watch the light move down the snow."},
+    {"title": "The toy train to Ghum", "text": "The Darjeeling Himalayan Railway, UNESCO-listed in 1999, still runs steam and diesel joyrides of about two hours to Ghum, India's highest station, with a stop at Batasia Loop. It is the cheapest way to ride the line without spending a day on the full run from NJP."},
+    {"title": "Tea where it grows", "text": "Happy Valley tea estate is a 30-minute walk below town. Visit between March and November to see plucking and processing, then taste the flushes. Back in town, tea shops on Nehru Road let you compare first, second and autumn flush teas before you buy."},
+    {"title": "Tenzing and the mountaineers", "text": "The Himalayan Mountaineering Institute, founded in 1954 after the first ascent of Everest, has a museum of expedition gear and Tenzing Norgay's memorial. It shares a gate with the zoo, known for its red pandas and snow leopards."},
+    {"title": "A town of many faiths", "text": "Mahakal temple on Observatory Hill, where Hindu priests and Buddhist lamas share a shrine; Bhutia Busty monastery; St Andrew's Church of 1843; the Japanese Peace Pagoda; and the mosque in the bazaar. You can walk between most of them in a morning."},
+    {"title": "Momos, thukpa and Glenary's", "text": "Eat steamed momos at small kitchens around the bazaar for ₹60–150 a plate, thukpa on a cold night, and breakfast at Glenary's on the Mall. Keventers' terrace above the Mall has served breakfasts for generations of visitors."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Sumos and Boleros leave from NJP station and the Tenzing Norgay bus terminus in Siliguri, 7 am to 3 pm, once full with 10 passengers: ₹250–400 a seat, 3–3.5 hours, indicative 2026. They arrive at the Chowk Bazaar motor stand, a steep walk below the Mall."},
+    {"mode": "Reserved car", "text": "A Bolero or small car from Bagdogra or NJP to your hotel costs ₹3,500–4,500, about 3 hours via Rohini road and Kurseong. Book through the prepaid counters or your hotel, and agree whether stops on the way are included."},
+    {"mode": "Rail / Air", "text": "Fly to Bagdogra (IXB), about 70 km away, or take a train to NJP; the Darjeeling Mail and Padatik Express run overnight from Kolkata. The toy train 52541 leaves NJP around 10 am for Darjeeling, 7.5 hours, ≈ ₹1,300–1,600; check current status before you travel."}
+  ],
+  "where_to_stay": "For the walkable heart of town, stay around Chowrasta, the Mall, Gandhi Road and Laden La Road. On a budget, WBTDC's Darjeeling Tourism Property on Bhanu Sarani and Revolver, a small Beatles-themed lodge, give clean rooms at fair rates. In the comfort tier, the Tibetan family-run Dekeling on Gandhi Road and the Bellevue on Chowrasta are central and warm. For a splurge, the Windamere on Observatory Hill keeps the old hill-station customs, Mayfair Hill Resort opposite Raj Bhavan suits families, and Glenburn Tea Estate, 1.5–2 hours away, is a working estate stay. Avoid rooms far down Hill Cart Road if you want to walk everywhere.",
+  "stays": ["revolver-hotel-darjeeling", "darjeeling-tourism-property-wbtdc", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling", "glenburn-tea-estate"],
+  "costs": [
+    ["Shared jeep NJP → Darjeeling", "₹250–400 a seat"],
+    ["Tiger Hill + Batasia + Ghum car, early morning", "₹1,500–2,200 per car"],
+    ["Toy train joyride Darjeeling–Ghum", "₹800–1,600 (diesel to steam)"],
+    ["HMI and zoo combined ticket", "₹100–150 (Indians)"],
+    ["Darjeeling Ropeway return", "₹250–300"],
+    ["Plate of momos", "₹60–150"]
+  ],
+  "budget_tip": "Skip the 7-point taxi tour and walk: Chowrasta, Observatory Hill, the HMI and zoo, the Peace Pagoda and Happy Valley are all within 1–4 km of the Mall, which saves ₹2,500–3,500 a day.",
+  "tips": [
+    "Be on Chowrasta by 6 am on a clear day; the best light on Kangchenjunga lasts less than an hour.",
+    "Book toy-train joyrides on IRCTC as soon as your dates are fixed; October and May sell out.",
+    "Carry a light down jacket even in May: evenings drop to 10–12 °C and the Mall is windy.",
+    "Use the motor stands at Chowk Bazaar for shared jeeps to Siliguri, Mirik, Kalimpong and Gangtok, and buy tickets a day ahead in season.",
+    "Bandhs and strikes still happen occasionally; follow local news and check current status before you travel."
+  ],
+  "themes": ["tea-gardens", "toy-train", "mountain-views", "monasteries", "food-and-markets", "family-trips", "budget-trips", "honeymoons"],
+  "nearby": ["ghum", "tiger-hill", "kurseong", "lepchajagat"],
+  "experiences": [
+    {
+      "slug": "darjeeling-hmi-and-zoo",
+      "title": "Tenzing's institute and the red pandas",
+      "kind": "culture",
+      "duration": "2.5–3 hours",
+      "best_time": "Mornings, Oct–May; closed Thursdays (check)",
+      "cost": "₹100–150 per person combined ticket (Indians), indicative 2026",
+      "image_query": "Himalayan Mountaineering Institute Darjeeling museum",
+      "wiki": "Himalayan Mountaineering Institute",
+      "summary": "The Himalayan Mountaineering Institute was founded in 1954 after Tenzing Norgay and Edmund Hillary climbed Everest. Its museum, Tenzing's memorial and the neighbouring Padmaja Naidu zoo, with red pandas and snow leopards, make a solid half-day on one ticket.",
+      "body": [
+        "On 29 May 1953 Tenzing Norgay, a Sherpa who had lived in Darjeeling since the 1930s, and Edmund Hillary reached the summit of Everest. The next year, on 4 November 1954, the Himalayan Mountaineering Institute opened on Birch Hill in Darjeeling, with Tenzing as its first Director of Field Training. It still trains climbers today, and its basic and advanced courses run through the year.",
+        "The museum holds old ropes, boots, oxygen sets, maps and photographs from Himalayan expeditions, along with a relief model of the range. Outside, Tenzing's memorial stands where he was cremated in 1986, with his statue nearby. You enter through the zoo, which shares the campus and ticket, so plan to see both.",
+        "The Padmaja Naidu Himalayan Zoological Park sits at about 2,100 m and works with high-altitude species: red pandas, snow leopards, Himalayan black bears and Tibetan wolves. Enclosures are on a steep slope, so wear good shoes. Go early, when the animals are active and before tour groups arrive. The walk from Chowrasta is about 2 km, mostly downhill."
+      ],
+      "good_for": ["families", "first-timers", "students"],
+      "faqs": [
+        {"q": "What are the HMI Darjeeling timings", "a": "The institute and zoo usually open around 8.30 am and stop entry by about 4 pm, with a weekly closing day that has often been Thursday. Timings change by season and for holidays, so check current status before you travel. Arrive at opening for the quietest visit and the most active animals."},
+        {"q": "How much is the ticket for the Darjeeling zoo and HMI", "a": "One combined ticket covers the Padmaja Naidu Himalayan Zoological Park and the Himalayan Mountaineering Institute museum. It has been around ₹100–150 for Indian adults, more for foreign nationals, indicative 2026. Camera fees may be extra. Buy at the gate on Jawahar Road West."},
+        {"q": "Can I walk to HMI from the Mall", "a": "Yes. It is about 2 km from Chowrasta, roughly 25–30 minutes on foot along Jawahar Road West, mostly downhill. Walking back up takes longer, so a shared taxi or a ₹150–250 cab ride for the return makes sense, indicative 2026. Combine it with the Ropeway and Tibetan Refugee Self-Help Centre nearby."}
+      ]
+    },
+    {
+      "slug": "darjeeling-happy-valley-tea-walk",
+      "title": "A morning at Happy Valley tea estate",
+      "kind": "tea",
+      "duration": "2 hours",
+      "best_time": "Mornings, Mar–Nov (plucking season)",
+      "cost": "₹100–300 per person for tour and tasting, indicative 2026",
+      "image_query": "Happy Valley Tea Estate Darjeeling",
+      "wiki": "Happy Valley Tea Estate",
+      "summary": "Happy Valley is one of Darjeeling's oldest gardens, a 30-minute walk below the town. Between March and November you can watch plucking on the slopes, follow the leaf through withering, rolling and drying in the factory, and taste the season's flush.",
+      "body": [
+        "Happy Valley's bushes fall steeply below Hill Cart Road, about 3 km from Chowrasta. Walk down Lebong Cart Road, or take a short taxi ride, and you are among the rows. In season, pluckers move along the slopes with baskets on their backs, picking two leaves and a bud. Most pluckers are women from families who have worked the garden for generations.",
+        "Inside the factory, a guide shows the steps: withering the leaf on long troughs, rolling it to break the cells, letting it oxidise, then drying it. Each flush tastes different. First flush, in March and April, is light and flowery; second flush, May and June, is fuller with the muscatel note; autumn flush, October and November, is mellow and coppery.",
+        "The factory does not process leaf every day, and it is usually closed on Sundays and Mondays, so ask ahead. The monsoon months still have plucking but the paths are slippery. Buy tea here if you like it, but compare prices in town too. A 100 g packet of good garden tea typically costs ₹300–1,200, indicative 2026."
+      ],
+      "good_for": ["couples", "families", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "Is Happy Valley tea estate open to visitors", "a": "Yes, for guided factory tours and tastings, usually from morning to mid-afternoon. It has commonly been closed on Sundays and Mondays, and the factory runs only when leaf is coming in, roughly March to November. Hours change, so check current status before you travel."},
+        {"q": "How do I get to Happy Valley tea estate from the Mall", "a": "It is about 3 km from Chowrasta. Walk down via Lebong Cart Road in 30–40 minutes, or take a taxi for ₹150–300, indicative 2026. The walk back up is steep, so many visitors take a cab back and walk down."},
+        {"q": "What is the best time to see tea plucking in Darjeeling", "a": "March to May for first and second flush, when the bushes are covered in fresh shoots and factories are busy. Plucking continues through the monsoon and into the autumn flush of October and November. In December to February the bushes rest and factories are mostly quiet."}
+      ]
+    },
+    {
+      "slug": "darjeeling-observatory-hill-morning-walk",
+      "title": "Chowrasta, Observatory Hill and Mahakal",
+      "kind": "spiritual",
+      "duration": "1.5–2 hours",
+      "best_time": "6–8 am, Oct–May",
+      "cost": "Free",
+      "image_query": "Mahakal Temple Observatory Hill Darjeeling",
+      "wiki": "Observatory Hill",
+      "summary": "A free early-morning loop from Chowrasta round the Mall to Observatory Hill, where prayer flags cover the old site linked to the Dorje Ling monastery and Hindu and Buddhist priests serve one shrine. On clear days, Kangchenjunga is in view the whole way.",
+      "body": [
+        "Start at Chowrasta around 6 am. The square faces north, and on a clear morning Kangchenjunga sits straight ahead. The bust of Bhanubhakta Acharya, the poet who first put the Ramayana into Nepali, stands on the square. Walk the Mall clockwise round the hill, a level loop of about 1.5 km with benches, pony men and morning walkers.",
+        "A stepped path leads from the Mall to the top of Observatory Hill, the highest point of the old town. This is the site traditionally linked to the Dorje Ling monastery that gave the town its name. Today it holds the Mahakal temple, where a Hindu shrine to Shiva and Buddhist prayer wheels sit side by side, and priests of both faiths serve the worshippers.",
+        "The hill is covered in prayer flags and bells, and monkeys live here, so keep food and loose items out of sight. Remove shoes inside the shrines and walk clockwise. Finish with tea at Chowrasta or breakfast at Glenary's. The whole walk is free and takes under two hours at an easy pace."
+      ],
+      "good_for": ["first-timers", "couples", "seniors", "photographers", "solo"],
+      "faqs": [
+        {"q": "Why is Mahakal temple in Darjeeling special", "a": "It is one of the few shrines where Hindu and Buddhist priests serve together. Shiva is worshipped alongside Buddhist images and prayer wheels on top of Observatory Hill, the site traditionally linked to the Dorje Ling monastery that gave Darjeeling its name. Entry is free; remove shoes and walk clockwise."},
+        {"q": "Are there monkeys on Observatory Hill", "a": "Yes, rhesus macaques live on the hill and grab food, bags and sunglasses. Do not carry open food, keep phones in pockets and do not feed them. They are used to people but can bite if cornered. Walk calmly through and they usually leave you alone."},
+        {"q": "Can I see Kangchenjunga from Chowrasta", "a": "Yes, on clear days. Chowrasta faces north to the Kangchenjunga range. The best chances are October to December and March to April, in the first two hours after sunrise. In the monsoon, June to September, the mountain is usually hidden by cloud."}
+      ]
+    },
+    {
+      "slug": "darjeeling-food-trail-glenarys-momos",
+      "title": "Glenary's, Keventers and a momo crawl",
+      "kind": "food",
+      "duration": "3 hours, spread across a day",
+      "best_time": "All year; breakfast and early evening",
+      "cost": "₹600–1,200 per person, indicative 2026",
+      "image_query": "Glenary's bakery Darjeeling Mall",
+      "wiki": "Glenary's",
+      "summary": "Eat your way through Darjeeling in one day: breakfast at Glenary's or Keventers on the Mall, tea at a tasting counter, momos and thukpa in the bazaar's small kitchens, and sel roti or churpi from street stalls. Most of the best food here is also the cheapest.",
+      "body": [
+        "Start with breakfast at Glenary's on Nehru Road, the bakery and restaurant that has been a Darjeeling fixture for generations, or Keventers, whose small terrace above the road is famous for its sausages, ham and eggs. Expect ₹350–700 a head. Both fill by 9 am in season, so go early.",
+        "Mid-morning, stop at one of the tea rooms on Nehru Road to taste first, second and autumn flush teas side by side; a tasting costs little or nothing if you buy. Then head down to the bazaar for lunch. Small kitchens serve steamed and fried momos with fiery tomato chutney, and thukpa, a noodle soup brought by Tibetan families, for ₹60–200.",
+        "Look for sel roti, a ring of fried rice-flour batter made at festivals and often sold in the bazaar, and churpi, hard yak or cow milk cheese chewed for hours. Shaphaley, Tibetan fried bread stuffed with meat, and laphing, a cold spicy noodle, are cheap street snacks. Finish with hot chocolate on the Mall as the lights come on."
+      ],
+      "good_for": ["couples", "families", "students", "solo"],
+      "faqs": [
+        {"q": "What food is Darjeeling famous for", "a": "Momos and thukpa from the Tibetan kitchens, sel roti and alu dum from Nepali homes, churpi cheese, and of course tea. For a sit-down treat, breakfast at Glenary's or Keventers on the Mall is a tradition. Street momos cost ₹60–150 a plate, indicative 2026."},
+        {"q": "Is Glenary's in Darjeeling expensive", "a": "Mid-priced for Darjeeling. Breakfast or a light meal costs roughly ₹350–700 a head, indicative 2026, more for a full dinner. The bakery counter downstairs sells cakes, breads and pastries more cheaply. It gets very busy from 9 am to 11 am in season."},
+        {"q": "What is churpi", "a": "Churpi is a hard cheese made from yak or cow milk, dried until it is almost like stone. People chew a small piece for an hour or more. Soft churpi is also cooked into curries and pickles. Buy it in the bazaar; it keeps well and makes an easy gift."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How many days are enough for Darjeeling", "a": "Two full days cover the main sights: Tiger Hill or Chowrasta at sunrise, Batasia and Ghum, the toy-train joyride, HMI and the zoo, Happy Valley and the Mall. Three or four nights let you add Mirik, a village like Lamahatta or Tinchuley, or a slower tea-estate day without rushing."},
+    {"q": "What is the best time to visit Darjeeling", "a": "October to mid-December for the clearest views of Kangchenjunga, and March to May for flowers, first-flush tea and mild days. December and January are cold but often clear. June to September is the monsoon, with cloud, rain and slips on the roads, but low prices and green tea gardens."},
+    {"q": "How much does a Darjeeling trip cost", "a": "A careful 3-night trip from Siliguri can cost ₹8,500–10,500 a person with shared jeeps, a clean budget hotel and simple meals. Comfort hotels and a private car take it to ₹14,000–18,000, and heritage stays to ₹32,000 or more, indicative 2026, twin sharing."},
+    {"q": "Is Darjeeling safe for tourists", "a": "Yes. Darjeeling is a friendly town with low street crime. The main risks are slips on steep wet steps, landslides on roads in monsoon and the occasional bandh or strike. Watch your bag in crowds at the motor stands, and follow local news. Check current status before you travel."},
+    {"q": "Can I see Kangchenjunga without going to Tiger Hill", "a": "Yes. On clear mornings Kangchenjunga is visible from Chowrasta, Observatory Hill, the Mall and many hotel windows. Tiger Hill adds the sunrise light and, on very clear days, a distant view of Everest. If you want to save the ₹1,500–2,200 car fare, Chowrasta at dawn is free."},
+    {"q": "What is the cheapest way to reach Darjeeling from Kolkata", "a": "Take an overnight train such as the Darjeeling Mail or Padatik Express to NJP in sleeper or 3AC, then a shared jeep for ₹250–400. The total can be under ₹1,500 one way in sleeper class, indicative 2026. Book trains as soon as reservations open, especially for Puja."},
+    {"q": "Is the toy train in Darjeeling running", "a": "The Darjeeling Himalayan Railway runs joyrides between Darjeeling and Ghum most days, and a daily train from NJP. Services are suspended at times after landslides, and timetables change by season. Book on IRCTC and check current status before you travel."},
+    {"q": "Do I need a permit to visit Darjeeling", "a": "No permit is needed for Indian or foreign visitors to Darjeeling town and the main sights. Foreign nationals need a Restricted Area Permit only if they continue into Sikkim, and treks into Singalila National Park need park entry and a licensed guide. Carry photo ID everywhere."},
+    {"q": "Where should I stay in Darjeeling for walking", "a": "Stay near Chowrasta, the Mall, Gandhi Road or Laden La Road. From there Observatory Hill, Glenary's, the Mall shops and the shared-jeep stands are all on foot. Hotels far down Hill Cart Road or out towards Ghum are cheaper but need taxis for most outings."}
+  ]
+}

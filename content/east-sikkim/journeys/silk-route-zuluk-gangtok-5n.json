@@ -1,0 +1,127 @@
+{
+  "slug": "silk-route-zuluk-gangtok-5n",
+  "title": "Silk Route and Gangtok in 5 nights",
+  "region": "east-sikkim",
+  "nights": 5,
+  "themes": ["high-passes", "village-homestays", "mountain-views", "monasteries"],
+  "stops": [{"place": "aritar", "nights": 1}, {"place": "zuluk", "nights": 2}, {"place": "gangtok", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 17000,
+  "fares": {"budget": 17000, "comfort": 26000, "premium": 48000},
+  "fare_notes": {
+    "budget": "Registered village homestays at Aritar and Zuluk with all meals, then a budget hotel such as Hotel Sonam Delek or Mintokling Guest House in Gangtok with breakfast; one reserved jeep shared by five or six travellers from NJP to Gangtok; a shared jeep back to Siliguri; permits included.",
+    "comfort": "Homestay rooms with attached bathrooms on the Silk Route, then Netuk House or Royal Plaza in Gangtok with breakfast and dinner; a reserved Bolero or Scorpio for up to four from NJP to Gangtok and a private car back; permits included.",
+    "premium": "The best homestay rooms available at Aritar and Zuluk, then Elgin Nor-Khill or Taj Guras Kutir in Gangtok; a private Scorpio or Innova-class car for your party throughout; all meals on the Silk Route, breakfast and dinner in Gangtok."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 4000,
+  "meta_description": "Aritar, Zuluk, Nathang, Kupup and Tsomgo, ending in Gangtok: 5 nights from ₹17,000 per person, climbing slowly on the old Silk Route. Indian nationals only.",
+  "summary": "Five nights that climb the old Silk Route slowly and cross the top into Gangtok: Aritar, two nights at Zuluk, then over Nathang Valley, Kupup, Baba Mandir and Tsomgo Lake in one day, and two nights in Gangtok. Indian nationals only. From ₹17,000 per person, twin sharing.",
+  "intro": [
+    "This is the Silk Route done the gentle way round. Most packages run it from Gangtok, climbing from 1,650 m to Nathang near 4,000 m in a single morning. We start low instead, at Aritar at about 1,400 m, sleep two nights at Zuluk at about 2,900 m, and only then cross the high ground. By the time you reach Nathang and Kupup your body has had two days to adjust. The same road carried Tibetan wool down to Kalimpong from the 1890s until about 1959, and Zuluk was a night halt for the mule trains.",
+    "The crossing day is the reason to book this trip. From Zuluk the road climbs past Thambi viewpoint and Lungthung to Nathang Valley, runs along the ridge to Kupup and Bitang Tso, then drops past Baba Harbhajan Singh Mandir and Tsomgo Lake to Gangtok. It needs a combined Protected Area Permit through a registered agent and is open only to Indian nationals. Snow can close it from December to March. Two calm nights in Gangtok follow. Check current status before you travel."
+  ],
+  "highlights": [
+    "A slow climb: Aritar at 1,400 m, Zuluk at 2,900 m, then the passes",
+    "Sunrise at Thambi viewpoint above the Zuluk zigzag road",
+    "One crossing day: Nathang, Kupup, Baba Mandir and Tsomgo Lake",
+    "Lampokhari Lake and the 1895 dak bungalow at Aritar",
+    "Two nights in Gangtok for Enchey, the Namgyal Institute and MG Marg"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Aritar and Lampokhari Lake",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "drive": "≈ 115 km · 4.5–5 h",
+      "text": "We meet you at NJP or Bagdogra by 10 am and drive by Sevoke and the Teesta to Rangpo, then up by Rorathang and Rhenock to Aritar at about 1,400 m. If NH10 is cut, we take the Kalimpong and Pedong road. The homestay collects the ₹50 Sikkim tourist fee; check current status before you travel. Walk round Lampokhari Lake in the late afternoon; boats can be hired. Above the lake stands the Aritar dak bungalow, built in 1895 by John Claude White, the first British Political Officer in Sikkim. Tonight we collect ID copies and two passport photos per person for the permits.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Rongli and the climb to Zuluk",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "drive": "≈ 50 km · 2.5–3 h plus permit stop",
+      "text": "Drive down to Rongli at about 850 m, an old market town on the Rangpo River and the permit point for the Silk Route. The road then climbs about 2,000 m in some 30 km, through Lingtam and Padamchen, into Pangolakha Wildlife Sanctuary and up to Zuluk at about 2,900 m. Arrive by early afternoon. Rest first, then walk slowly round the village, where mule trains once stopped for the night before Jelep La. Drink 3 litres of water through the day and skip alcohol. Dinner at the homestay is rice, dal, greens and often eggs or chicken.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Thambi sunrise and a rest day at Zuluk",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "drive": "≈ 30 km round trip · 3 h",
+      "text": "Leave at about 4 am for Thambi viewpoint, about 14 km above Zuluk. On a clear morning the sun lights Kangchenjunga while the zigzag road below, often counted as 32 hairpins, is still in shadow. Go on a few kilometres to Lungthung, then come back to Zuluk for a late breakfast. The rest of the day is for acclimatising: a nap, a short walk on the road, tea with the family. Blood pheasant and Himalayan monal live in these forests, and lucky early walkers sometimes see them. We confirm the permit and the weather for tomorrow's crossing tonight.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Over Nathang and Kupup to Tsomgo and Gangtok",
+      "place": "nathang-valley",
+      "overnight": "Gangtok",
+      "drive": "≈ 95 km · 6–7 h",
+      "text": "Leave Zuluk at 7 am. The road climbs to Nathang Valley near 4,000 m, where British and Tibetan forces fought in May 1888, and runs on to Kupup and Bitang Tso, also called Elephant Lake. Jelep La, the old trade pass, is close by but closed. From Kupup the road meets the Nathu La road and drops past Baba Harbhajan Singh Mandir, a shrine to a soldier who died in 1968, to Tsomgo Lake at 3,753 m. Stop for tea, then descend 40 km to Gangtok. If snow blocks the crossing, we go back by Rongli and Rangpo, about 100 km. Check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "An easy day in Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 25 km · 4–5 h with stops",
+      "text": "A slow morning after the high road. Visit Enchey Monastery, about 3 km above MG Marg; legend holds that the lama Druptob Karpo flew here from Maenam Hill. Then the Namgyal Institute of Tibetology, opened in 1958, with its icons and manuscripts, ₹10–50, and Do Drul Chorten beside it with 108 prayer wheels. Ride the ropeway from Deorali for ₹150–250 return. A half-day car costs ₹1,800–3,500, or use local shared taxis at ₹20–40 a seat. In the evening walk MG Marg, the car-free main street, and eat momos or thenthuk for ₹60–150.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Gangtok down to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "Leave Gangtok by 8–9 am. The road follows the Teesta on NH10 through Rangpo, Melli and Sevoke to the plains. Allow 5–6 hours for Bagdogra, since jams at Rangpo and Sevoke are common after midday. Budget travellers ride a shared jeep to Siliguri for ₹400–600 a seat and take an auto or taxi to the airport or NJP for ₹300–600. If NH10 is cut, cars go round by Rhenock and Pedong or by Lava and Gorubathan, adding 2–3 hours. Check current status before you travel and book afternoon flights.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "mintokling-guest-house-gangtok", "netuk-house-gangtok", "royal-plaza-gangtok", "elgin-nor-khill-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "1 night at Aritar and 2 at Zuluk in registered homestays with all meals, twin sharing",
+    "2 nights in a Gangtok hotel of your chosen tier with breakfast; dinners on comfort and premium",
+    "Reserved jeep from NJP or Bagdogra over the Silk Route to Gangtok",
+    "Combined Protected Area Permit for Zuluk, Nathang, Kupup and Tsomgo",
+    "Gangtok half-day tour and the return to Bagdogra or NJP"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Sikkim tourist fee of ₹50 per person",
+    "Lunches on days 1, 4, 5 and 6; dinners in Gangtok on the budget tier",
+    "Nathu La add-on, coat and boot hire, ropeway and entry tickets",
+    "Extra nights, fuel or rerouting caused by snow or landslides"
+  ],
+  "save_more": [
+    "Share the Silk Route jeep with five or six people; a 3–4 day vehicle costs ₹14,000–20,000 however many ride in it.",
+    "Travel in late March, April or November, when the crossing is usually open and Gangtok hotels are cheaper than in the Puja and Christmas weeks.",
+    "Take the shared jeep from Gangtok to Siliguri on the last day for ₹400–600 a seat instead of a private car."
+  ],
+  "good_to_know": [
+    "Zuluk, Nathang, Kupup and the crossing to Tsomgo are open only to Indian nationals with a Protected Area Permit filed through a registered agent. Check current status before you travel.",
+    "Bring a photo ID copy and two passport photos per person, and carry the original ID; Army checkposts match it to the permit.",
+    "Snow can close the Nathang–Kupup road from December to March; our fallback is the lower road via Rongli and Rangpo.",
+    "Mobile signal is patchy above Rongli and there is no ATM at Zuluk; carry cash for four days.",
+    "Pakyong Airport has no scheduled flights as of 2026, so plan to fly in and out of Bagdogra."
+  ],
+  "faqs": [
+    {"q": "Can foreigners do the Silk Route and Gangtok trip", "a": "Not this version. Foreign nationals can visit Aritar, Rongli and Gangtok with the Sikkim Restricted Area Permit, and Tsomgo Lake on an agent-arranged day permit, but Zuluk, Nathang and Kupup are closed to them. For a mixed group we suggest our Gangtok and Rumtek trip, with Tsomgo added. Check current status before you travel."},
+    {"q": "Is it allowed to drive from Zuluk to Gangtok via Kupup and Tsomgo", "a": "Yes, for Indian nationals with a combined Protected Area Permit that covers the Silk Route and the Tsomgo road. A registered Gangtok agent files it with photo ID copies and two passport photos per person. Army checkposts along the way match IDs to the permit. Snow or Army orders can close the road at short notice, so check current status before you travel."},
+    {"q": "Why start the Silk Route from Aritar instead of Gangtok", "a": "Because it lets you gain height in steps. Starting from Gangtok, many tours reach Nathang near 4,000 m on the first morning. From Aritar at 1,400 m you climb to Zuluk at 2,900 m, sleep there two nights, and only then cross the high ground. That cuts the risk of headaches and sleepless nights from altitude, especially for older travellers."},
+    {"q": "How much does the Silk Route and Gangtok trip cost", "a": "From ₹17,000 per person, twin sharing, on our budget tier, indicative for 2026. It covers homestays with all meals on the Silk Route, a budget hotel in Gangtok, a shared reserved jeep, permits and the return to Siliguri. Comfort is about ₹26,000 and premium about ₹48,000. Group size changes the vehicle share more than anything else."},
+    {"q": "Can we add Nathu La to this trip", "a": "Yes, if all travellers are Indian nationals and you add one night in Gangtok. Nathu La is open to tourists from Wednesday to Sunday with a separate permit, and a car for Tsomgo, Baba Mandir and Nathu La costs ₹6,500–9,000. Operators usually will not take children under 5. Check current status before you travel."},
+    {"q": "What if snow closes the road over Kupup", "a": "We go back down from Zuluk to Rongli, then by Rhenock and Rangpo to Gangtok, about 100 km and 4–5 hours. You miss Nathang, Kupup and Tsomgo on that day but keep your Gangtok nights. If you still want Tsomgo, it can often be added from Gangtok on day 5 when its road reopens. Check current status before you travel."},
+    {"q": "When is the best time for the Silk Route crossing", "a": "Late March to May and October to mid-December are the most reliable, with open roads and clear mornings in autumn. January and February bring snow at Nathang and Kupup, which many people come for, but the crossing closes more often. June to September brings landslides and cloud, and we do not run this trip then."},
+    {"q": "Is the Silk Route safe for children and older travellers", "a": "Healthy children over 5 and fit older travellers usually manage this route well because it climbs slowly. The highest stretch, near 4,000 m, lasts only a few hours and you sleep at 1,650 m in Gangtok that night. People with heart or lung conditions, and infants, should not go without a doctor's advice. Tell the driver at once about headache or breathlessness."},
+    {"q": "What should we pack for Zuluk and Nathang", "a": "Pack thermals, a down or fleece jacket, a warm hat, gloves, woollen socks, sunglasses and sunscreen, since the sun is strong at altitude. Add a torch, a power bank, basic medicines and cash for four days. From December to February nights at Zuluk fall below freezing. In Gangtok a light jacket is enough most of the year."}
+  ]
+}

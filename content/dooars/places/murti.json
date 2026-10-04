@@ -1,0 +1,174 @@
+{
+  "slug": "murti",
+  "name": "Murti",
+  "region": "dooars",
+  "kind": "river town",
+  "wiki": "",
+  "image_query": "Murti river Dooars forest",
+  "lat": 26.84,
+  "lng": 88.82,
+  "altitude_m": 200,
+  "tagline": "A clear river on the edge of Gorumara, and two riverside lodges",
+  "meta_description": "Murti travel guide: riverside forest lodges, the Murti river, Dhupjhora, tea garden walks, birding, how to reach from Siliguri and what it costs.",
+  "summary": "Murti is a riverside village where the Murti river leaves the hills and runs along the edge of Gorumara, about 75 km and 2 hours from Siliguri. It has government forest and tourism lodges on the bank, easy access to Gorumara's Chandrachur and Medla towers, and a quieter feel than Lataguri.",
+  "intro": [
+    "The Murti is a short, quick river. It rises in the Neora Valley hills, comes down past Samsing and Rocky Island, and runs out into the plains along the north-eastern edge of Gorumara before joining the Jaldhaka. At Murti village the river spreads over a wide bed of white and grey stones, shallow and clear in winter, with forest on one bank and tea gardens and villages on the other. It is the kind of place where you sit on a rock with a cup of tea and watch the light change.",
+    "Murti has two government lodges right by the river: the West Bengal Forest Development Corporation's Murti Banani Eco-Tourism Centre and WBTDC's Moorti Tourism Property, plus a scatter of private resorts and homestays. Because it is 7 km from Chalsa and 20–30 minutes from Lataguri, it works as a quieter base for Gorumara, especially for the Chandrachur and Medla towers on this side of the park.",
+    "Weekends and holidays bring picnic groups from Siliguri and Jalpaiguri to the riverbank, and it can get noisy and littered, especially around Christmas and New Year. Midweek, and early in the morning, it is calm again. The river is cold and fast in places, even when it looks shallow; paddle near the edge only, and do not swim."
+  ],
+  "story": {
+    "title": "A river that comes down from Neora",
+    "paras": [
+      "The Murti drains the southern slopes of the Neora Valley and the hills around Samsing. In the monsoon it carries huge quantities of water and stone out of the hills, spreading them across a wide braided bed. In winter it shrinks to a few clear channels between gravel bars. That cycle explains the landscape: the stony riverbed, the grassland that rhinos and gaur use along its banks inside Gorumara, and the rich alluvial soil where tea was planted.",
+      "Villages along the Murti include Rajbanshi, Adivasi and Nepali families, many connected to the tea gardens and forest work. The Dhupjhora area near the river has been home to departmental elephants and a forest camp. Today the riverbank is shared between farmers, fishers, forest guards, picnickers and the guests of the lodges, and its condition depends on all of them."
+    ],
+    "source": "Wikipedia 'Gorumara National Park' (Murti and Jaldhaka rivers); West Bengal Forest Development Corporation lodge listings"
+  },
+  "did_you_know": [
+    "The Murti rises in the hills of the Neora Valley and flows along the north-eastern edge of Gorumara before joining the Jaldhaka.",
+    "Gorumara's Medla watchtower stands above the Murti river and is reached by bullock cart from the forest camp.",
+    "The forest corporation's Murti Banani lodge has 17 cottages and tents beside the river, about 73 km from Siliguri."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 85 km"],
+    ["From Siliguri", "≈ 75 km · 2 h"],
+    ["Nearest station", "Chalsa, ≈ 7 km"],
+    ["Known for", "Riverside forest lodges, Gorumara edge"]
+  ],
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "The riverbank at dusk", "text": "Sit on the wide stony bed of the Murti as the sun drops behind the forest. Peafowl call, kingfishers and wagtails work the water, and on winter evenings mist rises off the river."},
+    {"title": "Riverside government lodges", "text": "The forest corporation's Murti Banani Eco-Tourism Centre and WBTDC's Moorti Tourism Property both sit by the river, with rooms and cottages at modest rates. Book weekends early."},
+    {"title": "Gorumara from the Murti side", "text": "Chandrachur and Medla watchtowers are closest from Murti, and the Lataguri safari counter is 20–30 minutes away. Staying here spreads your safaris across both sides of the park."},
+    {"title": "Tea garden lanes", "text": "Gardens around Murti and Chalsa line the roads, with Adivasi villages in between. A morning walk on the estate roads shows how the plains grow tea."},
+    {"title": "Gateway to Samsing and Rocky Island", "text": "Murti is about 30 minutes from Samsing and Rocky Island, up the same river. Combine them in one day for the full journey of the Murti from hills to plains."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Siliguri or Bagdogra, drive via Sevoke, the Coronation Bridge and Malbazar to Chalsa, then turn off to Murti, about 75–85 km in two hours. A reserved car costs ₹2,800–3,800, indicative 2026."},
+    {"mode": "Bus and auto", "text": "Take a bus from Siliguri towards Malbazar or Chalsa (₹100–200, indicative 2026), then an auto or shared vehicle to Murti, about 7 km from Chalsa. Allow three hours in all."},
+    {"mode": "Rail", "text": "Chalsa station, about 7 km away, is on the Dooars line, served by the Kanchankanya Express from Sealdah and local trains from Siliguri Junction. Autos wait at the station in the mornings."}
+  ],
+  "where_to_stay": "Stay by the river. The West Bengal Forest Development Corporation's Murti Banani Eco-Tourism Centre has standard, deluxe and premium cottages plus tents, from about ₹1,500 to ₹4,000. WBTDC's Moorti Tourism Property, formerly the Murti Tourist Lodge, is also on the bank. Private resorts and homestays along the road charge ₹2,000–6,000. For more comfort, Sinclairs Retreat Dooars on Chalsa hill is 15–20 minutes away.",
+  "stays": ["murti-banani-eco-tourism-centre"],
+  "costs": [
+    ["Room or cottage at a government lodge", "₹1,500–4,000 a night, indicative 2026"],
+    ["Tent at Murti Banani", "≈ ₹1,500 a night, indicative 2026"],
+    ["Chandrachur or Medla watchtower ticket", "₹70–250 per person, indicative 2026"],
+    ["Auto Chalsa → Murti", "₹150–300, indicative 2026"],
+    ["Meals at forest lodges", "≈ ₹500 per person per day, indicative 2026"]
+  ],
+  "budget_tip": "Come by train to Chalsa and take an auto to a government lodge by the river; you can do Gorumara's Murti-side towers without paying for a car from Siliguri.",
+  "tips": [
+    "Do not swim in the Murti; currents are strong even in winter and the water is very cold.",
+    "Avoid the riverbank on Christmas, New Year and Sunday afternoons if you dislike crowds and loudspeakers.",
+    "Carry your rubbish back; picnic litter is the biggest threat to this riverbank.",
+    "Elephants cross the river and roads around Murti; stay indoors after dark.",
+    "Book the government lodges well ahead for weekends between October and February."
+  ],
+  "themes": ["wildlife-safaris", "tea-gardens", "family-trips", "budget-trips"],
+  "nearby": ["gorumara-national-park", "chapramari-wildlife-sanctuary", "samsing", "lataguri"],
+  "experiences": [
+    {
+      "slug": "murti-riverbank-evening",
+      "title": "Evening on the Murti riverbank",
+      "kind": "nature",
+      "duration": "1–2 hours",
+      "best_time": "Late afternoon, Nov – Mar",
+      "cost": "Free",
+      "image_query": "Murti river stones Dooars",
+      "wiki": "",
+      "summary": "The simplest pleasure at Murti: walk down to the wide stony riverbed in the late afternoon, sit on a rock and watch the light fade over Gorumara. In winter the water runs clear and shallow over the stones.",
+      "body": [
+        "From either of the government lodges or the village, paths lead down to the river. In winter the Murti runs in a few channels over a bed of rounded stones, wide enough to feel open after the forest. Across the water is the edge of Gorumara, and in the evening you may hear peafowl and see egrets flying to roost.",
+        "Birdwatchers can find white-browed and white wagtails, river lapwings, plumbeous and white-capped redstarts on the rocks, and kingfishers working the channels. Bring a flask of tea or buy one in the village. As the sun sets, mist forms over the water in the cold months.",
+        "Stay on the near side of the river and do not cross to the forest bank, which is inside the protected area. Leave before dark; elephants come down to the river at night. Paddle at the edges only, never swim, and carry back any rubbish, even if others do not."
+      ],
+      "good_for": ["couples", "families", "seniors", "photographers"],
+      "faqs": [
+        {"q": "Can I swim in the Murti river", "a": "No. Even in winter, when the Murti looks shallow, there are fast channels and very cold water, and people have drowned in Dooars rivers. Paddle only at the edges where you can see the bottom, keep children close, and never go in during or after rain."},
+        {"q": "Is Murti crowded", "a": "On Sundays, holidays and especially from Christmas to New Year, the riverbank fills with picnic groups and loudspeakers. On weekdays and early mornings it is quiet. If you want calm, avoid those dates and walk a little upstream or downstream from the main access points."},
+        {"q": "What birds can I see on the Murti river", "a": "In winter, wagtails, river lapwings, plumbeous and white-capped redstarts, kingfishers including the crested kingfisher in some years, egrets and cormorants. Forest birds such as hornbills, parakeets and drongos fly over from Gorumara. Early morning and late afternoon are best."}
+      ]
+    },
+    {
+      "slug": "murti-dhupjhora-forest-camp",
+      "title": "Dhupjhora forest camp and elephants",
+      "kind": "wildlife",
+      "duration": "Half day",
+      "best_time": "Nov – Apr",
+      "cost": "₹200–2,500 depending on activity, indicative",
+      "image_query": "Dhupjhora elephant camp Gorumara",
+      "wiki": "",
+      "summary": "Dhupjhora, near Murti on the Gorumara edge, has been home to departmental elephants and a forest-corporation camp. Activities and rules change by season; what stays constant is a quiet forest-edge setting by the river.",
+      "body": [
+        "The forest department keeps trained elephants for patrols, rescue and managing wild herds, and Dhupjhora near Murti has long been one of their camps. The West Bengal Forest Development Corporation lists a Dhupjhora Elephant Camp among its eco-tourism properties, with simple rooms. Visitors come to see the elephants at their daily routine of bathing and feeding, and to stay on the forest edge.",
+        "Elephant rides have been offered here in the past. As with Jaldapara, they are contested on welfare grounds and availability changes from season to season. We suggest watching the elephants bathe in the river with their mahouts, at a respectful distance, rather than riding. Ask the camp staff what is allowed that season.",
+        "Book rooms or activities through the forest corporation. Do not feed the elephants or approach them without the mahout's permission; even trained elephants can react suddenly. Combine a morning at Dhupjhora with an afternoon at the Medla or Chandrachur tower. Check current status before you travel."
+      ],
+      "good_for": ["families", "photographers"],
+      "faqs": [
+        {"q": "What is Dhupjhora elephant camp", "a": "Dhupjhora is a forest camp near Murti on the edge of Gorumara where departmental elephants are kept, and the West Bengal Forest Development Corporation runs simple rooms. Visitors can see elephants bathe and feed with their mahouts. Activities change by season, so check current status before you travel."},
+        {"q": "Are elephant rides available at Dhupjhora", "a": "They have been offered in some seasons, but rides are contested on welfare grounds and rules change. We recommend watching the elephants with their mahouts rather than riding. Ask the camp or the forest corporation what is allowed that season."},
+        {"q": "Can I stay at Dhupjhora", "a": "Yes. The forest corporation lists rooms at Dhupjhora Elephant Camp, with deluxe rooms at about ₹2,000 and meals at a fixed daily rate, indicative. Book through its website. It is very quiet at night, with forest on one side and the river nearby."}
+      ]
+    },
+    {
+      "slug": "murti-dawn-birding-walk",
+      "title": "Dawn birding along the Murti",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, Nov – Mar",
+      "cost": "₹500–1,500 for a local guide, indicative",
+      "image_query": "plumbeous water redstart river",
+      "wiki": "",
+      "summary": "In winter the Murti riverbed, tea-garden shade trees and forest edge make a compact birding circuit. Go at first light with binoculars and, ideally, a local guide.",
+      "body": [
+        "Start at the river at first light. Winter brings redstarts, wagtails and forktails to the stones, while river lapwings and little ringed plovers run on the gravel bars. Ospreys and other raptors patrol over the water, and kingfishers perch on snags. Follow the riverbank road (not the forest side) and then turn into tea-garden roads.",
+        "Shade trees in the gardens hold barbets, drongos, minivets, orioles and bulbuls; flowering trees attract sunbirds and flowerpeckers. With luck, oriental pied hornbills fly over from Gorumara. Listen for the 'kutroo-kutroo' of lineated barbets and the alarm calls that may mean a raptor or a leopard.",
+        "Stay on public roads, do not enter the protected forest on foot, and ask your lodge which stretches are safe that week; elephants sometimes linger near the river in the morning. Two to three hours is enough. A local guide adds a lot, both for birds and safety."
+      ],
+      "good_for": ["photographers", "solo", "seniors"],
+      "faqs": [
+        {"q": "Is Murti good for birdwatching", "a": "Yes, especially from November to March. The mix of river, tea garden shade trees and forest edge gives a good variety in a small area: river birds such as redstarts and wagtails, garden birds such as barbets and minivets, and forest birds from Gorumara. Go at dawn."},
+        {"q": "Is it safe to walk along the Murti river early in the morning", "a": "On the village side and public roads, generally yes, in daylight and with care. Elephants sometimes stay near the river at dawn, so ask your lodge first, walk with a local guide, and keep well away from any animal. Never cross to the forest bank."},
+        {"q": "What should I bring for birding in the Dooars", "a": "Binoculars, a field guide or app, a notebook, water, a warm layer for winter mornings, earth-coloured clothing, and closed shoes. A camera with a zoom lens helps. Insect repellent is useful from March. Avoid bright colours and loud voices."}
+      ]
+    },
+    {
+      "slug": "murti-tea-garden-lines-walk",
+      "title": "Tea lanes and village roads around Murti",
+      "kind": "tea",
+      "duration": "2 hours",
+      "best_time": "Mornings, Mar – Nov",
+      "cost": "Free on public roads; guide ₹300–700, indicative",
+      "image_query": "Dooars tea pluckers morning",
+      "wiki": "Dooars-Terai tea gardens",
+      "summary": "Tea gardens surround Murti on the plains side, with Adivasi and Nepali villages between them. A walk with a local guide shows the plucking, the shade trees and the life of the garden lines.",
+      "body": [
+        "The gardens around Murti and Chalsa were planted in the decades after 1874, when tea spread rapidly across the western Dooars. Rows of bushes stand under tall shade trees, crossed by drains and estate roads. From March to November, pluckers move along the rows in the morning, and lorries carry leaf to the factory in the afternoon.",
+        "Your guide can explain how the garden works: pruning cycles, plucking rounds, the weighing shed, and the factory where green leaf becomes CTC tea. They can also talk about the people. Many workers are descendants of families recruited from the Chota Nagpur plateau, and they speak Sadri and keep festivals such as Karam.",
+        "Walk on estate roads only with permission or a guide, greet people, and ask before taking photos. Workers' homes are private. If you buy tea, buy it from a proper shop or the garden's own outlet, not from strangers on the road."
+      ],
+      "good_for": ["couples", "families", "students"],
+      "faqs": [
+        {"q": "Can I walk inside tea gardens near Murti", "a": "Some estate roads are used as public roads and you can walk them. Inside the gardens, you need permission from the garden office, which your lodge or a local guide can arrange. Do not walk between the bushes or into workers' lines uninvited."},
+        {"q": "Who works in the Dooars tea gardens", "a": "Mostly Adivasi families whose ancestors were recruited from the Chota Nagpur plateau (Oraon, Munda, Santal and others), along with Nepali and other communities. Many speak Sadri as a common language. Tea work is hard and wages have long been a political issue in North Bengal."},
+        {"q": "When do the Dooars tea gardens pluck", "a": "From about March to November, with the heaviest crop in the monsoon. In winter, December to February, bushes are pruned and factories shut for maintenance. For a walk with plucking under way, go in spring or autumn mornings."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Murti in the Dooars", "a": "Murti is a village on the Murti river in Jalpaiguri district, on the north-eastern edge of Gorumara National Park, about 7 km from Chalsa and 20–30 minutes from Lataguri. Siliguri is about 75 km and two hours away by road."},
+    {"q": "How do I book the Murti forest lodge", "a": "The Murti Banani Eco-Tourism Centre is booked through the West Bengal Forest Development Corporation website, and the Moorti Tourism Property through WBTDC. Book early for weekends from October to February. Rates are roughly ₹1,500–4,000, indicative 2026. Check current status before you travel."},
+    {"q": "Is Murti better than Lataguri", "a": "Murti is quieter and has a river at your door, while Lataguri has more lodges, the main safari counter and more shops. Murti is closer to the Chandrachur and Medla towers; Lataguri to the main gate. Many people do one night in each."},
+    {"q": "Is Murti good for a family picnic", "a": "Yes, the riverbank is a popular picnic spot, but go on a weekday if you want space. Keep children away from fast water and never let them swim. Carry back all rubbish. Avoid Christmas and New Year week, when the bank is crowded and noisy."},
+    {"q": "Can I see wild animals at Murti", "a": "You may see peafowl, deer and birds from the riverbank, and elephants sometimes cross the river at night. For reliable sightings of gaur, rhino and elephant, take a Gorumara watchtower slot such as Medla or Chandrachur, which are close to Murti."},
+    {"q": "How do I go from Murti to Samsing", "a": "Drive up through Chalsa or along the river road towards Matelli and Samsing, about 25–30 km and 45 minutes to an hour. Rocky Island is a little beyond Samsing. A car for a half-day costs about ₹1,500–2,500, indicative 2026."},
+    {"q": "Is Murti open in the monsoon", "a": "The village and lodges may stay open, but Gorumara closes from 16 June to 15 September and the river floods. Riverbank picnics are dangerous in the rains. We do not recommend Murti in these months. Check current status before you travel."},
+    {"q": "What is the nearest station to Murti", "a": "Chalsa station, about 7 km away on the Dooars line, is the nearest. New Mal Junction is about 20 km away and has more trains. From either, take an auto or a lodge pickup to Murti."},
+    {"q": "Are there restaurants in Murti", "a": "Murti is small. Most guests eat at their lodge or resort, where set meals cost about ₹500 per person per day at the government lodges, indicative. There are tea stalls and small eateries in the village and more choice in Chalsa and Lataguri."}
+  ]
+}

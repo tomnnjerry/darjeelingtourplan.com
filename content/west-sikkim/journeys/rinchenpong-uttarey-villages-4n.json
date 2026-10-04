@@ -1,0 +1,91 @@
+{
+  "slug": "rinchenpong-uttarey-villages-4n",
+  "title": "Rinchenpong and Uttarey village trip, 4 nights",
+  "region": "west-sikkim",
+  "nights": 4,
+  "themes": ["village-homestays", "mountain-views", "monasteries", "treks-and-walks"],
+  "stops": [
+    {"place": "rinchenpong", "nights": 2},
+    {"place": "uttarey", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 12000,
+  "fares": {"budget": 12000, "comfort": 19500, "premium": 34000},
+  "fare_notes": {
+    "budget": "Family-run homestays in Rinchenpong or Kaluk and in Uttarey, twin rooms, simple and clean, often with shared or basic bathrooms. A small car for your party on the transfer days and the Rinchenpong–Kaluk day. Breakfast, lunch on most days and dinner, home-cooked.",
+    "comfort": "The better homestays and small lodges in both villages, with attached bathrooms and a mountain-facing room requested. Private SUV for every day of the trip. All meals at the homestay.",
+    "premium": "Two nights at Yangsum Heritage Farm in Rinchenpong, an 1800s farmhouse on a 44-acre organic farm with home-grown meals, and the best room available in Uttarey; there are no luxury hotels out here. Private SUV throughout and a local guide for the Phoktey Dara option. All meals."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2000,
+  "meta_description": "Rinchenpong and Uttarey, 4 nights: village homestays, the Ati Buddha monastery, Kaluk, the Singshore Bridge and a trout farm, from ₹12,000 per person.",
+  "summary": "A quiet 4-night village trip in western Sikkim, near the Nepal border. Two nights at Rinchenpong and Kaluk, at about 1,700 m, for the 1730 monastery with its rare Ati Buddha and wide Kangchenjunga views. Two at Uttarey, at about 2,000 m, for the Singshore Bridge, the trout farm and an optional ridge day.",
+  "intro": [
+    "Pelling gets the crowds. A few hours west, on the ridges of what is now Soreng and Gyalshing districts, Rinchenpong and Uttarey see a fraction of the visitors and offer the same mountain. Rinchenpong and its neighbour Kaluk sit at about 1,700 m on a windy ridge facing Kangchenjunga. Uttarey, at about 2,000 m, lies close to the Nepal border at the foot of the Singalila Ridge. Both are farming villages first, with homestays run by the families who live in them.",
+    "This is a slow trip. Drives are short in the middle, there are no ticketed sights to rush between, and the best hours are early morning on the ridge and evening at the kitchen fire. Rinchenpong Monastery, founded in 1730, holds an Ati Buddha shown in yab-yum. On the way to Uttarey we cross the Singshore Bridge, about 240 m long over a deep gorge. Come October to May; skip the monsoon."
+  ],
+  "highlights": [
+    "Rinchenpong Monastery, founded in 1730, and its Ati Buddha image",
+    "Sunrise on Kangchenjunga from the Rinchenpong and Kaluk ridge",
+    "The Singshore Bridge, about 240 m long and over 100 m above the gorge",
+    "Uttarey's trout farm and the walks at the foot of the Singalila Ridge",
+    "Home-cooked Sikkimese food in family homestays: gundruk, sel roti, chhurpi"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Rinchenpong", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 120 km · 5–5.5 h",
+     "text": "Your car meets you at NJP, Bagdogra or Siliguri and follows the Teesta to Melli, where you enter Sikkim; foreign nationals show their Restricted Area Permit here, and Indians carry photo ID. The road then runs up the Rangeet to Jorethang, a good lunch stop, before climbing west to Rinchenpong at about 1,700 m. Check in at your homestay and walk the ridge before dark. Dinner is usually served early, around 7:30 pm, with the family. In monsoon, landslides between Melli and Jorethang can add hours, so check current status before you travel.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Rinchenpong Monastery and Kaluk", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 15 km local · 4–5 h",
+     "text": "Step out at first light: on clear mornings Kangchenjunga and its neighbours fill the northern sky. After breakfast we walk or drive up to Rinchenpong Monastery, founded in 1730. Inside is an image of the Ati Buddha, or Adi Buddha, shown in yab-yum; photography inside is not allowed. Near the village is a pond that local tradition calls Bikh Pokhari, the poison pond, where Lepcha and Gorkha fighters are said to have poisoned the water against a British force. In the afternoon wander through the terraced fields of Kaluk next door, and watch the light change on the range.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 3, "title": "To Uttarey over the Singshore Bridge", "place": "uttarey", "overnight": "Uttarey", "drive": "≈ 35–40 km · 2–2.5 h",
+     "text": "A short transfer west via Dentam. We stop at the Singshore Bridge, about 240 m long and more than 100 m above the gorge, linking the Dentam and Uttarey sides; walk across slowly and enjoy the drop, or watch from the end if heights bother you. Entry is free or nominal. Uttarey sits at about 2,000 m, close to the Nepal border, with forested slopes rising to the Singalila Ridge. After lunch at the homestay, walk down to the trout farm and through the village fields. Evenings are cold for most of the year, so ask for an extra quilt.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 4, "title": "Uttarey walks or the Phoktey Dara option", "place": "uttarey", "overnight": "Uttarey", "drive": "",
+     "text": "Two ways to spend the day. The easy one: village walks, the small monasteries and viewpoints around Uttarey, and an afternoon with a book. The harder one, for fit walkers, is a full day towards Phoktey Dara on the Singalila Ridge with a local guide, through rhododendron forest that flowers from about March to May, for wide views of Kangchenjunga on clear days. The ridge runs along the Nepal border, so carry photo ID for the SSB posts. Routes, timings and rules change, so your homestay will confirm the plan and you should check current status before you travel.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 5, "title": "Uttarey back to the plains", "place": "siliguri", "overnight": "—", "drive": "≈ 145 km · 6–6.5 h",
+     "text": "We leave by 7:30 am after an early breakfast, because this is the longest drive of the trip. The road runs back east via Dentam and down to the Rangeet, then through Jorethang and Melli to the Teesta and Siliguri. Lunch near Jorethang. Expect to reach NJP or Siliguri by mid-afternoon, and Bagdogra a little later. Book flights after 5 pm and trains in the evening, since one slow stretch or a small slide can cost an hour or more. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["yangsum-heritage-farm-rinchenpong"],
+  "includes": [
+    "4 nights on twin sharing in homestays, or Yangsum Heritage Farm on premium",
+    "Home-cooked meals as listed each day",
+    "Car from Siliguri, NJP or Bagdogra to Rinchenpong, Rinchenpong to Uttarey, and Uttarey back",
+    "Local sightseeing at Rinchenpong and Kaluk",
+    "A local guide for the Phoktey Dara option, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Local guide and vehicle for Phoktey Dara on budget and comfort, arranged by the homestay at local rates",
+    "Monastery donations and any small fees",
+    "Drinks, snacks and tips",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in January, February or late November, when homestay rates are lowest and the mornings are clearest.",
+    "Go up by shared jeep from Siliguri to Jorethang and on to Rinchenpong, and keep a car only for the Rinchenpong to Uttarey day.",
+    "Stay full board at the homestay; meals cost far less than eating out and there are few places to eat anyway."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Rinchenpong or Uttarey; carry photo ID. Foreign nationals need a free Sikkim Restricted Area Permit. Check current status before you travel.",
+    "Uttarey and the Singalila Ridge are close to the Nepal border; SSB checkposts may ask for ID.",
+    "Homestay bathrooms are simple; hot water may come by bucket and power cuts are common, so bring a torch and a power bank.",
+    "Mobile data is patchy in both villages; download maps and tell family at home you may be out of touch.",
+    "Rinchenpong Monastery does not allow photography inside; ask before photographing people in the villages."
+  ],
+  "faqs": [
+    {"q": "Is Rinchenpong worth visiting", "a": "Yes, if you want Kangchenjunga without Pelling's crowds. Rinchenpong and Kaluk sit at about 1,700 m on an open ridge with a wide view of the range on clear mornings. The 1730 monastery with its Ati Buddha is unusual in Sikkim. There is little else to do, which is the point: walks, homestay food and quiet evenings."},
+    {"q": "How do we get to Rinchenpong from NJP", "a": "By road, about 120 km and 5–5.5 hours via Sevoke, Melli and Jorethang. A reserved car is simplest. On a budget, take a morning shared jeep from Siliguri to Jorethang and another from Jorethang towards Rinchenpong or Soreng; most onward jeeps leave Jorethang before about 1 pm. Check current status before you travel."},
+    {"q": "What is the Ati Buddha at Rinchenpong Monastery", "a": "The monastery, founded in 1730, keeps an image of the Ati Buddha, also called the Adi Buddha or primordial Buddha, shown in yab-yum, in union with a consort. It is an unusual image to find on a village ridge. Photography inside is not allowed. Visit in the morning, dress modestly, walk clockwise and leave a small donation if you wish."},
+    {"q": "How high and long is the Singshore Bridge", "a": "The Singshore Bridge is about 240 m long and more than 100 m above the gorge it crosses, linking the Dentam and Uttarey sides. Visitors walk out on it for the view, and there is usually no fee or only a nominal one. It sits on the way from Dentam to Uttarey, so this trip stops there on day three."},
+    {"q": "Can we go to Phoktey Dara from Uttarey", "a": "Yes, fit walkers can make a long day of it with a local guide. Phoktey Dara is a viewpoint on the Singalila Ridge along the Nepal border, reached through rhododendron forest. Carry ID for the SSB posts, start early, take warm clothes and water. Routes and rules change, so your homestay will confirm the plan; check current status before you travel."},
+    {"q": "Is Uttarey good for families", "a": "Yes, for families who like walking and slow days. Uttarey is a farming village at about 2,000 m with a trout farm, short walks and space to play. There are no shops or entertainment beyond the village, mobile data is patchy, and nights are cold, so pack warm clothes and games. Older children enjoy the Singshore Bridge on the way."},
+    {"q": "What are homestays like in Rinchenpong and Uttarey", "a": "Simple and family-run. Expect a clean twin room, thick quilts, sometimes a shared bathroom, and home-cooked meals of rice, dal, vegetables, local greens and often chicken or eggs. Hot water may come by bucket. Comfort-tier homestays have attached bathrooms and a view. For more comfort, Yangsum Heritage Farm in Rinchenpong is our premium choice."},
+    {"q": "What is the best time for Rinchenpong and Uttarey", "a": "October to December for the clearest mountain views and dry roads. January and February are cold but often cloudless. March to May brings rhododendrons on the Singalila side and warmer days, with haze by mid-morning. June to September brings heavy rain and landslides, and the mountains hide in cloud, so we skip those months."},
+    {"q": "Do we need a permit for Uttarey near the Nepal border", "a": "Indian nationals need no permit for Uttarey or Rinchenpong but should carry photo ID, as SSB border posts may check it near the ridge. Foreign nationals need the free Sikkim Restricted Area Permit, from e-FRRO or the Melli checkpost, and should not go beyond points allowed on it. Check current status before you travel."}
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "bhutan-by-road-from-siliguri-6n",
+  "title": "Bhutan by road from Siliguri in 6 nights",
+  "region": "bhutan",
+  "nights": 6,
+  "themes": ["budget-trips", "monasteries"],
+  "stops": [
+    {"place": "phuentsholing", "nights": 1},
+    {"place": "thimphu", "nights": 2},
+    {"place": "paro", "nights": 2},
+    {"place": "phuentsholing", "nights": 1}
+  ],
+  "start": "Siliguri (NJP station or Bagdogra Airport, IXB)",
+  "end": "Siliguri (NJP station or Bagdogra Airport, IXB)",
+  "price_from_inr": 31000,
+  "fares": {"budget": 31000, "comfort": 50000, "premium": 150000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Druk Phuentsholing and Hotel Olathang in Paro, twin sharing; a Bhutan-registered car or Hiace with driver; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%.",
+    "comfort": "4-star and boutique hotels such as Hotel Druk on Clock Tower Square in Thimphu; a private Bhutan-registered car for your party; a private licensed guide; reserved car from Siliguri to the border and back; breakfast and dinner; SDF included.",
+    "premium": "Taj Tashi in Thimphu and COMO Uma Paro, with the best certified hotel in Phuentsholing; a private car and senior guide; reserved car from Siliguri; breakfast and dinner; SDF included."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "Bhutan by road from Siliguri: 6 nights via Phuentsholing, Thimphu and Paro with the Tiger's Nest hike, from ₹31,000 per person including SDF.",
+  "summary": "Six nights in Bhutan without a flight. We drive from Siliguri to the Phuentsholing border, climb to Thimphu for two nights, spend two in Paro with the Tiger's Nest hike, and come back the same way. From ₹31,000 per person, twin sharing, with SDF, guide, car, hotels and two meals a day.",
+  "intro": [
+    "This is the trip most families from Kolkata and Siliguri start with, and the cheapest honest way to see western Bhutan. The road does the work: about 160 km across the Dooars tea country to Jaigaon, a walk through the gate into Phuentsholing, then 165 km up through Gedu and Chukha to Thimphu at 2,320 m. Flights to Paro save a day each way but add an airfare per person on top of the land cost. On the road you see the country change from plains to pine forest in one afternoon.",
+    "Indians pay a Sustainable Development Fee of ₹1,200 per person per night, which is included in our fares. Since the Department of Tourism notification of 8 April 2026, plan on a licensed guide for the whole trip beyond Phuentsholing; ours meets you at the border. The two Phuentsholing nights break the long drives in half, so nobody spends ten hours in a car. Paro gets two full nights because the Tiger's Nest hike needs a fresh morning."
+  ],
+  "highlights": [
+    "Paro Taktsang, the Tiger's Nest, at about 3,120 m on a cliff above the Paro valley",
+    "Buddha Dordenma above Thimphu, about 51.5 m of gilded bronze, finished in 2015",
+    "The drive from Phuentsholing at about 300 m to Thimphu at 2,320 m in one day",
+    "Rinpung Dzong in Paro, consecrated in 1646 under the Zhabdrung",
+    "A capital city without a single traffic light"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Phuentsholing",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 160 km · 4–5 h",
+      "text": "We pick you up at NJP or Bagdogra and drive east through Sevoke, the Malbazar and Chalsa tea gardens, Birpara and Hasimara to Jaigaon. Indian taxis stop here. You walk through the gate into Phuentsholing with your passport or original Voter ID; Aadhaar is not accepted. If you did not get the Entry Permit online, the immigration office at the pedestrian terminal issues it, and your SDF of ₹1,200 per person per night is paid with it. Evening walk to Zangtho Pelri Lhakhang in the town centre. Budget travellers can ride an NBSTC or private bus from Siliguri for ₹150–300, about 5–6 hours. Check current status before you travel.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Up the mountain road to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 165 km · 5–6 h",
+      "text": "Your guide and Bhutan-registered car meet you after breakfast. About 5 km up the highway is the Rinchending checkpoint, where permits are checked and the guided part of the trip begins. The road climbs through Gedu and past the Chukha hydropower area, then drops to Chhuzom, where the Paro and Thimphu rivers meet beside three chortens. Expect fog and slow stretches between Gedu and Chukha, especially in the rains. We stop for lunch on the way; a local meal costs ₹250–600. Reach Thimphu by late afternoon and walk down to Clock Tower Square. Watch the policeman at the traffic box: Thimphu has no traffic lights.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Thimphu, the capital in one day",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Start at the Memorial Chorten, built in 1974 for the Third King, where older Thimphu residents walk circuits all morning. Drive up to Buddha Dordenma, about 51.5 m high and holding 125,000 smaller Buddha statues inside. Then the Motithang Takin Preserve: the takin became the national animal in 2005, and legend says Drukpa Kunley made the first one from a goat's head and a cow's skeleton. After lunch, Simtokha Dzong, built by the Zhabdrung in 1629, and the archery ground if a match is on. Tashichho Dzong houses the king's offices, so your guide times the visit to its opening hours. Entry fees run Nu 300–500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Thimphu to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 55 km · 1–1.5 h",
+      "text": "A short drive back down to Chhuzom and up the Paro valley, with the airport runway alongside the river. In Paro we walk up to Rinpung Dzong, consecrated in 1646 and still the seat of the district administration and monk body. Above it, the old Ta Dzong watchtower holds the National Museum. In the afternoon visit Kyichu Lhakhang, which tradition says is one of 108 temples built by the Tibetan king Songtsen Gampo in the 7th century to pin down a demoness. Paro town is four streets of painted wooden shopfronts; try the red rice grown in this valley. Go to bed early for tomorrow's climb.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "The Tiger's Nest hike",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 25 km round trip",
+      "text": "Leave by 7 am for the car park at about 2,600 m. The trail climbs about 500 m to Paro Taktsang at about 3,120 m; allow 4–6 hours for the round trip, with tea at the cafeteria halfway. Legend says Guru Rinpoche flew here on the back of a tigress in the 8th century and meditated in the cave. The temple was built in 1692, burned in 1998 and was restored by 2005. Entry is Nu 1,000, indicative 2026, and cameras stay in the locker. Wear long sleeves and trousers. In the evening, a farmhouse hot stone bath costs ₹1,500–3,000 and is worth it for tired legs.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Paro down to Phuentsholing",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 150 km · 5 h",
+      "text": "After breakfast we drive back to Chhuzom and down the long road to the border, losing about 1,900 m in height in five hours. Stop at the viewpoints above Chukha if the cloud is up. Reach Phuentsholing by mid-afternoon, which leaves time for the market and the shops along Zhung Lam, where prices for Bhutanese textiles and incense are usually lower than in Thimphu. Your guide signs off at the hotel. Settle any bills in rupees or ngultrum; the two are equal in value and both work here. Our fares assume you sleep on the Bhutan side, so the last night's SDF is included.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Phuentsholing back to Siliguri",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 160 km · 4–5 h",
+      "text": "Walk back through the gate to Jaigaon after breakfast, where your car to Siliguri waits. Leave by 9 am for an afternoon flight from Bagdogra or an evening train from NJP; traffic around Birpara and Sevoke can add an hour. If you are travelling cheap, the train from Hasimara, 18 km away, reaches NJP in about 3–4 hours, and buses run from Jaigaon to Siliguri through the day for ₹150–300. In the rains, check the Sevoke road for landslides before you leave. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-druk-phuentsholing", "hotel-olathang-paro", "hotel-druk-thimphu", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "6 nights in Department of Tourism-certified hotels in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 6 nights",
+    "Licensed guide from Phuentsholing, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car from Phuentsholing to Thimphu, Paro and back",
+    "Car from Siliguri to Jaigaon and back (shared by the group on budget)",
+    "Entry Permit help and the Thimphu and Paro sightseeing in the plan"
+  ],
+  "excludes": [
+    "Monument entry fees: Tiger's Nest Nu 1,000, dzongs and museums about Nu 300–500 each, indicative 2026",
+    "Lunches, drinks and snacks",
+    "Hot stone bath, pony hire and other optional extras",
+    "Trains and flights to Siliguri",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, travel insurance and personal costs"
+  ],
+  "save_more": [
+    "Travel as a group of 4–6 so one car and one guide are split many ways; this alone saves ₹5,000–8,000 per person.",
+    "Go in late February, early June or December, when certified hotels in Thimphu and Paro often discount.",
+    "Take the Siliguri–Jaigaon bus for ₹150–300 instead of a reserved car at ₹4,500–6,000."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist must have a licensed guide beyond the first checkpoint, Rinchending for Phuentsholing. Plan on a guide for the whole trip beyond Phuentsholing. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Children aged 6–12 pay half the SDF and under-6s pay none, so family fares come down.",
+    "Dzongs and temples need long sleeves, long trousers or skirts and no caps; photography is not allowed inside shrine rooms."
+  ],
+  "faqs": [
+    {"q": "How much does a 6-night Bhutan trip cost from Siliguri", "a": "Our 6-night road trip from Siliguri costs from ₹31,000 per person on budget, ₹50,000 on comfort and ₹1,50,000 on premium, twin sharing, indicative 2026. That covers certified hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide and a Bhutan-registered car. The budget fare assumes 4–6 travellers share the car; a couple alone pays about 15–25% more. Monument fees are extra."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. A Department of Tourism notification dated 8 April 2026 restates that all tourists need a licensed guide beyond the first checkpoint, which for Phuentsholing is Rinchending, and on visits to monuments. We read this as covering Indian tourists too, although older websites still say Indians can roam Thimphu and Paro alone. Our fares include a guide. Check current status before you travel."},
+    {"q": "Which documents do Indians need to enter Bhutan by road", "a": "An Indian passport valid for at least 6 months, or an original Voter ID (EPIC) card, plus passport-size photos. Aadhaar, PAN cards and driving licences are not accepted. Children under 18 without a passport need their original birth certificate. You get a free Entry Permit online in advance or at the Phuentsholing pedestrian terminal. Check current status before you travel."},
+    {"q": "Can we take a Siliguri taxi or our own car into Bhutan", "a": "Siliguri taxis normally stop at Jaigaon, and you switch to a Bhutan-registered tourist vehicle. Private Indian cars can enter with a permit from the transport authority at the border; 2026 reports put the fee at about Nu 4,500 a day, for vehicles under 10 years old, and you still need a licensed guide. For most groups a Bhutanese car works out simpler. Check current status before you travel."},
+    {"q": "How long is the drive from Phuentsholing to Thimphu", "a": "About 165 km and 5–6 hours, including a lunch stop. The road climbs from about 300 m at the border through Rinchending, Gedu and Chukha, drops to the river confluence at Chhuzom and then follows the Thimphu river up to 2,320 m. Fog around Gedu and roadworks can slow it down, so we leave Phuentsholing by 8.30 am."},
+    {"q": "Do Indians pay SDF in Bhutan", "a": "Yes. Indian nationals pay a Sustainable Development Fee of ₹1,200 (Nu 1,200) per person per night. Children aged 6–12 pay half and under-6s pay nothing. It is paid with the Entry Permit, online or at the border. All our fares include it. Day visitors who stay inside the Phuentsholing zone for under 24 hours do not pay it. Check current status before you travel."},
+    {"q": "Can we use Indian rupees and UPI in Bhutan", "a": "Rupees are accepted almost everywhere because the ngultrum is pegged 1:1 to the rupee. The Indian Embassy notes that Indians may carry up to ₹25,000 in ₹500 or smaller notes, and more only in ₹100 or smaller notes. UPI and Indian cards work in some shops and hotels, but carry cash. There are ATMs in Phuentsholing, Thimphu and Paro."},
+    {"q": "Is the Tiger's Nest hike difficult", "a": "It is a steady climb of about 500 m from the car park at about 2,600 m to the temple at about 3,120 m, and most fit adults manage it in 4–6 hours return. The path is wide but dusty, with steps near the end. Go slowly, carry water and stop at the cafeteria halfway. Ponies can often be hired for the first part of the climb."},
+    {"q": "What is the cheapest way from Siliguri to Phuentsholing", "a": "The NBSTC or private bus from Siliguri to Jaigaon costs about ₹150–300 and takes 5–6 hours. The train from NJP to Hasimara takes 3–4 hours, then a taxi or auto covers the last 18 km for ₹300–600. A reserved car costs ₹4,500–6,000, which is cheap only when four or more share it. Prices are indicative, 2026."}
+  ]
+}

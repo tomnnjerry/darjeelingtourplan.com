@@ -1,0 +1,138 @@
+{
+  "slug": "phodong",
+  "name": "Phodong",
+  "region": "north-sikkim",
+  "kind": "monastery town",
+  "wiki": "Phodong Monastery",
+  "image_query": "Phodong Monastery Sikkim",
+  "lat": 27.41,
+  "lng": 88.58,
+  "altitude_m": 1400,
+  "tagline": "One of Sikkim's six great monasteries, 38 km from Gangtok",
+  "meta_description": "Phodong, North Sikkim: Phodong Monastery history, the December chaam before Losoong, Labrang Gompa, Tumlong and Seven Sisters Waterfall, reach and costs.",
+  "summary": "Phodong is a farming town 38 km north of Gangtok, known for Phodong Monastery, a Karma Kagyu gompa of the 18th century and one of the six most important in Sikkim. Its masked chaam is held in December before Losoong. No permit is needed for Indians, and it is an easy stop on the way north.",
+  "intro": [
+    "Phodong sits on the North Sikkim Highway about 38 km from Gangtok, around 1 hour 40 minutes by car. It is a small town of terraced fields, a bazaar and government offices, and most travellers know it only as a name on the way to Mangan and Lachung. Stop. Phodong Monastery, about a kilometre from the bazaar, is one of the most important gompas in Sikkim and much quieter than Rumtek.",
+    "The monastery belongs to the Karma Kagyu school. It was built in the 18th century, around 1740, under Chogyal Gyurmed Namgyal, at a time when the ninth Karmapa's links with Sikkim had led to three Kagyu monasteries: Rumtek, Ralang and Phodong. An older monastery stood here before it. It was later rebuilt, and it has a community of monks, a large prayer hall and old murals.",
+    "Phodong is also a good base for the history of the area. A short drive above it is Labrang Gompa, and below it lies Tumlong, the royal capital of Sikkim for much of the 19th century, where the Treaty of Tumlong was signed with the British in 1861. Add Kabi Lungchok and the Seven Sisters Waterfall and you have a full, permit-free half-day from Gangtok."
+  ],
+  "story": {
+    "title": "When the capital of Sikkim stood below Phodong",
+    "paras": [
+      "Sikkim's first capital was at Yuksom, where the first Chogyal was crowned in 1642, and its second at Rabdentse near Pelling. After repeated raids from Nepal, Chogyal Tshudpud Namgyal moved the court inland in 1793 to Tumlong, a village on the Dik Chu just below Phodong. For most of the 19th century, this quiet valley was the political heart of the kingdom.",
+      "It was at Tumlong, in 1861, that the Treaty of Tumlong was signed between the British and the Sikkim ruler after a British expedition, giving the British strong influence over Sikkim's affairs and trade. Later in the century the capital moved again, to Gangtok, closer to British Darjeeling.",
+      "Little survives of the palace at Tumlong, and there is no museum. But the monastery at Phodong grew up close to the court, with royal patrons who rebuilt it. Standing in its courtyard, looking down at Tumlong, you are looking at where Sikkim's kings once ruled."
+    ],
+    "source": "Wikipedia, 'Tumlong', 'Phodong Monastery' and 'Kabi Lungchok'; Mangan district administration"
+  },
+  "did_you_know": [
+    "Phodong Monastery is said to house about 260 monks and a collection of old murals, according to its Wikipedia article.",
+    "The Phodong chaam is held on the 28th and 29th days of the tenth Tibetan month, usually in December, just before Losoong.",
+    "The Seven Sisters Waterfall, a regular photo stop, is about 32 km from Gangtok, a few kilometres before Phodong."
+  ],
+  "facts": [
+    ["Best months", "Oct – May; December for the chaam"],
+    ["Nights we suggest", "0–1"],
+    ["Nearest airport", "Bagdogra (IXB) via Gangtok"],
+    ["From Gangtok", "≈ 38 km · 1.5–2 h"],
+    ["Altitude", "≈ 1,400 m (monastery)"],
+    ["Known for", "Phodong Monastery, December chaam, Tumlong history"]
+  ],
+  "best_months": [2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Phodong Monastery", "text": "An 18th-century Karma Kagyu monastery about a kilometre above the bazaar, with a large prayer hall, murals and a community of monks. Entry is free; it is open from about 8 am to 5 pm."},
+    {"title": "The December chaam", "text": "On the 28th and 29th days of the tenth Tibetan month, usually in December, monks perform masked chaam dances in the courtyard before Losoong, the Sikkimese new year. Arrive early for a place to stand."},
+    {"title": "Labrang Gompa", "text": "A short drive above Phodong, Labrang Gompa is a second monastery on the same ridge, usually quieter still. Visit both in an hour if you have a car."},
+    {"title": "Tumlong, the old capital", "text": "Below Phodong, Tumlong served as Sikkim's capital from 1793 for much of the 19th century, and the Treaty of Tumlong was signed here in 1861. There is little to see, but much to know."},
+    {"title": "Seven Sisters Waterfall", "text": "About 32 km from Gangtok, a few kilometres before Phodong, a waterfall drops in several stages beside the highway, with a viewing shed. Fullest from July to October."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps from Gangtok's North Sikkim stand to Mangan pass Phodong; the fare to Phodong is about ₹100–200 a seat, indicative, 2026. Ask to be dropped at the monastery turn-off. Returning jeeps may be full in the afternoon."},
+    {"mode": "Reserved car", "text": "A half-day car from Gangtok covering Kabi Lungchok, Seven Sisters and Phodong costs about ₹2,500–3,500, indicative, 2026. On a Lachung or Lachen package, ask your driver to stop for 30 minutes; most will if asked early."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the railhead NJP. Go to Gangtok (≈ 115 km, 4–5 h) and continue north. Phodong is about 1.5–2 hours beyond Gangtok."}
+  ],
+  "where_to_stay": "Most people visit Phodong from Gangtok or on the way north and do not stay. Gangtok, under two hours away, has the widest choice. If you want to be close to the monastery for an early chaam morning, small local guesthouses and homestays operate around Phodong; ask in the bazaar. Further north, the government-owned Singhik Bungalow near Mangan, about 1.5 hours on, is a quiet budget option with mountain views.",
+  "stays": ["singhik-bungalow-mangan"],
+  "costs": [
+    ["Monastery entry", "Free"],
+    ["Shared jeep Gangtok → Phodong", "₹100–200 a seat, indicative, 2026"],
+    ["Half-day car from Gangtok", "₹2,500–3,500, indicative, 2026"],
+    ["Butter lamp offering", "₹20–100, optional"]
+  ],
+  "budget_tip": "See Phodong free on the way to Mangan or Lachung by asking your driver for a 30-minute stop, instead of paying for a separate half-day trip.",
+  "tips": [
+    "Monastery hours are roughly 8 am to 5 pm; mornings are quieter.",
+    "Check the Tibetan calendar for the chaam dates, which usually fall in December.",
+    "Remove your shoes before the prayer hall and walk clockwise.",
+    "Ask before photographing monks or the interior.",
+    "Carry small change for offerings and tea in the bazaar."
+  ],
+  "themes": ["monasteries", "festivals", "budget-trips", "family-trips"],
+  "nearby": ["kabi-lungchok", "mangan", "dzongu"],
+  "experiences": [
+    {"slug": "phodong-monastery-visit", "title": "Inside Phodong Monastery", "kind": "spiritual", "duration": "45 minutes–1 hour", "best_time": "8–10 am, any season", "cost": "Free; offerings welcome", "image_query": "Phodong Monastery interior murals", "wiki": "Phodong Monastery",
+      "summary": "Visit one of Sikkim's six most important monasteries, an 18th-century Karma Kagyu gompa with murals and a large monastic community, about a kilometre above Phodong bazaar.",
+      "body": [
+        "Phodong Monastery stands on a slope above the town, reached by a short road from the highway. The main building is a large, square prayer hall in the Sikkimese style, with a courtyard in front where masked dances are held. Inside are images of the Buddha, Karmapa lineage figures and protectors, and walls painted with murals.",
+        "The monastery follows the Karma Kagyu school, the same lineage as Rumtek. It was built in the 18th century, around 1740, under Chogyal Gyurmed Namgyal, on the site of an older monastery, and later rebuilt under royal patronage. Its Wikipedia article puts its community at about 260 monks.",
+        "Go in the morning when prayers may be under way. Remove your shoes at the door, walk clockwise, keep your voice low and ask before photographing inside. A Sikkim Tourism office has operated in the compound; staff may be able to tell you about the year's festival dates."
+      ],
+      "good_for": ["seniors", "couples", "students", "families"],
+      "faqs": [
+        {"q": "Which sect does Phodong Monastery belong to", "a": "Phodong Monastery belongs to the Karma Kagyu school of Tibetan Buddhism, the same lineage as Rumtek and Ralang monasteries in Sikkim. It is counted among the six most important monasteries in the state and was built in the 18th century under Chogyal Gyurmed Namgyal."},
+        {"q": "What are the timings of Phodong Monastery", "a": "The monastery is generally open from about 8 am to 5 pm. Entry is free. Mornings are quieter and you may hear prayers. Timings can change on festival days or during ceremonies, so check locally if you are coming for a specific event."},
+        {"q": "How far is Phodong Monastery from Gangtok", "a": "Phodong is about 38 km from Gangtok on the North Sikkim Highway, roughly 1.5–2 hours by car. The monastery is about a kilometre from the bazaar. It is an easy half-day from Gangtok or a stop on the way to Mangan, Lachung or Lachen."}
+      ]},
+    {"slug": "phodong-chaam-masked-dance", "title": "The Phodong chaam before Losoong", "kind": "culture", "duration": "Half day", "best_time": "28th–29th day of the 10th Tibetan month (usually Dec)", "cost": "Free", "image_query": "Phodong chaam mask dance", "wiki": "Losoong Festival",
+      "summary": "Each winter, monks at Phodong perform masked chaam dances in the courtyard over two days before Losoong, the Sikkimese harvest new year. It is one of the best monastery festivals in Sikkim to see without crowds.",
+      "body": [
+        "Chaam is a sacred masked dance performed by monks, with costumes, drums, cymbals and long horns. At Phodong the annual chaam is held on the 28th and 29th days of the tenth month of the Tibetan calendar, which usually falls in December. It is part of the lead-up to Losoong, the Sikkimese new year and harvest festival.",
+        "The dances are rituals, not shows. They tell stories linked to Guru Padmasambhava and the defeat of evil, with dancers representing deities, protectors and animals. Losoong celebrations elsewhere include the burning of an effigy representing evil. Expect long ceremonies, with gaps in between dances.",
+        "Arrive by mid-morning to find a place to stand or sit around the courtyard. Dress warmly; December days at Phodong are mild in the sun and cold in shade. Do not walk into the dance area, use flash or block monks' paths. Ask your hotel or the Sikkim Tourism office for the exact dates in your year."
+      ],
+      "good_for": ["photographers", "families", "students", "couples"],
+      "faqs": [
+        {"q": "When is the Phodong Monastery festival", "a": "Phodong's annual chaam is held on the 28th and 29th days of the tenth month of the Tibetan calendar, usually in December, just before Losoong. Exact Gregorian dates change every year. Check with Sikkim Tourism or your hotel once the year's calendar is published."},
+        {"q": "Can tourists watch the Phodong chaam", "a": "Yes. Visitors are welcome to watch from around the courtyard, free of charge. Dress modestly and warmly, do not use flash, stay out of the dance area and follow instructions from monks or volunteers. Arrive early on the main day for a good spot."},
+        {"q": "What is Losoong", "a": "Losoong is the Sikkimese new year and harvest festival of the Bhutia community, held on the first day of the eleventh Tibetan month, usually in December. Lepchas celebrate a related festival called Namsoong. It is preceded by masked dances at Phodong and Rumtek monasteries."}
+      ]},
+    {"slug": "phodong-seven-sisters-waterfall", "title": "Seven Sisters Waterfall photo stop", "kind": "nature", "duration": "15–20 minutes", "best_time": "Jul–Oct (fullest), any time", "cost": "Free", "image_query": "Seven Sisters Waterfall North Sikkim", "wiki": "",
+      "summary": "About 32 km from Gangtok, just before Phodong, the Seven Sisters Waterfall drops in several stages beside the highway, with a viewing shed for photos. A standard halt on the drive north.",
+      "body": [
+        "The Seven Sisters Waterfall comes down a steep, forested face beside the North Sikkim Highway, about 32 km from Gangtok. Its name refers to the several stages or streams in which it falls. The Mangan district administration notes a viewing shed for photographs, and there are usually tea stalls nearby.",
+        "It is at its fullest from July to October, during and just after the monsoon, when it is loud and spray-filled. In late winter and spring it is thinner but still pretty. It is one of many waterfalls on this road, but one of the easiest to stop at safely.",
+        "Stand back from the road, keep children close and do not climb the wet rocks. Spend 15–20 minutes, have a cup of tea and continue to Phodong. If it is raining hard, your driver may not stop; landslides are common on this stretch in the monsoon."
+      ],
+      "good_for": ["families", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How far is Seven Sisters Waterfall from Gangtok", "a": "About 32 km along the North Sikkim Highway, roughly an hour or a little more by car. It is a standard photo stop on the way to Phodong, Mangan, Lachung and Lachen. No permit is needed for Indian citizens to reach it."},
+        {"q": "When is Seven Sisters Waterfall best", "a": "From July to October, during and after the monsoon, when it is fullest. In winter and spring it is thinner but still worth a short stop. Note that the monsoon also brings landslide risk on the highway, so stops may be cut short."},
+        {"q": "Is there an entry fee at Seven Sisters Waterfall", "a": "No. It is a free roadside waterfall with a viewing shed and nearby tea stalls. Stop only where safe, stand well back from traffic and avoid the slippery rocks. Fifteen to twenty minutes is enough."}
+      ]},
+    {"slug": "phodong-labrang-tumlong-walk", "title": "Labrang Gompa and a look at Tumlong", "kind": "culture", "duration": "1.5–2 hours", "best_time": "Mornings, Oct–May", "cost": "Free; car extra if not on a package", "image_query": "Labrang Gompa Phodong Sikkim", "wiki": "Tumlong",
+      "summary": "Above Phodong, Labrang Gompa is a smaller, quieter monastery; below, Tumlong was Sikkim's royal capital in the 19th century. Combine them with Phodong for a short history morning.",
+      "body": [
+        "From Phodong Monastery a road continues uphill to Labrang Gompa, a second monastery on the same ridge, slightly higher than Phodong. It receives few visitors, and the walk or short drive up gives good views back over the valley. Ask a local or your driver for directions; the turn-off is easy to miss.",
+        "Below Phodong, on the Dik Chu, lies Tumlong, a village of about 400 people today. It was the capital of the Kingdom of Sikkim from 1793, when Chogyal Tshudpud Namgyal moved the court inland, through much of the 19th century. The Treaty of Tumlong with the British was signed here in 1861.",
+        "Little remains of the palace, and there is no museum or signage of note, so this is a place to understand rather than to see. Combine the two with Phodong Monastery in a morning, then continue north to Mangan or return to Gangtok. Indian citizens need no permit."
+      ],
+      "good_for": ["students", "solo", "seniors"],
+      "faqs": [
+        {"q": "What is Labrang Gompa near Phodong", "a": "Labrang Gompa is a monastery on the ridge above Phodong, slightly higher than Phodong Monastery. It is smaller and quieter, with good valley views. Do not confuse it with the large Labrang Monastery in China's Gansu province, which is a different and unrelated institution."},
+        {"q": "Was Tumlong the capital of Sikkim", "a": "Yes. Tumlong, below Phodong, was the capital of the Kingdom of Sikkim from 1793, when the court moved inland from Rabdentse after raids from Nepal, until later in the 19th century. The Treaty of Tumlong with the British was signed there in 1861."},
+        {"q": "Is there anything to see at Tumlong today", "a": "Very little of the old capital survives, and there is no museum. It is a small village on the Dik Chu, about 400 people at the 2011 census. Its interest is historical. Visit with that in mind, as part of a Phodong and Kabi Lungchok circuit."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "How far is Phodong from Gangtok", "a": "About 38 km along the North Sikkim Highway, roughly 1.5–2 hours by car. Shared jeeps towards Mangan pass through, about ₹100–200 a seat to Phodong, indicative, 2026. It is an easy half-day trip from Gangtok or a stop on the way north."},
+    {"q": "Do I need a permit for Phodong", "a": "No. Indian citizens do not need a Protected Area Permit for Phodong, which is on the open stretch of the North Sikkim Highway. Foreign nationals should check their Sikkim permit conditions. Check current status before you travel."},
+    {"q": "Is Phodong Monastery worth visiting", "a": "Yes. It is one of Sikkim's six most important monasteries, quieter than Rumtek, with old murals and a large monastic community. It is right on the way north, so it costs little time. In December, the chaam before Losoong is a highlight."},
+    {"q": "When is the best time to visit Phodong", "a": "October to May for clear weather, and December for the chaam masked dances held on the 28th and 29th days of the tenth Tibetan month. The monastery is open year-round. In the monsoon, roads are wetter and the views more clouded, but the visit is still possible."},
+    {"q": "What is there to see in Phodong besides the monastery", "a": "Labrang Gompa on the ridge above, the old royal capital site of Tumlong below, Phensang Monastery and Kabi Lungchok on the way from Gangtok, and the Seven Sisters Waterfall about 32 km from Gangtok. Together they make a half-day history circuit."},
+    {"q": "Can I stay overnight in Phodong", "a": "Small local guesthouses and homestays operate around Phodong, mainly for people attending festivals or on work. Most travellers stay in Gangtok or continue to Mangan and Singhik. If you want to be at the chaam early, ask in the Phodong bazaar or through a Gangtok operator."},
+    {"q": "Who built Phodong Monastery", "a": "Phodong Monastery was built in the 18th century, around 1740, under Chogyal Gyurmed Namgyal, on the site of an older monastery, in connection with the ninth Karmapa's links to Sikkim. It was later rebuilt under royal patronage, including by Sidkeong Tulku Namgyal."},
+    {"q": "Is Phodong good for families", "a": "Yes. The drive is short, the monastery is easy to reach and children enjoy the prayer wheels, colours and, in December, the masked dances. Combine with the Seven Sisters Waterfall and Kabi Lungchok. There is no altitude concern at about 1,400 m."},
+    {"q": "Can I photograph inside Phodong Monastery", "a": "Ask first. Photography inside the prayer hall is often not allowed, especially during prayers, and flash damages old murals. Photos of the exterior and courtyard are usually fine. During the chaam, avoid flash and do not enter the dance area."}
+  ]
+}

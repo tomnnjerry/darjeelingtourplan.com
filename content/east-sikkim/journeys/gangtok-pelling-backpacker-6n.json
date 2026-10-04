@@ -1,0 +1,99 @@
+{
+  "slug": "gangtok-pelling-backpacker-6n",
+  "title": "Sikkim backpacker by shared jeep",
+  "region": "east-sikkim",
+  "nights": 6,
+  "themes": ["budget-trips", "monasteries", "mountain-views", "treks-and-walks", "food-and-markets"],
+  "stops": [
+    {"place": "gangtok", "nights": 3},
+    {"place": "ravangla", "nights": 1},
+    {"place": "pelling", "nights": 2}
+  ],
+  "start": "NJP station or Siliguri (SNT stand / Panitanki More)",
+  "end": "NJP station or Siliguri",
+  "price_from_inr": 14000,
+  "fares": {"budget": 14000, "comfort": 24000, "premium": 52000},
+  "fare_notes": {
+    "budget": "Budget hotels such as Hotel Sonam Delek or Mintokling Guest House in Gangtok and simple family-run guest houses in Ravangla and Pelling. Shared jeeps and SNT buses on every transfer, a shared seat on the Tsomgo tour, local shared taxis in town. Breakfast daily; other meals at local eateries.",
+    "comfort": "Comfort hotels such as Netuk House or Royal Plaza in Gangtok and good mid-range hotels in Ravangla and Pelling. A reserved car on the three long transfer days, shared jeeps or taxis for short hops. Breakfast and dinner daily.",
+    "premium": "Taj Guras Kutir or Elgin Nor-Khill in Gangtok and the best hotels available in Ravangla and Pelling, a private car and driver for all seven days, and a private Tsomgo vehicle. Breakfast and dinner daily. It is no longer a backpacker trip, but the route stays the same."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 4000,
+  "meta_description": "Sikkim on shared jeeps: 6 nights in Gangtok, Ravangla and Pelling with Tsomgo Lake, monasteries and forest walks, from ₹14,000 per person.",
+  "summary": "A 6-night Sikkim trip for students, solo travellers and couples who are happy on shared jeeps. Three nights in Gangtok with a shared-seat Tsomgo tour, one in Ravangla for Buddha Park and Ralang, and two in Pelling for Pemayangtse and Rabdentse on foot. Most transfers cost a few hundred rupees a seat.",
+  "intro": [
+    "Sikkim is one of the easiest Indian hill states to travel without a car. Shared jeeps, mostly Boleros and Sumos with ten seats, run between every town from early morning, and fares are fixed by route. This plan uses them for every transfer: Siliguri to Gangtok for ₹400–600 a seat, Gangtok to Ravangla, Ravangla to Pelling, and Pelling back to Siliguri. In Gangtok we add a shared-seat Tsomgo tour, ₹800–1,300 plus a Protected Area Permit of about ₹200 through an agent, and walk or take ₹20–40 shared taxis around town.",
+    "The trade-off is time and comfort. Jeeps leave when full, the back row is tight, and you carry your own bag, so pack one soft bag of 40–50 litres. Buy tickets at the stand the evening before, or by 7 am on the day. Fares and stand locations change, so ask your hotel and check current status before you travel. Foreign nationals can do the whole route with a free Restricted Area Permit for Sikkim and a group Tsomgo permit; Nathu La is not open to them."
+  ],
+  "highlights": [
+    "Shared-seat Tsomgo Lake tour to 3,753 m and Baba Mandir for about ₹1,000–1,500 all in",
+    "Gangtok on foot: MG Marg, Enchey Monastery, the Namgyal Institute of Tibetology and Lal Bazaar",
+    "Buddha Park at Ravangla and a walk to Ralang Monastery country",
+    "Pemayangtse Monastery and the 2 km forest path to the ruins of Rabdentse",
+    "Kangchenjunga from Pelling at dawn, free from any rooftop"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok by shared jeep", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4.5–5.5 h",
+     "text": "From NJP take an auto or shared tempo to the SNT stand or Panitanki More in Siliguri, where shared jeeps for Gangtok leave from early morning until early afternoon. A seat costs ₹400–600; SNT buses cost ₹275–500 and take longer, both indicative for 2026. The route follows the Teesta on NH10 through Sevoke and Rangpo, where foreign nationals show their Restricted Area Permit. NH10 is often blocked in monsoon, so check current status before you travel. Check in, pay the ₹50 Sikkim tourist fee if asked, and walk down to MG Marg for momos at ₹60–150 a plate.",
+     "meals": "None included"},
+    {"day": 2, "title": "Shared-seat Tsomgo Lake tour", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 110 km round trip · 7 h",
+     "text": "Book the seat the day before with a registered agent on or near MG Marg: ₹800–1,300 for the jeep and about ₹200 for the Protected Area Permit, with two passport photos and an ID copy. The jeep leaves around 8 am and climbs about 38 km to Tsomgo Lake at 3,753 m. Hire boots for ₹100–300 if there is snow; skip the yak ride if money is tight. Baba Mandir, at about 4,000 m, is usually an extra ₹200–400 a seat, indicative. Walk slowly and drink water. Check current status before you travel. Back by mid-afternoon.",
+     "meals": "Breakfast"},
+    {"day": 3, "title": "Gangtok on foot and Rumtek", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 50 km by shared taxi · 5 h",
+     "text": "Walk up to Enchey Monastery, about 3 km above MG Marg, early, when the monks are at prayer. Then take a ₹20–40 shared taxi to the Namgyal Institute of Tibetology, opened in 1958, and Do Drul Chorten beside it. After lunch, a shared taxi to Rumtek costs ₹60–120 a seat; carry ID for the gate check at the monastery, which the 16th Karmapa rebuilt in the 1960s. Back in town, walk through Lal Bazaar for chhurpi, the hard cheese, and local greens. Thali lunches cost ₹150–300. Ask your hotel which stand has jeeps to Ravangla tomorrow.",
+     "meals": "Breakfast"},
+    {"day": 4, "title": "Shared jeep to Ravangla", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 66 km · 2.5–3 h",
+     "text": "Morning jeep from Gangtok to Ravangla, about ₹200–350 a seat, indicative; stand locations move, so confirm with your hotel and check current status before you travel. The road drops to Singtam on the Teesta and climbs to Ravangla at about 2,100 m. After check-in walk to Buddha Park, also called Tathagata Tsal, with its large Buddha statue consecrated by the Dalai Lama in 2013; entry is a small fee. In the late afternoon walk the ridge road for views of the western Sikkim hills. Ravangla is quiet after 7 pm; eat early.",
+     "meals": "Breakfast"},
+    {"day": 5, "title": "Ralang, then on to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 60 km · 3–4 h with a change",
+     "text": "If you are up early, take a shared taxi or walk part of the way to Ralang Monastery, about 13 km from Ravangla, a Karma Kagyu monastery known for its masked dances; check timings locally. Back by late morning for a jeep towards Legship, where you change for Pelling; direct jeeps run some days. Expect ₹150–300 in total, indicative. Pelling sits at about 2,150 m on a ridge facing Kangchenjunga. Pick a budget guest house on the upper road with a terrace; the view is the same as from the resorts. Check current status before you travel.",
+     "meals": "Breakfast"},
+    {"day": 6, "title": "Pemayangtse and Rabdentse on foot", "place": "pelling", "overnight": "Pelling", "drive": "≈ 5 km on foot",
+     "text": "Be on a rooftop before sunrise: on clear mornings from October to December Kangchenjunga turns pink, and it costs nothing. After breakfast walk down to Pemayangtse, one of Sikkim's oldest monasteries, first built in the 17th century. A short walk on, a 2 km forest path leads to the ruins of Rabdentse, Sikkim's capital from 1670 until the court moved to Tumlong. Small entry fees apply at both, indicative ₹20–50. In the afternoon walk up to the Sanga Choeling area for the Chenrezig statue and skywalk. Book tomorrow's jeep seat to Siliguri tonight.",
+     "meals": "Breakfast"},
+    {"day": 7, "title": "Pelling to Siliguri or NJP", "place": "siliguri", "overnight": "", "drive": "≈ 135 km · 5–6 h",
+     "text": "Shared jeeps to Siliguri leave Pelling or nearby Geyzing early, often by 6–7 am, at ₹400–600 a seat, indicative. The road runs down via Legship and Jorethang, or via Melli, to the Teesta and the plains. Sit on the side away from the drop if bends bother you, and eat a light breakfast. Jeeps drop at Siliguri, from where NJP is a short auto ride. Plan an evening train or a flight the next day; the jeep can arrive late if roads are slow. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "mintokling-guest-house-gangtok", "netuk-house-gangtok", "royal-plaza-gangtok", "elgin-nor-khill-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "6 nights on twin sharing in the class you choose",
+    "Daily breakfast; dinner on comfort and premium",
+    "Shared-seat Tsomgo tour and permit processing on budget; private car on comfort and premium transfer days",
+    "A written route sheet with jeep stands, fares and first departure times we last confirmed",
+    "Hotel rooms booked and confirmed in advance for all six nights"
+  ],
+  "excludes": [
+    "Shared-jeep and bus fares on the budget tier, paid on the day (about ₹1,500–2,500 per person in total, indicative)",
+    "Train or flight to NJP or Bagdogra",
+    "Baba Mandir top-up, Nathu La and yak rides",
+    "Entry tickets at monasteries, Buddha Park and the skywalk",
+    "The ₹50 per person Sikkim tourist fee, paid at check-in",
+    "Lunches, dinners on budget, and personal costs"
+  ],
+  "save_more": [
+    "Travel solo or as two and still take the front seat: it costs the same as the back and saves the worst of the bends.",
+    "Go in March, early April or late November, when budget rooms in Gangtok and Pelling fall to ₹1,500–2,500 a night.",
+    "Eat thali lunches at local places for ₹150–300 and carry a refillable bottle; most hotels will fill it with filtered water."
+  ],
+  "good_to_know": [
+    "Shared-jeep stands in Gangtok have moved in recent years; ask your hotel for the current stand for each route. Check current status before you travel.",
+    "Jeeps leave when full; the first ones in the morning are the most reliable.",
+    "Tsomgo needs a Protected Area Permit through a registered agent; foreign nationals need a group of two or more.",
+    "Nathu La is for Indian nationals only, Wednesday to Sunday, and costs far more as a private trip.",
+    "Sikkim restricts plastic; carry a cloth bag and a water bottle."
+  ],
+  "faqs": [
+    {"q": "Can you travel Sikkim by shared jeep", "a": "Yes. Shared jeeps link Siliguri, Gangtok, Ravangla, Pelling and most towns, leaving when the ten seats are full, mostly in the morning. Seats from Siliguri to Gangtok cost ₹400–600, indicative for 2026. Buy the ticket at the stand the day before or early in the morning. Stand locations and fares change, so check current status before you travel."},
+    {"q": "How much does a Sikkim backpacking trip cost", "a": "Our 6-night budget plan is from ₹14,000 per person on twin sharing, including budget rooms, breakfast and the Tsomgo shared tour. Add about ₹1,500–2,500 for shared jeeps and ₹300–600 a day for lunch and dinner at local places. Solo travellers pay more for a single room. Prices are indicative for 2026."},
+    {"q": "Can I visit Tsomgo Lake without a private car", "a": "Yes. Registered Gangtok agents sell seats in shared jeeps to Tsomgo for ₹800–1,300, plus about ₹200 for the Protected Area Permit. You give two passport photos and an ID copy a day before. Baba Mandir is often an extra few hundred rupees. Foreign nationals need a group of two or more. Check current status before you travel."},
+    {"q": "Where do shared jeeps to Ravangla and Pelling leave from in Gangtok", "a": "Jeeps for West and South Sikkim leave from Gangtok's shared-taxi stands, which have been moved and reorganised several times. We give you the current stand in your route sheet, but ask your hotel the evening before, as it can change. Morning departures are most reliable. Check current status before you travel."},
+    {"q": "Is Ravangla worth a night", "a": "Yes, if you like quiet. Ravangla, at about 2,100 m, has Buddha Park, with a large statue consecrated in 2013, Ralang Monastery about 13 km away, and walks along the ridge. A night there also breaks the Gangtok to Pelling trip into two shorter jeep rides. Rooms are cheaper than in Gangtok or Pelling."},
+    {"q": "How do I get from Ravangla to Pelling", "a": "Take a shared jeep towards Legship and change there for Pelling; on some days a direct jeep runs. The trip is about 50–60 km and 3–4 hours with the change, and costs ₹150–300 in total, indicative. Leave by late morning, as afternoon jeeps are fewer. Check current status before you travel."},
+    {"q": "Is it safe to backpack in Sikkim alone", "a": "Sikkim is one of the safer states in India for solo travellers, including women, in our experience. Jeeps are busy with locals, and towns are small. Usual care applies: avoid walking on highways after dark, keep cash split, and tell your hotel your plan for long days. Mobile signal is weak in some valleys."},
+    {"q": "Do Indian students need any permit for Sikkim", "a": "No permit is needed to enter Sikkim or visit Gangtok, Ravangla or Pelling. You need a Protected Area Permit only for Tsomgo Lake, Baba Mandir and Nathu La, through a registered agent with two photos and an ID copy. Hotels collect a ₹50 tourist fee per person. Check current status before you travel."},
+    {"q": "What should a backpacker pack for Sikkim", "a": "One soft bag of 40–50 litres that fits on a jeep roof under a tarp, plus a small day bag. Warm layers, a rain jacket, good walking shoes, a torch, a power bank, two passport photos and photocopies of ID for permits. Carry cash: ATMs exist in Gangtok and Pelling but can run dry on holidays."}
+  ]
+}

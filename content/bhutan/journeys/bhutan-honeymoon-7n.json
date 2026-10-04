@@ -1,0 +1,152 @@
+{
+  "slug": "bhutan-honeymoon-7n",
+  "title": "Bhutan honeymoon in 7 nights",
+  "region": "bhutan",
+  "nights": 7,
+  "themes": ["honeymoons", "monasteries", "mountain-views"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 2},
+    {"place": "paro", "nights": 3}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 37000,
+  "fares": {"budget": 37000, "comfort": 62000, "premium": 240000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Lobesa in Punakha and Hotel Olathang in Paro, with the best room type the hotel offers at this tier; a Bhutan-registered car; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle; a couple travelling alone, as most honeymooners do, pays more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk in Thimphu, a valley-view cottage at Dhensa Boutique Resort in Punakha and a 4-star or boutique hotel in Paro; a private car and guide for the two of you; breakfast and dinner; a farmhouse hot stone bath; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, the best luxury lodge available in Punakha and COMO Uma Paro; a private car and senior guide; breakfast and dinner; a hot stone bath; SDF included. Flights extra."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3988,
+  "meta_description": "A slow Bhutan honeymoon: 7 nights in Thimphu, Punakha and Paro with valley-view stays, a hot stone bath and Chele La, from ₹37,000 per person.",
+  "summary": "A slow honeymoon through western Bhutan: two nights in Thimphu, two in warm Punakha, where the Fifth King married in 2011, and three in Paro for the Tiger's Nest, Chele La and a hot stone bath. From ₹37,000 per person, twin sharing, with SDF, guide, car, hotels and two meals a day. Flights extra.",
+  "intro": [
+    "Honeymooners ask us for two things: time together and no rushing. So this trip has seven nights where a standard tour has six, no day with more than about 4.5 hours in the car, and a free half-day in each place. Punakha is the heart of it. The valley sits at about 1,250 m, warm in winter, and Punakha Dzong is where the Fifth King married Queen Jetsun Pema in 2011. We suggest stays with a view of the valley.",
+    "Paro gets three nights so the Tiger's Nest climb is not squeezed, and so you can drive up to Chele La at about 3,988 m, the highest road pass in western Bhutan on our routes, for prayer flags and mountain views. End with a farmhouse hot stone bath. Fares are for Indian nationals and include the SDF at ₹1,200 per person per night and a licensed guide. Most couples choose comfort or premium; budget works too."
+  ],
+  "highlights": [
+    "Two nights in the warm Punakha valley, ideally in a valley-view room",
+    "Punakha Dzong, where the 2011 royal wedding was held",
+    "The Tiger's Nest hike at your own pace",
+    "Chele La at about 3,988 m on the road to Haa",
+    "A farmhouse hot stone bath in the Paro valley"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly into Paro, drive to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Land at Paro after the visual approach between the ridges. Show your passports or original Voter IDs for the Entry Permit if it was not issued online; Aadhaar is not accepted. Your guide meets you outside. Drive about an hour and a half to Thimphu, with a tea stop at Chhuzom where two rivers meet beside three chortens. Check in and rest. In the evening, walk to Clock Tower Square and the shops around it, then dinner. Thimphu has no traffic lights; a policeman directs the main junction by hand, which makes for a slow, quiet capital.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thimphu, slowly",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "A late breakfast, then up to Buddha Dordenma, about 51.5 m high above the city, completed in 2015. Then the Memorial Chorten, built in 1974 for the Third King, where you can join residents walking circuits and turning prayer wheels. After lunch, the National Institute for Zorig Chusum, where students learn painting, carving and weaving, and the handicraft shops nearby if you want something made by hand to take home. Late afternoon, Tashichho Dzong, timed by your guide to its visiting hours. Entry fees Nu 300–500 each, indicative 2026. Your operator files the Punakha Route Permit today.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over Dochula to Punakha",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "Stop at Dochula, 22 km from Thimphu at 3,100 m, where 108 chortens stand on a hillock and, on a clear day from October to February, the eastern Himalaya lines the horizon. Many couples hang prayer flags here; your guide can buy them in Thimphu. Descend to Punakha at about 1,250 m, through oak and pine and then rice fields. Check in by lunch. The afternoon is yours. If you want, walk 20–30 minutes to Chimi Lhakhang, built in 1499 and linked to the Divine Madman, Drukpa Kunley, where many couples come to ask for a blessing for children.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Punakha Dzong and the valley walk",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 30 km in the valley",
+      "text": "Cross the cantilever bridge into Punakha Dzong, built in 1637–38 between the Pho Chhu and Mo Chhu. The first king was crowned here in 1907, and in October 2011 the Fifth King married here. Entry Nu 500 each, indicative 2026. Walk across the long suspension bridge over the Pho Chhu, hung with prayer flags. In the afternoon climb through rice terraces to the Khamsum Yulley Namgyal Chorten, about an hour up, for the view down the valley, or simply rest at your hotel. Dinner with the valley lights below.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Punakha to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 130 km · 4–4.5 h",
+      "text": "Back over Dochula, often clearer in the morning, and through Thimphu for lunch, then down to Chhuzom and up the Paro valley. In the late afternoon walk up to Rinpung Dzong, consecrated in 1646, and across the old cantilever bridge below it, one of the most photographed views in Bhutan. The National Museum sits in the Ta Dzong watchtower above. Paro's main street has small cafes and craft shops for an evening walk. Ask for Paro red rice at dinner; it grows in the fields you passed.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "The Tiger's Nest together",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Start early, by 7.30 am, from the car park at about 2,600 m. The trail climbs about 500 m to Paro Taktsang at about 3,120 m, 4–6 hours return with tea at the halfway cafeteria. Legend says Guru Rinpoche flew here on the back of a tigress in the 8th century. The temple was built in 1692, burned in 1998 and was restored by 2005. Entry Nu 1,000 each, indicative 2026. Tonight is your hot stone bath at a farmhouse: river stones are heated in a fire and slid into a wooden tub, often with herbs. It costs ₹1,500–3,000 and is included on comfort and premium.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Chele La and Kyichu Lhakhang",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 70 km round trip · 3 h",
+      "text": "Drive about 35 km and 1–1.5 hours up from Paro to Chele La at about 3,988 m, on the road to the Haa valley. Thousands of prayer flags cover the ridge, and on a clear morning you can see the snow peaks to the north and both valleys below. Walk a little along the ridge, slowly at this height, then drive down for lunch in Paro. In the afternoon visit Kyichu Lhakhang, which tradition counts among 108 temples built by Songtsen Gampo in the 7th century. A quiet last evening; your guide can book a table at a farmhouse or a cafe in town.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "Most Paro flights leave in the morning. Reach the airport 2 hours before departure with your IDs and Entry Permits. Flights depend on visibility and can be delayed, so leave a buffer of several hours before onward connections in Bagdogra, Kolkata or Delhi. If you fly later, the textile shops on Paro's main street sell kira fabric and woven scarves that make good gifts for family at home. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "7 nights in Department of Tourism-certified hotels in your chosen tier, double room",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 7 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Private Bhutan-registered car for the two of you",
+    "Farmhouse hot stone bath on comfort and premium",
+    "Entry Permit help and the Route Permit for Punakha"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument fees: Tiger's Nest Nu 1,000, dzongs and museums Nu 300–500, indicative 2026",
+    "Lunches and drinks",
+    "Hot stone bath on the budget tier, spa treatments and pony hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Pick February, early March or December: clear skies, quieter hotels and lower rates than October or April.",
+    "Splurge on one hotel only, usually Punakha or Paro, and keep the others at comfort level.",
+    "Fly in and leave by road through Phuentsholing to Siliguri, adding a night but saving one airfare each."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted.",
+    "Chele La at about 3,988 m is cold and windy even in summer; bring a warm jacket and move slowly.",
+    "Bhutan is conservative about public affection at temples and dzongs; dress modestly there, with long sleeves and no caps."
+  ],
+  "faqs": [
+    {"q": "Is Bhutan good for a honeymoon", "a": "Yes, for couples who like quiet places, walks and a slow pace more than nightlife. Bhutan has few crowds outside festival weeks, clean air, good boutique and luxury hotels, and short drives between valleys. Punakha is warm in winter and Paro has the Tiger's Nest and farmhouse hot stone baths. There are no beaches or casinos, and shops close early."},
+    {"q": "How much does a Bhutan honeymoon package cost", "a": "Our 7-night honeymoon costs from ₹37,000 per person on budget, ₹62,000 on comfort and ₹2,40,000 on premium, twin sharing, indicative 2026, without flights. Fares include hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide and a car. The budget fare assumes a shared vehicle; a couple travelling alone pays about 15–25% more on that tier."},
+    {"q": "Which hotels are best for a honeymoon in Bhutan", "a": "For premium stays we use Taj Tashi in Thimphu and COMO Uma Paro, set above the Paro valley. For comfort, Dhensa Boutique Resort, with cottages on the hillside above the Punakha valley, and Hotel Druk on Clock Tower Square in Thimphu. On budget, Hotel Olathang in Paro sits in pine forest above the town. We pick room types with a view where we can."},
+    {"q": "What is a hot stone bath in Bhutan", "a": "It is a traditional farmhouse bath in a wooden tub. River stones are heated in a fire until red hot and slid into a compartment at one end of the tub, warming the water, often with herbs. You soak for 30–60 minutes. It costs about ₹1,500–3,000 per person or per tub, indicative 2026, and is best after the Tiger's Nest hike."},
+    {"q": "What is the best month for a Bhutan honeymoon", "a": "October and November are clearest, though busiest. March and April bring rhododendrons and mild days. December to February is cold at night but sunny, uncrowded and cheaper, and Punakha stays mild. Avoid June to August if you can: monsoon cloud hides the mountains and flights into Paro are often delayed."},
+    {"q": "Will the guide be with us all the time", "a": "Your licensed guide is with you on drives, sightseeing and at monuments, as the Department of Tourism notification of 8 April 2026 requires beyond the first checkpoint. Evenings in your hotel are your own, and most guides happily leave couples alone at dinner. Tell us you are on honeymoon and we will brief the guide. Check current status before you travel."},
+    {"q": "What documents do Indian honeymooners need for Bhutan", "a": "Each of you needs an Indian passport valid for 6 months or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Make sure the names on your ID match your flight and hotel bookings; if they differ after marriage, we suggest carrying a copy of your marriage certificate. Check current status before you travel."},
+    {"q": "Is Chele La worth visiting", "a": "Yes, on a clear morning. Chele La at about 3,988 m is about 35 km and 1–1.5 hours from Paro, on the road to Haa, and the ridge is covered in prayer flags with views into both valleys. It is cold and windy, so take a jacket and walk slowly. In cloud or fresh snow the view disappears, and we may swap the day."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, including from Paro airport, and at monuments. We read this as covering Indian tourists too. Our fares include one for all 8 days. Check current status before you travel."}
+  ]
+}

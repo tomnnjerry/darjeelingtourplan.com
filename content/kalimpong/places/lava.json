@@ -1,0 +1,175 @@
+{
+  "slug": "lava",
+  "name": "Lava",
+  "region": "kalimpong",
+  "kind": "village",
+  "wiki": "Lava, West Bengal",
+  "image_query": "Lava Kalimpong monastery",
+  "lat": 27.087,
+  "lng": 88.664,
+  "altitude_m": 2200,
+  "tagline": "Pine-forest bazaar at the gate of Neora Valley",
+  "meta_description": "Lava travel guide: Kagyu monastery, Neora Valley permits, Rishyap trail, birding, WBFDC forest lodge, shared jeep fares from Kalimpong and the best months to go.",
+  "summary": "Lava is a small bazaar town at about 2,200 m, 32 km east of Kalimpong, ringed by fir and pine forest. It is the entry point for Neora Valley National Park and a base for Rishyap, Kolakham and Changey Falls. Stay two nights, October to May, in the forest lodge or a family hotel.",
+  "intro": [
+    "Lava is one road, a bazaar and a big monastery on a forested saddle about 32 km east of Kalimpong. At around 2,200 m it is far colder than the town, often wrapped in mist by afternoon, and one of the few places in West Bengal that sees snow in some winters. The forest comes right to the edge of the houses: tall pines, cryptomeria, oak and, higher up, fir and rhododendron.",
+    "Most visitors come because of Neora Valley National Park. The forest range office in Lava issues day permits, and the road beyond Lava leads to Kolakham, Changey Falls and Zero Point inside the park. Even without entering the park, the forest walks around Lava are excellent for birds, with laughingthrushes, sibias, minivets and, if you are lucky, a satyr tragopan in winter.",
+    "Lava is also the centre of a small cluster of homestay villages. Rishyap is 11 km by road or about 4 km by forest trail; Kolakham is about 10 km; Lolegaon is about 23 km along a forested road through Kafer. We usually base guests in Lava for two nights and make day trips, which saves money on moving bags and paying for cars every day."
+  ],
+  "story": {
+    "title": "A monastery built on four acres of gifted land",
+    "paras": [
+      "The largest building in Lava is the Kagyu Thekchen Ling Monastery, which stands beside the Neora reservoir at the edge of the bazaar. It belongs to the Kagyu school of Tibetan Buddhism and was founded on 6 June 1990 by the third Jamgon Kongtrul Rinpoche, Karma Lodro Chokyi Senge, a senior Kagyu lama who died in 1992. In the 1980s the local Buddhist community offered about four acres of land so that a monastery could be built to keep their traditions alive.",
+      "Today more than a hundred monks study Buddhist philosophy there. The complex has several prayer halls, lawns and a large Buddha image, and a community temple, the Mane Lhakhang, which the 14th Dalai Lama opened in 2001. Morning prayers fill the bazaar with the sound of horns and drums, and visitors can sit quietly in the hall. It is the clearest sign that Lava, small as it is, is a real community and not only a tourist stop."
+    ],
+    "source": "Kagyu Thekchen Ling Monastery and Lava, West Bengal articles on Wikipedia"
+  },
+  "did_you_know": [
+    "Lava is one of the few places in West Bengal that can receive snow in winter, thanks to its height of about 2,200 m.",
+    "The Kagyu Thekchen Ling Monastery in Lava was founded on 6 June 1990 by the third Jamgon Kongtrul Rinpoche, on land given by local Buddhists.",
+    "The forest range office in Lava issues day permits for Neora Valley National Park, which is closed in the monsoon from mid-June to mid-September."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – May"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Bagdogra (IXB), about 110 km"],
+    ["From Siliguri", "≈ 100 km via Kalimpong · 4 h"],
+    ["Altitude", "About 2,200 m"],
+    ["Known for", "Neora Valley gateway, Kagyu monastery, forest walks"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "2",
+  "highlights": [
+    {"title": "Kagyu Thekchen Ling Monastery", "text": "Founded in 1990 beside the Neora reservoir, Lava's monastery houses over a hundred monks. Come for the morning prayers, walk the prayer wheels clockwise, and look across to the forested ridges of Neora Valley from the courtyard."},
+    {"title": "Neora Valley permits and Zero Point", "text": "Lava's forest range office issues the day permits for Neora Valley National Park. From there a jeep track runs about 13 km into the forest to Zero Point, where the road ends and guided walks begin among fir, oak and rhododendron."},
+    {"title": "Forest trail to Rishyap", "text": "A forest trail of about 4 km climbs from Lava to Rishyap at about 2,590 m, through pine and rhododendron. It is a half-day walk with a local guide, ending at the homestays and the Tiffin Dara viewpoint above them."},
+    {"title": "Birding on the edge of town", "text": "The roads and forest paths around Lava hold laughingthrushes, sibias, yuhinas, minivets and woodpeckers. Early morning walks on the Kolakham and Rishyap roads are productive from November to April, when altitudinal migrants come down."},
+    {"title": "Winter snow chances", "text": "In some winters, usually January or February, Lava gets a dusting of snow, which draws visitors from the plains. It is never guaranteed, roads can ice over, and nights are below freezing, so pack properly if you come for it."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Kalimpong's motor stand to Lava several times each morning, about ₹100–150 a seat, indicative for 2026, and take about 1.5 hours via Algarah. There are also occasional shared jeeps from Siliguri via Gorubathan. Return jeeps leave Lava early in the morning, so plan departures accordingly."},
+    {"mode": "Reserved car", "text": "A reserved car from Kalimpong costs about ₹2,000–3,000 one way, indicative for 2026. From NJP or Bagdogra it is about 100–120 km and 4–4.5 hours via Kalimpong, or a similar distance via Malbazar and Gorubathan, about ₹4,500–6,000 per car. The Gorubathan route is useful when NH10 is closed."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the main railheads are New Jalpaiguri (NJP) and, closer via Gorubathan, Malbazar. From any of them you continue by road, as there is no railway in the hills."}
+  ],
+  "where_to_stay": "Lava is small, so choose between the forest and the bazaar. The WBFDC Lava Eco Tourism Centre, the forest development corporation's cottages among the pines, is the best value and closest to the Neora permit office. In the bazaar, a handful of small family hotels offer simple rooms with home-style food, some with valley views from the back. For homestays with big views, many travellers base themselves at Rishyap or Kolakham and visit Lava by day. There are no luxury hotels here; for heritage comfort, stay in Kalimpong and visit Lava as a long day trip.",
+  "stays": ["wbfdc-lava-eco-tourism-centre"],
+  "costs": [
+    ["Shared jeep from Kalimpong", "₹100–150 a seat, indicative, 2026"],
+    ["Reserved car Kalimpong → Lava", "₹2,000–3,000, indicative, 2026"],
+    ["Neora Valley entry permit", "About ₹120–150 per Indian, ₹500 per foreigner, indicative, 2026"],
+    ["Jeep to Zero Point and back", "₹1,500–2,500 per vehicle, indicative, 2026"],
+    ["Forest guide", "₹300–600 per group, indicative, 2026"],
+    ["Simple meal in the bazaar", "₹120–250, indicative, 2026"]
+  ],
+  "budget_tip": "Base yourself in Lava for two nights and walk the forest trail to Rishyap instead of driving round by road, saving a day's car hire of about ₹2,000–3,000.",
+  "tips": [
+    "Get your Neora Valley permit at the forest range office in Lava in the morning; permits are issued for the day, not in advance.",
+    "Carry warm layers in every season; even May evenings are cold at 2,200 m.",
+    "Book the WBFDC lodge on its website as soon as bookings open for spring and October weekends.",
+    "Walk the forest roads before 8 am for birds, before the jeeps start.",
+    "Withdraw cash in Kalimpong; Lava has limited ATMs and network coverage that drops in bad weather."
+  ],
+  "themes": ["monasteries", "birding-and-orchids", "treks-and-walks", "village-homestays", "budget-trips"],
+  "nearby": ["rishyap", "kolakham", "lolegaon", "neora-valley-national-park"],
+  "experiences": [
+    {
+      "slug": "lava-kagyu-monastery-morning-prayers",
+      "title": "Morning prayers at Lava's Kagyu monastery",
+      "kind": "spiritual",
+      "duration": "1–2 hours",
+      "best_time": "6:30–8:30 am, all year",
+      "cost": "Free; donations welcome",
+      "image_query": "Kagyu Thekchen Ling Monastery Lava",
+      "wiki": "Kagyu Thekchen Ling Monastery",
+      "summary": "Sit in on morning prayers at Kagyu Thekchen Ling, the monastery founded in 1990 by the third Jamgon Kongtrul Rinpoche beside Lava's reservoir, where more than a hundred monks study. Quiet, free and the best start to a day in Lava.",
+      "body": [
+        "Kagyu Thekchen Ling stands at the edge of Lava bazaar beside the Neora reservoir. It belongs to the Kagyu school, one of the four main schools of Tibetan Buddhism, and was founded on 6 June 1990 by Karma Lodro Chokyi Senge, the third Jamgon Kongtrul Rinpoche. The land, about four acres, was offered by the local Buddhist community in the 1980s. More than a hundred monks now live and study here.",
+        "Morning prayers usually start early, with long horns, drums and cymbals, and visitors may sit quietly at the back of the hall. Afterwards walk around the complex clockwise past the prayer wheels and visit the Mane Lhakhang, a community temple opened by the Dalai Lama in 2001. On clear mornings the courtyard looks across to the forested ridges of Neora Valley.",
+        "Dress modestly, remove shoes where asked, and do not walk in front of monks during prayers. Ask before taking photographs, especially inside. A small donation in the box is appreciated but never demanded. The monastery is a five-minute walk from most hotels and from the forest lodge, so it fits easily before breakfast."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers", "families"],
+      "faqs": [
+        {"q": "What time are prayers at Lava monastery", "a": "Morning prayers usually begin early, around 6 to 7 am, and can last an hour or more, with shorter sessions later in the day. Timings change with festivals, retreats and the monastic calendar, so ask at your hotel or at the monastery gate the evening before. Visitors are welcome to sit quietly at the back."},
+        {"q": "Is there an entry fee at Lava monastery", "a": "No. Entry is free, and visitors are welcome during the day as long as they behave respectfully. There is a donation box, and a small offering is appreciated. Photography rules vary; usually photos are fine outside but not always inside the prayer hall, so ask a monk first."},
+        {"q": "How far is Lava monastery from the bus stand", "a": "It is a short walk, about five minutes, from the Lava bazaar and the shared-jeep stand, beside the Neora reservoir. The forest lodge and most hotels are within ten minutes on foot. The path is slightly uphill in places, so seniors may prefer a short taxi ride."}
+      ]
+    },
+    {
+      "slug": "lava-to-rishyap-forest-trail",
+      "title": "Forest trail from Lava to Rishyap",
+      "kind": "adventure",
+      "duration": "3–4 hours one way",
+      "best_time": "Oct–Dec, Mar–Apr; start by 8 am",
+      "cost": "Guide ₹600–1,000 per group; return car ₹1,200–2,000, indicative",
+      "image_query": "Rishyap Kalimpong forest trail",
+      "wiki": "",
+      "summary": "Walk about 4 km through pine, oak and rhododendron forest from Lava up to Rishyap at about 2,590 m, the homestay village with one of the widest Kanchenjunga panoramas in the district. A moderate half-day climb, best with a local guide.",
+      "body": [
+        "By road Rishyap is 11 km from Lava; on foot it is only about 4 km, climbing roughly 400 m through forest. The trail starts above Lava and follows old village paths through pine, oak and, higher up, rhododendron, which flowers red and pink in March and April. Birds are common along the way, and the forest is quiet except for the odd woodcutter or cowherd.",
+        "The walk takes three to four hours at an easy pace with stops. Paths fork in places and can be slippery after rain, so we always arrange a local guide, usually a young man from a Lava or Rishyap family who knows the trail. Carry water, a snack and a rain layer. Leeches can appear on wet days in spring.",
+        "At the top, Rishyap's homestays face north across the valleys to Kanchenjunga, and Tiffin Dara, the viewpoint above the village, is a short climb further. Many guests walk up in the morning, have lunch in Rishyap, and either stay the night or return by car. Arrange the return car in advance, as Rishyap has few taxis."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "How difficult is the Lava to Rishyap trek", "a": "It is moderate. The trail is about 4 km and climbs roughly 400 m, which takes most fit walkers three to four hours with stops. There are no technical sections, but paths are steep in places and slippery after rain. Children over ten and active seniors usually manage it at a slow pace with a guide and good shoes."},
+        {"q": "Do I need a guide for the Lava–Rishyap trail", "a": "We strongly recommend one. The trail is not waymarked, paths branch off to farms and forest, and mist can come in quickly. A local guide costs about ₹600–1,000 per group, indicative for 2026, and can be arranged through your hotel in Lava or a homestay in Rishyap. Guides also know where the birds are."},
+        {"q": "Can I walk from Lava to Rishyap in winter", "a": "Yes, on dry days from November to February, but start late enough for frost to melt, around 8:30 or 9 am, and wear warm layers. After snowfall the path can be icy and is best avoided. Winter brings the clearest views from Rishyap, so the walk is rewarding if the weather is settled."}
+      ]
+    },
+    {
+      "slug": "lava-dawn-birding-walk",
+      "title": "Dawn birding walk on the Lava forest roads",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "Nov–Apr, 6–9 am",
+      "cost": "Birding guide ₹1,000–2,000 per group, indicative",
+      "image_query": "satyr tragopan bird Himalaya",
+      "wiki": "Satyr tragopan",
+      "summary": "Walk the quiet roads and forest edges around Lava at first light with a local birding guide. In winter and spring the mixed forest at about 2,200 m holds laughingthrushes, sibias, yuhinas, nuthatches and, rarely, the satyr tragopan.",
+      "body": [
+        "Lava sits at the junction of subtropical and temperate forest, which makes it one of the easiest places in the district for mountain birds. The best birding is on foot along the roads toward Kolakham and Rishyap and around the forest lodge, starting at first light before jeep traffic. Mixed flocks move through the canopy, and patience pays more than covering ground.",
+        "Common sightings include laughingthrushes, rufous sibias, whiskered and stripe-throated yuhinas, minivets, nuthatches, woodpeckers and several warblers. From November to March, birds that breed higher come down, and the satyr tragopan, a shy crimson pheasant, is occasionally seen on quiet forest edges. Sightings of rarer species are never guaranteed and depend on weather and luck.",
+        "A local birding guide improves the odds a lot, because they know calls and the spots birds use. Bring binoculars, wear muted colours and keep talking low. For serious birding, combine this walk with a day inside Neora Valley National Park from Zero Point, which needs a separate permit from the forest office in Lava."
+      ],
+      "good_for": ["birders", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can I see around Lava", "a": "Around Lava expect laughingthrushes, rufous sibias, yuhinas, minivets, nuthatches, tits, woodpeckers and warblers, plus raptors over the valleys. In winter, altitudinal migrants such as some thrushes and finches come down. The satyr tragopan and other pheasants are present but shy and rarely seen. Sightings vary with season and weather."},
+        {"q": "Do I need a permit for birding around Lava", "a": "No permit is needed for birding on public roads and village paths around Lava. Entering Neora Valley National Park, including Zero Point and the forest trails beyond, requires a day permit from the forest range office in Lava, plus vehicle and guide fees. The park is closed from mid-June to mid-September; check current status before you travel."},
+        {"q": "When is the best season for birding in Lava", "a": "November to April is best. Winter brings altitudinal migrants and clear weather, and March and April are the start of the breeding season, when birds are vocal and colourful and the rhododendrons are in flower. May is still good but wetter. The monsoon months are poor for birding and the national park is closed."}
+      ]
+    },
+    {
+      "slug": "lava-winter-snow-and-forest-stay",
+      "title": "A winter night in Lava",
+      "kind": "nature",
+      "duration": "1–2 nights",
+      "best_time": "Late Dec–Feb",
+      "cost": "Forest lodge ₹2,000–3,500 per room night, indicative",
+      "image_query": "Lava Kalimpong snow winter",
+      "wiki": "",
+      "summary": "Spend a cold, clear winter night in Lava, one of the few places in West Bengal that sometimes gets snow. Expect frosty dawns, very clear mountain air, empty forest roads and wood-smoke in the bazaar, with snowfall a bonus, not a promise.",
+      "body": [
+        "Lava's height of about 2,200 m makes it colder than almost anywhere else most Bengal travellers can reach in a day. From late December to February, nights drop below freezing, frost whitens the forest lodge lawns, and in some years snow falls, usually lightly and for a day or two. When it does, families from Siliguri and Kolkata drive up to see it, and the bazaar fills for a weekend.",
+        "Snow is never guaranteed and can come and go in a day. What you can count on in winter is clear air: views across to the Sikkim hills are sharp, stars are bright, and the forest is quiet. Days are often sunny and pleasant for walking, around 8–12 °C, while evenings call for every layer you own.",
+        "Pack thermals, a down jacket, gloves, a warm hat and woollen socks. Rooms in the forest lodge and small hotels are not centrally heated, though some offer heaters for a charge. Roads can ice over at dawn after snowfall, so drive only once the sun is up, and keep a spare day if you are catching a flight."
+      ],
+      "good_for": ["couples", "families", "students", "photographers"],
+      "faqs": [
+        {"q": "Does it snow in Lava", "a": "Sometimes. Lava is one of the few places in West Bengal that can receive snow, usually in January or February, but it does not happen every year and rarely lasts long. Do not book a trip only for snow. Winter visits are still worth it for clear skies, frosty mornings and quiet forest walks."},
+        {"q": "How cold is Lava in January", "a": "Very cold for this part of India. Nights in January are usually around or below 0 °C, and days are about 8–12 °C when sunny, colder when misty. Rooms are rarely heated. Bring thermals, a down or heavy woollen jacket, a hat, gloves and warm socks, and ask your lodge for extra blankets."},
+        {"q": "Are roads to Lava open in winter", "a": "Generally yes. The Kalimpong–Algarah–Lava road stays open in winter, though it can be icy at dawn after frost or snow. Drivers usually wait until mid-morning on such days. Heavy snow is rare but can close the road briefly. Check current status before you travel and keep a spare half-day."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Lava worth visiting", "a": "Yes, if you like forests, birds, quiet and cold air. Lava itself is a small bazaar with a fine monastery, but its value is as the gateway to Neora Valley National Park and a base for Rishyap, Kolakham, Changey Falls and Lolegaon. Two nights let you enjoy it properly. If you want shopping, cafés or nightlife, it will feel too quiet."},
+    {"q": "How far is Lava from Kalimpong", "a": "Lava is about 32 km from Kalimpong via Algarah, around 1.5 hours by road. Shared jeeps run mostly in the morning at about ₹100–150 a seat, and a reserved car costs about ₹2,000–3,000 one way, indicative for 2026. The road is narrow and winding but paved for most of the way."},
+    {"q": "What is the altitude of Lava", "a": "Lava is at about 2,200 m (7,200 ft), with parts of the forest compound around 2,350 m. That is nearly 1,000 m higher than Kalimpong, so it is much colder, with frequent mist. Most people feel no altitude effects at this height, but walk slowly on your first afternoon and drink enough water."},
+    {"q": "How do I get a Neora Valley permit at Lava", "a": "Go to the forest range office in Lava in the morning with photo ID. Permits are issued for the same day, along with vehicle and guide charges; entry is about ₹120–150 per Indian and ₹500 per foreigner, indicative for 2026. The park is closed from mid-June to mid-September. Check current status and fees before you travel."},
+    {"q": "Where should I stay in Lava", "a": "For value and forest atmosphere, the WBFDC Lava Eco Tourism Centre is the best choice, among pines near the permit office. Small family hotels in the bazaar are an alternative, with simple rooms and food. For big mountain views, consider staying at Rishyap or Kolakham and visiting Lava by day."},
+    {"q": "Can you see Kanchenjunga from Lava", "a": "Not well from the bazaar itself, which faces forested ridges. For Kanchenjunga, go to Rishyap, 11 km away, where Tiffin Dara gives a wide panorama of the range, or to Jhandi Dara near Lolegaon. Clear views are most likely from October to December and on early spring mornings."},
+    {"q": "Is Lava good for a family trip", "a": "Yes, for families who enjoy nature and do not mind simple rooms. Children usually love the forest, the monastery and a drive to Changey Falls. Watch for steep steps at some lodges, carry warm clothes in every season, and keep snacks, as food options are limited. Lava is too cold for small babies in mid-winter."},
+    {"q": "Is there mobile network in Lava", "a": "Lava bazaar has mobile coverage from the main networks, usually with data, but signal weakens in the forest, in bad weather and towards Kolakham and Neora Valley. Some lodges have Wi-Fi, which may be slow. Let family know you may be hard to reach, and download offline maps before leaving Kalimpong."},
+    {"q": "What is the best time to visit Lava", "a": "October to December gives clear skies and good views from nearby Rishyap; March to May brings rhododendrons and excellent birding. January and February are very cold, with a chance of snow. Avoid mid-June to mid-September, when heavy rain, landslides and leeches make travel hard and Neora Valley is closed."}
+  ]
+}

@@ -1,0 +1,31 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ title }}: weather, prices and where to go · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ r.name }} in {{ month }}: {{ md.weather }}. {{ md.summary|truncatechars:100 }}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% endblock %}
+{% block fab_land %}&land={{ r.slug }}&month={{ month }}{% endblock %}
+{% block content %}
+<header class="phead phead--slab on-dark">
+  <div class="wrap phead__in">
+    <p class="eyebrow">{% icon r.slug %} {{ r.name }} · month by month</p>
+    <div class="phead__row"><h1 class="h-hero">{{ month }}</h1>
+      <div class="phead__facts"><span>{% icon "sun" %}{{ md.weather }}</span><span>{% icon "star" %}{% if rating == 2 %}One of the best months{% elif rating == 1 %}A good month{% else %}Not a month we recommend{% endif %}</span></div></div>
+    <div class="answer">{{ md.summary }}</div>
+  </div>
+</header>
+<section class="sec--tight"><div class="wrap split">
+  <div>
+    {% if md.tip %}<div class="panel panel--signal block"><p class="eyebrow" style="color: var(--ink)">Tip for {{ month }}</p><p style="margin: 0; font-size: 19px">{{ md.tip }}</p></div>{% endif %}
+    {% if md.price_note %}<div class="panel block"><p class="eyebrow">{% icon "ticket" %} Prices and crowds</p><p style="margin: 0; font-size: 18px">{{ md.price_note }}</p></div>{% endif %}
+    {% if go %}<div class="block"><p class="eyebrow">Where to go in {{ month }}</p><div class="grid grid--3" data-fill>{% for p in go %}{% include "hills/partials/card_place.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
+    {% if events %}<div class="block"><p class="eyebrow">{% icon "flags" %} Festivals around {{ month }}</p><div class="chip-row">{% for f in events %}<a class="chip chip--ink" href="{{ f.url }}">{{ f.name }} · {{ f.when|truncatechars:34 }}</a>{% endfor %}</div></div>{% endif %}
+    {% if journeys %}<div class="block"><p class="eyebrow">Packages at their best in {{ month }}</p><div class="grid grid--3" data-fill>{% for j in journeys|slice:":6" %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div></div>{% endif %}
+    {% include "hills/partials/faq.html" with faqs=faqs %}
+  </div>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">Other months</p><div class="chip-row"><a class="chip" href="{% url 'region_month' r.slug prev %}">← {{ prev_name }}</a><a class="chip" href="{% url 'region_month' r.slug next %}">{{ next_name }} →</a></div>
+      <div style="margin-top: 16px">{% include "hills/partials/mbar.html" with bar=r.bar label=r.best_label %}</div></div>
+    <div class="panel panel--line"><p class="eyebrow">Other lands in {{ month }}</p><ul class="ledger">{% for o in others %}<li><span><a href="{% url 'region_month' o.r.slug month_slug %}">{{ o.r.name }}</a></span><i></i><b>{% if o.rating == 2 %}Best{% elif o.rating == 1 %}Good{% else %}Avoid{% endif %}</b></li>{% endfor %}</ul></div>
+    {% include "hills/partials/quick_form.html" with qf_id="month-aside" qf_land=r.slug qf_title="Plan "|add:r.short|add:" in "|add:month %}
+  </aside>
+</div></section>
+{% endblock %}

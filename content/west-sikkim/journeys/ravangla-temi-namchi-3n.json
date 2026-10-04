@@ -1,0 +1,89 @@
+{
+  "slug": "ravangla-temi-namchi-3n",
+  "title": "Ravangla, Temi tea and Namchi",
+  "region": "west-sikkim",
+  "nights": 3,
+  "themes": ["monasteries", "tea-gardens", "family-trips", "mountain-views"],
+  "stops": [
+    {"place": "ravangla", "nights": 1},
+    {"place": "temi-tea-garden", "nights": 1},
+    {"place": "namchi", "nights": 1}
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 10000,
+  "fares": {"budget": 10000, "comfort": 16500, "premium": 28000},
+  "fare_notes": {
+    "budget": "Simple hotels such as Hotel Zumthang or Chingthang Hotel on Kewzing Road in Ravangla, a standard room at Cherry Resort in Temi, and a clean budget hotel in Namchi town. A small car shared by your party. Breakfast and dinner daily.",
+    "comfort": "Mt. Narsing Village Resort near Ravangla, a better room at Cherry Resort inside the Temi estate, and a good mid-range hotel in Namchi. Private SUV throughout. Breakfast and dinner daily.",
+    "premium": "South Sikkim has no luxury hotel, so premium buys the best rooms available: the upper cottages at Mt. Narsing, the best room at Cherry Resort and Namchi's best hotel. Private SUV with an experienced driver, a local guide, entry fees paid, all meals."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2100,
+  "meta_description": "Ravangla, Temi and Namchi in 3 nights: Buddha Park, Ralang, a night in the Temi tea estate, Samdruptse and Char Dham, from ₹10,000 per person.",
+  "summary": "A gentle 3-night loop through South Sikkim. Ravangla gives the 130-foot Buddha at Buddha Park and Ralang Monastery, Temi gives a night inside Sikkim's only tea estate, and Namchi has the large Guru Padmasambhava statue at Samdruptse and the Char Dham complex. Short drives, early nights and good views, close to Siliguri.",
+  "intro": [
+    "South Sikkim is the easy half of the state. Drives are short and the big sights sit within 30 km of each other. We start at Ravangla, at about 2,100 m, the starting point for the trek to Maenam Wildlife Sanctuary, where a 130-foot Buddha was consecrated by the 14th Dalai Lama in 2013. The next night is in the Temi tea estate, laid out in 1969 under the last Chogyal. The last is in Namchi, district headquarters, with two hilltop statues you can see from far down the valley.",
+    "This trip suits families, seniors and anyone with three days and no appetite for 6-hour drives. The longest drive is the first, about 120 km and 4.5–5 hours from Siliguri; the shortest is under an hour. Budget uses simple town hotels and Cherry Resort, a government building inside the tea estate. Comfort adds Mt. Narsing Village Resort and a private SUV. October to December gives the clearest views of Kangchenjunga and Narsing. In November, Himalayan cherry trees flower along the Temi approach."
+  ],
+  "highlights": [
+    "The 130-foot Buddha at Buddha Park, Ravangla, consecrated by the 14th Dalai Lama in 2013",
+    "Ralang Monastery, a large Kagyu monastery about 6 km from Ravangla",
+    "A night and a morning walk in Temi, Sikkim's government tea estate, laid out in 1969",
+    "The 135-foot statue of Guru Padmasambhava at Samdruptse, Namchi",
+    "Char Dham on Solophok hill, with a 108-foot Shiva and replicas of the four dhams"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Ravangla and Buddha Park", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 120 km · 4.5–5 h",
+     "text": "Your car meets you at NJP, Bagdogra or Siliguri and follows the Teesta to Melli, where you enter Sikkim, then climbs through the hills to Ravangla at about 2,100 m. Foreign nationals show or collect their Restricted Area Permit at Melli. After check-in we go to Buddha Park, also called Tathagata Tsal. The 130-foot statue was built between 2006 and 2013 for the 2,550th birth anniversary of the Buddha, with Mount Narsing behind it. Entry is ₹50–100, indicative. Stay for the late afternoon light, when crowds thin and the statue glows.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Ralang Monastery, then the Temi tea estate", "place": "temi-tea-garden", "overnight": "Temi Tea Garden", "drive": "≈ 35 km · 2 h",
+     "text": "Ravangla means, roughly, the pass where wild sheep were reared. After breakfast we drive about 6 km to Ralang. The large new monastery, Palchen Choeling, was built in 1995 by the 12th Gyaltsab Rinpoche of the Kagyu school; the older Karma Rabtenling stands nearby. Ravangla also has the Kunphenling Tibetan settlement, set up in 1978. Then about 20 km to Temi. Check in at Cherry Resort, inside the estate, and walk the tea rows in the afternoon. The estate covers about 177 hectares on slopes running down from the Tendong range.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Temi morning, Samdruptse and Char Dham", "place": "namchi", "overnight": "Namchi", "drive": "≈ 30 km · 1.5–2 h",
+     "text": "Walk the estate early, before the day's haze, on paths between the tea rows. Temi was set up in 1969 under Palden Thondup Namgyal, the last Chogyal, and is run by the state's tea board; it is certified organic. Ask at the estate if you want to buy tea to take home. Then about 18 km to Namchi, whose name means sky high. We visit Samdruptse, where a 135-foot Guru Padmasambhava was completed in 2004, and Siddhesvara Dham, called Char Dham, about 5 km from town. Entry at each is ₹20–100, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Namchi back to the plains", "place": "siliguri", "overnight": "—", "drive": "≈ 100 km · 3.5–4 h",
+     "text": "A slow breakfast. If you leave by 9 am you have time for a short stop on the way down; ask your driver about Mamley Stromatolite Park near Namchi, declared a National Geological Monument in 2014 for its ancient algal fossils in dolomite. The road then drops to Melli and follows the Teesta to Siliguri. On a clear road you reach NJP or Bagdogra by early afternoon, so a 3 pm flight is usually safe. In monsoon allow extra time, because slides can close the Teesta road. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["mount-narsing-village-resort-ravangla", "cherry-resort-temi"],
+  "includes": [
+    "3 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily; all meals on premium",
+    "Car from Siliguri, NJP or Bagdogra and back, and for all sightseeing in the plan",
+    "Tea-estate walk at Temi, which is free",
+    "Entry fees and a local guide, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Entry fees on budget and comfort, about ₹200–350 per person in all, indicative",
+    "Lunches, drinks and tips",
+    "Tea and souvenirs you buy",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel by shared jeep: Siliguri to Ravangla ₹350–450 a seat and Ravangla to Namchi ₹80–120, indicative; hire a local car for the Temi day only.",
+    "Go in February, March or late November, when rates fall and the roads are dry; the cherry blossom at Temi comes in November.",
+    "Book Cherry Resort directly and early; it is the only stay inside the estate and fills on weekends."
+  ],
+  "good_to_know": [
+    "Foreign nationals need a free Sikkim Restricted Area Permit, online through e-FRRO or at the Melli checkpost. Check current status before you travel.",
+    "Ravangla is colder than Namchi; nights fall close to freezing from December to February.",
+    "Pang Lhabsol, which honours Kangchenjunga, is celebrated at Ravangla over about a week in August or September.",
+    "Tendong Lho Rumfaat, the Lepcha festival of thanks to Tendong hill, falls on 8 August and is a Sikkim holiday.",
+    "Monsoon from June to September brings cloud and slides; we do not run this trip from June to August."
+  ],
+  "faqs": [
+    {"q": "How tall is the Buddha statue at Ravangla", "a": "The Buddha at Buddha Park, Ravangla, is 130 feet tall, about 40 m. It was built between 2006 and 2013 for the 2,550th birth anniversary of the Buddha and consecrated by the 14th Dalai Lama on 25 March 2013. The park, also called Tathagata Tsal, sits inside the Rabong Gompa complex with Mount Narsing behind. Entry is ₹50–100, indicative; check current status before you travel."},
+    {"q": "Can we stay inside Temi Tea Garden", "a": "Yes. Cherry Resort sits inside the Temi estate. It is a government building, once the Yatri Niwas, now run privately on lease, and named for the Himalayan cherry trees along the approach, which flower in November. Rooms are simple to comfortable rather than luxurious. It is the only stay inside the estate, so book early for weekends and holidays."},
+    {"q": "When is the best time to visit Temi Tea Garden", "a": "October to December gives clear views across the estate to Kangchenjunga, and November adds the cherry blossom on the approach road. March to May is the plucking season, with green slopes and a little haze. From June to September tea grows fast but rain and slides make the roads slow. Walking among the tea rows is free all year."},
+    {"q": "What is Char Dham in Namchi", "a": "Char Dham, formally Siddhesvara Dham, is a Hindu pilgrimage complex on Solophok hill, about 5 km from Namchi. It has a 108-foot statue of Shiva, an 18-foot Kirateshwar, and replicas of the four dhams and the 12 jyotirlingas, so pilgrims can see all of them in one place. Entry is ₹50–100, indicative; allow 1.5–2 hours. Check current status before you travel."},
+    {"q": "How far is Ravangla from Namchi and Temi", "a": "Ravangla to Namchi is about 27 km, roughly an hour by road. Ravangla to Temi and Namchi to Temi are each about 16–20 km, 45 minutes to an hour. That is why this loop works so well in three nights: no drive after the first day is longer than 2 hours. Shared jeeps between Ravangla and Namchi cost ₹80–120 a seat, indicative."},
+    {"q": "Is this trip good for elderly parents", "a": "Yes, it is one of our easiest trips. Drives after day one are short, Buddha Park and Char Dham have paved paths, and the highest point is Ravangla at about 2,100 m. Buddha Park and Samdruptse involve some steps; Char Dham has long walkways. Ravangla is cold at night from December to February, so pack warm layers and ask for a heater."},
+    {"q": "Can we see Kangchenjunga from Ravangla", "a": "Yes, on clear mornings, mostly from October to February. From Ravangla you see Narsing, Kabru and the Kangchenjunga range in clear weather. Haze usually hides the peaks by mid-morning in spring, and cloud covers them through the monsoon. For the best chance, be outside by 6 am. Mt. Narsing Village Resort's upper cottages face the range."},
+    {"q": "How do we reach Ravangla by shared jeep", "a": "Shared jeeps leave Siliguri for Ravangla through the morning, about ₹350–450 a seat, and Gangtok to Ravangla costs about ₹250–350, both indicative for 2026. The ride from Siliguri takes 4.5–5 hours. Jeeps fill and leave, so arrive at the stand by 8 am. For this loop a local car for the Temi and Namchi days saves time."},
+    {"q": "Can we add Pelling to this trip", "a": "Yes, easily. Pelling is about 50 km from Ravangla, 2–2.5 hours via Legship and Kewzing. Add two nights in Pelling after Ravangla for Pemayangtse, Rabdentse and the Kangchenjunga dawn, then continue to Temi and Namchi. The trip becomes 5 nights and the last drive from Namchi to Siliguri stays short. Ask us for a revised plan and fares."}
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "slug": "yuksom",
+  "name": "Yuksom",
+  "region": "west-sikkim",
+  "kind": "village",
+  "wiki": "Yuksom",
+  "image_query": "Yuksom village West Sikkim",
+  "lat": 27.373,
+  "lng": 88.221,
+  "altitude_m": 1780,
+  "tagline": "Sikkim's first capital and the start of the Goecha La trail",
+  "meta_description": "Yuksom, West Sikkim: the 1642 coronation throne at Norbugang, Dubdi Monastery, the Goecha La trailhead, plus shared-jeep fares, stays and 2026 costs.",
+  "summary": "Yuksom is a village at 1,780 m, about 35 km north of Pelling, where Phuntsog Namgyal was crowned the first Chogyal of Sikkim in 1642. Today it is the starting point of the Dzongri and Goecha La trek. Plan 1–2 nights. A shared jeep from Gyalshing costs about ₹120–180, indicative, 2026.",
+  "intro": [
+    "Yuksom sits on a green shelf at the end of the road north from Pelling, about 35 km and 1.5–2 hours away. Beyond it there are no more roads, only the trail into Khangchendzonga National Park. The village is small: one main street of homestays, lodges, small shops and trekking agencies, with terraced fields and cardamom groves falling away below. According to the 2011 census, 1,951 people lived here, and Bhutias form the largest community.",
+    "Its place in history is far bigger than its size. In 1642 three lamas crowned Phuntsog Namgyal here as the first Chogyal of Sikkim, and Yuksom stayed the capital until 1670. The stone coronation throne still stands under an old cryptomeria at Norbugang, a short walk from the bazaar. An hour's climb above the village, Dubdi Monastery dates to 1701 and is described as the oldest surviving monastery in Sikkim. All of it costs little or nothing to see.",
+    "Most visitors come for one of two reasons. Day-trippers from Pelling see Norbugang, Kathok Lake and perhaps Dubdi, then drive back. Trekkers sleep here before and after the Dzongri and Goecha La trek. We think Yuksom deserves a night of its own even if you are not trekking. The evenings are quiet, the food is homely, and early mornings bring clear air and the sound of prayer wheels in the lanes."
+  ],
+  "story": {
+    "title": "Three lamas, one king and a stone throne",
+    "paras": [
+      "In the early 17th century three Tibetan lamas of the Nyingma school entered Sikkim from different directions: Lhatsun Chenpo, also known as Lhatsun Namkha Jigme, Ngadak Sempa Chenpo and Kathok Rigzin Chenpo. They met at the spot that became Yuksom. Wikipedia's History of Sikkim explains the Lepcha name as 'the place where the three monks met': yukmun for lama and som for three. Tradition holds that Guru Rinpoche had foretold that a fourth man, from the east, would complete their meeting.",
+      "Tradition goes on to say that the lamas sent out messengers and found a man named Phuntsog churning milk near present-day Gangtok. Whatever the details, the record is clear on the result. In 1642, aged 38, Phuntsog Namgyal was crowned at Norbugang as the first Chogyal of Sikkim, and the lamas gave him the title of a religious king. The throne is a stone platform with four seats under a large cryptomeria; the highest seat was for Lhatsun Chenpo.",
+      "Water from the small Kathok Lake nearby was used for the consecration, and the Norbugang Chorten opposite the throne is said to hold earth and stones from all parts of Sikkim. A depression in a stone near the throne is shown as the footprint of one of the lamas, a tradition you can judge for yourself. Phuntsog Namgyal went on to unite Bhutia, Lepcha and Limbu under one rule; Yuksom remained the capital until his son Tensung Namgyal moved the court to Rabdentse in 1670."
+    ],
+    "source": "Wikipedia: 'Yuksom', 'History of Sikkim', 'Phuntsog Namgyal', 'Norbugang Chorten'; the prophecy and milk-churning episode are traditional accounts"
+  },
+  "did_you_know": [
+    "Dubdi Monastery above Yuksom was established in 1701, and its name is usually translated as 'the retreat'.",
+    "The Norbugang Chorten at Yuksom is said to contain earth and stones gathered from all parts of Sikkim.",
+    "Yuksom stayed the capital of Sikkim from 1642 until 1670, when the second Chogyal, Tensung Namgyal, moved the court to Rabdentse."
+  ],
+  "local_name": {"text": "Yuksom", "language": "Lepcha", "meaning": "the place where the three monks met"},
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "1–2 (more if trekking)"],
+    ["Nearest airport", "Bagdogra (IXB), 6.5–8 h by road"],
+    ["From Pelling", "≈ 35 km · 1.5–2 h"],
+    ["Altitude", "1,780 m"],
+    ["Known for", "1642 coronation site, Dubdi Monastery, Goecha La trailhead"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Norbugang Coronation Throne", "text": "The four-seated stone throne where Phuntsog Namgyal was crowned in 1642 stands under an old cryptomeria, a short walk from the bazaar. It is free, quiet and easy to miss. Read the boards, sit for a while and imagine the three lamas taking their seats."},
+    {"title": "Kathok Lake and Norbugang Chorten", "text": "Water from the small Kathok Lake was used to consecrate the first Chogyal, and the white Norbugang Chorten is said to hold earth from every corner of Sikkim. Both sit within ten minutes' walk of each other, so you can do the whole royal circuit in an hour."},
+    {"title": "Dubdi Monastery", "text": "Dubdi, established in 1701, sits on a forested hill about 3 km and an hour's walk above Yuksom at around 2,100 m. It is often called the oldest surviving monastery in Sikkim. The path is steep but short, and the view back over the village is worth the climb."},
+    {"title": "Gateway to Goecha La", "text": "Yuksom is where the Dzongri and Goecha La trek begins and ends. Agencies, porters and pack animals gather here, and park permits are checked at the forest checkpost. Even if you are not trekking, walk the first kilometre of the trail for a taste of the forest."},
+    {"title": "Kanchenjunga Falls on the way", "text": "On the road from Pelling you pass Kanchenjunga Falls, about 28 km from Pelling, which runs through most of the year and is fullest after the monsoon. Rimbi waterfall sits on the same road. A reserved car can stop at both without much extra cost."},
+    {"title": "Tashiding next door", "text": "Tashiding Monastery, founded in 1641 by Ngadak Sempa Chenpo, one of the three lamas of the coronation, is about 19 km and an hour from Yuksom. Doing both on the same trip ties the story together: the lamas' meeting place and one of their monasteries."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Gyalshing to Yuksom for about ₹120–180 a seat, indicative, 2026. Reach Gyalshing first by shared jeep from Siliguri (₹400–550) or Gangtok (₹350–500). Departures from Gyalshing to Yuksom are few, so ask at the stand the evening before. From Pelling, catch a jeep down to Gyalshing first. Check current status before you travel."},
+    {"mode": "Reserved car", "text": "A reserved car from Pelling to Yuksom costs about ₹2,000–2,800 one way, indicative, 2026, for about 35 km and 1.5–2 hours via Rimbi and Kanchenjunga Falls. A full-day Pelling sightseeing loop covering Yuksom and Khecheopalri costs about ₹3,000–4,000. From Siliguri, most cars go via Jorethang, Legship and Gyalshing."},
+    {"mode": "Rail / Air", "text": "The nearest railhead is New Jalpaiguri (NJP) and the nearest reliable airport is Bagdogra (IXB). Both are a long day's drive away: about 140 km to Pelling, then 35 km more to Yuksom, so allow 6.5–8 hours. Most people break the journey with a night in Pelling. Check road status in the monsoon before you travel."}
+  ],
+  "where_to_stay": "Yuksom is a homestay and lodge village, and that keeps prices low. Hotel Yangrigang on the main road is a well-known budget base for trekkers, simple and close to the agencies and the trailhead. Family homestays around the village usually include dinner and breakfast, at about ₹1,200–2,000 per person per day, indicative, 2026, and are the best way to eat local food. There are no big resorts here. If you want a premium room, stay in Pelling and visit Yuksom as a day trip, but you will miss the quiet evening, which is half the point.",
+  "stays": ["hotel-yangrigang-yuksom"],
+  "costs": [
+    ["Shared jeep Gyalshing → Yuksom", "₹120–180 a seat"],
+    ["Reserved car Pelling → Yuksom", "₹2,000–2,800 one way"],
+    ["Homestay with meals", "₹1,200–2,000 per person per day"],
+    ["Thali or momo meal", "₹150–350"],
+    ["Goecha La group trek from Yuksom", "₹14,000–25,000 per person"]
+  ],
+  "budget_tip": "Stay in a homestay with dinner and breakfast included and walk to Norbugang, Kathok Lake and Dubdi yourself; the three main sights cost nothing, so a full day here can come in under ₹2,000 per person.",
+  "tips": [
+    "Carry enough cash from Gyalshing or Pelling; Yuksom has very limited ATM access and many places do not take cards.",
+    "Start the Dubdi walk early, before 9 am, when it is cooler and the forest birds are active.",
+    "Mobile signal and internet are patchy, so download maps and tell family you may be offline for a day.",
+    "Leeches appear on forest paths in the monsoon and early autumn; salt or a leech sock helps.",
+    "If you plan to trek, meet your agency in Yuksom a day early to check gear and the park permit; check current status before you travel."
+  ],
+  "themes": ["monasteries", "treks-and-walks", "village-homestays", "budget-trips"],
+  "nearby": ["dzongri", "tashiding", "khecheopalri-lake", "pelling"],
+  "experiences": [
+    {
+      "slug": "yuksom-norbugang-throne-and-kathok-lake",
+      "title": "Norbugang throne and Kathok Lake walk",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Morning or late afternoon, year-round",
+      "cost": "Free",
+      "image_query": "Norbugang Coronation Throne Yuksom",
+      "wiki": "Norbugang Chorten",
+      "summary": "A short, free walk around the places where Sikkim's first king was crowned in 1642: the four-seated stone throne under an old cryptomeria, the Norbugang Chorten said to hold earth from all over Sikkim, and the small Kathok Lake whose water was used for the consecration.",
+      "body": [
+        "Start at the Norbugang Coronation Throne, a short walk uphill from the Yuksom bazaar. The throne is a stone platform with four seats under a large, old cryptomeria. The highest seat belonged to Lhatsun Chenpo, the senior of the three lamas who crowned Phuntsog Namgyal in 1642. Look for the stone where a depression is shown as the footprint of one of the lamas. It is a tradition rather than history, but locals treat it with respect, and so should you.",
+        "Opposite the throne stands the white Norbugang Chorten, built in 1642 after the coronation. It is said to contain earth and stones from all parts of Sikkim, and the gifts the people gave to Lhatsun Chenpo during the celebrations. Walk around it clockwise, spinning the prayer wheels as you go. The site is usually quiet, with a caretaker and a few local visitors, so it is a good place to sit and read a little history.",
+        "From Norbugang, walk on to Kathok Lake, a small pond surrounded by prayer flags and trees. Its water was used in the consecration ceremony that made Phuntsog Namgyal the first Chogyal. The whole loop takes about an hour at an easy pace and costs nothing. Go in the late afternoon if you arrive from Pelling, or early morning if you slept in Yuksom, when the light is soft and the lanes are empty."
+      ],
+      "good_for": ["first-timers", "families", "seniors", "students", "couples"],
+      "faqs": [
+        {"q": "Is there an entry fee for Norbugang in Yuksom", "a": "We are not aware of any fixed entry fee for the Norbugang Coronation Throne, the Norbugang Chorten or Kathok Lake; they are open sites cared for by locals. A small donation at the chorten is welcome. Rules for heritage sites in Sikkim can change, so check current status before you travel."},
+        {"q": "How far is Norbugang from Yuksom bazaar", "a": "The throne is a short walk uphill from the main bazaar, around 10–15 minutes at an easy pace, and Kathok Lake is a few minutes further. The whole loop of throne, chorten and lake takes about an hour, including time to sit and read the boards. Most of the route is on paved lanes."},
+        {"q": "Why is Norbugang important", "a": "Norbugang is where Phuntsog Namgyal was crowned the first Chogyal of Sikkim in 1642 by three Nyingma lamas. That coronation founded the Namgyal dynasty, which ruled Sikkim until 1975, when it became a state of India. The stone throne, the chorten and Kathok Lake are among the oldest royal sites in the state."}
+      ]
+    },
+    {
+      "slug": "yuksom-dubdi-monastery-hike",
+      "title": "Dubdi Monastery hike",
+      "kind": "spiritual",
+      "duration": "2–3 hours return",
+      "best_time": "Early morning, Mar–May and Oct–Dec",
+      "cost": "Free; donations welcome",
+      "image_query": "Dubdi Monastery Yuksom Sikkim",
+      "wiki": "Dubdi Monastery",
+      "summary": "A steep forest climb of about an hour from Yuksom to Dubdi Monastery, established in 1701 and described as the oldest surviving monastery in Sikkim. Its name is usually translated as 'the retreat', and it still feels like one: a small stone gompa among trees at about 2,100 m.",
+      "body": [
+        "The path to Dubdi leaves from the upper end of Yuksom, past the last houses, and climbs about 3 km through forest. It takes most people an hour going up and 40 minutes coming down. The trail is a mix of stone steps and dirt, steep in places and slippery after rain. Carry water and a snack, and start before 9 am. In April the forest is full of birdsong and some rhododendrons flower along the way.",
+        "Dubdi stands at about 2,100 m. It was established in 1701, decades after the coronation at Norbugang, and belongs to the Nyingma school. The building is a two-storey stone structure in Tibetan style with a square plan, facing south, topped by a gilded finial. Inside are statues, wall paintings and old texts. The monastery is not always open; a caretaker lama may let you in if he is there, so be patient and polite.",
+        "Even if the door is shut, the walk is worth it. The courtyard looks back over Yuksom and the valley, and the silence is real: no road reaches the top. We like to go up early, sit for half an hour, then come down for a late breakfast in the village. The whole outing costs nothing. If you are trekking to Dzongri, this climb is also a useful leg-stretcher the day before you start."
+      ],
+      "good_for": ["solo", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "How long is the walk to Dubdi Monastery", "a": "Dubdi is about 3 km above Yuksom, roughly an hour's walk up and 40 minutes down. The path is steep in places with stone steps and dirt sections. Allow 2–3 hours for the round trip with time at the monastery. Fit children manage it well, but older travellers with knee problems may find the descent hard."},
+        {"q": "Is Dubdi the oldest monastery in Sikkim", "a": "Dubdi, established in 1701, is often described as the oldest surviving monastery in Sikkim. Other sites, such as Tashiding (1641) and Pemayangtse (1647), were founded earlier but were rebuilt or enlarged later, so the claim depends on how you count. Either way, it is one of the state's earliest religious buildings."},
+        {"q": "Is Dubdi Monastery open every day", "a": "Not always. Dubdi is a small, quiet monastery, and the inner rooms open only when the caretaker lama is there. Go in the morning for the best chance. If it is closed, you can still walk around the outside and enjoy the courtyard and the view. Check current status locally before you travel up."}
+      ]
+    },
+    {
+      "slug": "yuksom-village-and-trekkers-bazaar-evening",
+      "title": "Yuksom village and trekkers' bazaar evening",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Late afternoon to dusk, Mar–May and Oct–Dec",
+      "cost": "Free; ₹150–350 for a meal, indicative",
+      "image_query": "Yuksom bazaar Sikkim",
+      "wiki": "",
+      "summary": "A slow evening in Yuksom's one main street, where trekking groups return from Goecha La, porters load their gear and homestay kitchens light their fires. Walk the lanes, spin the prayer wheels, eat momos and thukpa, and talk to people who have just come down from the mountain.",
+      "body": [
+        "Yuksom changes in the late afternoon. Day-trippers from Pelling leave, and the village belongs to locals and trekkers. Groups coming down from Dzongri and Goecha La arrive tired and sunburnt, porters and pack-animal handlers unload, and agencies plan the next departure. Walk the main street slowly from the jeep stand to the upper end of the village and you will see the whole rhythm of a trailhead in an hour.",
+        "Stop at a small kitchen for momos, thukpa or a plate of rice, dal and greens. Meals cost about ₹150–350, indicative, 2026. If your homestay cooks dinner, ask for local dishes such as gundruk, chhurpi or nettle soup if they are in season. Many families grow cardamom, and you may see the large black pods drying in autumn. Try to buy snacks and small things in the village shops; it keeps money in Yuksom.",
+        "If you are thinking of the Goecha La trek next year, this is the best place to research it. Ask returning trekkers about the weather, the views from Dzongri and how the agencies treated them. Ask agencies about group sizes, gear and the current rules on how far groups may go. Then walk back through quiet lanes to your homestay. By 8 pm the village is asleep, and the stars are bright."
+      ],
+      "good_for": ["solo", "students", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is Yuksom worth an overnight stay", "a": "Yes, if you like quiet places. Day-trippers see Norbugang and leave, but staying a night lets you walk to Dubdi at dawn, eat in a homestay kitchen and see the trailhead come to life in the evening. A homestay with dinner and breakfast costs about ₹1,200–2,000 per person, indicative, 2026."},
+        {"q": "Are there ATMs and shops in Yuksom", "a": "Yuksom has small shops for snacks, basic toiletries and trekking odds and ends, but ATM access is limited and can be unreliable. Bring enough cash from Gyalshing or Pelling for your stay, meals and jeep fares. Some agencies take online payments, but many small kitchens and shops deal mostly in cash."},
+        {"q": "What should I eat in Yuksom", "a": "Try momos, thukpa and home-style Sikkimese food in a homestay: rice, dal, local greens, gundruk (fermented greens), chhurpi (local cheese) and pickles. A simple meal costs about ₹150–350, indicative, 2026. Ask your homestay a day ahead for special dishes, as most families cook fresh for each evening."}
+      ]
+    },
+    {
+      "slug": "yuksom-tashiding-day-hop",
+      "title": "Tashiding day hop from Yuksom",
+      "kind": "spiritual",
+      "duration": "Half day",
+      "best_time": "Mornings, Oct–May; Bumchu in Feb–Mar",
+      "cost": "Shared jeep seats are cheap but few; a reserved car costs more, agree the fare locally",
+      "image_query": "Tashiding Monastery Sikkim",
+      "wiki": "Tashiding Monastery",
+      "summary": "A half-day hop of about 19 km from Yuksom to Tashiding Monastery, founded in 1641 by Ngadak Sempa Chenpo, one of the three lamas who crowned the first Chogyal. It links the meeting place of the lamas with one of their own monasteries, on a hilltop between two rivers.",
+      "body": [
+        "Yuksom and Tashiding belong together. Ngadak Sempa Chenpo, one of the three lamas who met at Yuksom and crowned Phuntsog Namgyal in 1642, founded Tashiding a year earlier, in 1641. The road between them is about 19 km and takes around an hour, winding down through forest and villages. Leave Yuksom after breakfast and you can be at the monastery by mid-morning, when the light on the chortens is at its best.",
+        "Tashiding sits on a hilltop between the Rathong Chu and the Rangeet river at about 1,465 m. Walk the flagstones carved with 'Om Mani Padme Hum', the rows of chortens, and look for the Thongwa Rang Drol chorten, which tradition says frees anyone who simply sees it. If you are here on the 14th and 15th days of the first Tibetan month, usually February or March, you can see the Bumchu festival, when the sacred vase is opened.",
+        "Shared jeeps on this stretch are few and timings change, so a reserved car often makes more sense for a family or small group. Agree the fare and waiting time before you set off. From Tashiding you can continue to Legship and Pelling, or return to Yuksom for the night. Combine the trip with lunch in Tashiding bazaar, keep the afternoon free, and you have a gentle day that ties two centuries of Sikkim's story together."
+      ],
+      "good_for": ["families", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "How far is Tashiding from Yuksom", "a": "Tashiding is about 19 km from Yuksom by road, around an hour's drive. The road winds down through forest and villages. Shared jeeps run but are few, so check timings the evening before. A reserved car for a half-day return trip is easier for families and groups; agree the fare and waiting time before you set off."},
+        {"q": "Who founded Tashiding Monastery", "a": "Tashiding Monastery was founded in 1641 by Ngadak Sempa Chenpo, one of the three Nyingma lamas who met at Yuksom and crowned Phuntsog Namgyal as the first Chogyal in 1642. It was extended and renovated in 1717 during the reign of the third Chogyal, Chakdor Namgyal."},
+        {"q": "Can I visit Tashiding and Yuksom in one day from Pelling", "a": "Yes, but it is a long day. Pelling to Yuksom is about 35 km and Yuksom to Tashiding about 19 km, and Tashiding back to Pelling via Legship is about 40 km. Allow 9–10 hours with stops. A reserved car costs more than the standard Yuksom loop; agree the route and fare before you start."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How do I reach Yuksom from Pelling", "a": "Yuksom is about 35 km from Pelling, 1.5–2 hours by road via Rimbi and Kanchenjunga Falls. A reserved car costs about ₹2,000–2,800 one way, indicative, 2026. By shared jeep, go down to Gyalshing first, then take a Gyalshing–Yuksom jeep for ₹120–180 a seat. Departures are few, so ask the evening before."},
+    {"q": "Is Yuksom worth visiting if I am not trekking", "a": "Yes. Yuksom was the first capital of Sikkim, and the 1642 coronation throne at Norbugang, the Norbugang Chorten, Kathok Lake and Dubdi Monastery are all within walking distance and mostly free. One night in a homestay lets you see the village at its quietest, which is the real reason to come."},
+    {"q": "What does Yuksom mean", "a": "Wikipedia's history of Sikkim explains Yuksom as a Lepcha name meaning 'the place where the three monks met', from yukmun (lama) and som (three). It refers to the meeting of three Tibetan lamas who crowned Phuntsog Namgyal as the first Chogyal of Sikkim at Norbugang in 1642."},
+    {"q": "Do I need a permit for Yuksom", "a": "Indian nationals do not need a permit to visit Yuksom village, but carry photo ID. Foreign nationals need the Sikkim Restricted Area Permit. Going beyond Yuksom into Khangchendzonga National Park, for Dzongri or Goecha La, needs a park permit at the Yuksom forest checkpost and a registered agency. Check current status before you travel."},
+    {"q": "When is the best time to visit Yuksom", "a": "March to May and October to December are best. Spring brings rhododendrons on the trails and mild days; autumn brings clear skies and the main trekking season. January and February are cold but quiet. From June to September heavy rain and landslides make the Pelling–Yuksom road slow, and leeches are common on forest paths."},
+    {"q": "How many days do I need in Yuksom", "a": "One full day and one night covers Norbugang, Kathok Lake, Dubdi Monastery and the village. Add a second night if you want to visit Tashiding or simply rest. Trekkers usually spend a night in Yuksom before and after the Dzongri or Goecha La trek, which takes about 8–10 days on the trail."},
+    {"q": "What is the cheapest way to stay in Yuksom", "a": "Family homestays are the best value, at about ₹1,200–2,000 per person per day with dinner and breakfast, indicative, 2026. Budget lodges such as Hotel Yangrigang on the main road are popular with trekkers. There are no big resorts. Book ahead in October and April–May, when trekking groups fill the village."},
+    {"q": "Is there mobile network in Yuksom", "a": "Mobile coverage in Yuksom is patchy, depending on your operator, and internet can be slow or drop out. Some homestays offer Wi-Fi that works on good days. Download maps and tickets before you arrive, and let family know you may be hard to reach. Above Yuksom, on the trek, there is little or no signal."},
+    {"q": "Can I see Kangchenjunga from Yuksom", "a": "Not well. Yuksom sits in a valley surrounded by forested ridges, so the big Kangchenjunga views are from Pelling, from Dzongri Top on the trek, or on the drive in. In Yuksom itself you get forest, terraced fields and nearby hills. For the mountain, spend your clear mornings in Pelling."}
+  ]
+}

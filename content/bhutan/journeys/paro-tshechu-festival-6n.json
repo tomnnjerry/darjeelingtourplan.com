@@ -1,0 +1,142 @@
+{
+  "slug": "paro-tshechu-festival-6n",
+  "title": "Paro Tshechu festival trip in 6 nights",
+  "region": "bhutan",
+  "nights": 6,
+  "themes": ["festivals", "monasteries"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 1},
+    {"place": "paro", "nights": 3}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 36500,
+  "fares": {"budget": 36500, "comfort": 59000, "premium": 210000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Lobesa in Punakha and Hotel Olathang in Paro, twin sharing, at festival-week rates; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk in Thimphu, Dhensa Boutique Resort in Punakha and a 4-star hotel in Paro within a short drive of Rinpung Dzong; a private car and guide; breakfast and dinner; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, the best luxury lodge available in Punakha and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights extra."
+  },
+  "best_months": [0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "Time your Bhutan trip to the Paro Tshechu in spring: 6 nights with masked dances, the dawn thongdrel and the Tiger's Nest, from ₹36,500 per person.",
+  "summary": "A spring trip timed to the Paro Tshechu, five days of masked dances at Rinpung Dzong in March or April, ending with the giant thongdrel shown before dawn. We see Thimphu and Punakha first, then spend three nights in Paro. From ₹36,500 per person, twin sharing, with SDF, guide, car, hotels and two meals a day.",
+  "intro": [
+    "A tshechu is held in each district on the tenth day of a lunar month, honouring Guru Rinpoche. Paro's and Thimphu's are among the biggest in the country. It runs from the eleventh to the fifteenth day of the second month of the Bhutanese lunar calendar, which usually falls in March or April. Before dawn on the last day, a great thongdrel, a banner thangka of the Eight Manifestations of Guru Rinpoche, is unrolled on the dzong and taken down before sunlight can fall on it.",
+    "Because the date moves each year, we build the trip backwards from the festival. You arrive four days before the final morning, see Thimphu and Punakha first, and reach Paro for the last three days of dances. Flights and Paro hotels fill months ahead for festival week, and rates rise, so book early. Fares are for Indian nationals and include SDF at ₹1,200 per person per night and a licensed guide, which you will be glad of in the crowds."
+  ],
+  "highlights": [
+    "Three days of the Paro Tshechu at Rinpung Dzong, consecrated in 1646",
+    "The thongdrel unrolled before dawn on the final day",
+    "The Tiger's Nest hike on a festival day, when the trail is quieter",
+    "Punakha Dzong in spring, with the river running full",
+    "Dochula at 3,100 m when the rhododendrons are out"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly into Paro, drive to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Land at Paro, where the festival town is already filling up. Indians show a passport or original Voter ID for the Entry Permit if it was not issued online, and your guide meets you outside. We leave Paro for now and drive to Thimphu at 2,320 m, which gives you two nights to adjust to the height before the festival and the Tiger's Nest. In the afternoon walk the Memorial Chorten, built in 1974 for the Third King, and then Clock Tower Square. If you want a gho or kira for the festival, your guide can take you to a tailor or a shop today.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thimphu and the Route Permit",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Punakha needs a Route Permit issued in Thimphu on working days, which your operator files this morning. Meanwhile see Buddha Dordenma, about 51.5 m high and completed in 2015, and the Motithang Takin Preserve, where legend says Drukpa Kunley made the first takin. After lunch, Simtokha Dzong of 1629 and the National Institute for Zorig Chusum, where students learn the 13 traditional arts, including the mask carving and painting you will see at the festival. End at Tashichho Dzong, timed by your guide to its visiting hours. Fees Nu 300–500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dochula and Punakha Dzong",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "Drive 22 km to Dochula at 3,100 m, where in March and April rhododendrons flower in the forest around the 108 chortens. Spring haze often hides the high peaks, so enjoy the trees. Drop to Punakha at about 1,250 m, already warm in spring. After lunch, walk 20–30 minutes through the fields to Chimi Lhakhang, built in 1499 and linked to Drukpa Kunley, the Divine Madman. Late afternoon, cross the cantilever bridge into Punakha Dzong, built in 1637–38 between the Pho Chhu and Mo Chhu, where the first king was crowned in 1907. Entry Nu 500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "To Paro and the festival ground",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 130 km · 4–4.5 h",
+      "text": "Leave Punakha by 7.30 am to reach Paro by lunch, over Dochula and through Thimphu. In the afternoon join the crowds at Rinpung Dzong for the third day of the Paro Tshechu. Families arrive in their best gho and kira with picnic baskets, and atsaras, the masked clowns, tease the audience between dances. The cham dances retell stories of Guru Rinpoche and of good overcoming harm, and each has a meaning your guide can explain. Find a place early, sit on a cushion or mat, and never cross the dance ground. Wear long sleeves and no cap.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Tiger's Nest while Paro dances",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "With much of the valley at the festival, the Tiger's Nest trail is often quieter on the fourth day. From the car park at about 2,600 m the path climbs about 500 m to Paro Taktsang at about 3,120 m, 4–6 hours return with tea at the halfway cafeteria. Legend says Guru Rinpoche, the figure honoured by every tshechu, flew here on a tigress in the 8th century. The temple was built in 1692 and restored after a 1998 fire. Entry Nu 1,000, indicative 2026. Back by mid-afternoon to catch the late dances, then early to bed: tomorrow starts before 4 am.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "The thongdrel at dawn",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 10 km",
+      "text": "Leave the hotel in the dark with a torch and a warm jacket. Before dawn on the fifteenth day the great thongdrel is unrolled down the wall, and people queue to touch their heads to its hem for blessing. It is rolled up before the sun reaches it, so latecomers miss it. Watch quietly; your guide will show you where visitors stand. Back to the hotel for breakfast and a rest. The final dances continue through the day. In the evening visit Kyichu Lhakhang, which tradition dates to the 7th century, when the town has emptied.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "The day after the festival is one of the busiest at Paro airport, so reach it 2 to 2.5 hours before departure with your ID and Entry Permit. Most Paro flights leave in the morning. Spring weather is usually good for flying, but delays happen, so keep a buffer before onward trains or flights from Bagdogra, Kolkata or Delhi. If you bought a gho or kira, it packs flat. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "6 nights in Department of Tourism-certified hotels in your chosen tier at festival-week rates, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 6 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for all transfers, the festival days and the pre-dawn thongdrel run",
+    "Entry Permit help and the Route Permit for Punakha"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument fees: Tiger's Nest Nu 1,000, dzongs Nu 300–500, indicative 2026",
+    "Lunches, drinks and festival snacks",
+    "Gho or kira purchase or hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Book flights and hotels 4–6 months ahead; festival-week prices rise as rooms run out.",
+    "Stay in Thimphu for the first festival days and move to Paro only for the final two; Thimphu hotels charge normal rates that week.",
+    "If dates allow, a smaller district tshechu in another month gives you masked dances with far fewer visitors and normal hotel rates."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Festival dates follow the lunar calendar and change each year; we confirm them against the Department of Tourism calendar before you book.",
+    "A tshechu is a religious event. Dress modestly, keep off the dance ground, do not use flash in dancers' faces and follow the guide on where to stand."
+  ],
+  "faqs": [
+    {"q": "When is the Paro Tshechu held", "a": "The Paro Tshechu runs from the eleventh to the fifteenth day of the second month of the Bhutanese lunar calendar, which usually falls in March or April. The Gregorian dates change every year and are published in the Department of Tourism's festival calendar. Tell us your preferred year and we will confirm the dates before you book flights. Check current status before you travel."},
+    {"q": "What time is the thongdrel shown at Paro Tshechu", "a": "Before dawn on the fifteenth day, the last day of the festival. The great thongdrel of the Eight Manifestations of Guru Rinpoche is unrolled in the dark and taken down before sunlight falls on it, usually soon after sunrise. Plan to leave your hotel around 3.30–4 am. It is cold in Paro at that hour in March, so wear a warm jacket."},
+    {"q": "How much does a Paro Tshechu trip cost from India", "a": "This 6-night trip costs from ₹36,500 per person on budget, ₹59,000 on comfort and ₹2,10,000 on premium, twin sharing, indicative 2026, without flights. That is higher than the same trip in another week because Paro hotels charge festival rates. Fares include hotels, breakfast and dinner, SDF at ₹1,200 per night, a guide and a car. Couples alone pay about 15–25% more on budget."},
+    {"q": "Is there a ticket to watch the Paro Tshechu", "a": "We have not known a ticket charge to watch the masked dances at a tshechu; they are religious festivals that local families attend freely. You still need a licensed guide with you, and the usual entry fees apply at other monuments you visit that day. Seats are not reserved, so arrive early for a good spot. Check current status before you travel."},
+    {"q": "What should we wear to the Paro Tshechu", "a": "Long sleeves, long trousers or a long skirt, no caps or hats inside the dzong, and comfortable shoes. Many visitors wear a gho or kira, which is welcome but not required; your guide can help you buy or borrow one in Thimphu. Bring a light cushion or mat, sunscreen and a warm layer for the evening and the pre-dawn thongdrel."},
+    {"q": "Can we take photos at the Paro Tshechu", "a": "Photographs of the dances in the open courtyard are generally allowed, but be discreet: no flash in dancers' faces, no walking onto the dance ground and no blocking local families. Photography is not allowed inside temples and shrine rooms. Some moments, such as people receiving blessings, are better watched than photographed. Your guide will tell you if a rule changes on the day."},
+    {"q": "How early should we book for Paro Tshechu", "a": "Four to six months ahead for flights and Paro hotels, and earlier for premium stays such as COMO Uma Paro. Flights into Paro are limited in number and fill fast for festival week. If Paro rooms are full, we keep you in Thimphu, about 55 km and 1–1.5 hours away, and drive in for the festival days."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, including from Paro airport, and at monuments. We read this as covering Indian tourists too. During the festival a guide is also the person who knows where to stand and what each dance means. Our fares include one."},
+    {"q": "Can we do the Tiger's Nest hike during Paro Tshechu", "a": "Yes. We put it on the fourth festival day, when many local people are at the dzong and the trail is often quieter. You miss one afternoon of dances, but you are back for the late ones and the thongdrel the next morning. The hike takes 4–6 hours return and climbs about 500 m to about 3,120 m."}
+  ]
+}

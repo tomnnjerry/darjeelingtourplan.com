@@ -1,0 +1,175 @@
+{
+  "slug": "jaldapara-national-park",
+  "name": "Jaldapara National Park",
+  "region": "dooars",
+  "kind": "national park",
+  "wiki": "Jaldapara National Park",
+  "image_query": "Jaldapara National Park one-horned rhinoceros",
+  "lat": 26.68,
+  "lng": 89.30,
+  "altitude_m": 61,
+  "tagline": "Bengal's rhino country on the Torsa grasslands",
+  "meta_description": "Jaldapara National Park guide: rhino safaris from Madarihat, fees, timings, the honest view on elephant rides, the Hollong fire, where to stay and Totopara.",
+  "summary": "Jaldapara is a 216 sq km park of grassland and riverine forest on the Torsa river, entered from Madarihat, about 125 km and 3–3.5 hours from Siliguri. It holds about 331 one-horned rhinos (2025 census), the second-largest population in India. Jeep safaris run at dawn and afternoon; the park shuts from 16 June to 15 September.",
+  "intro": [
+    "If you want to see a one-horned rhino in Bengal, come to Jaldapara. The park spreads along the Torsa river in Alipurduar district, a flat country of tall elephant grass, riverine forest of khair and sissoo, and patches of sal on higher ground. In 1985 only 14 rhinos were left here. The March 2025 census estimated 331, making Jaldapara second only to Kaziranga in India. On a February morning it is common to see several rhinos grazing in the open from a jeep.",
+    "The park entrance and the safari counter are at Madarihat, a small town on the highway between Birpara and Hasimara. Jeep safaris leave from here at dawn and in the afternoon and follow set routes through grassland to watchtowers and water. Elephants, gaur, sambar, hog deer, wild boar and peafowl are regular, and leopards live here, though they are seldom seen. Birders come for Bengal florican, which is rare and declining, and for the grassland birds.",
+    "Jaldapara also changed in 2024. The Hollong Tourist Lodge, a much-loved three-storey wooden forest bungalow deep in the park, burned down on the night of 18 June 2024 while the park was closed; no one was hurt. Its reconstruction had not been completed when we last checked. For now, stay at Madarihat, Hasimara or the Chilapata side, and treat any offer of a room 'at Hollong' with suspicion until the forest department announces it."
+  ],
+  "story": {
+    "title": "Fourteen rhinos to more than three hundred",
+    "paras": [
+      "Jaldapara was declared a sanctuary in 1941 to protect wildlife, especially the rhino, in the grasslands of the Torsa. Through the following decades the rhinos suffered from poaching for their horns, from grassland lost to farming and settlement, and from floods that changed the river's course. By 1985 the count had fallen to just 14 animals, and many thought the species would vanish from Bengal.",
+      "The recovery came from slow, unglamorous work. The forest department armed and equipped its staff, built anti-poaching camps and watchtowers, patrolled on elephant-back and by vehicle, planted fodder, maintained wallows and salt licks, and managed the grassland by controlled burning. Fringe villages were drawn in through eco-development committees. By 2022 there were 292 rhinos, and the March 2025 census estimated 331. Jaldapara has become one of India's quieter conservation successes."
+    ],
+    "source": "Wikipedia 'Jaldapara National Park'; RoundGlass Sustain report on Jaldapara rhinos; All India Radio report on the March 2025 rhino census"
+  },
+  "did_you_know": [
+    "Jaldapara had only 14 rhinos in 1985; the March 2025 census estimated 331, the second-largest population in India after Kaziranga.",
+    "Jaldapara was first protected as a sanctuary in 1941 and covers about 216 sq km on the banks of the Torsa river.",
+    "The wooden Hollong Tourist Lodge inside the park burned down on 18 June 2024 while the park was closed for the monsoon; no one was hurt."
+  ],
+  "facts": [
+    ["Best months", "Nov – Apr"],
+    ["Nights we suggest", "2 (stay at Madarihat)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 140 km"],
+    ["From Siliguri", "≈ 125 km · 3–3.5 h"],
+    ["Area", "≈ 216 sq km"],
+    ["Known for", "One-horned rhino, grassland safaris"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 1, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Dawn rhino safari", "text": "The first jeep slot from Madarihat, around sunrise, gives the best chance of rhinos grazing in the open grassland. February to April, after the grass has been burned and before the rains, is the strongest season."},
+    {"title": "Grassland birds", "text": "Jaldapara's grasslands and river edges hold birds that are hard to see elsewhere, including the rare Bengal florican, along with hornbills, kingfishers, raptors and, in winter, migrant ducks on the Torsa."},
+    {"title": "South Khayerbari rescue centre", "text": "A short drive from Madarihat, South Khayerbari was set up in 2005 to house tigers rescued from circuses and now also cares for leopards. Visitors see the animals from viewing areas."},
+    {"title": "Chilapata next door", "text": "Across the Torsa, the Chilapata forest links Jaldapara with Buxa. Its jeep safaris and the ruins of Nalraja Garh make a good second day from Madarihat."},
+    {"title": "Totopara and the Bhutan hills", "text": "About 21 km north of Madarihat, Totopara is home to the Toto, one of India's smallest communities. A respectful visit with a local guide shows a different side of the Dooars."},
+    {"title": "Phuentsholing in an hour", "text": "From Madarihat, the Bhutan border town of Phuentsholing is roughly an hour by road through Hasimara and Jaigaon, easy to add to a Jaldapara stay."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Siliguri or Bagdogra, drive about 125–140 km via Sevoke, Malbazar and Birpara to Madarihat in three to three and a half hours. A reserved car costs about ₹4,000–5,000 one way, indicative 2026. From Lataguri it is about 75 km, two hours."},
+    {"mode": "Bus", "text": "NBSTC and private buses from the Tenzing Norgay terminus in Siliguri run towards Alipurduar, Hasimara and Jaigaon via Birpara and Madarihat. Expect ₹150–250 and four hours, indicative 2026. Get off at Madarihat for the park gate and lodges."},
+    {"mode": "Rail", "text": "Madarihat and Hasimara stations are on the Dooars line between Siliguri and Alipurduar. The Kanchankanya Express from Sealdah runs this way; Hasimara is the bigger stop. From Hasimara, an auto or car to Madarihat takes about 20–30 minutes."}
+  ],
+  "where_to_stay": "Madarihat, at the park gate, is the best base. WBTDC's Aranya Tourism Property, formerly the Jaldapara Tourist Lodge, is a short walk from the safari counter. Around Madarihat and along the highway there are private lodges and resorts at ₹1,500–6,000. The forest corporation runs Malangi Lodge at Hasimara beside the Kodalbasti forest and Mendabari Jungle Lodge in the Chilapata area. The Hollong lodge inside the park burned down in 2024.",
+  "stays": ["aranya-tourism-property-jaldapara"],
+  "costs": [
+    ["Jeep safari (per jeep, up to 6)", "₹2,800–4,000, indicative 2026"],
+    ["Entry and guide fees", "often included in safari price; check, indicative 2026"],
+    ["Elephant ride where offered", "₹1,000–2,000 per person, indicative 2026"],
+    ["Room at Madarihat lodge", "₹1,500–4,500 a night, indicative 2026"],
+    ["Car Madarihat → Totopara and back", "₹1,800–2,800, indicative 2026"]
+  ],
+  "budget_tip": "Buy your safari ticket only from the official portal or the Madarihat counter; touts who 'help' with tickets often charge double, especially when the online system is down.",
+  "tips": [
+    "In autumn 2026 the online safari booking for Jaldapara was down for weeks and tickets were sold only at the counter; check current status before you travel.",
+    "Queue at the Madarihat counter the evening before or very early if you have no online booking, and bring the IDs of everyone in your group.",
+    "Safaris have generally not run on Thursdays, the weekly closure day.",
+    "Wear earth colours and keep silent in grassland; rhinos are short-sighted but have sharp hearing.",
+    "Never get out of the jeep, even if a rhino looks calm; they charge without warning."
+  ],
+  "themes": ["wildlife-safaris", "birding-and-orchids", "family-trips"],
+  "nearby": ["chilapata-forest", "totopara", "buxa-tiger-reserve", "lataguri"],
+  "experiences": [
+    {
+      "slug": "jaldapara-dawn-jeep-safari",
+      "title": "Dawn jeep safari for rhinos",
+      "kind": "wildlife",
+      "duration": "90 minutes to 2 hours",
+      "best_time": "First slot, Feb – Apr",
+      "cost": "₹2,800–4,000 per jeep (up to 6), indicative",
+      "image_query": "Jaldapara rhino grassland safari",
+      "wiki": "Jaldapara National Park",
+      "summary": "The reason most people come: a forest jeep from Madarihat at first light into the Torsa grasslands, with a guide who knows where the rhinos fed the evening before. In season, several rhinos in a morning is normal.",
+      "body": [
+        "Safari jeeps at Jaldapara are forest-registered vehicles with local drivers, and a guide rides with each one. The morning slots start around sunrise and follow set routes through grassland, riverine forest and along water channels, stopping at watchtowers. Your best chance of a rhino is in the open grass, often at a distance of 50–200 metres; bring binoculars and a zoom lens.",
+        "Rhinos are the stars, but look for the rest. Elephants come out of the forest edge, gaur feed in the clearings, hog deer and sambar slip through the grass, and peafowl and junglefowl cross the track. In winter the river channels hold ducks and waders. Leopards are present but seldom seen. The guide's job is to read fresh dung and tracks; listen to him.",
+        "Book on the forest department's portal or at the Madarihat counter. Different routes and zones are sold separately, including routes towards the Totopara side and through Chilapata; ask which route your ticket covers. In autumn 2026 online booking was suspended for weeks and touts resold counter tickets, so check current status before you travel."
+      ],
+      "good_for": ["families", "first-timers", "photographers", "couples"],
+      "faqs": [
+        {"q": "What is the Jaldapara jeep safari cost", "a": "A jeep safari usually costs about ₹2,800–4,000 per jeep for up to six people, indicative 2026, covering vehicle hire, entry and guide, though some fees are listed separately. Foreign visitors pay a higher entry fee. Prices change, so check current status before you travel and confirm what is included."},
+        {"q": "What are Jaldapara safari timings", "a": "Morning slots run from around sunrise, roughly 5:30–8:30 a.m. in two slots, and there is an afternoon slot from about 3 or 3:30 p.m. Timings shift between summer and winter. Safaris have generally not run on Thursdays, and the park closes from 16 June to 15 September. Check current status before you travel."},
+        {"q": "What are my chances of seeing a rhino at Jaldapara", "a": "Good, especially from February to April. With about 331 rhinos, Jaldapara gives the best odds in Bengal, and most visitors on a morning safari in season see at least one. In November and December the grass is tall and sightings are less certain. Two safaris roughly double your chances."}
+      ]
+    },
+    {
+      "slug": "jaldapara-elephant-ride-honest-view",
+      "title": "Elephant rides at Jaldapara: an honest view",
+      "kind": "wildlife",
+      "duration": "About 1 hour",
+      "best_time": "Early morning, Nov – Apr, when offered",
+      "cost": "₹1,000–2,000 per person, indicative",
+      "image_query": "Jaldapara elephant grassland",
+      "wiki": "",
+      "summary": "Jaldapara has offered elephant-back rides into rhino grassland for decades, and many visitors still ask for them. They are contested on welfare grounds and their availability changes. Here is what we know, so you can decide.",
+      "body": [
+        "For years the classic Jaldapara outing was an early-morning ride on a departmental elephant from the Hollong lodge into the grassland, where rhinos tolerate elephants and you could get close. The elephants are owned by the forest department and also used for patrols and rescue work. After the Hollong lodge burned down in June 2024, the forest department said safaris would continue, and rides have been offered in later seasons, but the starting point and number of slots have changed.",
+        "Animal-welfare organisations argue that riding causes physical harm and that the training of captive elephants involves cruelty, and many travellers now choose not to ride. Supporters say the department's elephants are working animals that would be kept anyway and that rides fund conservation. Rules on riding in protected areas have changed several times in India and may change again.",
+        "We do not build our trips around elephant rides. A dawn jeep safari at Jaldapara usually shows rhinos well. If you do choose to ride, book only through the official counter, do not ask the mahout to approach animals closely, and do not feed or pose with the elephants. Check current status before you travel."
+      ],
+      "good_for": ["families", "photographers"],
+      "faqs": [
+        {"q": "Is elephant safari available at Jaldapara now", "a": "It has been offered in recent seasons, but availability, starting point and slots have changed since the Hollong lodge fire in June 2024, and online booking was suspended in autumn 2026. Ask at the Madarihat counter or your lodge when you arrive, and check current status before you travel."},
+        {"q": "Is elephant riding ethical", "a": "It is contested. Welfare groups say riding and the training of captive elephants cause harm, and many travellers now avoid it. The forest department says its elephants are working animals used for patrols and that rides support conservation. We suggest a jeep safari instead; if you ride, do not ask for close approaches or photos with the elephant."},
+        {"q": "Is an elephant ride better than a jeep for seeing rhinos", "a": "Elephants can go into tall grass where jeeps cannot, so in November and December, when grass is high, a ride can give closer views. From February to April, after grass burning, a jeep safari usually gives equally good sightings. Two jeep safaris are cheaper than one elephant ride for a family."}
+      ]
+    },
+    {
+      "slug": "jaldapara-south-khayerbari-rescue-centre",
+      "title": "South Khayerbari tiger and leopard rescue centre",
+      "kind": "wildlife",
+      "duration": "1.5–2 hours",
+      "best_time": "Mornings, Oct – May",
+      "cost": "₹50–200 per person plus vehicle, indicative",
+      "image_query": "South Khairbari leopard rescue centre",
+      "wiki": "",
+      "summary": "South Khayerbari, near Madarihat, was opened in 2005 for tigers seized from circuses after performances with big cats were banned. Today it cares for rescued leopards and the last of the circus tigers. It is a calm, short visit that explains a lot about Bengal's wildlife conflicts.",
+      "body": [
+        "The centre opened on 5 November 2005 as the South Khairbari Circus Animal Rescue Centre. When the use of big cats in circuses was banned, forest officers seized tigers from a circus in Hooghly district and brought them here. The centre is recognised by the Central Zoo Authority as a mini zoo and is managed by the forest department in a patch of forest south of Madarihat.",
+        "Today the first enclosures hold leopards, many of them rescued from conflict with people in tea gardens or orphaned as cubs, and other sections hold tigers. You see them from viewing areas around large wooded enclosures. Because the animals cannot be released, this is not a wild sighting, but it tells the story of leopards in tea country, which is one of the Dooars' biggest wildlife issues.",
+        "The centre is reached by car from Madarihat, about 2 km to the forest entrance from the WBTDC lodge by one route or about 20 km by a better road; ask your driver which is open. Combine it with a Jaldapara afternoon safari or Totopara. Do not tap glass or call to the animals. Check opening days before you travel."
+      ],
+      "good_for": ["families", "seniors", "students"],
+      "faqs": [
+        {"q": "Where is the South Khayerbari rescue centre", "a": "It is in the South Khairbari forest near Madarihat in Alipurduar district, a short drive from the Jaldapara park gate. Drivers take either a short forest route of about 2 km from the WBTDC lodge area or a longer road of about 20 km, depending on conditions. Ask locally which is open."},
+        {"q": "Why are there tigers at Khayerbari", "a": "The centre was set up in 2005 to house tigers seized from circuses after big-cat performances were banned. These animals could not be released into the wild. Over the years, rescued leopards, many from human-wildlife conflict in tea gardens, have also been cared for here."},
+        {"q": "Is South Khayerbari worth visiting with children", "a": "Yes, as a short visit. Children can see leopards and tigers at close range, and it is a good way to talk about why wild animals should not be kept as performers or pets. Keep voices low and do not tease the animals. Combine it with a safari so the day includes wild animals too."}
+      ]
+    },
+    {
+      "slug": "jaldapara-phuentsholing-day-trip",
+      "title": "Day trip to Phuentsholing in Bhutan",
+      "kind": "culture",
+      "duration": "Full day",
+      "best_time": "Oct – Apr, avoid Bhutanese public holidays",
+      "cost": "₹2,500–3,500 for the car plus Bhutan entry costs, indicative",
+      "image_query": "Phuentsholing Bhutan gate Jaigaon",
+      "wiki": "Phuntsholing",
+      "summary": "From Madarihat the Bhutan border is about an hour away at Jaigaon, and across the gate Phuentsholing feels like a different country, because it is. Indian visitors can enter with a permit; rules have changed in recent years.",
+      "body": [
+        "Drive from Madarihat through Hasimara to Jaigaon, the busy Indian border town. The ornate Bhutan Gate leads to Phuentsholing, where traffic is calmer, buildings follow Bhutanese style, and people wear the gho and kira. In the town centre you can see the Zangtho Pelri Lhakhang, a temple in a small garden, and the crocodile breeding centre, then eat ema datshi, chilli and cheese, in a local restaurant.",
+        "Bhutan's entry rules for Indians have changed several times. As we understand it, Indian citizens need a passport or voter ID card to get an entry permit at the Phuentsholing immigration office, and pay Bhutan's Sustainable Development Fee per night if they stay; rules for day visits beyond the town have also changed. Foreign nationals need a visa arranged in advance and pay a much higher fee. Check current status before you travel.",
+        "Indian rupees are accepted in Phuentsholing alongside the ngultrum, which is pegged 1:1, though large old notes may be refused. Indian cars need a permit to go beyond the town. Return to Madarihat before dark; elephants cross the highway near Hasimara and the Chilapata forest after sunset."
+      ],
+      "good_for": ["families", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Do Indians need a permit for Phuentsholing", "a": "Yes. Indian citizens get an entry permit at the Phuentsholing immigration office using a passport or voter ID card, and the Sustainable Development Fee applies to overnight stays. Rules for day visits have changed in recent years. Carry original ID and photocopies, and check current status before you travel."},
+        {"q": "How far is Phuentsholing from Jaldapara", "a": "About 35–45 km from Madarihat, roughly an hour by car via Hasimara and Jaigaon, depending on border traffic. A car for the day costs about ₹2,500–3,500, indicative 2026, plus Bhutan's charges. Buses also run from Hasimara and Siliguri to Jaigaon."},
+        {"q": "Can I use Indian rupees in Phuentsholing", "a": "Yes, Indian rupees are widely accepted in Phuentsholing, and the ngultrum is pegged 1:1 to the rupee. Some shops refuse ₹500 and ₹2,000 notes or older series; carry smaller notes. Cards work in larger hotels and shops. ATMs are available on both sides of the border."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When is Jaldapara National Park closed", "a": "Jaldapara closes every year from 16 June to 15 September for the monsoon and breeding season, and safaris have generally not run on Thursdays. It reopens on 16 September. In heavy rain, routes can close at short notice. Check current status before you travel."},
+    {"q": "How do I book Jaldapara safari", "a": "Normally through the West Bengal forest department's online booking portal, or at the counter at Madarihat. In autumn 2026 the online system was down for weeks after reopening and only counter tickets were sold, with touts reselling them at about double. Check current status before you travel and buy only from official sources."},
+    {"q": "Where should I stay for Jaldapara", "a": "Madarihat, at the park gate, is the most convenient base. WBTDC's Aranya Tourism Property, formerly the Jaldapara Tourist Lodge, is near the counter, and there are private lodges and resorts around town. Hasimara and the Chilapata side are also good. The Hollong lodge inside the park burned down in June 2024."},
+    {"q": "What happened to Hollong lodge in Jaldapara", "a": "The Hollong Tourist Lodge, a three-storey wooden bungalow inside the park, burned down on the night of 18 June 2024 while the park was closed for the monsoon. No one was hurt; a short circuit was blamed. Reconstruction had not been completed when we last checked. Check current status before you travel."},
+    {"q": "How far is Jaldapara from Siliguri and NJP", "a": "About 125 km from Siliguri and a little more from NJP and Bagdogra, around three to three and a half hours by road via Sevoke, Malbazar and Birpara. A reserved car costs about ₹4,000–5,000 one way, indicative 2026. Trains on the Dooars line stop at Madarihat and Hasimara."},
+    {"q": "What is the best month to visit Jaldapara", "a": "February to April. The forest department burns old grass in winter, so new grass is short and rhinos are easy to see. November to January is cooler but grass is tall and mornings foggy. Avoid Puja and Christmas weeks if you can. The park is closed mid-June to mid-September."},
+    {"q": "Can I see tigers in Jaldapara", "a": "No, not in the wild. Jaldapara is known for rhinos, elephants and gaur; leopards are present but rarely seen. The only tigers you are likely to see near Madarihat are rescued animals at the South Khayerbari centre."},
+    {"q": "Is Jaldapara better than Kaziranga", "a": "Kaziranga is much larger and has far more rhinos, about 2,600, along with buffalo and swamp deer. Jaldapara is smaller, closer to Siliguri, Darjeeling and Bhutan, cheaper, and less crowded. If you are already in North Bengal, Jaldapara gives an excellent rhino experience without the long trip to Assam."},
+    {"q": "How many days are enough for Jaldapara", "a": "Two nights at Madarihat allow a morning and an afternoon safari plus a half-day at Chilapata, Totopara or South Khayerbari. One night is enough for a single dawn safari if you are short of time. Add a third night for Phuentsholing or Buxa."}
+  ]
+}

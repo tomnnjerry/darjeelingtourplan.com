@@ -1,0 +1,84 @@
+{
+  "slug": "pelling-weekend-2n",
+  "title": "Pelling weekend with a Kangchenjunga dawn",
+  "region": "west-sikkim",
+  "nights": 2,
+  "themes": ["mountain-views", "monasteries", "budget-trips"],
+  "stops": [
+    {"place": "pelling", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 7500,
+  "fares": {"budget": 7500, "comfort": 12000, "premium": 27000},
+  "fare_notes": {
+    "budget": "Hotel Garuda in Upper Pelling or a budget hotel of the same class, twin room with attached bathroom. A small car shared by your party for the transfers and the sightseeing day. Breakfast and dinner daily.",
+    "comfort": "Norbu Ghang Resort cottages or a similar mid-range Pelling hotel, with a mountain-facing room requested. Private SUV for the transfers and the sightseeing day. Breakfast and dinner daily.",
+    "premium": "The Elgin Mount Pandim, opposite Pemayangtse, or The Chumbi Mountain Retreat & Spa in Lower Pelling. Private SUV with an experienced hill driver throughout, entry fees paid. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2150,
+  "meta_description": "Pelling weekend, 2 nights: Pemayangtse, Rabdentse ruins, Sanga Choeling, the Skywalk and a Kangchenjunga dawn, from ₹7,500 per person.",
+  "summary": "A 2-night Pelling break from Siliguri, NJP or Bagdogra. One full day covers Pemayangtse Monastery, the ruins of Rabdentse, Sikkim's old capital, and the Sanga Choeling ridge with its Skywalk. On a clear morning Kangchenjunga fills the view at dawn. Two long drives, one easy day, priced for a weekend.",
+  "intro": [
+    "Pelling sits at about 2,150 m on a ridge in West Sikkim, and on a clear morning Kangchenjunga, 8,586 m, rises straight across the valley. That view is the main reason to come, and two nights are enough for it if you plan around the road. Pelling is about 140 km from Siliguri, 5–6 hours each way through Melli, Jorethang and Legship. So we keep day one for the drive, give day two to the three old sites near town, and leave after breakfast on day three.",
+    "The history here is close at hand. Pemayangtse Monastery was founded in 1647, five years after Sikkim's first Chogyal was crowned at Yuksom. Rabdentse, a 15-minute forest walk from the road, was the kingdom's capital from 1670 to 1814. The budget tier uses a long-running Upper Pelling hotel and a small car; comfort and premium move you to garden cottages or the Elgin opposite Pemayangtse. October to February gives the clearest mornings. From June to August cloud and landslides make this a poor weekend, so we do not run it then."
+  ],
+  "highlights": [
+    "Kangchenjunga at first light from Upper Pelling, most reliable October to February",
+    "Pemayangtse Monastery, founded in 1647, and its seven-tiered carved model of Guru Rinpoche's palace",
+    "The ruins of Rabdentse, Sikkim's capital from 1670 to 1814, after a short forest walk",
+    "Sanga Choeling Monastery, built in 1697 on the ridge above Pelling",
+    "The glass-floored Pelling Skywalk beside the large Chenrezig statue"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri, NJP or Bagdogra to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 140 km · 5–6 h",
+     "text": "Your car meets you at NJP station, Bagdogra Airport or Siliguri. The road follows the Teesta past Sevoke, crosses into Sikkim at Melli, then runs up the Rangeet to Jorethang and Legship before the last climb through Gyalshing to Pelling. Foreign nationals show or collect their Restricted Area Permit at the Melli checkpost; Indians carry photo ID. We stop for tea and momos in Jorethang. From Bagdogra add about 10 km and half an hour. In monsoon, slides on the Melli to Legship stretch can add hours, so check current status before you travel. Early dinner, early bed: tomorrow's view comes at sunrise.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Kangchenjunga dawn and three old sites", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 6–7 h",
+     "text": "Set an alarm for about 5 am and step outside: on clear days first light turns Kangchenjunga pink before the haze builds. After breakfast we drive to Pemayangtse, founded in 1647 by Lhatsun Chenpo, one of the three lamas who crowned the first Chogyal. Climb to the top floor for the seven-tiered wooden model of Guru Rinpoche's palace, carved by Dungzin Rinpoche over five years. Next is Rabdentse, a 15-minute forest walk to the ruined capital. After lunch, the Chenrezig statue and the Skywalk, and for fit walkers the steep path on to Sanga Choeling. Entry fees total under ₹200 each, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Pelling back to the plains", "place": "siliguri", "overnight": "—", "drive": "≈ 140 km · 5–6 h",
+     "text": "A last look at the mountain over breakfast, then we leave by 8 am. The drive retraces the Rangeet and Teesta valleys, with a short stop at Legship, where the Kirateshwar Mahadev Temple stands by the river; Hindu tradition says Shiva appeared here to Arjuna as a hunter. Lunch in Jorethang or Melli. On a clear road we reach Siliguri, NJP or Bagdogra by about 2 or 3 pm. Book flights after 4 pm and trains in the evening, because one landslide or a slow truck on a narrow stretch can cost an hour or more.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-garuda-pelling", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling", "chumbi-mountain-retreat-pelling"],
+  "includes": [
+    "2 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily",
+    "Car from Siliguri, NJP or Bagdogra to Pelling and back",
+    "Car for the Day 2 sightseeing: Pemayangtse, Rabdentse, the Chenrezig statue and Skywalk",
+    "Entry fees, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Entry fees on budget and comfort, under ₹200 per person in all, indicative",
+    "Lunches, drinks and tips",
+    "Camera fees where charged",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in January, February or late November, when Pelling hotels cut rates and the mornings are often the clearest of the year.",
+    "Go up by shared jeep from Siliguri, ₹400–550 a seat, indicative, and hire a car only for the sightseeing day; for two people this can save ₹4,000 or more.",
+    "Walk from Upper Pelling to the Chenrezig statue and Sanga Choeling instead of keeping the car for the afternoon."
+  ],
+  "good_to_know": [
+    "Kangchenjunga is clear on most mornings from October to February, on fewer from March to May, and is mostly hidden from June to September.",
+    "Foreign nationals need a free Sikkim Restricted Area Permit, online through e-FRRO or at the Melli checkpost. Check current status before you travel.",
+    "The path up to Sanga Choeling is steep, about 40 minutes from Pelling; wear shoes with grip.",
+    "Pemayangtse is a working monastery: dress modestly, walk clockwise and ask before taking photos inside.",
+    "Pelling mornings are close to 0 °C in January and February, and many budget rooms have no heating; ask for a heater or an extra blanket."
+  ],
+  "faqs": [
+    {"q": "Is 2 nights enough for Pelling", "a": "Yes, for the main sights. Two nights give one full day for Pemayangtse, Rabdentse, the Skywalk and Sanga Choeling, plus one sunrise on Kangchenjunga. The catch is the drive: about 140 km and 5–6 hours each way from Siliguri. Add a third night for the Khecheopalri Lake and Yuksom loop, or to have a spare morning if the first dawn is cloudy."},
+    {"q": "How far is Pelling from NJP and Bagdogra", "a": "Pelling is about 140 km from NJP and Siliguri and about 150 km from Bagdogra Airport, 5–6.5 hours by road via Sevoke, Melli, Jorethang, Legship and Gyalshing. A reserved car costs about ₹5,500–7,500 one way and a shared jeep seat from Siliguri ₹400–550, both indicative for 2026. Monsoon landslides can add hours, so check current status before you travel."},
+    {"q": "When can you see Kangchenjunga from Pelling", "a": "October to February gives the clearest views, usually in the first two hours after sunrise. December and January mornings are cold but often cloudless. March to May brings rhododendrons and a haze that hides the peaks by mid-morning. From June to September the mountain is mostly in cloud. Whatever the month, be outside by about 5:30 am."},
+    {"q": "What are the entry fees at Pemayangtse, Rabdentse and the Skywalk", "a": "Expect about ₹20–50 at Pemayangtse, ₹25–50 for Indians at the Rabdentse ruins, with a higher rate for foreign nationals, and ₹50–100 for the Skywalk and Chenrezig statue. These are indicative 2026 figures and they change, so check current status before you travel. All three in a day cost most travellers under ₹200 each. Our premium tier includes them."},
+    {"q": "Is the Pelling Skywalk worth it", "a": "For most people, yes, as part of the Sanga Choeling visit. The Skywalk is a glass-floored walkway with railings that leads towards a large Chenrezig statue, with the valley below. If heights bother you, stay on the stone paths; the statue and the view are the better part anyway. It can close in bad weather or for repairs, so check current status before you travel."},
+    {"q": "Do Indians need a permit for Pelling", "a": "No. Indian nationals need no permit for Pelling, Pemayangtse or Rabdentse. Carry a photo ID such as an Aadhaar card or passport, because Sikkim checkposts may ask to see it. Foreign nationals need a free Restricted Area Permit for Sikkim, valid 30 days, from e-FRRO online or at the Melli checkpost on this road. Check current status before you travel."},
+    {"q": "What is the history of Rabdentse", "a": "Rabdentse was Sikkim's second capital, from 1670 to 1814, after Yuksom. A Gorkha army from Nepal took it in 1788 and the capital later moved to Tumlong. Today it is an Archaeological Survey of India monument: wall stubs, three chortens, a stone seat where judges sat, and the Taphap Chorten, where visitors once got off their horses and took off their hats."},
+    {"q": "Can we do the Pelling weekend by shared jeep", "a": "Yes, for the transfers. Shared jeeps leave Siliguri for Gyalshing and Pelling in the morning, ₹400–550 a seat, indicative; if yours ends at Gyalshing, a local jeep to Pelling costs ₹50–80. In Pelling, hire a half-day car for ₹1,500–2,500 for Pemayangtse, Rabdentse and Sanga Choeling. It is slower and more cramped, but it can halve the cost of the trip."},
+    {"q": "What should we pack for Pelling in winter", "a": "Pack layers: thermals, a fleece and a heavy jacket, plus a cap and gloves for the sunrise. From December to February Pelling mornings sit near 0 °C and budget rooms rarely have heating, so ask for a heater or an extra blanket. Add walking shoes with grip for the Sanga Choeling path, sunscreen and a refillable water bottle."}
+  ]
+}

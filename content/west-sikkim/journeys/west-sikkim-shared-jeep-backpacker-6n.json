@@ -1,0 +1,99 @@
+{
+  "slug": "west-sikkim-shared-jeep-backpacker-6n",
+  "title": "West Sikkim by shared jeep, 6 nights",
+  "region": "west-sikkim",
+  "nights": 6,
+  "themes": ["budget-trips", "village-homestays", "monasteries", "treks-and-walks"],
+  "stops": [
+    {"place": "pelling", "nights": 2},
+    {"place": "yuksom", "nights": 2},
+    {"place": "tashiding", "nights": 1},
+    {"place": "ravangla", "nights": 1}
+  ],
+  "start": "Siliguri jeep stands near the SNT terminus (NJP and Bagdogra a short ride away)",
+  "end": "Siliguri, for NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 12000,
+  "fares": {"budget": 12000, "comfort": 22500, "premium": 48000},
+  "fare_notes": {
+    "budget": "Budget hotels and homestays: Hotel Garuda in Upper Pelling, Hotel Yangrigang in Yuksom, a simple lodge or homestay in Tashiding and a budget hotel in Ravangla, twin rooms. All seats on shared jeeps and the SNT bus, about ₹1,300–1,800 per person in all, indicative. Breakfast and dinner daily.",
+    "comfort": "The same route with a reserved car on every leg instead of shared jeeps, so you can stop at Kanchenjunga Falls and Khecheopalri on the way to Yuksom. Better rooms where they exist, such as Norbu Ghang Resort in Pelling and Mt. Narsing Village Resort near Ravangla. Breakfast and dinner daily.",
+    "premium": "Private SUV with an experienced hill driver throughout, The Elgin Mount Pandim or The Chumbi Mountain Retreat & Spa in Pelling, the best rooms available in Yuksom and Tashiding, Mt. Narsing's upper cottages near Ravangla, and a local guide in Yuksom. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 2150,
+  "meta_description": "West Sikkim by shared jeep, 6 nights: Pelling, Yuksom, Tashiding and Ravangla on jeep seats and homestays from Siliguri, from ₹12,000 per person.",
+  "summary": "A 6-night loop through West and South Sikkim done the way local people travel: shared jeeps and an SNT bus from Siliguri, with changes at Gyalshing and Legship. Pelling, Yuksom, Tashiding and Ravangla, about ₹1,300–1,800 in seat fares in all, indicative. Budget rooms, early starts, and plenty of walking.",
+  "intro": [
+    "Most of the cost of a Sikkim trip is the car. A reserved car from NJP to Pelling alone costs ₹5,500–7,500; a shared jeep seat on the same road costs ₹400–550, indicative for 2026. This trip uses jeep seats for every leg and puts the money saved into two nights at Yuksom, Sikkim's first capital, and a night beside Tashiding Monastery, which most car tours rush through in an hour.",
+    "The catch is time. Shared jeeps leave when they are full, mostly in the morning, and onward jeeps from Gyalshing and Jorethang thin out after about 1 pm. So every transfer day starts early, and the plan builds in the changes at Gyalshing and Legship. You walk to the sights in Pelling and Yuksom. You ride with students, farmers and monks. Pack light: luggage goes on the roof under a tarpaulin."
+  ],
+  "highlights": [
+    "Seat fares for the whole loop of about ₹1,300–1,800 per person, indicative",
+    "Pemayangtse, Rabdentse and Sanga Choeling on foot from Upper Pelling",
+    "The Norbugang throne at Yuksom, where Sikkim's first Chogyal was crowned in 1642",
+    "The forest walk to Dubdi Monastery, built in 1701 above Yuksom",
+    "A quiet evening at Tashiding Monastery after the day visitors leave"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Pelling by shared jeep", "place": "pelling", "overnight": "Pelling", "drive": "≈ 140 km · 5.5–6.5 h",
+     "text": "Be at the jeep stands near the SNT terminus on Hill Cart Road in Siliguri by 7 am; in season, buy the ticket the day before. Seats to Gyalshing or Pelling cost ₹400–550; the SNT bus, about one a day in the morning, ₹300–400, indicative. The jeep follows the Teesta to Melli, where foreign nationals show their Restricted Area Permit, then the Rangeet to Jorethang and Legship. Most jeeps end at Gyalshing; a local jeep covers the last 9 km to Pelling for ₹50–80. If you reach NJP after 11 am, stay in Siliguri and go next morning. Check current status before you travel.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Pelling's three old sites on foot", "place": "pelling", "overnight": "Pelling", "drive": "",
+     "text": "Up at 5:30 am for Kangchenjunga from the Upper Pelling terraces, then breakfast. Walk the steep forest path to Sanga Choeling Monastery, built in 1697, about 40 minutes up, and the Chenrezig statue and Skywalk beside it, ₹50–100. Back down, walk along the road towards Gyalshing to the Rabdentse gate and the 15-minute forest path to the ruins of Sikkim's capital from 1670 to 1814. Pemayangtse, founded in 1647, is close by; climb to the top floor for the carved model of Guru Rinpoche's palace. Entry fees total under ₹200, indicative. Expect 10–12 km of walking in all.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Pelling to Yuksom via Gyalshing", "place": "yuksom", "overnight": "Yuksom", "drive": "≈ 45 km · 3–4 h with the change",
+     "text": "Take a local jeep down to Gyalshing, ₹50–80, by late morning. Shared jeeps for Yuksom leave Gyalshing mostly around midday and in the early afternoon, ₹120–180 a seat, indicative; ask at the stand when you arrive and buy your seat at once. The road runs past Rimbi and Kanchenjunga Falls, but shared jeeps do not stop for sightseeing. Yuksom sits at about 1,780 m at the end of the road, the start of the Goecha La trek. Check in at Hotel Yangrigang on the main road and walk the village in the evening, past prayer wheels and trekkers sorting gear.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Norbugang throne and Dubdi Monastery", "place": "yuksom", "overnight": "Yuksom", "drive": "",
+     "text": "Yuksom was Sikkim's first capital. In 1642 three lamas crowned Phuntsog Namgyal as the first Chogyal here, and in Lepcha the name is explained as the place where the three monks met. The stone throne at Norbugang still stands under an old cryptomeria, with Norbugang Chorten opposite, said to hold soil and water from all over Sikkim, and the small Kathok Lake nearby. After lunch, walk about an hour uphill through forest to Dubdi Monastery, built in 1701 and described as Sikkim's oldest surviving monastery. Carry water; the path is steep and can be slippery.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Yuksom to Tashiding by morning jeep", "place": "tashiding", "overnight": "Tashiding", "drive": "≈ 19 km · 1–1.5 h",
+     "text": "Jeeps from Yuksom towards Tashiding and Gyalshing leave early, often 6–8 am, because villagers ride them to work; ask at the stand the evening before. Seats cost ₹60–120, indicative. Tashiding Monastery sits on a hilltop at about 1,465 m between the Rathong Chu and the Rangeet, founded, by most accounts, in 1641. Walk up the stepped path through prayer flags. Look for flagstones carved with Om Mani Padme Hum and the Thongwa Rang Drol chorten; tradition says merely seeing it brings liberation. Stay in a simple lodge or homestay and return to the monastery at dusk, when it is quiet.",
+     "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Tashiding to Ravangla via Legship", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 36 km · 3–4 h with the change",
+     "text": "Take a morning jeep down to Legship on the Rangeet and change there for Ravangla; the two legs cost about ₹150–250 in all, indicative. Morning departures are the most reliable, so leave by 8 am. While you wait at Legship, walk to the Kirateshwar Mahadev Temple by the river, where Hindu tradition says Shiva met Arjuna as a hunter. Ravangla sits at about 2,100 m. In the afternoon walk to the Buddha Park, ₹50–100, where the 130-foot Buddha was consecrated by the Dalai Lama on 25 March 2013. Buy tomorrow's jeep ticket to Siliguri tonight.",
+     "meals": "Breakfast, dinner"},
+    {"day": 7, "title": "Ravangla to Siliguri", "place": "siliguri", "overnight": "—", "drive": "≈ 120 km · 4.5–5 h",
+     "text": "Shared jeeps from Ravangla to Siliguri leave in the morning, ₹350–450 a seat, indicative. If none is running, take a jeep to Namchi, ₹80–120, about an hour, and change there for Siliguri, ₹300–400. The road drops to the Rangeet and the Teesta and leaves Sikkim at Melli. Expect to reach Siliguri by early afternoon; from the jeep stand take an auto or cab to NJP or Bagdogra. Book an evening train or a flight after 5 pm. In monsoon, landslides near Melli can close the road for hours, so check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-garuda-pelling", "hotel-yangrigang-yuksom"],
+  "includes": [
+    "6 nights on twin sharing in budget hotels and homestays, or the tier you choose",
+    "Breakfast and dinner daily",
+    "All shared jeep and SNT bus seat fares on the budget tier",
+    "A written jeep plan with stands, timings to ask for and a local phone contact in each town",
+    "Reserved car on every leg, on comfort and premium"
+  ],
+  "excludes": [
+    "Trains or flights to NJP or Bagdogra, and the auto or cab to the Siliguri jeep stand",
+    "Entry fees, under ₹500 per person in all, indicative",
+    "Lunches, snacks, drinks and tips",
+    "Roof-luggage charges where a driver asks for one",
+    "Extra nights or costs caused by landslides, strikes or missed jeeps"
+  ],
+  "save_more": [
+    "Travel in late November, January or February, when homestays and budget hotels cut rates and the roads are dry.",
+    "Take the SNT bus from Siliguri on day one, ₹300–400 a seat, indicative, if you can be at the terminus for the morning departure.",
+    "Eat thali at the local eating houses in Gyalshing and Ravangla for ₹150–250 instead of hotel lunches."
+  ],
+  "good_to_know": [
+    "Long-distance jeeps mostly leave between about 6:30 am and noon, and onward jeeps from Gyalshing, Legship and Jorethang thin out after about 1 pm.",
+    "Jeeps carry about ten people and luggage rides on the roof; use a rucksack of 40–50 litres with a rain cover.",
+    "Foreign nationals need a free Sikkim Restricted Area Permit from e-FRRO or the Melli checkpost, and must carry it with the passport. Check current status before you travel.",
+    "Carry enough cash in small notes; ATMs in small hill towns can run dry and many jeeps, eating houses and homestays take cash only.",
+    "From June to September landslides can strand jeeps for hours; we do not sell this trip in the monsoon."
+  ],
+  "faqs": [
+    {"q": "Can you travel West Sikkim by shared jeep only", "a": "Yes. Shared jeeps link Siliguri with Gyalshing and Pelling, Gyalshing with Yuksom and Tashiding, and Legship with Ravangla, and an SNT bus runs from Siliguri most mornings. You cannot stop at waterfalls or viewpoints on the way, and you must start transfer days early. For a fit traveller with light luggage it works well and costs a fraction of a car."},
+    {"q": "How much is a shared jeep from Siliguri to Pelling", "a": "About ₹400–550 a seat to Gyalshing or Pelling, indicative for 2026, from the stands near the SNT terminus on Hill Cart Road. If your jeep ends at Gyalshing, a local jeep to Pelling costs ₹50–80. The SNT bus costs ₹300–400 and runs about once a day in the morning. Check current status before you travel."},
+    {"q": "What time do shared jeeps leave for Pelling and Yuksom", "a": "Siliguri to Gyalshing and Pelling jeeps leave mostly between about 7 am and noon. Gyalshing to Yuksom jeeps leave mostly around midday and early afternoon. Return jeeps from Yuksom and Tashiding leave early, often 6–8 am. Timings shift with the season, so ask at the stand the evening before and check current status before you travel."},
+    {"q": "Is this trip safe for solo women travellers", "a": "Generally yes. Shared jeeps are everyday transport in Sikkim, used by students, workers and families, and drivers know the roads. Sit in the front or middle row, keep your phone charged and share your route with someone at home. Homestays and small hotels in Yuksom and Pelling are used to solo guests. Avoid arriving in a new town after dark."},
+    {"q": "Where do we change jeeps on this route", "a": "At Gyalshing, twice: from the Siliguri jeep to the local Pelling jeep, and from Pelling to the Yuksom jeep. At Legship on day six, from the Tashiding jeep to one for Ravangla. If there is no direct Ravangla to Siliguri jeep on the last day, change at Namchi. Jorethang is the fallback junction if you miss a connection."},
+    {"q": "What happens if we miss the last jeep", "a": "You either wait for the next morning or hire a car for that leg. Local reserved cars are easy to find at Gyalshing and Legship; Pelling to Yuksom costs about ₹2,000–2,800, indicative. On the budget tier that cost is yours, so start transfer days by 8 am to keep a second chance at a jeep."},
+    {"q": "How much does this backpacker trip cost per person", "a": "Our budget tier is from ₹12,000 per person on twin sharing, with rooms, breakfast, dinner and all seat fares. Seat fares alone come to about ₹1,300–1,800, indicative. Add ₹500 or less for entry fees and ₹200–400 a day for lunch and tea. Solo travellers pay more for a single room."},
+    {"q": "What is there to do in Yuksom for two nights", "a": "Plenty for walkers. The Norbugang throne, where the first Chogyal was crowned in 1642, Norbugang Chorten and Kathok Lake are within a short walk of the bazaar. Dubdi Monastery, built in 1701, is about an hour's climb through forest. In the evening, sit in the bazaar tea shops where trekkers and porters gather before the Goecha La trail."},
+    {"q": "Can foreigners do this trip", "a": "Yes. Foreign nationals need a free Sikkim Restricted Area Permit, valid 30 days, from e-FRRO online or the Melli checkpost, which the Siliguri jeeps pass. Keep several photocopies of the permit and passport, because checkposts and hotels ask for them. No extra permit is needed for Pelling, Yuksom, Tashiding or Ravangla. Check current status before you travel."}
+  ]
+}

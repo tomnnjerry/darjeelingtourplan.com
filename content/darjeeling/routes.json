@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "siliguri-to-darjeeling",
+    "from": "siliguri",
+    "to": "darjeeling",
+    "distance_km": 68,
+    "summary": "The main climb into the hills: about 65–72 km from NJP, Siliguri or Bagdogra to Darjeeling, 3–3.5 hours by road. Shared jeeps are the cheapest, reserved cars the most flexible, and the toy train the slowest and most memorable at around 7.5 hours.",
+    "options": [
+      {"mode": "Shared jeep", "time": "3–3.5 h", "cost": "₹250–400 a seat, indicative 2026", "text": "Sumos and Boleros leave from stands near the Tenzing Norgay bus terminus in Siliguri and outside NJP station, from about 7 am to 3 pm, once they have 10 passengers. Luggage rides on the roof, covered with a tarpaulin. Front seats beside the driver go first; ask for them as you buy the ticket. Avoid arriving after 3 pm, when departures thin out."},
+      {"mode": "Reserved car", "time": "3 h", "cost": "₹3,500–4,500 per car, indicative 2026", "text": "Prepaid and private counters at Bagdogra airport and NJP station book Boleros, Sumos and small cars straight to your hotel. A small car costs a little less but carries less luggage. Agree whether the fare includes stops at Kurseong or Mirik, and whether tolls and parking are extra. Two families sharing a Bolero pay roughly the same per head as shared jeeps."},
+      {"mode": "Toy train", "time": "7–8 h", "cost": "≈ ₹1,300–1,600 one way, indicative 2026", "text": "The Darjeeling Himalayan Railway's daily train 52541 leaves NJP around 10 am and is timed to reach Darjeeling around 5.30 pm, via Sukna, Tindharia, Kurseong and Ghum. It has First Class and AC chair car seats only, booked on IRCTC. Delays and landslide cancellations are common, so keep a buffer day and check current status before you travel."}
+    ],
+    "stops_on_way": ["Rohini road tea gardens", "Kurseong for tea and momos", "Sonada", "Ghum and Batasia Loop"],
+    "tip": "Take Rohini road for a quicker climb and Hill Cart Road if you want to see the toy-train line and Kurseong bazaar.",
+    "faqs": [
+      {"q": "How much is a shared jeep from NJP to Darjeeling", "a": "About ₹250–400 a seat, indicative 2026, depending on season and whether you take a front seat. Jeeps leave from outside NJP station and near the Tenzing Norgay bus terminus in Siliguri once 10 passengers have boarded, mostly between 7 am and 3 pm. Fares rise around Puja and New Year, so check current rates at the counter."},
+      {"q": "How long does it take from Bagdogra airport to Darjeeling", "a": "About 3–3.5 hours by car for roughly 70 km, longer in Siliguri traffic or fog. Most cars take Rohini road up to Kurseong and then Hill Cart Road. A reserved car costs ₹3,500–4,500, indicative 2026. If your flight lands after 2 pm, consider a first night in Kurseong instead of driving in the dark."},
+      {"q": "Is the toy train from NJP to Darjeeling worth it", "a": "It is worth it for rail lovers with a spare day. The full run takes about 7.5 hours and often longer, through loops, reverses and Kurseong bazaar. If you are short of time, take a car up and do the 2-hour Darjeeling–Ghum joyride instead, which covers Batasia Loop and the highest station."},
+      {"q": "Which road is better from Siliguri to Darjeeling", "a": "Most drivers use Rohini road to Kurseong, which is wider and quicker, then Hill Cart Road through Sonada and Ghum. Pankhabari road is steep and narrow. Hill Cart Road from Sukna shares the toy-train line and is slower but more scenic. Landslides sometimes close one route in monsoon, so check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "siliguri-to-kurseong",
+    "from": "siliguri",
+    "to": "kurseong",
+    "distance_km": 32,
+    "summary": "Kurseong is the closest hill town to the plains: about 32 km and 1.5 hours from Siliguri by Rohini road. It makes an easy first night for late arrivals at Bagdogra, and shared jeeps run all day.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1.5 h", "cost": "₹120–200 a seat, indicative 2026", "text": "Jeeps for Kurseong leave from the stands near the Tenzing Norgay bus terminus and from NJP, filling up with 10 passengers. They run more often than Darjeeling jeeps because Kurseong is a commuter town. Ask whether the jeep takes Rohini road or Pankhabari road; both reach the town centre near the station."},
+      {"mode": "Reserved car", "time": "1–1.5 h", "cost": "₹2,000–3,000 per car, indicative 2026", "text": "A reserved car from Bagdogra or NJP to a Kurseong hotel costs roughly ₹2,000–3,000. If you are staying outside town, at Cochrane Place on Pankhabari road or a tea estate, give the driver the exact location before you agree the fare, because estate roads add time."},
+      {"mode": "Toy train", "time": "4–5 h", "cost": "Included in NJP–Darjeeling fare; check IRCTC for NJP–Kurseong", "text": "The daily NJP–Darjeeling train stops at Kurseong, roughly half way, after Sukna, Rangtong, Tindharia and Mahanadi. The lower section has the line's famous loops and reverses near Tindharia. Timings slip often and landslides can suspend the lower section, so check current status before you travel."}
+    ],
+    "stops_on_way": ["Sukna forest", "Rohini road tea gardens", "Simulbari"],
+    "tip": "If your flight lands after 2 pm, sleep in Kurseong and drive on to Darjeeling next morning in daylight.",
+    "faqs": [
+      {"q": "How far is Kurseong from Siliguri", "a": "About 32 km by Rohini road, usually 1–1.5 hours by car and around 1.5 hours by shared jeep. Hill Cart Road via Sukna is longer and slower but follows the toy-train line. A reserved car costs ₹2,000–3,000 and a shared seat ₹120–200, indicative 2026."},
+      {"q": "Is Kurseong a good first stop from Bagdogra", "a": "Yes. It is half the drive of Darjeeling, so you reach it before dark even with an afternoon flight, and the altitude of about 1,458 m is a gentle first step. Spend the evening in the bazaar or at your hotel, see Makaibari or Giddapahar next morning, and continue to Darjeeling, about 30 km, by afternoon."},
+      {"q": "Do shared jeeps run from NJP to Kurseong", "a": "Yes, through the day, from the stands near NJP station and the Tenzing Norgay bus terminus in Siliguri. They leave when full with 10 passengers. Services thin out after mid-afternoon, so do not plan on the last jeep. Fares are ₹120–200 a seat, indicative 2026."},
+      {"q": "Can I take the toy train from NJP to Kurseong only", "a": "The daily NJP–Darjeeling train stops at Kurseong, and you can book to an intermediate station on IRCTC, subject to quota. It takes 4–5 hours, often more. The DHR also runs occasional Kurseong-side joyrides. Timetables change often, so check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "siliguri-to-mirik",
+    "from": "siliguri",
+    "to": "mirik",
+    "distance_km": 52,
+    "summary": "Mirik is about 52 km from Siliguri, around 2 hours by the road through Dudhia and the Balason valley, then up through tea gardens. It is the gentlest of the hill drives and an easy day trip or first night.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "cost": "₹150–250 a seat, indicative 2026", "text": "Jeeps for Mirik leave from the Siliguri jeep stands near the Tenzing Norgay bus terminus, fewer than for Darjeeling. Go in the morning. The road crosses the Balason river at Dudhia, then climbs through the Gopaldhara and Thurbo tea gardens. Ask to be dropped near the lake, where most hotels and homestays are."},
+      {"mode": "Reserved car", "time": "2 h", "cost": "₹2,800–3,800 per car, indicative 2026", "text": "A reserved car to Mirik costs roughly ₹2,800–3,800 from NJP or Bagdogra. Many travellers combine Mirik with Darjeeling: drive Siliguri to Mirik, spend a night by the lake, then continue to Darjeeling via Sukhiapokhri and Ghum the next day. Agree the route and any stops in advance."},
+      {"mode": "Bus", "time": "2.5–3 h", "cost": "₹80–150, indicative 2026", "text": "North Bengal State Transport Corporation and private buses run between Siliguri and Mirik on some days. They are the cheapest option but slow and infrequent. Ask at the Tenzing Norgay bus terminus for current departures, and check current status before you travel."}
+    ],
+    "stops_on_way": ["Dudhia and the Balason river", "Gopaldhara tea garden", "Thurbo tea garden"],
+    "tip": "Stop at Dudhia on the Balason river for tea and a stretch; it is the last flat ground before the climb.",
+    "faqs": [
+      {"q": "How far is Mirik from Siliguri", "a": "About 52 km, usually around 2 hours by car via Dudhia and the Balason valley, longer in traffic. Shared jeeps take 2–2.5 hours and cost ₹150–250 a seat, indicative 2026. It is the easiest hill drive from the plains, with gentler bends than the Darjeeling roads."},
+      {"q": "Can I do Mirik as a day trip from Siliguri", "a": "Yes. A reserved car for a Mirik day trip from Siliguri costs roughly ₹3,500–4,500, indicative 2026. Leave by 8 am, walk the lake, visit Bokar Monastery and a tea garden, and be back by evening. An overnight stay is calmer, as day trippers leave the lake by 4 pm."},
+      {"q": "Is the road to Mirik from Siliguri safe", "a": "It is a well-used, paved hill road with moderate bends. In monsoon, July to September, slips can block it for hours, and fog is common on winter mornings. Drive in daylight, use a local driver if you are not used to hill roads, and check current status before you travel."},
+      {"q": "Which is better first, Mirik or Darjeeling", "a": "Mirik first works well: it is lower, at about 1,495 m, and closer to the plains, so it is an easy first night. From there Darjeeling is about 49 km via Sukhiapokhri and Ghum. Going the other way, end with Mirik and drop down to Siliguri for an evening train or flight."}
+    ]
+  },
+  {
+    "slug": "kurseong-to-darjeeling",
+    "from": "kurseong",
+    "to": "darjeeling",
+    "distance_km": 30,
+    "summary": "Kurseong to Darjeeling is about 30 km on Hill Cart Road, 1–1.5 hours by car, beside the toy-train line through Tung, Sonada and Ghum. It is the most scenic stretch of the old cart road.",
+    "options": [
+      {"mode": "Shared jeep", "time": "1.5 h", "cost": "₹100–180 a seat, indicative 2026", "text": "Jeeps leave from the Kurseong town stand, near the station, when full. The road climbs past Dow Hill's turn, through Tung and Sonada, to Ghum at 2,258 m before dropping into Darjeeling. Fog is common above Sonada on winter mornings, so expect slower driving. Morning departures are the most frequent."},
+      {"mode": "Reserved car", "time": "1–1.5 h", "cost": "₹1,800–2,500 per car, indicative 2026", "text": "A reserved car lets you stop at Sonada, Ghum Monastery and Batasia Loop on the way, which turns a transfer into half a day of sightseeing. Agree the stops before you leave. Add about ₹500–800 for a two-to-three-hour stop programme, indicative 2026."},
+      {"mode": "Toy train", "time": "2.5–3 h", "cost": "Check IRCTC for current Kurseong–Darjeeling fare", "text": "The NJP–Darjeeling train runs this upper section daily, and the DHR has run separate Kurseong–Darjeeling services at times. It shares the road through Kurseong, Tung and Sonada, then crosses Ghum and loops round Batasia. Timings change often; check current status before you travel."}
+    ],
+    "stops_on_way": ["Tung", "Sonada", "Ghum Monastery", "Batasia Loop"],
+    "tip": "Ride the toy train for this upper section only and you get the best of the line in under three hours.",
+    "faqs": [
+      {"q": "How far is Darjeeling from Kurseong", "a": "About 30 km by Hill Cart Road, 1–1.5 hours by car or shared jeep, longer in fog. Shared seats cost ₹100–180 and a reserved car ₹1,800–2,500, indicative 2026. The road passes Tung, Sonada and Ghum, the highest point, before dropping into Darjeeling."},
+      {"q": "Is the toy train from Kurseong to Darjeeling worth it", "a": "Yes, if you want the experience without the full 7.5-hour run from NJP. The upper section takes around 2.5–3 hours and covers Ghum, India's highest station, and Batasia Loop. Services and timings change, so book on IRCTC and check current status before you travel."},
+      {"q": "What can I see between Kurseong and Darjeeling", "a": "Stop at Sonada for views and its small monasteries, at Ghum for Yiga Choeling monastery and the DHR museum at the station, and at Batasia Loop for the Gorkha War Memorial and Kangchenjunga views. With a reserved car these stops add two to three hours."},
+      {"q": "Is the road from Kurseong to Darjeeling foggy", "a": "Often, especially above Sonada and around Ghum, from June to September and on many winter mornings. Drivers slow right down and use headlights. Plan this transfer for late morning when fog tends to lift, and avoid driving after dark if you can."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-mirik",
+    "from": "darjeeling",
+    "to": "mirik",
+    "distance_km": 49,
+    "summary": "Darjeeling to Mirik is about 49 km, roughly 2 hours via Ghum, Lepchajagat, Sukhiapokhri and the Nepal-border road past Pashupatinagar. The route runs through pine forest and tea gardens and makes a good day trip or a one-night break.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2–2.5 h", "cost": "₹150–250 a seat, indicative 2026", "text": "Jeeps for Mirik leave from the Chowk Bazaar motor stand in Darjeeling, mainly in the morning. The road climbs to Ghum, then follows the ridge through Lepchajagat and Sukhiapokhri, with the Nepal border close on the right, before dropping through tea gardens to the lake. Return jeeps leave Mirik in the morning too."},
+      {"mode": "Reserved car", "time": "2 h", "cost": "₹3,000–4,000 one way, ₹3,500–4,500 day trip, indicative 2026", "text": "Most people do Mirik as a day trip by reserved car with stops at Lepchajagat, the Pashupatinagar border market, a tea garden and Bokar Monastery. One-way transfers onward to Siliguri via Mirik are popular on the last day: drive Darjeeling to Mirik, see the lake, and reach NJP or Bagdogra by evening."}
+    ],
+    "stops_on_way": ["Lepchajagat forest", "Sukhiapokhri", "Pashupatinagar border market", "Gopaldhara tea garden"],
+    "tip": "On your last day, go down to Siliguri via Mirik instead of the usual road and see the lake on the way.",
+    "faqs": [
+      {"q": "How far is Mirik from Darjeeling", "a": "About 49 km, roughly 2 hours by car via Ghum, Lepchajagat and Sukhiapokhri. Shared jeeps from the Chowk Bazaar stand take 2–2.5 hours and cost ₹150–250, indicative 2026. A reserved day trip costs ₹3,500–4,500 per car."},
+      {"q": "Is Mirik worth a day trip from Darjeeling", "a": "Yes, if you like lakes, tea gardens and a slower pace. The drive itself, through Lepchajagat's forest and along the Nepal border, is half the pleasure. Many families prefer to do Mirik on the way down to Siliguri on their last day, which saves a separate day."},
+      {"q": "Can I visit Pashupatinagar on the way to Mirik", "a": "Indian citizens can usually cross on foot into Pashupatinagar, the Nepali border market near Sukhiapokhri, with ID. Foreign nationals need a valid Nepal visa and must use an official crossing. Rules and timings change, so carry ID and check current status before you travel."},
+      {"q": "What is the best time to visit Mirik", "a": "October to April for clear skies and calm lake walks, with orange season from November to January. March to May is pleasant and green. Monsoon, June to September, brings heavy rain and slips on the roads, though the tea gardens are at their greenest."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-kalimpong",
+    "from": "darjeeling",
+    "to": "kalimpong",
+    "distance_km": 50,
+    "summary": "Darjeeling to Kalimpong is about 50 km, 2.5–3 hours, down through Ghum, Jorebungalow, Peshok's tea gardens and the Teesta valley, then up the far side. You drop from about 2,000 m to the Teesta at about 200 m and climb back to 1,250 m.",
+    "options": [
+      {"mode": "Shared jeep", "time": "2.5–3 h", "cost": "₹200–300 a seat, indicative 2026", "text": "Jeeps for Kalimpong leave from the Chowk Bazaar motor stand through the morning. The road heads to Jorebungalow, turns down past Lamahatta and the Peshok tea gardens to Teesta Bazaar, crosses the river and climbs to Kalimpong. The descent is long, so anyone prone to motion sickness should take a window seat."},
+      {"mode": "Reserved car", "time": "2.5 h", "cost": "₹3,000–4,000 per car, indicative 2026", "text": "A reserved car lets you stop at Lamahatta's eco-park and at the viewpoints above the meeting of the Teesta and Rangeet rivers. Add a little for these stops. If the Teesta road (NH10) is closed by slips, drivers may route via other roads; check current status before you travel."}
+    ],
+    "stops_on_way": ["Lamahatta eco-park", "Peshok tea gardens", "Teesta–Rangeet confluence viewpoint", "Teesta Bazaar"],
+    "tip": "Stop at Lamahatta on the way down; it is 23 km from Darjeeling and needs only 45 minutes.",
+    "faqs": [
+      {"q": "How far is Kalimpong from Darjeeling", "a": "About 50 km, usually 2.5–3 hours by car or shared jeep. The road drops to the Teesta river at Teesta Bazaar and climbs again to Kalimpong. Shared seats cost ₹200–300 and a reserved car ₹3,000–4,000, indicative 2026."},
+      {"q": "Should I stay in Kalimpong or do a day trip from Darjeeling", "a": "Stay at least one night. The round trip is 5–6 hours of driving, which leaves little time for Kalimpong's monasteries, nurseries and markets. A night there also breaks the journey from Darjeeling to Gangtok, which runs along the same Teesta valley."},
+      {"q": "What can I see between Darjeeling and Kalimpong", "a": "Lamahatta's eco-park of prayer flags and cypress, the Peshok tea gardens, viewpoints above the meeting of the Teesta and Rangeet rivers, and Teesta Bazaar on the river. Allow an extra hour or two with a reserved car for these stops."},
+      {"q": "Is the Darjeeling to Kalimpong road open in monsoon", "a": "It usually stays open, but slips on the Teesta valley stretch can close it for hours or days in July and August, and NH10 along the Teesta has had long closures since 2023. Drivers know the detours. Check current status before you travel and keep your plans flexible."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-gangtok",
+    "from": "darjeeling",
+    "to": "gangtok",
+    "distance_km": 98,
+    "summary": "Darjeeling to Gangtok is about 95–100 km, 4–5 hours, down through Peshok to the Teesta valley, past Rangpo into Sikkim and up to Gangtok. Indians need no permit; foreign nationals need a Sikkim Restricted Area Permit.",
+    "options": [
+      {"mode": "Shared jeep", "time": "4.5–5 h", "cost": "₹400–550 a seat, indicative 2026", "text": "Jeeps leave from the Chowk Bazaar motor stand, mainly 7–11 am, and drop at Gangtok's main jeep stands. Sikkim restricts plains and some outside vehicles inside Gangtok, so drivers may hand you over at the edge of town. Foreigners must stop at Rangpo or Melli for the Restricted Area Permit, so tell the driver before you set off."},
+      {"mode": "Reserved car", "time": "4–4.5 h", "cost": "₹5,000–6,500 per car, indicative 2026", "text": "A reserved Bolero or small car costs ₹5,000–6,500. You can stop at Lamahatta, the Teesta–Rangeet viewpoint and Teesta Bazaar for lunch. West Bengal-registered taxis may not be allowed to drive within Gangtok's central zones; your driver or agent will arrange a handover if needed. Check current status before you travel."}
+    ],
+    "stops_on_way": ["Lamahatta", "Teesta–Rangeet confluence viewpoint", "Teesta Bazaar", "Rangpo checkpost"],
+    "tip": "Leave Darjeeling by 8 am so you reach Gangtok before the afternoon traffic jams on the approach roads.",
+    "faqs": [
+      {"q": "How much is a shared jeep from Darjeeling to Gangtok", "a": "About ₹400–550 a seat, indicative 2026, from the Chowk Bazaar motor stand in Darjeeling. Jeeps run mainly in the morning, from about 7 to 11 am, and take 4.5–5 hours. Buy your ticket the day before in peak season, and ask for a front or window seat if you get carsick."},
+      {"q": "Do I need a permit to go from Darjeeling to Gangtok", "a": "Indian nationals need only photo ID. Foreign nationals need a Sikkim Restricted Area Permit, usually issued free at the Rangpo or Melli checkposts on the way, or online beforehand, with passport and Indian visa. Rules change, so check current status before you travel."},
+      {"q": "Which route is better from Darjeeling to Gangtok", "a": "Most cars go down via Peshok to Teesta Bazaar, then along the Teesta to Rangpo and up to Gangtok, about 95–100 km. When the Teesta road is closed by slips, drivers may use other routes through Kalimpong or Pedong, adding time. Your driver will choose the open road on the day."},
+      {"q": "Can I visit Kalimpong between Darjeeling and Gangtok", "a": "Yes. Kalimpong is about 50 km from Darjeeling and about 70 km from Gangtok, on the same Teesta valley route. Spending a night there splits a long drive into two easy halves and adds monasteries, nurseries and the Kalimpong market. Our 6-night trip does exactly this."}
+    ]
+  },
+  {
+    "slug": "darjeeling-to-sandakphu",
+    "from": "darjeeling",
+    "to": "sandakphu",
+    "distance_km": 57,
+    "summary": "Darjeeling to Sandakphu is about 26 km by road to Manebhanjan, then about 31 km up the Singalila Ridge by trail or by vintage Land Rover. On foot it takes 3 days; by Land Rover 3–5 hours from Manebhanjan, with a licensed guide required.",
+    "options": [
+      {"mode": "Shared jeep to Manebhanjan", "time": "1–1.5 h", "cost": "₹80–150 a seat, indicative 2026", "text": "Shared jeeps run from Darjeeling's Chowk Bazaar stand to Manebhanjan, the trailhead at about 2,134 m, through Ghum and Sukhiapokhri. Leave early: park entry and vehicle entry close around 2 pm. At Manebhanjan you register, pay the Singalila National Park entry fee and hire a licensed guide from the guides' association."},
+      {"mode": "Land Rover", "time": "3–5 h from Manebhanjan", "cost": "₹5,500–7,500 per vehicle return, indicative 2026", "text": "Manebhanjan's drivers still run old Land Rovers, many from the 1950s and 1960s, up the steep stone track via Tumling and Kalipokhri to Sandakphu. A vehicle takes up to about six passengers. A night halt or a run on to Phalut costs more. Fares are set by the drivers' association; check current rates before you travel."},
+      {"mode": "Trek", "time": "3 days up", "cost": "Guide ₹1,000–1,500 a day per group; park entry ₹120 a day (Indians), indicative 2026", "text": "The classic trek climbs from Manebhanjan to Tumling (about 2,970 m) on day one, Kalipokhri (about 3,186 m) on day two and Sandakphu (3,636 m) on day three, staying in basic lodges. Most people return via Gurdum and Srikhola to Rimbick, or continue to Phalut. A licensed guide is mandatory."}
+    ],
+    "stops_on_way": ["Ghum", "Sukhiapokhri", "Manebhanjan", "Tumling", "Kalipokhri"],
+    "tip": "Spend your first night at Tumling rather than racing to the top; it helps with the altitude and gives a sunrise view of Kangchenjunga on day two.",
+    "faqs": [
+      {"q": "How do I get from Darjeeling to Sandakphu", "a": "Take a shared jeep or car to Manebhanjan, 26 km and about an hour away. Register there, pay the national park fee and hire a mandatory licensed guide. Then trek three days via Tumling and Kalipokhri, or ride a Land Rover for 3–5 hours. Check current status before you travel."},
+      {"q": "How much does a Land Rover to Sandakphu cost", "a": "Roughly ₹5,500–7,500 per vehicle for a return trip from Manebhanjan, indicative 2026, shared by up to about six people. A night halt at Sandakphu or a run on to Phalut costs extra. Rates are fixed by the local drivers' association and change, so confirm at Manebhanjan."},
+      {"q": "Is a guide mandatory for Sandakphu", "a": "Yes. Singalila National Park requires a licensed guide for treks and vehicle trips to Sandakphu and Phalut. Guides are hired at Manebhanjan; fees have been around ₹1,000–1,500 a day for a small group, indicative 2026. The guide also handles lodge bookings and knows where the trail crosses into Nepal."},
+      {"q": "When is Sandakphu closed", "a": "Singalila National Park usually closes to visitors from mid-June to mid-September for the monsoon, and roads and trails are muddy before and after. Heavy snow can also stop vehicles in January and February. Dates are set by the forest department each year, so check current status before you travel."}
+    ]
+  }
+]

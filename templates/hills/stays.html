@@ -1,0 +1,16 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Hotels, homestays and tea bungalows in Darjeeling, Sikkim and Bhutan · Darjeeling Tour Plan{% endblock %}
+{% block description %}Real stays at three price levels: government lodges and homestays, comfortable mid-range hotels and heritage or premium properties, with indicative rates and honest notes.{% endblock %}
+{% block content %}
+<header class="wrap phead--plain"><div class="phead__in" style="padding-top: 18px">
+  <p class="eyebrow">{% icon "bed" %} Stays</p><h1 class="h-xl">Beds at every price</h1>
+  <p class="lede">Every stay is real and named, with an indicative rate per room per night and one honest line about what to watch out for.</p>
+</div></header>
+<section class="sec--tight"><div class="wrap">
+  <div class="filter-bar" data-filter-group="#stay-grid"><span class="label">Filter</span>
+    <select data-key="region" aria-label="Land"><option value="">All lands</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+    <div class="filters" style="margin: 0" role="group" aria-label="Price level"><button type="button" data-key="kind" data-value="" aria-pressed="true">Any price</button><button type="button" data-key="kind" data-value="budget" aria-pressed="false">Budget</button><button type="button" data-key="kind" data-value="comfort" aria-pressed="false">Comfort</button><button type="button" data-key="kind" data-value="premium" aria-pressed="false">Premium</button></div></div>
+  <div class="grid grid--3" id="stay-grid" data-fill>{% for r in regions %}{% for s in r.stays %}{% include "hills/partials/card_stay.html" %}{% endfor %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  <p class="muted" data-empty hidden>Nothing matches. Try another land or price level.</p>
+</div></section>
+{% endblock %}

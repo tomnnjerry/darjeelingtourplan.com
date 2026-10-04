@@ -1,0 +1,1 @@
+{% load hills %}<div class="chits{% if facts|length == 5 %} chits--5{% endif %}">{% for f in facts %}<div class="chit rv">{% icon "sparkle" %}<p>{{ f }}</p></div>{% endfor %}</div>

@@ -1,0 +1,94 @@
+{
+  "slug": "west-sikkim-honeymoon-5n",
+  "title": "West Sikkim honeymoon: Pelling and Rinchenpong",
+  "region": "west-sikkim",
+  "nights": 5,
+  "themes": ["honeymoons", "mountain-views", "monasteries", "village-homestays"],
+  "stops": [
+    {"place": "pelling", "nights": 3},
+    {"place": "rinchenpong", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 17000,
+  "fares": {"budget": 17000, "comfort": 28500, "premium": 68000},
+  "fare_notes": {
+    "budget": "Hotel Garuda in Upper Pelling or a budget hotel of the same class, with a mountain-facing room requested, and a clean homestay in Rinchenpong or Kaluk. Private small car on transfer days and for sightseeing. Breakfast and dinner daily.",
+    "comfort": "Norbu Ghang Resort cottages in Pelling and a good mid-range hotel or homestay in Rinchenpong or Kaluk. Private SUV for the whole trip. Breakfast and dinner daily, with one candle-lit dinner where the hotel offers it.",
+    "premium": "The Chumbi Mountain Retreat & Spa or The Elgin Mount Pandim in Pelling, and Yangsum Heritage Farm in Rinchenpong, a family farmhouse from the 1800s on a 44-acre organic farm. Private SUV with an experienced driver, entry fees paid. Breakfast and dinner daily; most meals at Yangsum."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2150,
+  "meta_description": "West Sikkim honeymoon, 5 nights: Pelling's Kangchenjunga views, Khecheopalri Lake, Yuksom and a farmstay in Rinchenpong, from ₹17,000 per person.",
+  "summary": "A slow 5-night honeymoon in West Sikkim. Three nights in Pelling, facing Kangchenjunga, with the monasteries, Khecheopalri Lake and Yuksom, then two nights on the quiet Rinchenpong and Kaluk ridge, where premium couples stay at a 19th-century family farmhouse. One long drive each way, short days in between and two lie-ins.",
+  "intro": [
+    "Couples come to Pelling for one thing first: Kangchenjunga, 8,586 m, standing across the valley from the hotel window on a clear morning. We give you three nights there so you get more than one chance at the dawn and still have an easy day. The sights are gentle and full of story. Pemayangtse Monastery dates from 1647. At Yuksom, Sikkim's first Chogyal was crowned in 1642. Khecheopalri Lake is a wish-fulfilling lake, and legend says birds keep its surface clear of leaves.",
+    "Then we move about 40 km south to Rinchenpong, at about 1,700 m in Soreng district, a windy ridge village with wide mountain views and very few tour buses. Its monastery, founded in 1730, holds an image of the Adi Buddha. Premium couples stay at Yangsum Heritage Farm, where the meals come from the farm. Budget couples stay in a clean homestay. October to December gives the clearest mountain mornings; March to May brings flowers and warmer days. We do not run this trip from June to August."
+  ],
+  "highlights": [
+    "Three dawns facing Kangchenjunga from Pelling, with clear mornings most likely October to February",
+    "Pemayangtse Monastery, the ruins of Rabdentse and the Chenrezig statue and Skywalk",
+    "A day out to Khecheopalri Lake, Kanchenjunga Falls and the coronation throne at Yuksom",
+    "Two quiet nights on the Rinchenpong and Kaluk ridge, far from the tour-bus circuit",
+    "Rinchenpong Monastery, founded in 1730, with its Adi Buddha image"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Pelling", "place": "pelling", "overnight": "Pelling", "drive": "≈ 150 km · 5.5–6.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station. The road follows the Teesta to Melli, where you enter Sikkim, then the Rangeet to Jorethang and Legship, and climbs through Gyalshing to Pelling at about 2,150 m. Foreign nationals show or collect their Restricted Area Permit at Melli. We stop for lunch in Jorethang. In monsoon, slides on this road can add hours, so check current status before you travel. Arrive by late afternoon, ask for a room facing the mountain, and keep the evening for yourselves.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Pelling dawn and the old capital", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 5 h",
+     "text": "Be up by 5:30 am; on a clear day the first light turns Kangchenjunga pink, then gold. Back to bed if you like. After a late breakfast we visit Pemayangtse, founded in 1647; its top floor holds a seven-tiered carved model of Guru Rinpoche's palace. Then a 15-minute forest walk to Rabdentse, Sikkim's capital from 1670 to 1814, where wall stubs and chortens stand among the trees. In the late afternoon, the Chenrezig statue and the glass-floored Skywalk near Sanga Choeling, for the light over the valley. Entry fees total under ₹200 each, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Khecheopalri Lake and Yuksom", "place": "pelling", "overnight": "Pelling", "drive": "≈ 90 km · 6–7 h with stops",
+     "text": "A day out in the car. First Rimbi and Kanchenjunga Falls on the Yuksom road, then Khecheopalri Lake at about 1,700 m. Legend says birds pick up any leaf that falls on the water; couples walk the boardwalk quietly and make a wish. Then on to Yuksom, where in 1642 three lamas crowned the first Chogyal on the stone throne at Norbugang, under an old cryptomeria. In Lepcha, Yuksom means the place where the three monks met. Lunch in Yuksom and back to Pelling by late afternoon. Monsoon slides can close this road.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Pelling to Rinchenpong", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 40 km · 1.5–2 h",
+     "text": "No alarm today. After a slow breakfast we drive about 40 km south to Rinchenpong, at about 1,700 m. The ridge is windy and open, with a long view of the Kangchenjunga range. After check-in, walk up to Rinchenpong Monastery, founded in 1730. It holds an image of the Adi Buddha in yab-yum; photography inside is not allowed. In the evening, sit out for sunset on the snows if the sky is clear. If you are at Yangsum Heritage Farm, dinner is cooked from what the farm grows.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "A slow day on the Rinchenpong ridge", "place": "rinchenpong", "overnight": "Rinchenpong", "drive": "≈ 10 km local · 3 h",
+     "text": "A free day with the car on call. Walk the village lanes towards Kaluk, one of the windiest places in Sikkim, and back. Local tradition tells of the Bikh Pokhari, the poison pond, where Lepcha and Gorkha fighters are said to have poisoned the only water source to stop a British force; ask your hosts to show you where it is said to be. If you stay at Yangsum, walk the farm with the family and see how the house, dating to the 1800s, was built. Spend the afternoon on a terrace with tea and a book.",
+     "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Rinchenpong to Bagdogra or NJP", "place": "siliguri", "overnight": "—", "drive": "≈ 130 km · 5–6 h",
+     "text": "A last look at the mountain over breakfast, then we leave by 8 am. The road drops to Jorethang on the Rangeet, then follows the river to Melli and the Teesta to Siliguri. Lunch in Jorethang or on the road. On a clear road you reach Bagdogra or NJP by mid-afternoon, so book flights after 4 pm or an evening train. If you have another night, Darjeeling is about 30 km from Jorethang, 1.5–2 hours, and makes an easy add-on for Tiger Hill and the toy train.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["chumbi-mountain-retreat-pelling", "elgin-mount-pandim-pelling", "yangsum-heritage-farm-rinchenpong", "norbu-ghang-resort-pelling", "hotel-garuda-pelling"],
+  "includes": [
+    "5 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily",
+    "Private car for all transfers and the sightseeing in the plan",
+    "Full-day Khecheopalri Lake and Yuksom outing from Pelling",
+    "Entry fees, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Entry fees on budget and comfort, about ₹200–350 per person in all, indicative",
+    "Room decoration, cakes and special dinners unless the hotel includes them",
+    "Lunches, drinks, spa treatments and tips",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in late November, February or March, when Pelling rates drop and the mornings are often clear.",
+    "Choose comfort in Pelling and premium only for the two Rinchenpong nights at Yangsum, where the setting matters most.",
+    "Skip the full-day Yuksom outing and do Pelling's own sights slowly; this can save ₹3,000–4,000 a couple on the car."
+  ],
+  "good_to_know": [
+    "Foreign nationals need a free Sikkim Restricted Area Permit, online through e-FRRO or at the Melli checkpost. Check current status before you travel.",
+    "Room upgrades, cakes and decoration depend on the hotel on the day; we request them, we do not promise them.",
+    "Rinchenpong and Kaluk are windy and cold at night from November to February; pack warm layers.",
+    "Rinchenpong Monastery does not allow photography inside; ask before photographing people in villages too.",
+    "Mountain views are best from October to February; spring brings haze by mid-morning, and monsoon hides the peaks."
+  ],
+  "faqs": [
+    {"q": "Is Pelling good for a honeymoon", "a": "Yes, if you want quiet and a mountain view rather than nightlife. Pelling faces Kangchenjunga across the valley, and many hotels have rooms or terraces with the view. The sights are short drives away and the town is calm after dark. Choose a room facing the mountain and come between October and May. Shops and restaurants are few, so most couples eat at the hotel."},
+    {"q": "Which is better for a honeymoon, Pelling or Gangtok", "a": "They suit different couples. Pelling is smaller and quieter, with the closer view of Kangchenjunga and very little traffic. Gangtok has MG Marg, cafes, shopping and the Tsomgo Lake day trip into the snow. For mountains and rest, choose Pelling and Rinchenpong; for a livelier town, choose Gangtok. Our 7-night circuit covers both, with Darjeeling as well."},
+    {"q": "What is special about Rinchenpong", "a": "Rinchenpong is a quiet ridge village at about 1,700 m with a wide view of the Kangchenjunga range and few tourists. Its monastery, founded in 1730, holds an image of the Adi Buddha in yab-yum. Local tradition tells of a poisoned pond, the Bikh Pokhari, used by Lepcha and Gorkha fighters against a British force. It suits couples who want walks and quiet."},
+    {"q": "What is Yangsum Heritage Farm like", "a": "Yangsum Heritage Farm is a family farmhouse in Rinchenpong on a 44-acre organic farm. The house dates to the 1800s and has Tibetan-style wood-panelled rooms. Meals are cooked from what the farm grows, and you can walk the farm with the family. It is a homely stay rather than a resort, so book well ahead for October to December."},
+    {"q": "When is the best time for a Sikkim honeymoon", "a": "October to December gives the clearest mountain views and cool, dry days. January and February are cold but often clear and cheaper, except Christmas and New Year week. March to May brings rhododendrons and warmer days, with haze by mid-morning. We avoid June to August, when rain and landslides are common, and early October, when Puja holidays fill hotels."},
+    {"q": "How much does a West Sikkim honeymoon cost", "a": "Our 5-night plan starts from ₹17,000 per person on twin sharing, with budget hotels and homestays, a private small car, breakfast and dinner. Comfort, with Norbu Ghang Resort and a private SUV, is about ₹28,500. Premium, with Chumbi Mountain Retreat or the Elgin in Pelling and Yangsum Heritage Farm, is about ₹68,000 per person. Prices are indicative for 2026."},
+    {"q": "How far is Rinchenpong from Pelling", "a": "Rinchenpong is about 40 km from Pelling, 1.5–2 hours by road. A reserved car costs a few thousand rupees one way, and shared jeeps are few. It is an easy half-day transfer, so this trip uses it as a slow morning between the two stays. Monsoon slides can slow the road, so check current status before you travel."},
+    {"q": "Do Indians need a permit for Pelling and Rinchenpong", "a": "No. Indian nationals need no permit for Pelling, Yuksom, Khecheopalri or Rinchenpong; carry a photo ID for the Sikkim checkposts. Foreign nationals need a free Restricted Area Permit for Sikkim, valid 30 days, from e-FRRO online or at the Melli checkpost on the way in. Check current status before you travel."},
+    {"q": "Can we add Darjeeling to this honeymoon", "a": "Yes. Darjeeling is about 30 km from Jorethang, which you pass on the way out of Rinchenpong. Add two nights for the Tiger Hill sunrise, a toy-train joy ride on the Darjeeling Himalayan Railway and the tea rooms on the Mall, then drive down to Bagdogra in about 3–3.5 hours. The trip becomes 7 nights; ask us for revised fares."}
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "punakha",
+  "name": "Punakha",
+  "region": "bhutan",
+  "kind": "valley",
+  "wiki": "Punakha",
+  "image_query": "Punakha Dzong river confluence Bhutan",
+  "lat": 27.59,
+  "lng": 89.86,
+  "altitude_m": 1250,
+  "tagline": "The old capital where two rivers meet below a great dzong",
+  "meta_description": "Punakha guide: Punakha Dzong, Chimi Lhakhang, the suspension bridge, Khamsum Yulley Chorten, route permit, hotels and indicative 2026 costs for Indians.",
+  "summary": "Punakha is a warm, low valley at about 1,250 m, 75 km and 3 hours from Thimphu over Dochula pass. Punakha Dzong, at the meeting of two rivers, was Bhutan's seat of government until 1955. Give it two nights for the dzong, Chimi Lhakhang, the long suspension bridge and the Khamsum Yulley Chorten hike.",
+  "intro": [
+    "After the cold of Thimphu and the pine forests of Dochula, the road to Punakha drops more than 1,800 m into a different climate. Rice terraces step down to the riverbanks, banana and orange trees grow beside farmhouses, and in winter the days are warm enough for short sleeves. Punakha sits at about 1,200–1,300 m, which is why Bhutan's rulers and its central monk body have always wintered here. The Je Khenpo, the chief abbot, still moves down from Thimphu with his monks each winter.",
+    "The valley's centre of gravity is Punakha Dzong, built by the Zhabdrung Ngawang Namgyal in 1637–38 on a tongue of land where the Pho Chhu and Mo Chhu, the 'male' and 'female' rivers, meet. It is 180 m long and six storeys high, and many Bhutanese call it the most beautiful dzong in the country. It was the seat of government until the capital moved to Thimphu in 1955. Ugyen Wangchuck became the first hereditary king here in 1907, and the present king married Queen Jetsun Pema here in 2011.",
+    "Most visitors stay two nights. One day is enough for the dzong and Chimi Lhakhang; the second for the hike to Khamsum Yulley Namgyal Chorten, the suspension bridge and perhaps a gentle raft on the Mo Chhu. Spring brings jacaranda blossom around the dzong and the Punakha Drubchen festival in February or March. Because the valley is low, it is pleasant even in December and January, when Paro and Thimphu are freezing. A route permit from Thimphu is needed to come here; your guide arranges it."
+  ],
+  "story": {
+    "title": "The Divine Madman and the temple of Chimi",
+    "paras": [
+      "Drukpa Kunley (1455–1529) was a Tibetan yogi of the Drukpa school who taught by breaking every rule. Bhutanese stories have him drinking, singing bawdy songs and mocking pompous monks and officials, all to shake people out of their attachments. He is loved in Bhutan as a saint, not a joke. Tradition credits him with subduing a demoness at Dochula who took the form of a dog, and the name Chimi Lhakhang is linked to that story. He also introduced the painted phallus as a protection against the evil eye and gossip, which is why you see them on farmhouse walls.",
+      "The temple itself was built in 1499 by his cousin Ngawang Chogyal on a small round hill near Lobesa, where Drukpa Kunley had blessed the site. Couples hoping for children come from across Bhutan and beyond to receive a blessing: a lama touches them on the head with a wooden phallus said to have belonged to the saint, and some draw a bamboo slip from the altar to choose a name for the child. Visitors are welcome. Treat it as the place of prayer it is; the humour belongs to the stories, not to the people praying."
+    ],
+    "source": "Wikipedia, 'Chimi Lhakhang' and 'Drukpa Kunley' (1499 construction by Ngawang Chogyal; legends as told in Bhutanese tradition)"
+  },
+  "did_you_know": [
+    "Punakha Dzong was Bhutan's seat of government until 1955, when the capital moved to Thimphu.",
+    "The Zhabdrung Ngawang Namgyal's embalmed body is kept in the Machey Lhakhang inside Punakha Dzong, which is closed to visitors.",
+    "King Jigme Khesar Namgyel Wangchuck married Jetsun Pema at Punakha Dzong on 13 October 2011."
+  ],
+  "facts": [
+    ["Best months", "Oct – Apr"],
+    ["Nights we suggest", "2"],
+    ["Nearest airport", "Paro (PBH), ≈ 125 km · 4 h"],
+    ["From Thimphu", "≈ 75 km · 2.5–3 h via Dochula"],
+    ["Altitude", "≈ 1,200–1,300 m"],
+    ["Known for", "Punakha Dzong, Chimi Lhakhang, the suspension bridge, rice terraces"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "2",
+  "highlights": [
+    {"title": "Punakha Dzong at the river confluence", "text": "Built in 1637–38, six storeys high and 180 m long, with three courtyards. Cross the covered wooden bridge over the Mo Chhu to the steep entrance stair. The jacaranda trees around it flower lilac in spring. Entry about Nu 500, indicative 2026; long sleeves required."},
+    {"title": "Chimi Lhakhang, the fertility temple", "text": "A 20-minute walk through rice fields from Sopsokha village leads to the temple built in 1499 on ground blessed by Drukpa Kunley. Couples come for a blessing. Painted houses in Sopsokha show the protective phallus symbols linked to the saint."},
+    {"title": "The Punakha suspension bridge", "text": "One of the longest suspension bridges in Bhutan, hung with prayer flags over the Pho Chhu a short drive above the dzong. Walking across it as it sways in the wind is free and children love it; people with a strong fear of heights may not."},
+    {"title": "Khamsum Yulley Namgyal Chorten", "text": "A four-storey chorten built by Queen Mother Ashi Tshering Yangdon Wangchuck in 2004, on a ridge above the Mo Chhu. The 30–45 minute uphill walk through rice fields ends at a roof terrace with a view over the whole upper valley."},
+    {"title": "Rice terraces of Lobesa and Talo", "text": "The lower Punakha valley is Bhutan's rice bowl. In April–May the terraces are flooded and planted, in September–October gold before harvest. Walk the field bunds near Lobesa or drive up to Talo village for views over the valley."},
+    {"title": "Rafting on the Mo Chhu", "text": "Gentle grade 2–3 rafting runs of about 1.5–2 hours end near the dzong, with licensed operators. Best from March to May and October to November, when water levels are moderate. Expect ₹3,000–5,000 per person, indicative 2026; check current status before you travel."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car with guide", "text": "From Thimphu it is about 75 km over Dochula pass (3,100 m), 2.5–3 hours including a stop at the 108 chortens. Cars with driver cost ₹4,500–6,500 a day, indicative 2026. You need a route permit, issued in Thimphu on working days; check current status before you travel."},
+    {"mode": "From Paro airport", "text": "About 125 km and 4 hours via Thimphu and Dochula. Some itineraries fly into Paro and drive straight to Punakha to sleep low on the first night, which helps with altitude, then return to Thimphu and Paro."},
+    {"mode": "Bus", "text": "Bhutanese buses link Thimphu and Punakha (Khuruthang) for about Nu 150–250 a seat. As a tourist you would still need your guide with you and a route permit, so a hired car is usually simpler and not much dearer for a group."}
+  ],
+  "where_to_stay": "Most hotels are in three areas: Khuruthang, the small new town near the dzong; Lobesa, on the slopes near Chimi Lhakhang; and the hillsides above the Punakha river towards Wolakha. Hotel Lobesa is a small certified 3-star with valley views and good value. Dhensa Boutique Resort, in cottages above the valley, is our comfortable pick. At the top end, Punakha has Amankora's farmhouse lodge, COMO Uma Punakha and a Six Senses lodge. For the cheapest beds, certified 3-star hotels in Khuruthang cost ₹3,000–5,000 per room night, indicative 2026.",
+  "stays": ["hotel-lobesa-punakha", "dhensa-boutique-resort-punakha"],
+  "costs": [
+    ["Punakha Dzong entry", "≈ Nu 500 per person, indicative 2026"],
+    ["Chimi Lhakhang entry", "≈ Nu 500 per person, indicative 2026"],
+    ["Rafting on the Mo Chhu", "₹3,000–5,000 per person, indicative 2026"],
+    ["Certified 3-star hotel", "₹3,000–5,500 per room night, indicative 2026"],
+    ["Local lunch in Khuruthang", "₹250–450 per person, indicative 2026"]
+  ],
+  "budget_tip": "Punakha's lower altitude means cheaper heating-free nights in winter; stay in Khuruthang hotels rather than Lobesa resorts and walk to the dzong to save on car hours.",
+  "tips": [
+    "Get the route permit sorted in Thimphu on a weekday before you drive over Dochula; your guide applies with your entry permit. Check current status before you travel.",
+    "Punakha is hot from May to September, reaching the low 30s °C, so plan dzong visits for the morning.",
+    "Walk to Chimi Lhakhang along the field path rather than driving up; it takes 20 minutes and is the best part of the visit.",
+    "Wear long sleeves and trousers to the dzong; it is warm, so carry them in a bag and change at the entrance.",
+    "In February–March the Punakha Drubchen and Tshechu fill the valley; book hotels early if your dates overlap."
+  ],
+  "themes": ["monasteries", "festivals", "honeymoons", "family-trips"],
+  "nearby": ["dochula", "wangdue-phodrang", "gasa", "thimphu"],
+  "experiences": [
+    {
+      "slug": "punakha-dzong-visit",
+      "title": "Inside Punakha Dzong, the palace of great bliss",
+      "kind": "culture",
+      "duration": "2 hours",
+      "best_time": "Mornings, Oct–Apr (jacaranda in spring)",
+      "cost": "≈ Nu 500 entry, indicative 2026",
+      "image_query": "Punakha Dzong Bhutan",
+      "wiki": "Punakha Dzong",
+      "summary": "Punakha Dzong is where Bhutan was governed for three centuries and where its first king was crowned. We cover the wooden bridge, the three courtyards, what is open to visitors, the floods it has survived and the best time of day.",
+      "body": [
+        "Its full name, Pungthang Dechen Phodrang, means 'palace of great happiness'. The Zhabdrung Ngawang Namgyal built it in 1637–38 at the point where the Pho Chhu and Mo Chhu join. It is 180 m long, six storeys high and arranged around three courtyards: the first for administration, the second and third for the monk body. The Je Khenpo and the central monastic body spend the winter here. It was the seat of government until 1955, and Ugyen Wangchuck was enthroned here as the first hereditary king in 1907.",
+        "The dzong has lived through fire and flood. A major fire struck in 1986, and glacial lake outburst floods coming down the Pho Chhu damaged it several times, most seriously in 1994, when 23 people died in the valley. Restoration was completed in the following years. Inside the inner courtyard is the Machey Lhakhang, holding the embalmed body of the Zhabdrung; it is closed to visitors. The great assembly hall, with its gilded statues and painted pillars, is usually open.",
+        "Enter by the covered cantilever bridge over the Mo Chhu and climb the steep wooden stair at the gate, which can be drawn up in times of war. Mornings are best for light and temperature. In March and April the jacaranda trees around the walls flower lilac. Wear long sleeves and long trousers, no caps. Entry about Nu 500, indicative 2026. Photography is allowed in courtyards but not inside temples."
+      ],
+      "good_for": ["first-timers", "couples", "photographers", "seniors"],
+      "faqs": [
+        {"q": "What is the entry fee for Punakha Dzong", "a": "About Nu 500 per person for tourists, indicative 2026, with children usually paying half. Rupees are accepted at par. Your guide normally buys the tickets. Fees are revised from time to time, so check current status before you travel. Photography is allowed in the courtyards but not inside the temples."},
+        {"q": "When is the best time to visit Punakha Dzong", "a": "Mornings from October to April. The light is soft on the white walls, the air is cool, and the courtyards are quieter. March to April adds the lilac jacaranda bloom around the dzong. In February or March the Punakha Drubchen and Tshechu fill the dzong with dancers and pilgrims; spectacular, but crowded."},
+        {"q": "Why is Punakha Dzong important", "a": "It was Bhutan's seat of government until 1955, the place where Ugyen Wangchuck became the first hereditary king in 1907, and the winter home of the central monk body. It holds the embalmed body of the Zhabdrung, who unified Bhutan, and hosted the present king's wedding in 2011. Many Bhutanese consider it the finest dzong."}
+      ]
+    },
+    {
+      "slug": "punakha-chimi-lhakhang-walk",
+      "title": "The field walk to Chimi Lhakhang",
+      "kind": "spiritual",
+      "duration": "1.5–2 hours",
+      "best_time": "Mornings or late afternoon, Oct–May",
+      "cost": "≈ Nu 500 entry, indicative 2026",
+      "image_query": "Chimi Lhakhang Punakha temple fields",
+      "wiki": "Chimi Lhakhang",
+      "summary": "A 20-minute walk through rice fields from Sopsokha village to the temple of the Divine Madman. We explain the fertility blessing, the painted houses and how to visit respectfully, because this is a working place of prayer.",
+      "body": [
+        "The walk starts at Sopsokha, a roadside village about 10 km from Punakha on the Thimphu road. Many houses here have large phalluses painted beside the door, and shops sell carved wooden ones. These are protective symbols linked to Drukpa Kunley, the 15th-century yogi known as the Divine Madman, who taught that they ward off the evil eye and malicious gossip. From the village a footpath crosses rice terraces and a stream, then climbs a short slope to the temple on its rounded hillock. It takes about 20 minutes.",
+        "Chimi Lhakhang was built in 1499 by Ngawang Chogyal, Drukpa Kunley's cousin, where the saint had blessed the ground. Couples who want children come from across Bhutan and from abroad. A lama blesses them by touching their heads with a wooden phallus associated with the saint, and some draw bamboo slips from the altar to choose a name for the child. Inside, there are statues of Drukpa Kunley and the Zhabdrung and a large prayer wheel. Visitors may watch quietly.",
+        "Go in the morning when the light is clear over the fields, or late afternoon when tour groups have left. Wear long sleeves and trousers. Entry about Nu 500, indicative 2026. Treat the stories with the humour Bhutanese bring to them, but treat the people praying with respect: no jokes inside, no photographs of couples receiving blessings, and walk clockwise around the temple and the chorten."
+      ],
+      "good_for": ["couples", "photographers", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Why do couples visit Chimi Lhakhang", "a": "To receive a fertility blessing. The temple is linked to Drukpa Kunley, the Divine Madman, and couples hoping for children are blessed by a lama with a wooden phallus associated with the saint. Some draw a bamboo slip from the altar to name the child. It is taken seriously by Bhutanese; visitors should be respectful."},
+        {"q": "How long is the walk to Chimi Lhakhang", "a": "About 20 minutes each way from Sopsokha village on the Thimphu–Punakha road, through rice fields and over a small stream, with a gentle final climb. The path is easy and suits children and seniors, though it can be muddy after rain. Allow 1.5–2 hours in total including the temple."},
+        {"q": "Are the phallus paintings in Punakha offensive", "a": "They are not meant to be. In Bhutan the phallus is a protective symbol linked to the saint Drukpa Kunley, painted on houses to ward off the evil eye and gossip. Bhutanese treat it with humour and respect. Photograph the paintings if you like, but avoid crude jokes in front of locals."}
+      ]
+    },
+    {
+      "slug": "punakha-khamsum-yulley-chorten-hike",
+      "title": "Hike to Khamsum Yulley Namgyal Chorten",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Mornings, Oct–Apr",
+      "cost": "Free; small donation welcome",
+      "image_query": "Khamsum Yulley Namgyal Chorten Punakha",
+      "wiki": "Khamsum Yulley Namgyal Choeten",
+      "summary": "A short climb through rice fields to a four-storey chorten above the Mo Chhu, built by the Queen Mother in 2004. The roof terrace gives the best view of the upper Punakha valley. A good half-morning walk for most ages.",
+      "body": [
+        "Drive about 7 km up the Mo Chhu from Punakha Dzong to the footbridge near Yepaisa village. Cross the river on a suspension bridge strung with prayer flags, then follow the path uphill through rice terraces and pine. The climb takes 30–45 minutes, with about 150–200 m of height gain; it is steady but not steep. Farmers work the fields in spring and autumn, and children from the nearby village often wave from the bunds.",
+        "The chorten, Khamsum Yulley Namgyal, was built by Queen Mother Ashi Tshering Yangdon Wangchuck and completed in 2004, under the guidance of the lama Nyingkula. Its purpose is to remove obstacles for Bhutan and promote peace in the world. Unlike a solid stupa it has four storeys inside, painted with deities from the Vajrakilaya mandala. Climb the narrow inner stairs to the roof terrace.",
+        "From the top you see the Mo Chhu winding through the rice terraces, the villages of the upper valley and the hills towards Gasa. Spend half an hour, then walk down. There is no entry fee; a small offering is welcome. Go early in the day, as there is little shade and the valley is warm. Wear long sleeves and trousers for the interior. The route can be combined with rafting, which ends lower down the river."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "How difficult is the Khamsum Yulley Namgyal Chorten hike", "a": "Easy to moderate. It is a 30–45 minute uphill walk from the footbridge near Yepaisa village, gaining roughly 150–200 m through rice fields and pine. Children and fit seniors manage it at an easy pace. There is little shade, so go in the morning and carry water. The descent takes about 25 minutes."},
+        {"q": "Who built Khamsum Yulley Namgyal Chorten", "a": "Queen Mother Ashi Tshering Yangdon Wangchuck, completed in 2004, under the supervision of the lama Nyingkula, a disciple of Dudjom Rinpoche. It was built to remove obstacles for Bhutan and promote world peace, and holds images of the deities of the Vajrakilaya mandala on four floors."},
+        {"q": "Is there an entry fee for Khamsum Yulley Chorten", "a": "No fixed fee is charged; a small offering inside is welcome. You still need a licensed guide with you, as everywhere beyond the first checkpoint under the April 2026 Department of Tourism notification. Dress modestly, remove shoes inside and walk clockwise. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "punakha-suspension-bridge-and-river",
+      "title": "The suspension bridge and a gentle raft",
+      "kind": "adventure",
+      "duration": "1–3 hours",
+      "best_time": "Mar–May, Oct–Nov",
+      "cost": "Bridge free; rafting ₹3,000–5,000 per person, indicative 2026",
+      "image_query": "Punakha suspension bridge prayer flags",
+      "wiki": "",
+      "summary": "Walk the long, swaying suspension bridge over the Pho Chhu, then float down the Mo Chhu on an easy raft that ends in sight of the dzong. A light-hearted half day that families and couples enjoy.",
+      "body": [
+        "The Punakha suspension bridge crosses the Pho Chhu a short drive or 15-minute walk upstream from the dzong. It is one of the longest suspension bridges in Bhutan, a steel deck hung from cables and strung with prayer flags, linking the town side to villages across the river. It sways as you walk and the wind makes the flags crack. Locals use it daily, carrying shopping and schoolbags. Crossing and coming back takes 15–20 minutes, and it costs nothing.",
+        "Rafting is the other way to see the valley from the water. Licensed operators run easy trips on the Mo Chhu, mostly grade 2 with a few grade 3 rapids, lasting 1.5–2 hours and ending near Punakha Dzong. It is suitable for beginners and children from about 10, with helmets, life jackets and a trained guide on each raft. The Pho Chhu has stronger water for experienced paddlers in some seasons.",
+        "Best months are March to May and October to November, when the water is moderate and the weather warm. In the monsoon the rivers rise and trips may stop. Expect ₹3,000–5,000 per person, indicative 2026, depending on group size; your guide books it. Carry a change of clothes and a dry bag for your phone. Check current status before you travel, as operators change from year to year."
+      ],
+      "good_for": ["families", "students", "couples"],
+      "faqs": [
+        {"q": "How long is the Punakha suspension bridge", "a": "It is one of the longest suspension bridges in Bhutan, well over 100 m across the Pho Chhu. Figures quoted vary, so we do not give an exact length. It is free to cross, takes about 15–20 minutes there and back, and sways noticeably in the wind. People with a fear of heights may find it uncomfortable."},
+        {"q": "Is rafting in Punakha safe for beginners", "a": "Yes on the Mo Chhu, which is mostly grade 2 with a few grade 3 rapids. Operators provide helmets, life jackets and a guide on each raft, and children from about 10 usually join. Avoid the monsoon months when water is high. Book through your guide with a licensed operator and check current status before you travel."},
+        {"q": "How much does rafting cost in Punakha", "a": "About ₹3,000–5,000 per person for a 1.5–2 hour trip on the Mo Chhu, indicative 2026, depending on group size and operator. The price usually includes equipment, the river guide and transport back to the start. Your licensed tour guide still accompanies you on land."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do I need a permit to visit Punakha", "a": "Yes. The entry permit covers Thimphu and Paro only, so Punakha needs a route permit issued by the immigration office in Thimphu on working days. Your tour operator or guide arranges it with your entry permit and itinerary. Plan to be in Thimphu on a weekday before you drive to Punakha. Check current status before you travel."},
+    {"q": "How far is Punakha from Thimphu", "a": "About 75 km, 2.5–3 hours by car over Dochula pass at about 3,100 m. Most people stop at Dochula for 30–45 minutes to see the 108 chortens and, on clear days, the Himalayan range. In winter the pass can have snow and ice; check current status before you travel."},
+    {"q": "Is Punakha worth visiting", "a": "Yes. Punakha Dzong is the finest dzong in Bhutan for many visitors, and the valley adds Chimi Lhakhang, rice terraces, the suspension bridge and an easy chorten hike. It is also warmer than Thimphu and Paro, which makes winter trips more comfortable. Two nights is the right length."},
+    {"q": "What is the weather like in Punakha in winter", "a": "Mild. Days in December and January reach about 15–20 °C and nights stay a few degrees above freezing, which is why the monk body winters here. Skies are often clear. It is the most comfortable Bhutan valley in winter, but you still cross the cold Dochula pass to get there."},
+    {"q": "Is Punakha hot in summer", "a": "Yes. From May to August daytime temperatures reach around 30–33 °C with humidity, and the monsoon brings heavy rain from June to September. Mornings are pleasant. If you travel in summer, visit sites early and plan a rest in the afternoon. October to April is more comfortable."},
+    {"q": "Can I visit Punakha and Phobjikha on the same trip", "a": "Yes. Phobjikha is about 78 km and 3 hours from Punakha via Wangdue Phodrang. A common plan is two nights in Punakha and one or two in Phobjikha before returning to Thimphu or Paro. In crane season, November to February, Phobjikha is well worth the extra night. Both need a route permit."},
+    {"q": "When is the Punakha festival", "a": "The Punakha Drubchen and the Punakha Tshechu are held in February or March, following the lunar calendar. The Drubchen re-enacts the 17th-century victory over Tibetan forces, with local militia in traditional battle dress. Dates change every year, so check the official festival calendar and book hotels early."},
+    {"q": "Which is the best hotel in Punakha for a honeymoon", "a": "For a comfortable couple's stay, Dhensa Boutique Resort, in cottages above the valley, is our pick at roughly ₹15,000–25,000 per room night, indicative 2026. At the top end, COMO Uma Punakha, Amankora Punakha and Six Senses Punakha are among the best lodges in Bhutan. Budget couples can use Hotel Lobesa."},
+    {"q": "How much does a day in Punakha cost for Indian tourists", "a": "For two people, roughly ₹2,400 SDF, ₹2,000–3,000 guide, ₹4,500–6,500 car, ₹3,000–5,500 hotel, ₹1,500 food and ₹2,000 entry fees: about ₹15,000–20,000 for the pair. A group of four sharing car and guide pays much less per head. All figures indicative 2026."}
+  ]
+}

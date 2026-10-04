@@ -1,0 +1,113 @@
+{
+  "slug": "sikkim-darjeeling-grand-circuit-10n",
+  "title": "Sikkim and Darjeeling grand circuit, 10 nights",
+  "region": "west-sikkim",
+  "nights": 10,
+  "themes": ["mountain-views", "monasteries", "toy-train", "tea-gardens"],
+  "stops": [
+    {"place": "gangtok", "nights": 2},
+    {"place": "lachung", "nights": 2},
+    {"place": "gangtok", "nights": 1},
+    {"place": "ravangla", "nights": 1},
+    {"place": "pelling", "nights": 2},
+    {"place": "darjeeling", "nights": 2}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 33500,
+  "fares": {"budget": 33500, "comfort": 53000, "premium": 105000},
+  "fare_notes": {
+    "budget": "Budget hotels in Gangtok, Ravangla, Pelling and Darjeeling, and basic lodges in Lachung with all meals, as is standard there. North Sikkim on a group tour sharing an SUV with other travellers; a small car for your party elsewhere. Breakfast and dinner daily.",
+    "comfort": "Mid-range hotels such as Mt. Narsing Village Resort near Ravangla and Norbu Ghang Resort in Pelling, better-run Lachung lodges with attached bathrooms, and a comfortable Darjeeling hotel. Private SUV for your group on every day, including North Sikkim. Breakfast and dinner daily, all meals in Lachung.",
+    "premium": "Elgin Nor-Khill or Mayfair Spa Resort in Gangtok, the best rooms available in Lachung, Mt. Narsing's upper cottages, The Elgin Mount Pandim in Pelling, and Windamere Hotel or Mayfair Darjeeling. Private SUV with experienced hill drivers throughout, entry fees and the toy-train joy ride paid."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3564,
+  "meta_description": "Sikkim and Darjeeling in 10 nights: Gangtok, Lachung and Yumthang, Ravangla, Pelling and Darjeeling's toy train, from ₹33,500 per person.",
+  "summary": "A 10-night loop through Sikkim and the Darjeeling hills from Bagdogra or NJP. Gangtok, then two nights at Lachung for Yumthang Valley on a North Sikkim permit, the Buddha Park at Ravangla, Pemayangtse and Kangchenjunga at Pelling, and Tiger Hill and the toy train at Darjeeling. Long, varied and paced with rest built in.",
+  "intro": [
+    "This is the trip for people who want to see most of the region once. It runs in a loop: up the Teesta to Gangtok, north to Lachung and the Yumthang Valley at about 3,560 m, back through Gangtok, west across the state to Ravangla and Pelling, and down through Jorethang to Darjeeling. You never drive the same road twice except the North Sikkim Highway, and the long days are broken by easy ones.",
+    "Two warnings. North Sikkim needs a permit that only a registered Gangtok agency can arrange, and the state suspends it at short notice after landslides; if that happens, those two nights move to Pelling or Gangtok. And the roads are long: about 120 km and 6–7 hours each way to Lachung. Avoid June to September. Foreign nationals need a Sikkim Restricted Area Permit and a group of two or more for Lachung."
+  ],
+  "highlights": [
+    "Yumthang Valley at about 3,560 m, red with rhododendrons in April and May and snowy in winter",
+    "Two nights at Lachung, a mountain village run by its own council, the Dzumsa",
+    "The 130-foot Buddha at Ravangla, consecrated by the Dalai Lama in 2013",
+    "Pemayangtse Monastery, Rabdentse and Kangchenjunga at dawn from Pelling",
+    "Tiger Hill sunrise, Batasia Loop and a toy-train joy ride in Darjeeling"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station and follows the Teesta on NH10 through Sevoke to Rangpo, where Sikkim begins. Indian nationals need only photo ID; foreign nationals show or collect their Restricted Area Permit at Rangpo. In monsoon NH10 is often cut and drivers detour via Kalimpong, so check current status before you travel. Gangtok sits at about 1,650 m. Tonight, hand our agent two passport photos and an ID copy for each traveller for the North Sikkim permit. Evening walk on MG Marg, where cars and smoking are banned.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "Gangtok day while permits are filed", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 30 km local · 5 h",
+     "text": "An easy day at 1,650 m, which also helps you adjust before going higher. We visit Enchey Monastery above town, the Namgyal Institute of Tibetology, opened in 1958, and the Do Drul Chorten beside it. After lunch ride the Gangtok ropeway, ₹150–250 return, indicative, or rest. Buy or hire gloves, a warm cap and a heavy jacket if you have none; Yumthang is cold in every month. Our agent confirms the North Sikkim permit by evening. If it has been suspended after a landslide, we switch days 3 to 5 to an extra night here and two more in Pelling.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 120–125 km · 6–7 h",
+     "text": "We leave by 9 am on the North Sikkim Highway, past Kabi, Phodong and the Seven Sisters waterfall to Mangan, the district headquarters. Permits are checked at posts along the way. At Chungthang the road splits; we take the right branch up the Lachung valley. Parts of this road were rebuilt after the October 2023 Teesta flood, and short sections can still be rough. Lachung sits at about 2,700 m among apple orchards and wooden houses. Lodges serve all meals here, with a set dinner around 7 pm. Check current status before you travel.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 4, "title": "Yumthang Valley at first light", "place": "lachung", "overnight": "Lachung", "drive": "≈ 50 km round trip · 4–5 h",
+     "text": "Leave Lachung at about 6 am for Yumthang, about 24 km up the valley at about 3,560 m, inside the Shingba Rhododendron Sanctuary. In April and May the slopes are red and pink; from December to March there is snow and the road can close for days. Walk slowly at this height and drink water. Zero Point, at about 4,600–4,700 m and 23 km further, is an optional extra for Indian nationals only, ₹3,000–5,000 per vehicle, indicative, and often shut by snow. Back in Lachung for lunch; in the afternoon walk across the river to Lachung Monastery. Check current status before you travel.",
+     "meals": "Breakfast, lunch, dinner"},
+    {"day": 5, "title": "Lachung back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120–125 km · 6–7 h",
+     "text": "After breakfast we drive down the Lachung valley to Chungthang and on through Mangan and Phodong to Gangtok, with a lunch stop on the way. It is a long day in the car, so we make no other plans. Arrive in Gangtok by late afternoon, with time for a hot shower and a walk on MG Marg. If you have energy left, try thukpa or momos at one of the small eating houses in town. Tomorrow's drive is short, so there is no early start.",
+     "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Gangtok to Ravangla and the Buddha Park", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 65–75 km · 2.5–3 h",
+     "text": "A late start and a short drive down to Singtam on the Teesta and up to Ravangla at about 2,100 m. Ask about a tea stop at Temi Tea Garden, set up in 1969 under Sikkim's last Chogyal. In the afternoon we visit the Buddha Park, or Tathagata Tsal. Its 130-foot Buddha was built between 2006 and 2013 for the 2,550th birth anniversary of the Buddha, and the 14th Dalai Lama consecrated it on 25 March 2013, with Mount Narsing behind. Entry is ₹50–100, indicative. Ravangla also hosts the Pang Lhabsol celebrations each August or September.",
+     "meals": "Breakfast, dinner"},
+    {"day": 7, "title": "Ravangla to Pelling via Legship", "place": "pelling", "overnight": "Pelling", "drive": "≈ 50 km · 2–2.5 h",
+     "text": "After breakfast we drive through Kewzing down to Legship on the Rangeet, past the Kirateshwar Mahadev Temple, where Hindu tradition says Shiva appeared to Arjuna as a hunter. Then up through Gyalshing to Pelling at about 2,150 m for lunch. In the afternoon we visit Pemayangtse Monastery, founded in 1647 by Lhatsun Chenpo, one of the three lamas who crowned Sikkim's first Chogyal at Yuksom in 1642. On the top floor is a seven-tiered wooden model of Guru Rinpoche's heavenly palace, carved by Dungzin Rinpoche over five years. Ask for a mountain-facing room tonight.",
+     "meals": "Breakfast, dinner"},
+    {"day": 8, "title": "Kangchenjunga dawn, Rabdentse, Khecheopalri", "place": "pelling", "overnight": "Pelling", "drive": "≈ 70 km local · 6–7 h",
+     "text": "Be outside by 5:30 am for Kangchenjunga, 8,586 m, straight across the valley. After breakfast, a 15-minute forest walk to Rabdentse, Sikkim's capital from 1670 to 1814, now an ASI monument with chortens and the stone seat of the judges. Then the Chenrezig statue and the Skywalk at Sanga Choeling. After lunch drive about 30 km to Khecheopalri Lake, sacred to Buddhists and Hindus; legend says birds remove every leaf that falls on its water. Stop at Kanchenjunga Falls on the way back. Entry fees total under ₹300 each, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 9, "title": "Pelling to Darjeeling via Jorethang", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 75 km · 4–5 h",
+     "text": "We drive down through Gyalshing and Legship to Jorethang on the Rangeet, leave Sikkim, and climb about 1,700 m in 30 km through tea gardens to Darjeeling at about 2,050 m. The map distance looks short but the road is narrow and steep, so we allow 4–5 hours. Sikkim cars sometimes hand over to a West Bengal car at the border, which we arrange in advance. After check-in walk up to Chowrasta and along the Mall, and have tea in one of the old tea rooms. Monsoon slides can close this road, so check current status before you travel.",
+     "meals": "Breakfast, dinner"},
+    {"day": 10, "title": "Tiger Hill, Batasia Loop and the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km local · 6–7 h",
+     "text": "Leave at about 4 am for Tiger Hill, 2,590 m and about 11 km away, to watch the sun reach Kangchenjunga. On the way back stop at Ghum Monastery and Batasia Loop, built in 1919 to ease the railway's gradient, with its Gorkha war memorial. After breakfast take the toy-train joy ride on the Darjeeling Himalayan Railway, a UNESCO World Heritage Site, about 2 hours to Ghum and back, ₹1,000–1,800 a seat, indicative; book early and check current status before you travel. In the afternoon visit Happy Valley Tea Estate, started in 1854, about 3 km from town.",
+     "meals": "Breakfast, dinner"},
+    {"day": 11, "title": "Darjeeling to Bagdogra or NJP", "place": "siliguri", "overnight": "—", "drive": "≈ 70 km · 3–3.5 h",
+     "text": "Breakfast and a last look at the range, then the drive down through Ghum, Sonada and Kurseong, with the toy-train line beside the road and crossing it many times. Kurseong makes a good tea stop. The driver takes the Rohini or Pankhabari road, whichever is clearer that morning, and we reach Bagdogra or NJP in about 3–3.5 hours. Book flights after 1 pm or an evening train. After ten nights and about 800 km of hill roads, keep the day after you get home free. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["mount-narsing-village-resort-ravangla", "hotel-garuda-pelling", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling"],
+  "includes": [
+    "10 nights on twin sharing in the tier you choose",
+    "Breakfast and dinner daily, and all meals in Lachung",
+    "North Sikkim permit processing through a registered Gangtok agency",
+    "All transfers and sightseeing as in the plan; shared SUV for North Sikkim on budget, private elsewhere",
+    "Entry fees and the toy-train joy ride, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Zero Point beyond Yumthang, ₹3,000–5,000 per vehicle, indicative",
+    "Toy-train joy ride on budget and comfort, ₹1,000–1,800 a seat, indicative",
+    "Entry fees on budget and comfort, lunches outside Lachung, drinks and tips",
+    "Extra nights or costs caused by landslides, permit suspensions or road closures"
+  ],
+  "save_more": [
+    "Travel in late October to November or in March, outside the Puja and school-holiday peaks, when hotel rates are lower and North Sikkim group tours fill easily.",
+    "Take the budget tier's group tour for Lachung and Yumthang; sharing the SUV with other travellers costs far less than a private one.",
+    "Choose the diesel toy-train joy ride over steam, and skip Zero Point if you are not sure you want the extra height."
+  ],
+  "good_to_know": [
+    "North Sikkim permits go only through registered Gangtok agencies and can be suspended at a day's notice after landslides. Check current status before you travel.",
+    "Foreign nationals need a free Sikkim Restricted Area Permit and can usually visit Lachung and Yumthang only on a group permit for two or more; Zero Point is for Indian nationals only.",
+    "Yumthang, at about 3,560 m, is the highest point; walk slowly there, drink water and tell the driver at once if anyone feels unwell.",
+    "Mobile signal is weak beyond Mangan and power cuts are common in Lachung; carry cash, a power bank and a torch.",
+    "The plan has three drives of 6–7 hours; if anyone in your group gets badly car-sick, consider dropping the North Sikkim leg."
+  ],
+  "faqs": [
+    {"q": "Is 10 nights enough for Sikkim and Darjeeling", "a": "Yes, for a first trip that covers the main sights at a steady pace. Ten nights give Gangtok, two nights in Lachung for Yumthang, one at Ravangla, two in Pelling and two in Darjeeling. You will not see Tsomgo, Lachen or Gurudongmar; add two nights for those, or swap Lachung for the Tsomgo Lake day if you prefer shorter drives."},
+    {"q": "Do we need a permit for Lachung and Yumthang", "a": "Yes. North Sikkim permits are issued only through registered Gangtok travel agencies, usually a day ahead, with two passport photos and a copy of photo ID for each traveller. You cannot apply yourself. Foreign nationals need a group of two or more. The permit is checked at posts on the North Sikkim Highway. Check current status before you travel."},
+    {"q": "What happens if North Sikkim is closed during our trip", "a": "We change the plan, not cancel it. If permits are suspended after a landslide, days 3 to 5 become an extra night in Gangtok, with the Tsomgo or Rumtek option, and two more nights in Pelling for Yuksom and Khecheopalri. Hotel bookings are adjusted where possible; any extra cost from the change is explained before you agree."},
+    {"q": "When is the best time for Yumthang Valley", "a": "April and May for rhododendrons, when the valley turns red and pink. October and November for clear skies and autumn colour, which also suits the Pelling and Darjeeling ends of this trip. December to March brings snow and the Yumthang road can close for days. June to September is monsoon, with landslides and frequent permit suspensions."},
+    {"q": "Is Yumthang safe for older travellers", "a": "Usually yes for healthy adults. Yumthang is at about 3,560 m, and by then you will have spent two nights at Gangtok and one at Lachung, about 2,700 m. Walk slowly and drink water. Skip Zero Point, at about 4,600–4,700 m, if you have heart or lung conditions. The bigger strain for older travellers is the 6–7 hour drives."},
+    {"q": "How much does this 10-night trip cost per person", "a": "From ₹33,500 per person on twin sharing on our budget tier, with a shared North Sikkim group tour and budget hotels. Comfort, with a private SUV throughout and mid-range hotels, is about ₹53,000. Premium, with the Elgin hotels and Windamere or Mayfair, is about ₹1,05,000. These are indicative 2026 prices; peak weeks cost more."},
+    {"q": "Can we do this trip in reverse", "a": "Yes. Starting in Darjeeling and ending in Gangtok works just as well, and suits people who want the easy Darjeeling days first. The North Sikkim permit is then arranged during your Pelling stay so it is ready when you reach Gangtok. Keep at least one Gangtok night before Lachung to adjust and to collect the permit."},
+    {"q": "Which airport should we use for this trip", "a": "Bagdogra (IXB), at both ends. It is about 120 km from Gangtok and about 70 km from Darjeeling. NJP station near Siliguri works the same way for trains. Pakyong Airport near Gangtok had no scheduled flights as of 2026, so it does not help this route. Check current status before you travel."},
+    {"q": "What is Lachung known for", "a": "Lachung is a village at about 2,700 m in the Lachung valley of North Sikkim, the overnight base for Yumthang. It is run by its own traditional council, the Dzumsa. The valley grows apples, potatoes and barley; Lachung Monastery, a Nyingma gompa, stands across the river. From December to March it is usually under snow."}
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "sikkim-family-holiday-6n",
+  "title": "Sikkim family holiday: Gangtok, Ravangla, Pelling",
+  "region": "west-sikkim",
+  "nights": 6,
+  "themes": ["family-trips", "monasteries", "mountain-views"],
+  "stops": [
+    {"place": "gangtok", "nights": 2},
+    {"place": "ravangla", "nights": 1},
+    {"place": "pelling", "nights": 3}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 19500,
+  "fares": {"budget": 19500, "comfort": 31000, "premium": 66000},
+  "fare_notes": {
+    "budget": "Clean family-run hotels: a budget hotel in Gangtok, the roadside wing of Mt. Narsing Village Resort in Ravangla and Hotel Garuda in Upper Pelling, twin or family rooms. A small car or Bolero for your family only, not shared. Breakfast and dinner daily.",
+    "comfort": "A mid-range Gangtok hotel near MG Marg, the upper cottages at Mt. Narsing Village Resort and Norbu Ghang Resort in Pelling, with mountain-facing rooms requested. Private SUV with a driver used to families. Breakfast and dinner daily.",
+    "premium": "Elgin Nor-Khill or Mayfair Spa Resort in Gangtok, the best cottages at Mt. Narsing in Ravangla, and The Elgin Mount Pandim in Pelling, opposite Pemayangtse. Private SUV throughout, entry fees paid. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2150,
+  "meta_description": "Sikkim family holiday, 6 nights: Gangtok, Ravangla's Buddha Park and Pelling, short drives, easy days and mountain views, from ₹19,500 per person.",
+  "summary": "A 6-night Sikkim trip built around children and grandparents: two nights in Gangtok, one at Ravangla for the Buddha Park, three in Pelling facing Kangchenjunga. Apart from the first and last days, no drive runs past about 3 hours. Monasteries, a glass Skywalk, a sacred lake and waterfalls, with afternoons left for rest.",
+  "intro": [
+    "Family trips to Sikkim often go wrong in the car. Itineraries that cram Gangtok, Pelling and Darjeeling into five nights put children on hill roads for six hours a day. We built this one the other way round. The two long drives, from the plains and back, are fixed. Everything in between is short: Gangtok to Ravangla about 70 km, Ravangla to Pelling about 50 km, and the Pelling sightseeing within about 35 km of the hotel.",
+    "Each stop has one big, easy sight. Gangtok has MG Marg, where cars are banned, and a ropeway. Ravangla has the Buddha Park, whose 130-foot statue the Dalai Lama consecrated on 25 March 2013. Pelling has Kangchenjunga outside the window, the Skywalk, a sacred lake where, legend says, birds clear away every fallen leaf, and Kanchenjunga Falls by the road. October to December is best; April and May bring school-holiday crowds."
+  ],
+  "highlights": [
+    "MG Marg in Gangtok, car-free and safe for children to walk",
+    "The 130-foot Buddha at Ravangla, consecrated by the Dalai Lama in 2013, with Mount Narsing behind",
+    "Kangchenjunga from the hotel window in Pelling on clear mornings",
+    "The glass-floored Pelling Skywalk and the large Chenrezig statue beside it",
+    "Khecheopalri Lake and Kanchenjunga Falls on an easy day out"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station and follows the Teesta on NH10 through Sevoke to Rangpo, where Sikkim begins. Indian nationals need only photo ID; foreign nationals show or collect their Restricted Area Permit here. We stop for lunch on the way and give children a break every hour or so. In monsoon NH10 is often blocked and drivers detour via Kalimpong, which adds one to two hours, so check current status before you travel. Gangtok sits at about 1,650 m. Rest after check-in, then a short evening walk on MG Marg.",
+     "meals": "Dinner"},
+    {"day": 2, "title": "An easy Gangtok day", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 30 km local · 5 h",
+     "text": "A slow start. We visit Enchey Monastery above town, then the Namgyal Institute of Tibetology, opened in 1958, with its old manuscripts and thangkas, and the white Do Drul Chorten next to it. After lunch, ride the Gangtok ropeway, ₹150–250 return, indicative; children usually like it best. The evening is for MG Marg, where cars, smoking and spitting are banned and benches run down the middle. If your family wants snow, Tsomgo Lake at 3,753 m can replace this day for an extra charge, on a permit our agent arranges with photos and ID. Check current status before you travel.",
+     "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Gangtok to Ravangla and the Buddha Park", "place": "ravangla", "overnight": "Ravangla", "drive": "≈ 65–75 km · 2.5–3 h",
+     "text": "After breakfast we drive down to Singtam on the Teesta and climb to Ravangla at about 2,100 m. Ask the driver about a tea stop at Temi Tea Garden, set up in 1969 under the last Chogyal. Check in at Mt. Narsing Village Resort, about 4 km from town, and rest. In the afternoon we visit the Buddha Park, also called Tathagata Tsal. The 130-foot Buddha was built between 2006 and 2013 for the 2,550th birth anniversary of the Buddha, and consecrated by the Dalai Lama on 25 March 2013. Entry is ₹50–100, indicative, and there is space for children to walk round the gardens.",
+     "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Ravangla to Pelling, afternoon off", "place": "pelling", "overnight": "Pelling", "drive": "≈ 50 km · 2–2.5 h",
+     "text": "A clear morning at Ravangla may show Mount Narsing and Kabru from the resort. After breakfast we drive down through Kewzing to Legship on the Rangeet. The Kirateshwar Mahadev Temple stands by the river here; Hindu tradition says Shiva appeared to Arjuna at this spot in the form of a hunter. Then up through Gyalshing to Pelling at about 2,150 m, in time for lunch. The afternoon is free: children can play in the hotel garden while adults sit with tea and watch the cloud move off the range. Ask for a mountain-facing room.",
+     "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Pemayangtse, Rabdentse and the Skywalk", "place": "pelling", "overnight": "Pelling", "drive": "≈ 20 km local · 5–6 h",
+     "text": "Wake the family by 5:30 am if the sky is clear: Kangchenjunga, 8,586 m, turns pink at first light. After breakfast we visit Pemayangtse, founded in 1647; on the top floor is a seven-tiered wooden model of Guru Rinpoche's heavenly palace that children find fascinating. Next is Rabdentse, Sikkim's capital from 1670 to 1814, a 15-minute forest walk from the road; it makes a good ruins-and-forest outing. After lunch and a rest, the Chenrezig statue and the Skywalk, a glass-floored walkway with railings. Entry fees total under ₹200 a head, indicative.",
+     "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Khecheopalri Lake and Kanchenjunga Falls", "place": "pelling", "overnight": "Pelling", "drive": "≈ 70 km round trip · 5–6 h",
+     "text": "A gentle day out. We drive about 30 km to Khecheopalri Lake at about 1,700 m, sacred to Buddhists and Hindus. Its local name, Sho Dzo Sho, means \"Oh Lady, sit here\", and legend says birds pick up any leaf that falls on the water. A short flat path leads to the prayer-flag jetty; keep voices low, and note that boating, fishing and swimming are not allowed. On the way back we stop at Kanchenjunga Falls, fullest just after the monsoon, and the Rimbi river. Back in Pelling by mid-afternoon for a last evening on the ridge.",
+     "meals": "Breakfast, dinner"},
+    {"day": 7, "title": "Pelling to Bagdogra or NJP", "place": "siliguri", "overnight": "—", "drive": "≈ 140–150 km · 5–6.5 h",
+     "text": "We leave by 8 am after breakfast. The road runs down through Gyalshing and Legship to Jorethang, along the Rangeet to Melli and down the Teesta to Sevoke and Siliguri. Pack snacks, water and motion-sickness tablets for the children, taken before the drive rather than during it. We stop for lunch near Jorethang or Melli. NJP is about 140 km and Bagdogra about 150 km away. Book flights after 4 pm and trains in the evening, because a landslide or a slow truck can cost an hour. Check current status before you travel.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["mount-narsing-village-resort-ravangla", "norbu-ghang-resort-pelling", "elgin-mount-pandim-pelling", "hotel-garuda-pelling"],
+  "includes": [
+    "6 nights on twin sharing in the tier you choose; family rooms or extra beds on request",
+    "Breakfast and dinner daily",
+    "A private car for your family from arrival to departure, not shared",
+    "Gangtok, Ravangla and Pelling sightseeing as in the plan",
+    "Entry fees, on premium only"
+  ],
+  "excludes": [
+    "Flights and trains to Bagdogra or NJP",
+    "Tsomgo Lake day, permit and car, if you choose it",
+    "Ropeway tickets and entry fees on budget and comfort, under ₹600 per person in all, indicative",
+    "Lunches, drinks, snacks and tips",
+    "Extra nights or costs caused by landslides or road closures"
+  ],
+  "save_more": [
+    "Travel in late November, January or February, outside school holidays, when hotels in all three towns cut rates and mornings are clear.",
+    "Choose the budget tier but keep one comfort upgrade, a mountain-facing room in Pelling, where you spend three nights.",
+    "Skip the Tsomgo add-on if your children are under five; the snow day costs extra and the altitude rarely suits small children."
+  ],
+  "good_to_know": [
+    "Indian nationals need no permit for Gangtok, Ravangla or Pelling; carry photo ID for every family member, including school ID or Aadhaar for children.",
+    "Foreign nationals need a free Sikkim Restricted Area Permit, online through e-FRRO or at Rangpo; Tsomgo needs a separate permit. Check current status before you travel.",
+    "Plastic water bottles are discouraged in parts of Sikkim; carry refillable bottles for the family.",
+    "Pemayangtse and the other monasteries are working places of worship: dress modestly, walk clockwise and keep children from running inside.",
+    "Ravangla and Pelling are near 0 °C on winter mornings; pack thermals, caps and gloves for children."
+  ],
+  "faqs": [
+    {"q": "Is Sikkim good for a family holiday with small children", "a": "Yes, if the plan keeps drives short. Gangtok, Ravangla and Pelling are all around 1,650–2,150 m, which most children handle without trouble. The hard part is the road, so this trip limits every middle day to about 3 hours in the car. Carry snacks, motion-sickness tablets and warm layers, and give children a slow first evening."},
+    {"q": "How long are the drives on this family trip", "a": "The first and last days are the long ones: about 120 km and 4.5–5.5 hours to Gangtok, and 140–150 km and 5–6.5 hours from Pelling back to the plains. In between, Gangtok to Ravangla is 2.5–3 hours, Ravangla to Pelling 2–2.5 hours, and the Khecheopalri day about 70 km round trip."},
+    {"q": "Can we add Tsomgo Lake for the children to see snow", "a": "Yes, as a paid swap for the Gangtok town day. Tsomgo is at 3,753 m, about 38 km from Gangtok, and needs a Protected Area Permit arranged by a registered agent with photos and ID. There is usually snow from about December to March. We do not suggest it for children under five. Check current status before you travel."},
+    {"q": "What is the best month for a family trip to Sikkim", "a": "October to early December gives clear views and dry roads, though October is busy during the Puja holidays. March to May is pleasant and green, with haze on the mountains; April and May are school-holiday peak. January and February are cold but cheap and clear. We avoid June to September because of monsoon landslides."},
+    {"q": "Is the Pelling Skywalk safe for children", "a": "Yes, with an adult holding younger children's hands. It is a glass-floored walkway with railings that leads towards the Chenrezig statue at Sanga Choeling. Some children love it and some refuse to step on the glass; the stone paths and the statue are fine either way. It can close in bad weather or for repairs, so check current status before you travel."},
+    {"q": "Do children need a permit or ID for Sikkim", "a": "Indian children need no permit for this trip, but carry an ID for each child, such as a school ID, Aadhaar or birth certificate copy, because checkposts and hotels may ask. Foreign children need the same free Restricted Area Permit as adults, usually applied for with the family. Check current status before you travel."},
+    {"q": "What food can children eat in Sikkim", "a": "Plenty. Hotels serve rice, dal, vegetables, eggs, noodles and plain chapati, and most will make a mild dish on request. Momos and thukpa, a noodle soup, suit most children. In Pelling and Ravangla food is simple and you eat at the hotel most evenings. Carry favourite snacks and any baby food, as small towns stock little."},
+    {"q": "What is the story of the Buddha Park at Ravangla", "a": "The Buddha Park, or Tathagata Tsal, was built between 2006 and 2013 to mark the 2,550th birth anniversary of the Buddha. Its seated Buddha is 130 feet, about 40 m, tall, and the 14th Dalai Lama consecrated it on 25 March 2013. On a clear day Mount Narsing rises behind it. Entry is about ₹50–100, indicative."},
+    {"q": "Can grandparents manage this trip", "a": "Yes. There are no treks, the sights have short paths, and the highest overnight is Pelling at about 2,150 m. The steepest bits are the steps at Pemayangtse and the 15-minute forest path to Rabdentse, which can be skipped. Older travellers should break the long first and last drives with stops every hour or so."}
+  ]
+}

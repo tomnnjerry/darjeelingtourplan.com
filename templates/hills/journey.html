@@ -1,0 +1,84 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ j.title }}: {{ j.nights }} nights from {{ j.price_from_inr|inr }} · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ j.meta_description }}{% endblock %}
+{% block og_image %}{% with img=j|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ r.slug }}"{% if j.max_alt %} data-alt-from="122" data-alt-to="{{ j.max_alt }}" data-alt-label="Highest point" data-alt-marks='{{ j.stop_objs|stopmarks }}'{% endif %}{% endblock %}
+{% block fab_land %}&land={{ r.slug }}&journey={{ j.title|urlencode }}{% endblock %}
+{% block crumbs %}{% endblock %}
+{% block content %}
+<header class="phead on-dark">
+  {% with img=j|first_img %}{% if img %}<div class="phead__bg"><img src="{{ img|src:1920 }}" srcset="{{ img|srcset }}" sizes="100vw" alt="" fetchpriority="high"></div>
+  <span class="credit-over">Photo: <a href="{{ img.source }}" rel="noopener" target="_blank">{{ img|short_credit }}</a>, Wikimedia Commons</span>{% endif %}{% endwith %}
+  {% include "hills/partials/crumbs.html" with over_crumbs=True %}
+  <div class="wrap phead__in">
+    <p class="eyebrow">{% icon r.slug %} {{ r.name }} · tour package Nº {{ j.serial }}</p>
+    <h1 class="h-xl" style="max-width: 20ch">{{ j.title }}</h1>
+    <div class="phead__facts"><span>{% icon "clock" %}{{ j.nights }} nights / {{ j.days_count }} days</span><span>{% icon "ticket" %}From {{ j.price_from_inr|inr }} per person</span><span>{% icon "altitude" %}Up to {{ j.max_alt|intcomma_in }} m</span><span>{% icon "calendar" %}Best {{ j.best_label }}</span><span>{% icon "route" %}{{ j.pace }}</span></div>
+    <div class="ribbon" style="color: var(--ink)">{% for s in j.stop_objs %}<a href="{{ s.obj.url }}">{{ s.obj.name }} <small>{{ s.nights }}N</small></a>{% endfor %}</div>
+  </div>
+</header>
+
+<section class="sec--tight"><div class="wrap split">
+  <div>
+    <div class="answer" style="margin-top: 0">{{ j.summary }}</div>
+    <div class="prose" style="margin-top: 26px">{% for para in j.intro %}<p>{{ para }}</p>{% endfor %}</div>
+    <div class="block" id="fares" style="margin-top: 36px">
+      <p class="eyebrow">{% icon "ticket" %} Fare chart</p>
+      <h2 class="h-l" style="margin-bottom: 8px">Pick your class</h2>
+      <p class="muted" style="margin-bottom: 22px">The same route at three price levels. The difference is the room, the car and the meals, never the safety or the permits.</p>
+      {% include "hills/partials/fares.html" %}
+    </div>
+  </div>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">At a glance</p><ul class="ledger">
+      <li><span>Length</span><i></i><b>{{ j.nights }} nights</b></li><li><span>Starts</span><i></i><b>{{ j.start }}</b></li><li><span>Ends</span><i></i><b>{{ j.end }}</b></li>
+      <li><span>Pace</span><i></i><b>{{ j.pace }}</b></li><li><span>Highest</span><i></i><b>{{ j.max_alt|intcomma_in }} m</b></li></ul>
+      <div style="margin-top: 18px">{% include "hills/partials/mbar.html" with bar=j.bar label=j.best_label %}</div></div>
+    <div class="panel panel--dark"><p class="eyebrow">Highlights</p><ul class="ticks">{% for h in j.highlights %}<li>{{ h }}</li>{% endfor %}</ul></div>
+  </aside>
+</div></section>
+
+{% include "hills/partials/lungta.html" %}
+
+<section class="sec" id="days"><div class="wrap split">
+  <div>
+    <p class="eyebrow">Day by day</p><h2 class="h-l" style="margin-bottom: 30px">The timetable</h2>
+    <ol class="days">{% for d in j.days %}<li class="day rv"><span class="day__n">Day<b>{{ d.day }}</b></span><div>
+      <h3>{{ d.title }}</h3>
+      <div class="day__meta">{% if d.drive %}<span class="chip">{% icon "jeep" %}{{ d.drive }}</span>{% endif %}{% if d.overnight %}<span class="chip">{% icon "bed" %}{{ d.overnight }}</span>{% endif %}{% if d.meals %}<span class="chip">{% icon "food" %}{{ d.meals }}</span>{% endif %}{% if d.place_obj %}<a class="chip chip--land" href="{{ d.place_obj.url }}">{{ d.place_obj.name }} guide</a>{% endif %}</div>
+      <p>{{ d.text }}</p></div></li>{% endfor %}</ol>
+  </div>
+  <aside class="split__aside">
+    {% include "hills/partials/quick_form.html" with qf_id="journey-aside" qf_land=r.slug qf_title="Get this plan priced" qf_message="Package: "|add:j.title %}
+  </aside>
+</div></section>
+
+<section class="sec sec--paper2"><div class="wrap">
+  <div class="grid grid--3">
+    <div class="panel"><p class="eyebrow">Included</p><ul class="ticks">{% for x in j.includes %}<li>{{ x }}</li>{% endfor %}</ul></div>
+    <div class="panel"><p class="eyebrow">Not included</p><ul class="ticks ticks--no">{% for x in j.excludes %}<li>{{ x }}</li>{% endfor %}</ul></div>
+    <div class="panel panel--signal"><p class="eyebrow" style="color: var(--ink)">{% icon "ticket" %} Make it cheaper</p><ol class="tips">{% for x in j.save_more %}<li>{{ x }}</li>{% endfor %}</ol></div>
+  </div>
+  {% if j.good_to_know %}<div class="panel panel--line" style="margin-top: 22px"><p class="eyebrow">Good to know</p><ul class="tips">{% for x in j.good_to_know %}<li>{{ x }}</li>{% endfor %}</ul></div>{% endif %}
+</div></section>
+
+<section class="sec--tight"><div class="wrap"><p class="eyebrow">The route</p>{% atlas map_points region=r.slug route=True %}</div></section>
+
+{% if j.stay_objs %}<section class="sec"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Where you could sleep</p><h2 class="h-l">Stays on this route</h2></div></div>
+  <div class="grid grid--3" data-fill>{% for s in j.stay_objs %}{% include "hills/partials/card_stay.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div>
+</div></section>{% endif %}
+
+<section class="sec"><div class="wrap wrap--narrow">{% include "hills/partials/faq.html" with faqs=j.faqs faq_title="About this package" %}</div></section>
+
+{% if related %}<section class="sec sec--tint"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Similar packages</p><h2 class="h-l">Other ways to do {{ r.short }}</h2></div><a class="link-go" href="{{ r.url }}#packages">All {{ r.short }} packages {% icon "arrow" %}</a></div>
+  <div class="grid grid--4" data-fill>{% for j in related %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=r.slug %}</div>
+</div></section>{% endif %}
+
+<div class="buybar" data-buybar hidden><div class="wrap buybar__in">
+  <div class="buybar__t"><b>{{ j.title }}</b><small>{{ j.nights }} nights · {% for s in j.stop_objs %}{{ s.obj.name }}{% if not forloop.last %} → {% endif %}{% endfor %}</small></div>
+  <div class="buybar__fare" data-buybar-fare>{{ j.price_from_inr|inr }}<small>Budget · per person</small></div>
+  <a class="btn btn--sm" href="#fares" data-cta="buybar-fares">Choose fare</a>
+</div></div>
+{% endblock %}

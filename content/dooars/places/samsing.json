@@ -1,0 +1,173 @@
+{
+  "slug": "samsing",
+  "name": "Samsing, Rocky Island and Suntalekhola",
+  "region": "dooars",
+  "kind": "village",
+  "wiki": "Samsing",
+  "image_query": "Samsing tea garden Dooars hills",
+  "lat": 26.91,
+  "lng": 88.79,
+  "altitude_m": 750,
+  "tagline": "Where the plains end: tea slopes, river stones and a hanging bridge",
+  "meta_description": "Samsing, Rocky Island and Suntalekhola guide: tea slopes at 750 m, the Murti river camps, the Suntalekhola bridge, Neora Valley edge, how to reach, costs.",
+  "summary": "Samsing is a tea village at about 750 m where the Dooars plains meet the first hills, about 85 km and 2.5 hours from Siliguri and an hour from Lataguri. Rocky Island, a stony bend of the Murti river, is 2 km beyond, and Suntalekhola, with its hanging bridge, a few km further. Cooler than the plains, it is the gateway to Neora Valley.",
+  "intro": [
+    "Drive north from Chalsa or Matelli and the road leaves the flat tea of the plains, crosses the Murti, and starts to climb. Samsing is where it levels out briefly at about 750 m on a ridge of tea gardens, with the forests of the Neora Valley rising behind. It is a few degrees cooler than Lataguri, the air is clearer, and on winter mornings you can look back over the whole spread of the Dooars below.",
+    "Beyond Samsing the road drops to the Murti again at Rocky Island, a wide bend where the river runs over and between huge rounded boulders. A few kilometres on is Suntalekhola, a forest stream crossed by a suspension footbridge, with a forest corporation camp in the trees. The name simply means 'orange stream' in Nepali.",
+    "This area is the southern doorway to the Neora Valley National Park, one of the richest forests in the eastern Himalaya, which belongs to the Kalimpong hills. Treks and forest walks begin from here with permits and guides. For most visitors, though, Samsing, Rocky Island and Suntalekhola are a calm, cheap overnight or a long day trip from Lataguri: tea, river and forest without the crowds."
+  ],
+  "story": {
+    "title": "Tea where the plains run out",
+    "paras": [
+      "Samsing grew as a tea estate on the outer slope of the hills, where the land was high enough to drain well but still close to the plains for transport. Workers came from the plains and the hills, so the village today mixes Adivasi and Nepali families, and you hear both Sadri and Nepali. The garden roads and the factory still shape daily life, and tea bushes run right up to the forest edge.",
+      "Above the gardens begins the forest that runs up to the Neora Valley. Suntalekhola and Mouchuki became small eco-tourism camps on that edge, and Rocky Island became a popular river spot for groups who camp and picnic on the boulders. All three depend on the river staying clean and the forest staying whole; local homestays and guides have a stake in both."
+    ],
+    "source": "Wikipedia 'Samsing'; North Bengal tourism and forest corporation descriptions of Suntalekhola and Rocky Island"
+  },
+  "did_you_know": [
+    "Samsing sits at about 750 m, the point where the Dooars plains rise into the first folds of the eastern Himalaya.",
+    "Rocky Island is a bend of the Murti river about 2 km from Samsing, named for the huge rounded boulders in its bed.",
+    "Suntalekhola means 'orange stream' in Nepali, from suntala (orange) and khola (stream)."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 95 km"],
+    ["From Siliguri", "≈ 85 km · 2.5 h"],
+    ["Altitude", "≈ 750 m"],
+    ["Known for", "Tea slopes, Rocky Island, Neora Valley edge"]
+  ],
+  "best_months": [2, 2, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Tea slopes with a view", "text": "Samsing's gardens run along a ridge at about 750 m. From the estate roads on a clear morning you look south over the Dooars plains, the Murti valley and the forests of Gorumara."},
+    {"title": "Rocky Island on the Murti", "text": "Two km beyond Samsing, the Murti tumbles over huge boulders in a wide bend. In winter the water is clear and low; sit on the rocks, listen to the river, and watch for forktails and redstarts."},
+    {"title": "Suntalekhola hanging bridge", "text": "A suspension footbridge crosses the Suntale Khola stream near the forest corporation's camp. It sways gently, and the views up and down the forested stream are lovely."},
+    {"title": "Edge of the Neora Valley", "text": "Forest trails from this side lead towards Neora Valley National Park, home to red pandas higher up and rich birdlife. Entry needs permits and a guide; ask locally."},
+    {"title": "Cooler nights", "text": "At 750 m Samsing is cooler than the plains, which helps in April and May. Winter nights can drop near 8–10 °C, so pack a jacket."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "From Siliguri, drive via Sevoke, Malbazar, Chalsa and Matelli to Samsing, about 85 km in two and a half hours. A reserved car costs ₹3,000–4,000, indicative 2026. From Lataguri it is about 35–40 km, one to one and a quarter hours."},
+    {"mode": "Shared vehicle", "text": "Shared jeeps and local buses run between Malbazar or Chalsa and Matelli, with a few vehicles on to Samsing, mostly in the morning. Expect ₹50–150 a seat, indicative 2026. Ask in Chalsa the day before."},
+    {"mode": "Rail", "text": "Chalsa station on the Dooars line is about 17 km away via Matelli. From there, hire a car or auto; arrange a pickup with your homestay in advance."}
+  ],
+  "where_to_stay": "Samsing has homestays and small lodges around the village and tea estate, typically ₹1,500–3,000 a night with meals arranged. The West Bengal Forest Development Corporation runs a nature resort at Suntalekhola among the trees, and there are camps and homestays near Rocky Island. Facilities are simple; expect hot water by bucket in some places and patchy mobile signal. Many travellers visit on a day trip from Lataguri, Murti or Chalsa.",
+  "stays": [],
+  "costs": [
+    ["Homestay with meals", "₹1,500–3,000 per person a night, indicative 2026"],
+    ["Car Lataguri → Samsing and Rocky Island (day)", "₹2,000–3,000, indicative 2026"],
+    ["Local guide for a forest-edge walk", "₹500–1,000 per group, indicative 2026"],
+    ["Entry or parking at Rocky Island", "₹20–50, indicative 2026"]
+  ],
+  "budget_tip": "Stay one night at a Samsing homestay with meals included instead of a Lataguri resort; it costs about the same per person and you get the river and tea slopes for free.",
+  "tips": [
+    "Do not swim at Rocky Island; the water is cold, the current strong and the boulders slippery.",
+    "Carry cash; there are few ATMs beyond Chalsa and Malbazar.",
+    "Ask before walking into the forest above Suntalekhola; parts are protected and need a permit and guide.",
+    "Weekends from December to February bring picnic groups; come midweek for quiet.",
+    "Leeches are common on forest paths after rain; wear long socks."
+  ],
+  "themes": ["tea-gardens", "village-homestays", "treks-and-walks", "budget-trips"],
+  "nearby": ["murti", "chapramari-wildlife-sanctuary", "lataguri", "jhalong"],
+  "experiences": [
+    {
+      "slug": "samsing-rocky-island-river-day",
+      "title": "A day on the boulders at Rocky Island",
+      "kind": "nature",
+      "duration": "2–4 hours",
+      "best_time": "Nov – Apr",
+      "cost": "₹20–50 entry or parking, indicative",
+      "image_query": "Rocky Island Murti river Samsing",
+      "wiki": "",
+      "summary": "Rocky Island is a bend of the Murti about 2 km beyond Samsing where the river runs over and around enormous rounded boulders. In winter it is clear, loud and cold, and one of the best places in the Dooars to simply sit by water.",
+      "body": [
+        "The road from Samsing drops to the river and ends near a wide bed of boulders, some as big as cars, rounded by centuries of floods. In the dry months the Murti runs between them in fast channels and pools. Climb onto a flat rock, sit, and listen. Forest rises on both banks, and the air is cool even at midday.",
+        "Watch for river birds: plumbeous and white-capped redstarts flicking on the stones, forktails along the edges, and wagtails in winter. Small camps near Rocky Island offer tents and meals for those who want to stay the night, and some arrange a fire in the evening where allowed.",
+        "Rocks are slippery when wet and the channels are deep in places. Do not swim, do not let children jump between boulders, and stay off the river altogether after rain upstream, when the level can rise quickly. Carry your rubbish back with you; litter is a problem on busy weekends."
+      ],
+      "good_for": ["families", "couples", "photographers", "students"],
+      "faqs": [
+        {"q": "Where is Rocky Island in the Dooars", "a": "Rocky Island is on the Murti river about 2 km beyond Samsing, in Jalpaiguri district, roughly an hour from Lataguri and two and a half hours from Siliguri. It is named for the huge rounded boulders in the riverbed. Access is by car or a short walk from the road end."},
+        {"q": "Can I stay overnight at Rocky Island", "a": "Yes. There are small camps and homestays near Rocky Island and in Samsing with tents or simple rooms and meals. Facilities are basic. Book ahead for weekends in winter. Check what is included, especially hot water and bedding."},
+        {"q": "Is Rocky Island safe for children", "a": "With close supervision, yes. The boulders are slippery and the river channels are fast and cold, so keep children off the wet rocks and out of the water. Do not visit during or just after heavy rain. Bring a change of clothes in case of splashes."}
+      ]
+    },
+    {
+      "slug": "samsing-suntalekhola-hanging-bridge",
+      "title": "Suntalekhola and its hanging bridge",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Oct – Apr",
+      "cost": "Free; small parking fees, indicative",
+      "image_query": "Suntalekhola hanging bridge",
+      "wiki": "",
+      "summary": "A few kilometres beyond Samsing, the Suntale Khola stream runs through forest and is crossed by a swaying suspension footbridge. The forest corporation's camp sits among the trees nearby, and short walks lead along the stream.",
+      "body": [
+        "Suntalekhola is a small forest settlement where the 'orange stream' comes down from the hills to meet the Murti. The suspension footbridge across it is the main sight: a narrow walkway on steel cables, with views up the wooded valley and down to the clear water. It sways as you walk, which children enjoy and some adults do not.",
+        "Around the bridge, paths follow the stream and lead into the forest edge. Birds are good here: barbets, laughingthrushes, sunbirds and, in winter, redstarts on the rocks. The West Bengal Forest Development Corporation runs a nature resort in the trees, and a few homestays are nearby.",
+        "Cross the bridge a few people at a time and do not jump on it. Forest trails beyond the immediate area lead towards Neora Valley and need permission and a guide. Bring a light jacket; it is cooler and shadier here than Samsing."
+      ],
+      "good_for": ["families", "couples", "photographers"],
+      "faqs": [
+        {"q": "How far is Suntalekhola from Samsing", "a": "A few kilometres, about 15–20 minutes by car beyond Samsing on the road towards the forest. From Lataguri, the whole drive to Suntalekhola is roughly one and a half hours. Roads are narrow and steep in parts but paved."},
+        {"q": "Can I stay at Suntalekhola", "a": "Yes. The West Bengal Forest Development Corporation runs a nature resort at Suntalekhola, and there are homestays nearby. Book the forest corporation property through its website. Expect simple rooms, set meals and patchy mobile signal."},
+        {"q": "Is the Suntalekhola hanging bridge safe", "a": "It is used daily by locals and visitors and is safe if you cross a few people at a time and walk normally. Do not jump or swing on it. People with a fear of heights may find the sway uncomfortable. Hold children's hands."}
+      ]
+    },
+    {
+      "slug": "samsing-tea-slope-morning-walk",
+      "title": "A morning walk on the Samsing tea slopes",
+      "kind": "tea",
+      "duration": "2 hours",
+      "best_time": "Mornings, Oct – May",
+      "cost": "Free; guide ₹300–700, indicative",
+      "image_query": "Samsing tea estate morning",
+      "wiki": "",
+      "summary": "Samsing's tea estate climbs a ridge at about 750 m. An early walk along the estate roads gives wide views over the plains and close-up looks at how hill-edge tea is grown and plucked.",
+      "body": [
+        "Walk out of the village along the estate roads as the sun comes up. The gardens here sit on slopes rather than flat land, so the rows curve around the hill and you get views down the Murti valley and out over the Dooars. On the clearest winter mornings, the plains below are covered in a sea of mist.",
+        "From March onwards, pluckers work the slopes in the morning. Your guide or host can explain the plucking rounds, why shade trees are planted, and how Samsing's tea differs from the flat gardens of the plains. You may pass the factory, where the smell of withering and drying leaf carries on the breeze.",
+        "Stay on estate roads, ask before photographing workers, and give way to tractors and lorries. Carry water and a jacket. Return for breakfast at your homestay and a cup of the local tea."
+      ],
+      "good_for": ["couples", "photographers", "seniors", "solo"],
+      "faqs": [
+        {"q": "Is Samsing a tea garden", "a": "Yes. Samsing is a tea estate village at about 750 m on the edge of the hills, with gardens running along the ridge and down the slopes. Estate roads make good walks. Ask your homestay about factory visits during the plucking season."},
+        {"q": "What is the weather like in Samsing", "a": "Cooler than the plains: winter days are pleasant and nights can fall to about 8–10 °C, while April and May are warm but less humid than Lataguri. The monsoon, June to September, is very wet with landslide risk. October to May is best."},
+        {"q": "Can I see the Himalaya from Samsing", "a": "Samsing sits on the outer ridge, so the high snow peaks are mostly hidden by the hills behind it. The views are south and east over the plains and forests. For snow peaks, go higher, to Lava, Kalimpong or Darjeeling."}
+      ]
+    },
+    {
+      "slug": "samsing-neora-forest-edge-walk",
+      "title": "Forest-edge walk towards Neora Valley",
+      "kind": "adventure",
+      "duration": "3–5 hours",
+      "best_time": "Nov – Apr",
+      "cost": "₹500–1,500 guide plus permits, indicative",
+      "image_query": "Neora Valley National Park forest",
+      "wiki": "Neora Valley National Park",
+      "summary": "Above Samsing and Suntalekhola, forest trails climb towards the Neora Valley National Park. A guided half-day walk on permitted trails gives a taste of one of the richest forests in the eastern Himalaya.",
+      "body": [
+        "Neora Valley National Park covers the high forest north of Samsing and is managed from the Kalimpong side. Its lower slopes, near Samsing, Suntalekhola and Mouchuki, are dense subtropical forest with tall trees, ferns, orchids and many birds. Higher up, beyond day-walk range, it holds red pandas and temperate forest.",
+        "Forest walks from this side need permission from the forest department and a local guide, and some trails are closed in certain seasons. Your homestay or the forest camp can tell you which routes are open and arrange both. A typical half-day walk climbs steadily through forest for a couple of hours and returns the same way.",
+        "Expect steep, sometimes slippery paths, leeches after rain, and little chance of seeing big mammals; the rewards are birds, plants and the forest itself. Wear proper shoes and long socks, carry water and snacks, and start early. Do not go off-trail. Check current status before you travel."
+      ],
+      "good_for": ["students", "solo", "couples"],
+      "faqs": [
+        {"q": "Can I trek to Neora Valley from Samsing", "a": "Lower trails towards Neora Valley start near Samsing, Suntalekhola and Mouchuki, but you need forest department permission and a local guide, and routes open and close by season. Longer treks into the park are usually organised from the Lava side. Check current status before you travel."},
+        {"q": "Will I see a red panda near Samsing", "a": "Very unlikely. Red pandas live in the higher temperate forests of Neora Valley, well above day-walk range from Samsing. On lower trails you are more likely to see birds, squirrels, butterflies and plants. Sightings of large mammals are rare anywhere in this dense forest."},
+        {"q": "Do I need a permit for Neora Valley", "a": "Yes. Entry into Neora Valley National Park needs permission from the forest department, usually arranged with a registered guide. Fees and rules change, and the park closes in the monsoon. Ask your homestay or the forest camp, and check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Samsing from Lataguri", "a": "About 35–40 km, one to one and a quarter hours by car via Chalsa and Matelli. A day trip covering Samsing, Rocky Island and Suntalekhola costs about ₹2,000–3,000 for a car, indicative 2026. Siliguri is about 85 km and two and a half hours away."},
+    {"q": "Is Samsing worth visiting", "a": "Yes, if you enjoy quiet, tea slopes and rivers more than safaris. It is cooler than the plains, with good views and the clear Murti at Rocky Island. It also makes a gentle change after two nights of early safaris at Lataguri or Jaldapara."},
+    {"q": "Where should I stay in Samsing", "a": "Homestays and small lodges in Samsing village and near the tea estate charge ₹1,500–3,000 per person with meals, indicative 2026. The forest corporation has a nature resort at Suntalekhola, and there are camps near Rocky Island. Book weekends ahead from December to February."},
+    {"q": "Is one day enough for Samsing", "a": "A day trip from Lataguri, Murti or Chalsa covers Samsing's tea slopes, Rocky Island and Suntalekhola comfortably. Stay a night if you want dawn on the tea slopes, an evening by the river and a forest-edge walk the next morning."},
+    {"q": "What is the best time to visit Samsing", "a": "October to May. November to February is clear and cool; March to May is warmer but still pleasant at 750 m. The monsoon, June to September, brings heavy rain, swollen rivers and landslide risk. Avoid river spots during heavy rain."},
+    {"q": "Is there mobile network in Samsing", "a": "Major networks work in parts of Samsing but signal is patchy, and it fades near Rocky Island and Suntalekhola. Download what you need beforehand, and tell family you may be offline in the evening. Some homestays have Wi-Fi; ask when booking."},
+    {"q": "Can I combine Samsing with Jhalong and Bindu", "a": "Yes, but not directly. Drivers go back down via Matelli and Chalsa, then east to Khunia More and up the Jaldhaka valley to Jhalong and Bindu on the Bhutan border, about two hours in all. Plan a full day, or better, stay one night in each."},
+    {"q": "Are there leeches in Samsing", "a": "Yes, after rain and in the monsoon. On forest paths from April to October, wear long socks over your trousers and closed shoes, and check your legs after walks. Salt or a lighter flame is not needed; leeches drop off on their own, and the bite bleeds but is harmless."},
+    {"q": "Is Samsing in Kalimpong or Jalpaiguri district", "a": "Samsing is in Jalpaiguri district, in the Matiali area of the western Dooars. The Neora Valley National Park above it is managed from the Kalimpong side. For travellers, Samsing is reached from the Dooars side via Chalsa and Matelli."}
+  ]
+}

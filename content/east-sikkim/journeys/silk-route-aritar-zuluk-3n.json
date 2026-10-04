@@ -1,0 +1,109 @@
+{
+  "slug": "silk-route-aritar-zuluk-3n",
+  "title": "Silk Route short: Aritar and Zuluk in 3 nights",
+  "region": "east-sikkim",
+  "nights": 3,
+  "themes": ["high-passes", "village-homestays", "mountain-views"],
+  "stops": [{"place": "aritar", "nights": 1}, {"place": "zuluk", "nights": 2}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 12500,
+  "fares": {"budget": 12500, "comfort": 18500, "premium": 29000},
+  "fare_notes": {
+    "budget": "Simple rooms in registered village homestays at Aritar and Zuluk, some with shared bathrooms; one reserved Bolero or Sumo shared by a group of five or six for all four days; all meals at the homestays; Silk Route permit included.",
+    "comfort": "Rooms with attached bathrooms in registered homestays; a reserved Bolero or Scorpio shared by up to four travellers; all meals; Silk Route permit included.",
+    "premium": "The best rooms we can find in registered homestays and small lodges, since Zuluk has nothing grander; a private Scorpio or Xylo for your party alone; all meals; a small oxygen can and blankets in the car."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 4000,
+  "meta_description": "The old Silk Route in 3 nights from ₹12,500 per person: Aritar's lake, Zuluk's zigzag road, Thambi sunrise, Nathang Valley and Kupup, with homestay meals.",
+  "summary": "Three nights on the old Kalimpong–Lhasa trade road in East Sikkim: one at Aritar by Lampokhari Lake, two at Zuluk at about 2,900 m, with a dawn drive past Thambi viewpoint to Nathang Valley and Kupup near 4,000 m. Indian nationals only beyond Rongli. From ₹12,500 per person, twin sharing.",
+  "intro": [
+    "From the 1890s until about 1959, mule trains carried Tibetan wool and furs down this road and took Indian goods back up. The route ran from Kalimpong through Pedong and Rhenock to Rongli, then climbed to Zuluk, Nathang and Kupup and crossed Jelep La at 4,390 m into the Chumbi Valley. Kalimpong was the market at the bottom. Today it is called the Silk Route, though silk was never the main load, and the road over Jelep La has been closed since the 1960s.",
+    "We keep this trip short but not rushed. A night at Aritar, about 1,400 m, breaks the drive and starts the climb gently. Two nights at Zuluk, about 2,900 m, give your body time before the day at Nathang and Kupup, close to 4,000 m. You sleep in registered village homestays, eat what the family cooks and use a reserved jeep, because shared jeeps up here are few. The road past Rongli needs a Protected Area Permit and is open to Indian nationals only. Check current status before you travel."
+  ],
+  "highlights": [
+    "Lampokhari Lake and the 1895 dak bungalow at Aritar",
+    "The zigzag road below Thambi viewpoint, often counted as 32 hairpins",
+    "Kangchenjunga at sunrise from Thambi viewpoint on a clear day",
+    "Nathang Valley near 4,000 m, site of an 1888 battle",
+    "Kupup and Bitang Tso, also called Elephant Lake"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Aritar and Lampokhari Lake",
+      "place": "aritar",
+      "overnight": "Aritar",
+      "drive": "≈ 115 km · 4.5–5 h",
+      "text": "We pick you up at NJP or Bagdogra by 10 am and drive by Sevoke and the Teesta to Rangpo, then up through Rorathang and Rhenock to Aritar at about 1,400 m. If NH10 is cut, we use the Kalimpong and Pedong road instead. Your homestay collects the ₹50 Sikkim tourist fee; check current status before you travel. In the late afternoon walk round Lampokhari Lake, where boats are for hire, and see the Aritar dak bungalow, built in 1895 by John Claude White, the first British Political Officer in Sikkim. Hand over your ID copies and two passport photos tonight for the permit.",
+      "meals": "Lunch on the way (own cost), dinner"
+    },
+    {
+      "day": 2,
+      "title": "Through Rongli and up to Zuluk",
+      "place": "zuluk",
+      "overnight": "Zuluk",
+      "drive": "≈ 50 km · 2.5–3 h plus permit stop",
+      "text": "After breakfast, drive up to the Mankhim viewpoint above Aritar if the sky is clear, then down to Rongli at about 850 m on the Rangpo River. Rongli is one of Sikkim's oldest markets on the Kalimpong–Tibet road, and the Silk Route permit is checked or issued here. From Rongli the road climbs about 2,000 m in 30 km, through Lingtam and Padamchen, to Zuluk at about 2,900 m, inside Pangolakha Wildlife Sanctuary. Arrive by early afternoon, rest, drink water and take a slow walk through the village. Zuluk was the overnight halt for mule trains before Jelep La. Dinner is early, with dal, rice and local greens.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Thambi sunrise, Nathang and Kupup",
+      "place": "nathang-valley",
+      "overnight": "Zuluk",
+      "drive": "≈ 75 km round trip · 7–8 h",
+      "text": "Leave at about 4 am, wrapped up. At Thambi viewpoint, about 14 km above Zuluk, the sun reaches Kangchenjunga first on clear mornings, and below you the road folds into the zigzag often counted as 32 hairpins. Breakfast in the car or at a tea stall, then on past Lungthung to Nathang Valley near 4,000 m, a wide grassland where British and Tibetan forces fought in May 1888. Continue to Kupup and Bitang Tso, the Elephant Lake. Jelep La, the old trade pass, lies close by but is closed to visitors. Back in Zuluk by early afternoon to sleep lower. Check current status before you travel; snow closes this road.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Zuluk down to NJP or Bagdogra",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 160 km · 6–7 h",
+      "text": "Leave Zuluk by 7 am after an early breakfast. The road drops through Padamchen to Rongli, then by Rhenock and Rorathang to Rangpo and down NH10 along the Teesta to Sevoke and Siliguri. Expect about 160 km and 6–7 hours, more if traffic stacks up at Rangpo or Sevoke. If NH10 is broken, we go by Pedong and Kalimpong instead. We suggest flights or trains after 4 pm. Buy a block of chhurpi, the hard local cheese, at Rongli or Rhenock for the journey. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [],
+  "includes": [
+    "1 night at Aritar and 2 nights at Zuluk in registered village homestays, twin sharing",
+    "All meals from dinner on day 1 to breakfast on day 4",
+    "Reserved jeep from NJP or Bagdogra for all four days",
+    "Silk Route Protected Area Permit arranged through the homestay or a registered agent",
+    "Sunrise drive to Thambi viewpoint, Nathang Valley and Kupup"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Sikkim tourist fee of ₹50 per person",
+    "Lunch on day 1 and day 4, boating at Lampokhari",
+    "Room heaters where charged extra, tips and personal expenses",
+    "Extra nights or fuel caused by snow or landslides"
+  ],
+  "save_more": [
+    "Join a group departure and share one jeep between five or six people; the vehicle is the biggest cost on this trip.",
+    "Travel in late March or November, outside the December snow rush and Puja holidays, when homestays are less busy.",
+    "Choose a homestay room with a shared bathroom; it is often ₹300–500 a night cheaper per person with the same meals."
+  ],
+  "good_to_know": [
+    "Beyond Rongli the Silk Route is open only to Indian nationals with a Protected Area Permit. Foreign nationals may visit Aritar but cannot go to Zuluk, Nathang or Kupup. Check current status before you travel.",
+    "Bring a photo ID copy and two passport photos per person, and carry the original ID; Army and police posts check it.",
+    "Mobile signal is patchy above Rongli and there is no ATM at Zuluk, so carry enough cash.",
+    "Nights at Zuluk fall below freezing from December to February. Bring thermals, a warm hat and gloves.",
+    "We do not recommend this trip for children under 5 or anyone with heart or lung conditions without a doctor's advice."
+  ],
+  "faqs": [
+    {"q": "Can foreigners travel the Silk Route to Zuluk", "a": "No. Foreign nationals can visit Aritar and Rongli with the Sikkim Restricted Area Permit, but Zuluk, Nathang and Kupup are not open to them. Mixed groups with foreign members should choose a Gangtok and Tsomgo trip instead. Rules on restricted areas can change, so check current status before you travel."},
+    {"q": "How do we get the Silk Route permit", "a": "Indian nationals need a Protected Area Permit for Zuluk, Nathang and Kupup. Your homestay or a registered Gangtok agent files it with a photo ID copy and two passport photos per person, and it is issued or checked at Rongli. Send the papers a few days ahead in peak season. Check current status before you travel."},
+    {"q": "How much does a 3-night Silk Route trip cost", "a": "From ₹12,500 per person, twin sharing, on our budget tier, indicative for 2026, with homestay rooms, all meals, a shared reserved jeep from NJP and the permit. Comfort costs about ₹18,500 and premium about ₹29,000 with a private jeep. A reserved Silk Route vehicle for 3–4 days costs ₹14,000–20,000, so group size changes the price most."},
+    {"q": "When is there snow at Zuluk and Nathang", "a": "Snow usually falls from December to March, with the best chance of a white Nathang in January and February. Heavy snow can close the road above Zuluk for days, and permits stop when it does. For snow with a fair chance of getting through, late December and March are good bets. Check current status before you travel."},
+    {"q": "Is Zuluk safe for children and older travellers", "a": "Zuluk is at about 2,900 m and the day trip reaches nearly 4,000 m, so altitude is the main concern. Healthy children over 5 and fit older travellers usually manage with two nights at Zuluk, plenty of water and a slow pace. We do not recommend it for infants or people with heart or lung conditions. Ask your doctor first."},
+    {"q": "What are the homestays at Zuluk like", "a": "Simple. Rooms are in family houses or small lodges, beds come with heavy quilts, and bathrooms may be shared. Hot water often comes in a bucket, and power cuts are common, so carry a torch and a power bank. Meals are home-cooked: rice, dal, vegetables, eggs and sometimes chicken, with tea on request. Full board costs ₹1,500–2,500 per person a night."},
+    {"q": "What is the Zuluk zigzag road", "a": "It is the series of tight hairpin bends on the climb above Zuluk towards Thambi viewpoint, often counted as 32 bends. From Thambi you look straight down on the loops, which is why most people come for sunrise. The road is narrow and Army trucks use it, so we use experienced local drivers and avoid driving after dark."},
+    {"q": "Can we reach Zuluk by shared jeep", "a": "Public shared jeeps above Rongli are few and irregular, and they do not run the Thambi, Nathang and Kupup loop. A reserved jeep is the practical choice. Our budget tier shares one vehicle between five or six travellers to bring the cost down. Shared jeeps do run from Siliguri towards Rangpo and Rhenock if you want to make your own way to Aritar."},
+    {"q": "Can we see Nathu La or Tsomgo on this trip", "a": "Not on this short version. The 3-night trip returns from Zuluk to NJP the way it came. To add Tsomgo Lake and Baba Mandir, choose our Silk Route and Gangtok trip, which crosses from Kupup to Tsomgo and Gangtok with a combined permit. Nathu La needs its own Wednesday-to-Sunday permit. Check current status before you travel."}
+  ]
+}

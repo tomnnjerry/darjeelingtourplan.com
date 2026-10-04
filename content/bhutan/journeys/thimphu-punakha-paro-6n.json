@@ -1,0 +1,142 @@
+{
+  "slug": "thimphu-punakha-paro-6n",
+  "title": "Thimphu, Punakha and Paro in 6 nights",
+  "region": "bhutan",
+  "nights": 6,
+  "themes": ["monasteries", "mountain-views", "high-passes"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 2},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 34000,
+  "fares": {"budget": 34000, "comfort": 55000, "premium": 190000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Lobesa in Punakha and Hotel Olathang in Paro, twin sharing; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk in Thimphu, Dhensa Boutique Resort above the Punakha valley and a 4-star hotel in Paro; a private car and private licensed guide; breakfast and dinner; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, the best luxury lodge available in Punakha, and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights extra."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "Thimphu, Punakha via Dochula and Paro in 6 nights, with Punakha Dzong and the Tiger's Nest hike, from ₹34,000 per person including SDF and guide.",
+  "summary": "The trip we recommend most for a first visit. Two nights in Thimphu, two in warm, low Punakha after crossing Dochula, and two in Paro for the Tiger's Nest hike. From ₹34,000 per person, twin sharing, with SDF, licensed guide, car, hotels and two meals a day. Flights extra.",
+  "intro": [
+    "Add two nights in Punakha to the Thimphu and Paro classic and the trip changes character. The road crosses Dochula at 3,100 m and then drops more than 1,800 m to the Punakha valley at about 1,250 m, where rice grows and winters are mild. Punakha Dzong, built in 1637–38 where the Pho Chhu and Mo Chhu rivers meet, was the seat of government until Thimphu became the capital in 1955. Ugyen Wangchuck was crowned the first king here in December 1907.",
+    "The order matters. Thimphu comes first so your body adjusts to height and so your Route Permit for Punakha can be issued on a working day; the Immigration office in Thimphu deals with it from Monday to Friday, and your operator files it. Paro comes last, nearest the airport, with a full day for the Tiger's Nest. Our fares are for Indian nationals and include the SDF of ₹1,200 per person per night and a licensed guide for the whole trip."
+  ],
+  "highlights": [
+    "Punakha Dzong between the Pho Chhu and Mo Chhu, crowning place of the first king",
+    "Dochula at 3,100 m and its 108 chortens",
+    "Chimi Lhakhang, the temple of the Divine Madman, built in 1499",
+    "Buddha Dordenma and Tashichho Dzong in Thimphu",
+    "The Tiger's Nest hike above Paro"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Land at Paro, drive to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "The flight into Paro ends with a visual approach between forested ridges, flown by sight rather than by instruments alone. Your guide meets you outside with the car. Indians show a passport or an original Voter ID for the Entry Permit if it was not issued online. We drive along the Paro river to Chhuzom and up to Thimphu, about an hour and a half with a tea stop. In the afternoon, walk the Memorial Chorten, built in 1974 in memory of the Third King, then the shops around Clock Tower Square. Keep it light on day one.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thimphu and the Route Permit day",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "While your guide's office files the Route Permit for Punakha, you see the capital. Buddha Dordenma, about 51.5 m high, sits on a ridge above the city and holds 125,000 smaller statues. The Motithang Takin Preserve keeps the national animal; legend says Drukpa Kunley made the first takin from a goat's head and a cow's bones. After lunch, Simtokha Dzong of 1629, then Tashichho Dzong, rebuilt by the Third King and completed in 1968, which houses the throne room and the king's offices. The guide times the visit to its opening hours. Entry fees Nu 300–500 each, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over Dochula to Punakha",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "Dochula is 22 km and about 45 minutes from Thimphu. At 3,100 m, the 108 Druk Wangyal chortens stand around a hillock, built by Queen Mother Ashi Dorji Wangmo Wangchuck after the December 2003 operation that cleared insurgent camps from southern Bhutan. On a clear day from October to February the eastern Himalaya lines the horizon. The Royal Botanical Park at Lamperi, a short way down, charges Nu 100. Descend through oak and then pine to Lobesa. After lunch, walk 20–30 minutes through rice fields to Chimi Lhakhang, built in 1499 by Ngawang Chogyal, cousin of the Divine Madman, where couples come to pray for children.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Punakha Dzong and the river walk",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 40 km in the valley",
+      "text": "Cross the wooden cantilever bridge, rebuilt in 2008, into Punakha Dzong, set at about 1,200 m between the Pho Chhu and Mo Chhu. The Zhabdrung's embalmed body lies in the Machey Lhakhang inside; visitors do not enter it, but the guide explains why kings visit before taking office. The first king was crowned here in 1907 and the Fifth King married here in 2011. Entry Nu 500, indicative 2026. Later, walk across the long suspension bridge over the Pho Chhu, and if your legs allow, climb through rice terraces to the Khamsum Yulley Namgyal Chorten for the view down the valley.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Punakha to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 130 km · 4–4.5 h",
+      "text": "Back over Dochula, where the morning is often clearer than the afternoon, through Thimphu and down to Chhuzom, then up the Paro valley. Lunch in Paro. In the afternoon, walk up to Rinpung Dzong, consecrated in 1646 under the Zhabdrung and still the seat of the district's administration and monks. Above it, the round Ta Dzong watchtower houses the National Museum, with masks, thangkas and religious art. Walk down past the cantilever bridge below the dzong to the town. Paro's red rice grows in the fields you pass; ask for it at dinner. Lay out your hiking clothes tonight.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "The Tiger's Nest hike",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Start at the car park, about 2,600 m, by 7.30 am. The climb is about 500 m to Paro Taktsang at about 3,120 m, 4–6 hours return, with tea at the cafeteria halfway. Legend says Guru Rinpoche flew here on the back of a tigress in the 8th century and meditated in the cave. The temple was built in 1692, burned in 1998 and was restored by 2005. Entry Nu 1,000, indicative 2026, and cameras stay in the locker at the gate. On the way back stop at Kyichu Lhakhang, which tradition dates to the 7th century. Book a farmhouse hot stone bath for ₹1,500–3,000.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "Most Paro flights leave in the morning, so breakfast may be early or packed. Be at the airport 2 hours before departure with your ID and Entry Permit. If you fly later in the day, walk Paro's main street for textiles, incense and handmade paper, all cheaper in small shops than in hotel boutiques. Paro flights depend on visibility and can be delayed, so leave a few hours before any onward connection in Delhi, Kolkata or Bagdogra. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "taj-tashi-thimphu", "como-uma-paro"],
+  "includes": [
+    "6 nights in Department of Tourism-certified hotels in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 6 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for all transfers and sightseeing",
+    "Entry Permit help and the Route Permit for Punakha"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument entry fees: Tiger's Nest Nu 1,000, Punakha Dzong and others Nu 300–500, indicative 2026",
+    "Lunches and drinks",
+    "Hot stone bath, rafting and pony hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Go in December, January or February: Punakha is mild, hotel rates drop and skies are clear for Dochula.",
+    "Share the trip with another family; one car and one guide for six people costs little more than for two.",
+    "Enter or leave by road through Phuentsholing instead of flying both ways, adding a night but saving one airfare."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Punakha needs a Route Permit issued in Thimphu on working days; reports say this is being simplified. Check current status before you travel.",
+    "Punakha at about 1,250 m is far warmer than Dochula at 3,100 m on the same day; dress in layers."
+  ],
+  "faqs": [
+    {"q": "How much does a 6-night Bhutan trip cost per person", "a": "This 6-night Thimphu, Punakha and Paro trip costs from ₹34,000 per person on budget, ₹55,000 on comfort and ₹1,90,000 on premium, twin sharing, indicative 2026, without flights. Each fare includes certified hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide and a car. The budget fare assumes 4–6 people share the car; couples alone pay about 15–25% more."},
+    {"q": "Do we need a separate permit for Punakha", "a": "Yes. The Entry Permit covers Thimphu and Paro only. Punakha, like Phobjikha, Haa and Bumthang, needs a Route Permit, issued by the Immigration office in Thimphu on working days. Your operator files it while you sightsee in Thimphu, which is why we put Thimphu before Punakha. Reports say the process is being simplified, so check current status before you travel."},
+    {"q": "How long is the drive from Thimphu to Punakha", "a": "About 75 km, which takes 2.5–3 hours without stops. With a stop at Dochula and a short walk at Lamperi, plan on 3.5–4 hours. The road climbs from 2,320 m to 3,100 m at Dochula and then drops to about 1,250 m in Punakha. It is paved and wide by mountain standards, but the descent has many bends, so bring motion-sickness tablets."},
+    {"q": "Can you see the Himalaya from Dochula", "a": "On a clear morning, yes. From October to February the snow peaks of the eastern Himalaya often show above the 108 chortens at Dochula, 3,100 m. From March to May haze is more common, and in the monsoon months cloud usually hides them. Morning is the best bet, which is why we cross early on the way to Punakha."},
+    {"q": "What is Chimi Lhakhang famous for", "a": "Chimi Lhakhang near Lobesa was built in 1499 by Ngawang Chogyal, cousin of Drukpa Kunley, the Divine Madman, a yogi who taught through outrageous humour. Couples visit to pray for children, and the painted phalluses on nearby houses are protective symbols linked to him. It is a 20–30 minute walk through rice fields. Entry Nu 500, indicative 2026."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes for this trip. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, including from Paro airport to Thimphu and at monuments. We read this as covering Indian tourists too. Our fares include one guide for all 7 days. Check current status before you travel."},
+    {"q": "Is Punakha warmer than Thimphu", "a": "Yes, clearly. Punakha lies at about 1,250 m, roughly 1,000 m lower than Thimphu, so winter days are mild while Thimphu nights fall below freezing. That is why the Central Monastic Body has traditionally spent winter at Punakha Dzong. In May and June Punakha gets hot and humid; light cotton clothes and long sleeves for the dzong work best."},
+    {"q": "What is the best time for a Thimphu, Punakha and Paro trip", "a": "October and November give the clearest views from Dochula and dry roads. March to May brings rhododendrons on the pass and the Paro Tshechu. December to February is cold in Thimphu and Paro but mild in Punakha, and hotels are cheaper. June to August is the monsoon, with cloud, leeches on trails and flight delays."},
+    {"q": "How much do foreigners pay for this trip", "a": "Most non-Indian travellers pay the SDF of US$100 per person per night instead of ₹1,200, under an incentive valid to 31 Aug 2027, plus a US$40 visa fee. For 6 nights that adds about US$600 in SDF compared with the Indian fare. Bangladeshi and Maldivian passport holders have separate rules, so ask us. Check current status before you travel."}
+  ]
+}

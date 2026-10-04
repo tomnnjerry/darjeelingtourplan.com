@@ -1,0 +1,7 @@
+{% load hills %}<a class="card card--exp rv" href="{{ e.url }}" data-item data-region="{{ e.region }}" data-kind="{{ e.kind }}" data-land="{{ e.region }}">
+  <span class="lbadge lbadge--foil lbadge--sm">{% icon e.kind %}</span>
+  {% photo e|first_img alt=e.title sizes="(max-width: 760px) 100vw, 25vw" credit=False %}
+  <span class="chip chip--land">{{ e.duration }}</span>
+  <span class="card__title card__title--s">{{ e.title }}</span>
+  <span class="card__meta">{{ e.place_obj.name }} · <span class="cost">{{ e.cost|truncatechars:40 }}</span></span>
+</a>

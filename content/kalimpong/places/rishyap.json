@@ -1,0 +1,174 @@
+{
+  "slug": "rishyap",
+  "name": "Rishyap",
+  "region": "kalimpong",
+  "kind": "viewpoint",
+  "wiki": "Rishyap",
+  "image_query": "Rishyap Kalimpong Kanchenjunga view",
+  "lat": 27.112,
+  "lng": 88.65,
+  "altitude_m": 2590,
+  "tagline": "The widest Kanchenjunga panorama in the Kalimpong hills",
+  "meta_description": "Rishyap (Rishop) travel guide: Tiffin Dara sunrise, rhododendron walks, the trail from Lava, homestays with meals, costs and the best months for clear views.",
+  "summary": "Rishyap, also spelt Rishop, is a small homestay village at about 2,590 m, 11 km by road from Lava. Its ridge and the Tiffin Dara viewpoint above it give one of the widest Kanchenjunga panoramas in the district. Stay one or two nights from October to April for the views.",
+  "intro": [
+    "Rishyap is a handful of houses and homestays scattered along a high, open ridge at about 2,590 m, above the forests that surround Lava. It is one of the highest inhabited points that travellers reach in Kalimpong district, and on a clear day the whole northern horizon is filled with snow peaks, from Kanchenjunga eastward along the Sikkim ranges. It was developed for tourism only from the late 1990s.",
+    "There is nothing to 'do' in Rishyap in the usual sense. You come to watch the mountains change colour at dawn and dusk, walk forest paths among rhododendron and oak, and sit on a sunny terrace with tea. Above the village, Tiffin Dara is a viewpoint reached by a short uphill walk, the classic sunrise spot.",
+    "Rishyap is 11 km from Lava by road, about 45 minutes on a narrow lane, or about 4 km by a forest trail that climbs from Lava. Many travellers do Lava, Rishyap and Lolegaon together. It is cold for most of the year, colder than Lava, and simple: homestays have basic rooms, hot water by geyser or bucket, and home-cooked meals."
+  ],
+  "story": {
+    "title": "A ridge village opened to visitors in 1998",
+    "paras": [
+      "Rishyap was a quiet farming settlement on the ridge above Lava until it began to be developed as a tourist destination in 1998. Families who had grown maize and potatoes and kept cattle started to take in visitors, first walkers coming up the forest path from Lava, then car travellers on the new road. Most of today's homestays are still family houses with a few rooms added.",
+      "Several explanations of the name are told locally. One holds that 'ri' means a mountain peak and 'shop' means old trees in Tibetan; it is a popular story rather than an established etymology, so treat it as one. What is certain is the view: from the ridge, the snows of Sikkim run across the skyline, and on the clearest days some visitors say they can pick out peaks toward Bhutan as well."
+    ],
+    "source": "Rishyap article on Wikipedia; local accounts from homestay families"
+  },
+  "did_you_know": [
+    "Rishyap is also spelt Rishop, and it began to be developed as a tourist destination in 1998.",
+    "By road Rishyap is about 11 km from Lava, but a forest trail links them in only about 4 km.",
+    "At about 2,590 m, Rishyap sits several hundred metres higher than Lava and is one of the coldest places travellers stay in Kalimpong district."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – Apr"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), about 120 km"],
+    ["From Siliguri", "≈ 110 km via Kalimpong · 4.5 h"],
+    ["Altitude", "About 2,590 m"],
+    ["Known for", "Kanchenjunga panorama, Tiffin Dara, forest walks"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Tiffin Dara at sunrise", "text": "A short, steep walk above the village leads to Tiffin Dara, a viewpoint with an open sweep of the Kanchenjunga range. Leave by torchlight about 40 minutes before sunrise and carry tea; the top is cold and exposed."},
+    {"title": "Mountains from your terrace", "text": "Many Rishyap homestays face north, so on clear days the snow peaks are visible from the breakfast table. Late afternoon light often turns the range gold, a second show after sunrise."},
+    {"title": "Rhododendron forest", "text": "From March to April the forests on the slopes below and around Rishyap flower red and pink with rhododendron, alongside magnolia. Forest paths make easy morning walks with a local guide."},
+    {"title": "Trail down to Lava", "text": "The forest trail between Rishyap and Lava is about 4 km. Walking it downhill from Rishyap to Lava is easier, about two to three hours, and makes a fine way to leave the village."},
+    {"title": "Dark skies", "text": "With few lights on the ridge, clear winter nights in Rishyap are very dark. Bring warm clothes and a blanket out to the terrace for an hour of stars."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "There is little regular shared transport to Rishyap. Take a shared jeep from Kalimpong to Lava, about ₹100–150 a seat, indicative for 2026, then a reserved car for the last 11 km, about ₹800–1,200, or walk the 4 km forest trail with a guide. Your homestay can arrange the car."},
+    {"mode": "Reserved car", "text": "A reserved car from Kalimpong takes about two hours and costs about ₹2,500–3,500, indicative for 2026. From NJP or Bagdogra, allow 4.5–5 hours and about ₹5,000–6,500 per car. The last stretch from Lava is narrow; small cars manage it, but drivers prefer SUVs after rain."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the nearest major station is New Jalpaiguri (NJP), both reached via Siliguri. Malbazar station is closer if you come via Gorubathan and Lava. Continue by road."}
+  ],
+  "where_to_stay": "Rishyap has only family homestays and a few small lodges, no hotels. Most have simple double or family rooms, many facing the mountains, with shared or attached bathrooms and meals included. Prices are similar across the village, so choose by view, recent photos and how warm the rooms look. Book ahead for October to December and spring weekends. For more facilities, stay at Lava, at the WBFDC lodge or a bazaar hotel, and come up to Rishyap for a sunrise by car.",
+  "stays": [],
+  "costs": [
+    ["Homestay with meals", "₹1,200–2,200 per person a night, indicative, 2026"],
+    ["Reserved car Lava → Rishyap", "₹800–1,200, indicative, 2026"],
+    ["Reserved car Kalimpong → Rishyap", "₹2,500–3,500, indicative, 2026"],
+    ["Forest guide for walks", "₹500–1,000 per group, indicative, 2026"],
+    ["Tiffin Dara viewpoint", "Free"]
+  ],
+  "budget_tip": "Walk up from Lava on the forest trail with a guide and send your bags by the homestay's car, which costs less than hiring a full car from Kalimpong just for Rishyap.",
+  "tips": [
+    "Rishyap is colder than Lava; pack thermals, a down jacket and woollen socks even in April.",
+    "Ask for a north-facing room so you can see the range from bed on clear mornings.",
+    "Check the sky the evening before; a clear night usually means a good sunrise at Tiffin Dara.",
+    "Carry cash and some snacks; there are only a couple of small shops.",
+    "Network is weak; tell family you may be out of reach for a day."
+  ],
+  "themes": ["mountain-views", "village-homestays", "treks-and-walks", "honeymoons", "budget-trips"],
+  "nearby": ["lava", "kolakham", "lolegaon", "algarah"],
+  "experiences": [
+    {
+      "slug": "rishyap-tiffin-dara-sunrise",
+      "title": "Sunrise walk to Tiffin Dara",
+      "kind": "nature",
+      "duration": "2 hours",
+      "best_time": "Oct–Apr, 40 minutes before sunrise",
+      "cost": "Free; guide ₹300–500 if wanted, indicative",
+      "image_query": "Tiffin Dara Rishop sunrise",
+      "wiki": "",
+      "summary": "Climb by torchlight from your Rishyap homestay to Tiffin Dara, the open viewpoint above the village, and watch first light move across the Kanchenjunga range. Short, steep and the reason most people come to Rishyap.",
+      "body": [
+        "Tiffin Dara sits above Rishyap on a bare knoll at roughly the village's height or a little higher, and the path from the homestays climbs steadily for 20–40 minutes depending on where you start. At the top there is space to stand and sit, a few prayer flags and an uninterrupted view north and east over layer after layer of ridges to the snows.",
+        "Leave about 40 minutes before sunrise with a torch, warm jacket, hat and gloves. Kanchenjunga catches the first light, and the colour spreads east along the Sikkim peaks over the next quarter of an hour. On very clear mornings the view seems to run all the way along the horizon. Clouds often build by 8 am, so dawn is the time.",
+        "The path is easy to follow but uneven and can be frosty in winter, so wear shoes with grip. Ask your host to point out the start the evening before, or to send someone with you if you are unsure. Bring a flask; there is nothing to buy at the top. Sunset from the same spot is good too, and warmer."
+      ],
+      "good_for": ["couples", "photographers", "students", "solo"],
+      "faqs": [
+        {"q": "How far is Tiffin Dara from Rishyap", "a": "From most Rishyap homestays, Tiffin Dara is a 20–40 minute walk uphill, depending on where you start. The path is short but steep and uneven, so wear shoes with grip and carry a torch for the dawn walk. Some sources describe it from Lava as about 4 km, as a trail from there also reaches it."},
+        {"q": "Is the Tiffin Dara walk suitable for seniors", "a": "Fit seniors who walk regularly can usually manage it slowly, with stops. The path is steep in parts and cold before dawn, which matters for heart or breathing conditions at 2,600 m. If in doubt, enjoy the sunrise from a north-facing homestay terrace instead, which also gives a good view on clear days."},
+        {"q": "Which month is best for Tiffin Dara sunrise", "a": "October to December is the most reliable, with November usually clearest. January and February are clear but bitterly cold at dawn; March and April often bring haze but also rhododendrons. From May to September clouds usually hide the mountains, and the path can be slippery. Check the evening sky the night before."}
+      ]
+    },
+    {
+      "slug": "rishyap-rhododendron-forest-walk",
+      "title": "Rhododendron forest walk at Rishyap",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Mar–Apr for flowers; Oct–Nov also pleasant",
+      "cost": "Guide ₹500–1,000 per group, indicative",
+      "image_query": "rhododendron forest Himalaya bloom",
+      "wiki": "",
+      "summary": "Walk the forest paths below Rishyap in spring, when rhododendron and magnolia flower among oak and fir, with a local guide to show the way and point out birds. Gentle, quiet and one of the best ways to spend a Rishyap afternoon.",
+      "body": [
+        "The slopes around Rishyap carry mixed temperate forest: oak, maple, magnolia, fir and several species of rhododendron, some growing into tall trees. In March and April the rhododendrons flower in reds and pinks, and the forest floor fills with fallen petals. Even outside the flowering season, the forest is cool, mossy and full of birdsong.",
+        "A guide from the village knows the paths, which link farms, forest patches and the trail toward Lava. A loop of two to three hours suits most walkers, with gentle ups and downs. Expect laughingthrushes, tits, nuthatches and woodpeckers, and keep an eye out for barking deer on quiet mornings.",
+        "Wear layers and shoes with grip; the ground is often damp. In late spring, leeches can appear after rain, so tuck trousers into socks. Do not pick flowers or dig up plants, as the forests here are protected. Combine the walk with lunch at your homestay and a rest on the terrace in the afternoon sun."
+      ],
+      "good_for": ["couples", "photographers", "families", "seniors"],
+      "faqs": [
+        {"q": "When do rhododendrons bloom at Rishyap", "a": "Rhododendrons around Rishyap usually flower from March to April, with timing shifting by a few weeks depending on the winter and the altitude. Lower forests bloom first, higher ones later. Magnolias flower around the same time. Ask your homestay in late February how the season looks before booking specifically for flowers."},
+        {"q": "Are the forest walks around Rishyap safe", "a": "Yes, with a local guide and sensible precautions. Paths are not marked and can be slippery, and mist can come in quickly, which makes it easy to lose the way. Walk in daylight, tell your host your route, carry water and a rain layer, and avoid walking alone in the forest."},
+        {"q": "Can I see wildlife on Rishyap forest walks", "a": "Birds are common, especially laughingthrushes, tits, nuthatches and woodpeckers. Barking deer are sometimes seen early in the morning. Larger mammals, such as leopard and black bear, live in the wider Neora forests but are very rarely seen. Walk quietly, keep to paths, and do not walk in the forest after dark."}
+      ]
+    },
+    {
+      "slug": "rishyap-ridge-birding-morning",
+      "title": "Birding morning on the Rishyap ridge",
+      "kind": "wildlife",
+      "duration": "3 hours",
+      "best_time": "Nov–Apr, 6–9 am",
+      "cost": "Birding guide ₹1,000–2,000 per group, indicative",
+      "image_query": "laughingthrush Himalaya bird",
+      "wiki": "",
+      "summary": "Spend an early morning on the forest edges and fields of the Rishyap ridge with binoculars and a local guide, looking for laughingthrushes, finches, tits and other birds of the temperate zone at about 2,600 m.",
+      "body": [
+        "Rishyap sits higher than Lava, at the edge of temperate forest, so its birds overlap with Lava's but include more high-altitude species, especially in winter. Fields and scrub near the homestays attract finches, buntings and thrushes, while the forest edge holds laughingthrushes, tits, nuthatches, treecreepers and warblers.",
+        "Start at first light, ideally after watching sunrise at Tiffin Dara, and walk slowly along the road and forest edge toward Lava. Mixed flocks tend to move through in the first two hours of daylight. Raptors such as eagles and kestrels use the thermals over the valleys later in the morning.",
+        "A local guide who knows calls helps a great deal. Bring binoculars and a field guide or app, wear muted colours and keep noise down. For serious birders, combine Rishyap with Lava, Kolakham and a day in Neora Valley National Park, which together cover a wide range of altitudes in a few days."
+      ],
+      "good_for": ["birders", "photographers", "solo", "couples"],
+      "faqs": [
+        {"q": "What birds can be seen at Rishyap", "a": "Around Rishyap, expect laughingthrushes, tits, nuthatches, treecreepers, warblers, finches and thrushes, plus raptors over the valleys. Winter can bring species that breed higher up. Sightings vary with season and weather, so a local guide who knows calls is the best way to see more. Rarer pheasants are possible but seldom seen."},
+        {"q": "Is Rishyap or Lava better for birding", "a": "Both are good and close together. Lava, at about 2,200 m, has easier access to the Neora forest and a wider range of mid-altitude species. Rishyap, at about 2,590 m, adds higher-altitude birds and open ridges. Serious birders usually spend at least one morning in each, plus a day in Neora Valley National Park."},
+        {"q": "Do I need binoculars for birding at Rishyap", "a": "Yes, binoculars make a big difference, as most forest birds stay in the canopy or at the forest edge. A pair of 8x or 10x magnification is ideal. Some birding guides carry spare pairs, but do not count on it. Carry a camera with a zoom lens if you want photographs."}
+      ]
+    },
+    {
+      "slug": "rishyap-homestay-evening",
+      "title": "Evening with a Rishyap homestay family",
+      "kind": "village",
+      "duration": "2–3 hours",
+      "best_time": "Evenings, Oct–May",
+      "cost": "Included in homestay stays",
+      "image_query": "Kalimpong homestay kitchen hill",
+      "wiki": "",
+      "summary": "Spend a cold Rishyap evening the way locals do: by the kitchen stove with tea, talk and a home-cooked dinner, while your hosts tell you how the ridge changed from farm village to homestay village after 1998.",
+      "body": [
+        "Evenings in Rishyap are dark, quiet and cold, and the warmest place in a homestay is usually the kitchen. Many hosts are happy for guests to sit with them while dinner is cooked over a gas or wood stove. Over tea, ask about life before tourism, when families farmed potatoes and maize and walked to Lava for supplies.",
+        "Dinner is usually rice, dal, a vegetable curry, greens, pickle and chicken or eggs if you want them, with roti on request. On cold nights some hosts make thukpa, a noodle soup of Tibetan origin, or a simple soup with local squash. Tell your hosts in the afternoon what you would like and about any dietary needs.",
+        "After dinner, step out on to the terrace on clear nights for the stars, wrapped in a blanket. Respect household routines: families go to bed early and start early, especially in winter. Pay for any extras before you leave, and if you enjoyed your stay, a word to other travellers helps small homestays more than anything."
+      ],
+      "good_for": ["families", "couples", "solo", "students"],
+      "faqs": [
+        {"q": "Are Rishyap homestays heated", "a": "Mostly not. Rooms are rarely centrally heated, though some homestays provide electric heaters for a charge or extra blankets and hot-water bottles. At about 2,590 m, nights from November to March are near or below freezing. Bring thermals and a warm hat for sleeping, and ask your host what heating is available when booking."},
+        {"q": "What is the food like in Rishyap homestays", "a": "Simple and home-cooked: rice, dal, vegetable curry, greens, pickles and usually chicken or eggs, with roti, thukpa or soups on request. Breakfast is typically puri, bread, eggs or noodles with tea. Vegetarian food is easy to arrange. Meals are generally included in the per-person rate, so confirm when you book."},
+        {"q": "Is there electricity and hot water in Rishyap", "a": "Yes, homestays have electricity, though power cuts happen in bad weather, so carry a torch and power bank. Hot water is supplied by geysers or heated in buckets, and may be limited in the mornings when everyone wants it. Ask your host for the best time to bathe, usually late morning or afternoon."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Is Rishyap worth visiting", "a": "Yes, if mountain views and quiet are what you want. Rishyap's ridge and the Tiffin Dara viewpoint give one of the widest Kanchenjunga panoramas in the Kalimpong hills. There are no sights, shops or cafés, and homestays are simple. One or two nights, combined with Lava and Lolegaon, is ideal."},
+    {"q": "How far is Rishyap from Lava and Kalimpong", "a": "Rishyap is about 11 km by road from Lava, around 45 minutes, or about 4 km on a forest trail. From Kalimpong it is roughly 40–45 km, about two hours by car via Algarah and Lava. Shared transport rarely runs to Rishyap itself, so plan a reserved car or the trail from Lava."},
+    {"q": "What is the altitude of Rishyap", "a": "Rishyap is at about 2,590 m (8,500 ft), several hundred metres higher than Lava and more than 1,300 m above Kalimpong town. It is cold for much of the year. Most visitors feel no altitude problems at this height, but walk slowly on arrival, drink enough water and avoid alcohol on the first evening."},
+    {"q": "Is Rishyap better than Lava", "a": "For mountain views, yes: Rishyap's open ridge faces the snows, while Lava faces forest. Lava is better for facilities, the monastery and Neora Valley permits. Many travellers sleep in Lava for comfort and visit Rishyap for sunrise, or the reverse, staying in Rishyap for views and visiting Lava by day."},
+    {"q": "When is the best time to visit Rishyap", "a": "October to December gives the clearest views, especially November. January and February are clear but very cold, and March and April bring rhododendrons with more haze. Avoid mid-June to mid-September, when rain, mist and leeches make the trip hard and views are rare."},
+    {"q": "Does it snow in Rishyap", "a": "Occasionally, usually in January or February. Rishyap is higher than Lava, so when there is snowfall in the area it is likely to reach Rishyap too, but it is not guaranteed in any given year. Roads may be icy at dawn after snow; drivers usually wait until the sun has been up for a while."},
+    {"q": "Is Rishyap good for a honeymoon", "a": "For couples who want quiet and views rather than luxury, yes. Rishyap homestays are simple but often have mountain-facing rooms, and sunrise and stars are the main events. There are no spas or fine-dining restaurants. Many honeymooners combine one or two nights here with a comfortable hotel in Kalimpong."},
+    {"q": "Can I visit Rishyap as a day trip", "a": "Yes, from Lava or Kalimpong, but you will miss sunrise, which is the highlight. From Lava, go up for the afternoon and sunset, about 45 minutes each way. From Kalimpong, allow a long day of about four hours' driving in total. Staying the night is much better if you can."},
+    {"q": "Are there ATMs and shops in Rishyap", "a": "No ATMs, and only one or two small shops with basic snacks and supplies. Withdraw cash in Kalimpong before you leave, and carry medicines, snacks and toiletries. Mobile network is weak and varies by provider, and UPI may not always work, so keep enough cash for your stay and transport."}
+  ]
+}

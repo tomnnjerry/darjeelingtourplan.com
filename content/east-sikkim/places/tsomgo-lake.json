@@ -1,0 +1,178 @@
+{
+  "slug": "tsomgo-lake",
+  "name": "Tsomgo Lake",
+  "region": "east-sikkim",
+  "kind": "lake",
+  "wiki": "Lake Tsomgo",
+  "image_query": "Tsomgo Lake Sikkim",
+  "lat": 27.375,
+  "lng": 88.764,
+  "altitude_m": 3753,
+  "tagline": "A sacred glacial lake at 3,753 m, 40 km above Gangtok",
+  "meta_description": "Tsomgo (Changu) Lake at 3,753 m: permits for Indians and foreigners, frozen months, yak rides, costs from Gangtok and altitude tips, indicative 2026.",
+  "summary": "Tsomgo, also called Changu, is a glacial lake at 3,753 m, about 40 km and 2 hours from Gangtok on the Nathu La road. You need a Protected Area Permit arranged by a registered agent. It is a day trip only, usually paired with Baba Mandir, and it is frozen or half-frozen from about January to March.",
+  "intro": [
+    "Tsomgo is the trip almost everyone in Gangtok takes, and for good reason. In two hours the road climbs from 1,650 m to 3,753 m, through cloud forest, then fir and rhododendron, then bare slopes with snow on them for half the year. The lake sits in a bowl of steep hills, about 836 m long and 427 m wide. Locals and drivers call it Changu. It is held sacred by Sikkimese Buddhists and Hindus alike, and there is a small Shiva temple on its bank.",
+    "It is not a quiet spot at midday. Shared and reserved cars arrive from Gangtok between 9 and 11 am, the yak handlers line the shore, and tea stalls sell Maggi, momos and hot coffee. Come early and walk to the far side of the lake and it changes. You hear the wind, see ruddy shelduck on the water and, from mid-May, find primulas, irises and poppies in the grass along the shore.",
+    "The honest picture: this is a day trip into a restricted border zone, at a height where many people feel breathless. You cannot stay overnight. You cannot drive yourself in a car registered outside Sikkim. You need a permit and a Gangtok-registered vehicle. Plan it as one long morning, go slowly once you are out of the car, and keep the afternoon in Gangtok free in case the road is closed for snow or a landslide."
+  ],
+  "story": {
+    "title": "A sacred lake on the old road to Tibet",
+    "paras": [
+      "Long before tourist jeeps, Tsomgo was a halt on the trade path from Gangtok to Tibet. The route climbed past the lake to Sherathang and over Nathu La into the Chumbi Valley, and mule trains carried cloth, grain and tools north while wool came back south. The road was made motorable between 1954 and 1958, and Jawaharlal Nehru formally opened it in September 1958 in the presence of the Chogyal. That road is the one your car uses today, widened and repaired many times since.",
+      "The lake itself has always been more than a halt. Its name is usually explained as tso, lake, and mgo, head, giving the sense of a lake at the source. Local tradition holds that Buddhist monks once read the shifting colours of its water to foretell the year ahead. Jhakris, the faith healers of Sikkim, are said to gather on its shore at Guru Purnima to draw on the healing power believed to lie in the water. Respect it as a sacred place: no litter, no coins thrown in."
+    ],
+    "source": "Wikipedia articles Lake Tsomgo, Nathu La and Jelep La; road history from the Nathu La article"
+  },
+  "did_you_know": [
+    "Tsomgo Lake is about 836 m long and 427 m wide, with a reported maximum depth of 15 m.",
+    "India Post released a commemorative stamp featuring Tsomgo Lake on 6 November 2006.",
+    "The Kyongnosla Alpine Sanctuary, about 31 sq km of rhododendron, juniper and silver fir, covers the slopes around the road to the lake."
+  ],
+  "local_name": {"text": "Tsomgo", "language": "Sikkimese (Bhutia)", "meaning": "lake head, the source of the lake"},
+  "facts": [
+    ["Best months", "Apr – May, Oct – Nov; frozen Jan – Mar"],
+    ["Nights we suggest", "0 (day trip from Gangtok)"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 165 km"],
+    ["From Gangtok", "≈ 40 km · 2 h"],
+    ["Altitude", "3,753 m"],
+    ["Permit", "PAP via a registered agent; foreigners allowed in groups"],
+    ["Known for", "Frozen lake, yak rides, alpine flowers, Baba Mandir side trip"]
+  ],
+  "best_months": [1, 1, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "0 (day trip)",
+  "highlights": [
+    {"title": "The frozen lake from January to March", "text": "In deep winter the lake freezes over, partly or fully, and snow lines the road. It is a striking sight, but the road can shut for a day or two after heavy snowfall. Keep a spare day in Gangtok if seeing the ice is the point of your trip."},
+    {"title": "Alpine flowers after mid-May", "text": "Once the snow melts, the shore and slopes fill with rhododendrons, primulas, blue and yellow poppies and irises. Late May and early June are the best weeks. Walk a few hundred metres away from the stalls and you will have them almost to yourself."},
+    {"title": "Yak rides along the shore", "text": "Decorated yaks and their handlers wait by the lake for short rides of 10 to 20 minutes. Agree the price and the route before you get on. Children love it, but hold on firmly: yaks are calm animals, yet the ground is uneven and wet."},
+    {"title": "The road through Kyongnosla", "text": "The last 15 km before the lake run through the Kyongnosla Alpine Sanctuary. Watch for waterfalls in summer, frozen ones in winter, and rhododendron in April and May. Ask your driver to stop at a safe bend rather than on a narrow stretch."},
+    {"title": "Baba Mandir on the same day", "text": "Most cars continue 15 to 20 km beyond the lake to the Baba Harbhajan Singh Mandir, an Army-run shrine to a soldier who died here in 1968. It adds about 1.5 hours and is usually priced into the Tsomgo day car. Indian nationals only beyond the lake."},
+    {"title": "Hot tea at 3,753 m", "text": "The row of stalls by the car park sells tea, coffee, Maggi, momos and thukpa. A plate of momos runs about ₹80–150. Eat something light and warm; it helps with the cold, and the stalls are the only toilets for kilometres."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Gangtok agents sell shared seats on Tsomgo tours, ₹800–1,300 a person including the permit handling, indicative 2026. Cars leave between 7 and 8 am from near MG Marg and return by mid-afternoon. Hand over ID copies and photos the day before. Check current status before you travel."},
+    {"mode": "Reserved car", "text": "A Gangtok-registered Bolero, Scorpio or Xylo for Tsomgo and Baba Mandir costs ₹4,500–6,500 per vehicle, indicative 2026, and takes up to five people. Add Nathu La and it rises to ₹6,500–9,000. Outside cars are not allowed past the check post. Check current status before you travel."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB) and the nearest railhead is New Jalpaiguri (NJP), both about 125 km from Gangtok. Pakyong Airport has no scheduled flights as of 2026. Reach Gangtok first, sleep a night there, and do Tsomgo the next morning. Check current status before you travel."}
+  ],
+  "where_to_stay": "Tourists cannot stay overnight at Tsomgo; the permit is for a day visit, so you sleep in Gangtok and come back the same afternoon. Pick a hotel close to MG Marg so the early pick-up is easy. On a budget, Hotel Sonam Delek on Tibet Road and Mintokling Guest House on Bhanu Path are long-running, simple choices. In the middle range, Netuk House is a family-run heritage house on Tibet Road. For more comfort, Elgin Nor-Khill, built in 1932 as a royal guest house, sits on Paljor Stadium Road. Ask your hotel desk to arrange the permit; most do it daily.",
+  "stays": [],
+  "costs": [
+    ["Shared seat, Tsomgo tour from Gangtok", "₹800–1,300 a person"],
+    ["Reserved car, Tsomgo + Baba Mandir", "₹4,500–6,500 per vehicle"],
+    ["Protected Area Permit via agent", "≈ ₹200 a person"],
+    ["Yak ride at the lake", "₹300–600"],
+    ["Coat, gloves and boots hire", "₹100–300"],
+    ["Momos or Maggi at the lake stalls", "₹80–150 a plate"]
+  ],
+  "budget_tip": "Hire boots and a coat from the shops on the way up only if you visit between December and April; from May to November a warm jacket of your own is enough, and you save ₹200–300 a head.",
+  "tips": [
+    "Spend no more than 60–90 minutes at the lake, walk slowly and drink water, because you are more than 2,000 m higher than you were at breakfast.",
+    "Carry two passport photos and a photocopy of a photo ID per person the evening before; agents file permits overnight, and late papers mean no trip.",
+    "Leave Gangtok by 8 am at the latest: clouds usually close in by early afternoon, and the road surface gets slushy as the sun warms it.",
+    "Foreign nationals can visit Tsomgo on a day permit arranged by a registered agent, usually in a group of two or more; check current status before you travel.",
+    "Do not feed the dogs or yaks and do not throw coins into the lake; it is a sacred site and the water is protected."
+  ],
+  "themes": ["mountain-views", "high-passes", "family-trips", "budget-trips"],
+  "nearby": ["gangtok", "baba-harbhajan-singh-mandir", "nathu-la", "kupup"],
+  "experiences": [
+    {
+      "slug": "tsomgo-lake-early-shore-walk",
+      "title": "Early walk around the lake shore",
+      "kind": "nature",
+      "duration": "45–60 minutes",
+      "best_time": "Arrive by 9 am, May–June and Oct–Nov",
+      "cost": "Free (permit and car extra)",
+      "image_query": "Tsomgo Lake shore Sikkim",
+      "wiki": "Lake Tsomgo",
+      "summary": "A slow walk along the path on the lake's far shore, away from the stalls and yaks. In early summer it passes primulas, irises and poppies; in autumn the water is still and clear. Easy on the legs, but go slowly at 3,753 m.",
+      "body": [
+        "Most visitors stay within 100 m of the car park. That leaves the rest of the shore to anyone willing to walk. A rough path runs along the northern side of the lake, where the Nathu La road skirts the water, and you can follow parts of the bank on foot. The lake is roughly 836 m long, so even a partial loop is short in distance. At this height, short is the right length.",
+        "From late May the grass by the water fills with flowers: primulas, irises, and blue and yellow poppies, with rhododendron higher on the slopes. Look on the water for ruddy shelduck, the orange ducks that locals call Brahminy ducks. In October and November the air is often clear and the surface still, which is when the lake looks most like its photographs. In winter the path may be under snow; stay on the road edge.",
+        "Walk at half your normal pace and stop when you feel your heart racing. Do not run, climb the slopes for a photo, or carry small children for long. Keep to the path, take your rubbish back to the car, and do not step onto the ice in winter however solid it looks. The lake is up to 15 m deep, and no one patrols it. Back at the car, a hot tea helps more than you would expect."
+      ],
+      "good_for": ["couples", "photographers", "first-timers", "seniors"],
+      "faqs": [
+        {"q": "Can you walk all the way around Tsomgo Lake", "a": "Not easily. There is no maintained loop path, and parts of the far shore are steep or marshy. Most people walk 300–600 m along the road side and back, which takes 30–45 minutes at an easy pace. That is plenty at 3,753 m. In winter, stay on cleared ground and never step onto the ice, even when it looks thick and others are doing it."},
+        {"q": "When do the flowers bloom at Tsomgo", "a": "The flowers start once the snow melts, usually from mid-May. Late May and June bring primulas, irises and blue and yellow poppies near the water, with rhododendron on the slopes and along the road through Kyongnosla. By July the monsoon cloud often hides the hills, so the last week of May and the first half of June are the safest bet."},
+        {"q": "Is the shore walk safe for older travellers", "a": "Yes, if they go slowly. The path is short and mostly level, but the thin air makes even gentle walking tiring. Let seniors rest in the car first, walk for 15–20 minutes, then sit for tea. Anyone with heart or lung conditions should ask their doctor before going to 3,753 m, and turn back at the first sign of dizziness or chest pain."}
+      ]
+    },
+    {
+      "slug": "tsomgo-lake-yak-ride",
+      "title": "A short yak ride by the lake",
+      "kind": "adventure",
+      "duration": "10–20 minutes",
+      "best_time": "Mornings, all year when the road is open",
+      "cost": "₹300–600 per ride, indicative 2026",
+      "image_query": "yak ride Tsomgo Lake",
+      "wiki": "",
+      "summary": "Decorated yaks wait with their handlers along the lake shore for short rides on a fixed stretch of bank. It is the most photographed thing at Tsomgo, and children love it. Agree the price, the distance and any photo fee before you climb on.",
+      "body": [
+        "Yaks are the working animals of the high country, and at Tsomgo a few handlers keep them saddled with bright rugs and tassels for visitors. A ride is a slow walk along the shore, the handler leading the animal on a rope. It lasts 10 to 20 minutes, depending on the price you agree. Most rides go to a fixed point and back, so you see the lake from the water's edge without walking on uneven ground.",
+        "Prices change with season and crowds, so settle three things before you mount: how far, how long, and whether a photo while sitting on the yak costs extra. Expect ₹300–600 for a ride, indicative 2026. Some handlers charge ₹50–100 just for a photo beside the animal. Pay after the ride, in cash, and in small notes, because change is scarce at 3,753 m and mobile signal for UPI comes and goes by the lake.",
+        "Yaks are calm but large, with sharp horns. Mount from the side the handler shows you, hold the saddle and not the horns, and keep children in front of an adult. Do not feed the animals or stand behind them. If you feel dizzy from the altitude, skip it. Sitting high on a swaying animal is not the moment to discover you are short of breath. Ten quiet minutes in the car first is a better start."
+      ],
+      "good_for": ["families", "first-timers", "students"],
+      "faqs": [
+        {"q": "How much is a yak ride at Tsomgo Lake", "a": "Expect about ₹300–600 per ride, indicative 2026, for 10 to 20 minutes along a fixed stretch of shore. Prices rise on busy weekends and in May and June. A photo while sitting on the yak, without a ride, is often ₹50–100. Agree the full amount and what it includes before you get on, and pay the handler in cash after the ride."},
+        {"q": "Can small children ride a yak at Tsomgo", "a": "Yes, most handlers will take children of about five and above, usually with an adult riding behind or walking alongside. Younger children are better kept on the ground: the saddle is wide, the animal sways, and the altitude affects small children quickly. Keep them warm, keep the ride short, and get down at once if they cry or complain of a headache."},
+        {"q": "Is the yak ride worth it", "a": "For families with children, usually yes. It is short, cheap by tourist standards and gives a good photo by the water. If you are travelling as adults on a tight budget, the lake shore walk gives you the same views for free. Either way, settle the price first and do not let a handler talk you into a longer ride than you asked for."}
+      ]
+    },
+    {
+      "slug": "tsomgo-lake-kyongnosla-drive",
+      "title": "The Kyongnosla drive and its alpine forest",
+      "kind": "nature",
+      "duration": "2 hours each way, with stops",
+      "best_time": "April–May for rhododendron; Oct–Nov for clear views",
+      "cost": "Included in the Tsomgo car",
+      "image_query": "Kyongnosla Alpine Sanctuary Sikkim rhododendron",
+      "wiki": "Kyongnosla Alpine Sanctuary",
+      "summary": "The drive up from Gangtok is half the trip. The road climbs about 2,100 m in 40 km, and its upper part runs through the Kyongnosla Alpine Sanctuary, a protected forest of rhododendron, juniper and silver fir with waterfalls that freeze in winter.",
+      "body": [
+        "Leave Gangtok and the road climbs steadily past Army camps and small tea stalls. The town's mixed forest gives way to fir, then to rhododendron and juniper. Around the upper stretch you enter the Kyongnosla Alpine Sanctuary, about 31 sq km of protected land around the road to Tsomgo. It is known for its rhododendrons and ground orchids, set among tall junipers and taller silver firs. Few people notice the boundary; the change in the trees tells you.",
+        "In April and May the rhododendron flowers in red, pink and white along the slopes. In winter the waterfalls beside the road freeze into pale columns, and in the monsoon they roar. Drivers usually stop once on the way up, at a check post where permits are verified, and once at a waterfall or tea stall. Ask for an extra stop if you want flowers or birds, and offer it with a smile, not a demand.",
+        "Do not walk into the forest or off the road. This is a sanctuary inside a restricted zone, and the Army shares the road. Keep the windows half open for the smell of fir on the way up, and closed on the way down when trucks raise dust. If anyone feels sick from the bends, sit in the front and keep eyes on the road ahead. A dry biscuit and small sips of water help more than a heavy breakfast."
+      ],
+      "good_for": ["photographers", "couples", "seniors", "families"],
+      "faqs": [
+        {"q": "What is Kyongnosla Alpine Sanctuary", "a": "It is a protected area of about 31 sq km around the upper road to Tsomgo Lake in Gangtok district. It protects alpine and sub-alpine forest: rhododendrons and ground orchids among tall junipers and silver firs. You do not need a separate ticket; you pass through it on the Tsomgo road. Walking off the road is not allowed for tourists, so enjoy it from roadside stops."},
+        {"q": "Can we stop for photos on the Tsomgo road", "a": "Yes, at safe spots. Drivers know the usual stops: a waterfall, a tea stall, a bend with a view. Do not ask them to halt on narrow stretches or near Army installations, where photography may be restricted. Two or three short stops add 20–30 minutes. If you want more time, agree it in Gangtok before you leave, because most drivers plan to be back by mid-afternoon."},
+        {"q": "Does the road close because of snow", "a": "It can. After heavy snowfall, usually between December and March, the road beyond a certain point may be shut for a day or more until it is cleared. Landslides can close it in the monsoon. Agents in Gangtok know each evening whether permits are being issued for the next day. Keep one spare day in your plan and check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "tsomgo-lake-guru-purnima-jhakri-gathering",
+      "title": "Guru Purnima and the jhakris at the lake",
+      "kind": "spiritual",
+      "duration": "Half a day",
+      "best_time": "Guru Purnima, full moon of Ashadha (usually July)",
+      "cost": "Free (permit and car extra)",
+      "image_query": "Tsomgo Lake Sikkim monsoon",
+      "wiki": "",
+      "summary": "By local tradition, the jhakris, faith healers of Sikkim, gather at Tsomgo on Guru Purnima to draw on the healing power believed to lie in the lake. It falls in the monsoon, so views may be poor, but it shows why the lake is sacred.",
+      "body": [
+        "Jhakri is the Nepali word for a shaman or faith healer. In Sikkim, jhakris are part of village life across Lepcha, Limbu, Rai and other communities, called in for illness, bad luck or rites of passage. Local accounts say they gather at Tsomgo on Guru Purnima, the full moon of the Hindu month of Ashadha, which usually falls in July, because the lake's water is believed to carry healing power.",
+        "We do not sell this as a show, and you should not treat it as one. If you happen to be at the lake that day, you may see small groups in white or with drums and feathered headgear, offering prayers by the water. Watch from a distance, ask before any photograph, and do not offer money unless someone asks you to. Dates follow the lunar calendar, so check the full moon for the year.",
+        "July is the heart of the monsoon. The Tsomgo road is usually open, but cloud often sits on the lake and NH10 to Gangtok can be cut by landslides. If you plan around Guru Purnima, build in two spare days and be ready to change plans. Agents in Gangtok can tell you a few days before whether permits are being issued, and a rain jacket matters more than a down coat that week. Check current status before you travel."
+      ],
+      "good_for": ["solo", "photographers", "students"],
+      "faqs": [
+        {"q": "When is Guru Purnima at Tsomgo Lake", "a": "Guru Purnima falls on the full moon of the Hindu month of Ashadha, which usually comes in July and sometimes in late June. The date shifts each year with the lunar calendar, so check it before you plan. Local tradition holds that jhakris gather at the lake that day. There is no fixed programme or timetable, and nothing is organised for tourists."},
+        {"q": "Who are the jhakris of Sikkim", "a": "Jhakris are traditional faith healers, often described as shamans, found across Sikkim and the Darjeeling hills. They are consulted for illness, misfortune and rituals, and use drums, chants and offerings. The word is Nepali; Lepcha communities have their own healers called bongthing and mun. At Tsomgo they are said to gather on Guru Purnima because the water is believed to heal."},
+        {"q": "Is it worth visiting Tsomgo in July", "a": "Only if you accept cloud and possible delays. In July the lake is ice-free and the hills are green, but cloud often sits low and views of the peaks are rare. NH10 to Gangtok is prone to landslides in the monsoon. Rates are lower and crowds smaller. Keep two buffer days, and check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Do Indians need a permit for Tsomgo Lake", "a": "Yes. Indian nationals need a Protected Area Permit for Tsomgo, arranged through a registered Gangtok travel agent or your hotel. Give them two passport-size photos and a copy of a photo ID per person, usually the evening before. The permit costs about ₹200 a person through an agent and is checked at a post on the way up. Check current status before you travel."},
+    {"q": "Can foreigners visit Tsomgo Lake", "a": "Yes. Foreign nationals with a valid Restricted Area Permit for Sikkim can visit Tsomgo on a day Protected Area Permit arranged by a registered travel agent, usually in a group of two or more. Foreigners are not allowed beyond the lake to Nathu La, and the Silk Route at Zuluk and Kupup is closed to them. Check current status before you travel."},
+    {"q": "When is Tsomgo Lake frozen", "a": "The lake is usually frozen, fully or in part, from about January to March, and ice can linger into April and sometimes May. December brings the first hard frosts. If ice is what you want, February is the most reliable month, but heavy snow can close the road for a day or more. Keep a spare day in Gangtok and check current status before you travel."},
+    {"q": "How far is Tsomgo Lake from Gangtok", "a": "Tsomgo is about 40 km from Gangtok on the Nathu La road, a drive of about 2 hours each way. Cars leave between 7 and 8 am and are back by early to mid-afternoon, including Baba Mandir. With Nathu La added, plan on a full day, back by around 4 or 5 pm. Times stretch after snowfall or landslides."},
+    {"q": "How much does a Tsomgo Lake trip cost from Gangtok", "a": "A shared seat on a Tsomgo tour costs about ₹800–1,300 a person. A reserved car for Tsomgo and Baba Mandir costs ₹4,500–6,500 per vehicle for up to five people, rising to ₹6,500–9,000 with Nathu La. Add about ₹200 a person for the permit and ₹100–300 for boot and coat hire in winter. All indicative 2026."},
+    {"q": "Is altitude sickness a risk at Tsomgo Lake", "a": "Yes, it can be. At 3,753 m, Tsomgo is more than 2,000 m above Gangtok, and you get there in two hours. Mild headache and breathlessness are common. Walk slowly, drink water, avoid alcohol the night before and limit your stay to 60–90 minutes. Anyone with heart or lung problems, or who is pregnant, should consult a doctor first."},
+    {"q": "Can we stay overnight at Tsomgo Lake", "a": "No. Tourist permits for Tsomgo are for a day visit, and there are no hotels for tourists at the lake. Everyone returns to Gangtok the same afternoon. If you want to sleep in the high country, the Silk Route via Kupup to Zuluk is an option for Indian nationals, with homestays at Zuluk around 2,900 m. Check current status before you travel."},
+    {"q": "Can I take my own car to Tsomgo Lake", "a": "Generally no. Vehicles registered outside Sikkim are not normally permitted past the check post on the Tsomgo road, and tourist permits are issued with a Gangtok-registered vehicle and driver. Leave your own car at the hotel in Gangtok and hire a local car or shared seat through an agent. Rules can change, so check current status before you travel."},
+    {"q": "Is Tsomgo Lake good for children", "a": "Yes, for most children over five, if you keep the visit short. Dress them in layers, gloves and a cap, keep them hydrated and watch for headache, vomiting or unusual tiredness, which are signs to head down at once. Children under five can usually visit Tsomgo, but many families keep the stay to about 45 minutes and skip Nathu La."}
+  ]
+}

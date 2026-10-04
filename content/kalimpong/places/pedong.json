@@ -1,0 +1,174 @@
+{
+  "slug": "pedong",
+  "name": "Pedong",
+  "region": "kalimpong",
+  "kind": "hill town",
+  "wiki": "Pedong",
+  "image_query": "Pedong Kalimpong monastery",
+  "lat": 27.155,
+  "lng": 88.61,
+  "altitude_m": 1240,
+  "tagline": "A small town on the old mule road to Jelep La",
+  "meta_description": "Pedong travel guide: Sangchen Dorjee monastery, Cross Hill, the French mission church, the Silk Route start, Damsang nearby, costs and how to reach from Kalimpong.",
+  "summary": "Pedong is a small ridge town at about 1,240 m, 20–22 km east of Kalimpong, on the old trade route to Jelep La and Tibet. It has a Bhutanese-era monastery of 1706, a French mission church, Cross Hill and nearby Damsang Fort, and is the start of the Silk Route drive into Sikkim.",
+  "intro": [
+    "Pedong sits on a ridge about an hour's drive east of Kalimpong, on the road that runs on to the Reshi river and the Sikkim border at Rhenock. It looks like any small hill bazaar: a main street of shops, schools and taxi stands. But for two centuries it lay on one of the most important trade routes in the Himalaya, the mule road from Kalimpong to Jelep La and on to Tibet's Chumbi Valley and Lhasa.",
+    "That history left layers. Sangchen Dorjee Gompa, also called Pedong Monastery, dates from the Bhutanese period, around 1706. Catholic priests of the Paris Foreign Missions, waiting for a chance to enter Tibet, founded a mission here in the 1880s, and one of them, Father Augustine Desgodins, raised a cross on the hill above in 1882. A short distance away, Damsang Fort is linked in Lepcha tradition to Gaeboo Achyok, the Lepcha chief who resisted Bhutan.",
+    "Most travellers see Pedong in a half-day from Kalimpong, or pass through on the Silk Route toward Zuluk. It is worth an unhurried stop: quiet streets, a working monastery, a church still in use and views from Cross Hill toward the Sikkim ranges. Sillery Gaon and Ramdhura make good overnight bases close by."
+  ],
+  "story": {
+    "title": "French priests at the gate of Tibet",
+    "paras": [
+      "In the 19th century, Tibet was closed to Western missionaries. The Paris Foreign Missions Society, which had priests in western China, tried again and again to reach it from the south. In the early 1880s Father Augustine Desgodins, who had already spent years on Tibet's eastern borders, settled at Pedong, the last good stop on the road to Jelep La, and began a mission among the Lepcha and other hill people.",
+      "In 1882 he raised a cross on a hill above the town, as a memorial to missionaries headed for Tibet. Cross Hill keeps that name today. The mission church, the Sacred Heart Church, still serves a Catholic community in Pedong. The priests never established a lasting presence in Tibet, but Pedong became, for a while, a meeting point of the French, Lepcha, Bhutanese and Tibetan worlds, all on the same mule road."
+    ],
+    "source": "Pedong article on Wikipedia; Paris Foreign Missions Society history; local accounts of Cross Hill"
+  },
+  "did_you_know": [
+    "Pedong's Sangchen Dorjee Gompa dates from around 1706, when this area was ruled by Bhutan.",
+    "Father Augustine Desgodins, a French missionary of the Paris Foreign Missions, raised the cross on Cross Hill above Pedong in 1882.",
+    "Pedong was a stop on the Kalimpong–Jelep La trade route to Tibet, which closed after the 1962 India–China war."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – May"],
+    ["Nights we suggest", "0–1 (or stay at Sillery Gaon)"],
+    ["Nearest airport", "Bagdogra (IXB), about 100 km"],
+    ["From Siliguri", "≈ 90 km via Kalimpong · 3.5–4 h"],
+    ["Altitude", "About 1,240 m"],
+    ["Known for", "1706 monastery, Cross Hill, Silk Route start"]
+  ],
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "0–1",
+  "highlights": [
+    {"title": "Sangchen Dorjee Gompa", "text": "Founded around 1706 in the Bhutanese period, Pedong's monastery is one of the oldest in the district. Its old prayer hall, murals and quiet courtyard are worth an hour, and it hosts an annual masked cham dance."},
+    {"title": "Cross Hill", "text": "Above the town, a cross raised in 1882 by the French missionary Augustine Desgodins marks Cross Hill. The short climb gives wide views over the Pedong ridge toward the Sikkim hills and the old route to Jelep La."},
+    {"title": "Sacred Heart Church", "text": "The Catholic mission begun by French priests in the 1880s still has its church in Pedong, used by the local community. Visit quietly outside service times and respect the congregation."},
+    {"title": "Damsang Fort nearby", "text": "Between Pedong and Algarah, the ruins of Damsang Fort stand in forest on a ridge. Lepcha tradition links them to Gaeboo Achyok, who resisted Bhutanese rule in the late 17th century."},
+    {"title": "Gateway to the Silk Route", "text": "From Pedong the road drops to the Reshi river and the Sikkim border at Rhenock, the start of the Old Silk Route drive via Rongli to Zuluk, which needs Sikkim permits."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps run from Kalimpong's motor stand to Pedong through the day, about ₹60–100 a seat, indicative for 2026, taking about an hour. Some jeeps continue toward Rhenock and Sikkim. From Siliguri, change at Kalimpong or take an occasional direct jeep via Algarah."},
+    {"mode": "Reserved car", "text": "A reserved car from Kalimpong costs about ₹1,500–2,200 one way or about ₹2,500–3,500 for a half-day round trip with Pedong, Damsang and Sillery Gaon, indicative for 2026. From NJP or Bagdogra, expect about 3.5–4 hours and ₹4,000–5,500 per car."},
+    {"mode": "Rail / Air", "text": "Bagdogra (IXB) is the nearest airport and New Jalpaiguri (NJP) the main railhead, both reached via Siliguri. Pakyong airport in Sikkim is closer as the crow flies, but flights there have been irregular; check current status."}
+  ],
+  "where_to_stay": "Pedong has a few small guesthouses and lodges in and around the bazaar, simple and inexpensive, and homestays on the surrounding slopes. Most travellers prefer to stay in the nearby villages: Sillery Gaon, about 8 km away at about 1,830 m, for mountain views and pine forest, or Ramdhura and Icchey Gaon on the Kalimpong side. For comfort and heritage hotels, stay in Kalimpong, an hour away, and visit Pedong as a half-day trip.",
+  "stays": [],
+  "costs": [
+    ["Shared jeep Kalimpong → Pedong", "₹60–100 a seat, indicative, 2026"],
+    ["Half-day car Kalimpong–Pedong–Damsang", "₹2,500–3,500, indicative, 2026"],
+    ["Monastery and church visits", "Free; donations welcome"],
+    ["Guesthouse room in Pedong", "₹1,200–2,500 per room night, indicative, 2026"],
+    ["Tea and snacks in the bazaar", "₹50–150, indicative, 2026"]
+  ],
+  "budget_tip": "Take the shared jeep from Kalimpong to Pedong for under ₹100 and hire a local taxi in Pedong only for the short hops to Cross Hill, Damsang and Sillery Gaon, instead of a full car from Kalimpong.",
+  "tips": [
+    "Combine Pedong with Damsang Fort and Sillery Gaon in one half-day from Kalimpong.",
+    "Visit the monastery in the morning, when monks are present and the light is soft.",
+    "Ask locally about Pedong's agricultural fair, traditionally held in late February.",
+    "If continuing on the Silk Route, arrange Sikkim permits through a registered operator before you reach the border.",
+    "Carry cash; Pedong has limited ATMs and the villages beyond have none."
+  ],
+  "themes": ["monasteries", "high-passes", "mountain-views", "village-homestays", "budget-trips"],
+  "nearby": ["sillery-gaon", "algarah", "kalimpong", "icchey-gaon"],
+  "experiences": [
+    {
+      "slug": "pedong-sangchen-dorjee-gompa",
+      "title": "Sangchen Dorjee Gompa, Pedong's 1706 monastery",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Mornings, all year",
+      "cost": "Free; donations welcome",
+      "image_query": "Pedong monastery Kalimpong",
+      "wiki": "",
+      "summary": "Visit Sangchen Dorjee Gompa, also called Pedong Monastery, founded around 1706 when Bhutan ruled these hills. An old prayer hall, murals and a quiet courtyard make it one of the most atmospheric monasteries in Kalimpong district.",
+      "body": [
+        "Sangchen Dorjee Gompa stands just outside Pedong bazaar and is usually dated to around 1706, during the period when the hills east of the Teesta were part of Bhutan. That makes it one of the oldest Buddhist foundations in the district, older than any of Kalimpong town's monasteries.",
+        "The prayer hall has old murals, statues and thangkas, and the courtyard is ringed with prayer wheels. The monastery holds an annual masked cham dance, when monks in costume perform ritual dances in the courtyard; dates follow the Tibetan lunar calendar, so ask locally. Outside festival days it is quiet, with only a few monks and caretakers.",
+        "Remove shoes before entering the prayer hall, walk clockwise and ask before photographing inside. A small donation is appreciated. The monastery is a short walk or drive from the bazaar and fits easily into a half-day that includes Cross Hill, Damsang Fort and Sillery Gaon."
+      ],
+      "good_for": ["couples", "seniors", "photographers", "families"],
+      "faqs": [
+        {"q": "How old is Pedong Monastery", "a": "Sangchen Dorjee Gompa, known as Pedong Monastery, is generally dated to around 1706, when Bhutan ruled the hills east of the Teesta. Kalimpong passed to British India only in 1865, so the monastery predates British rule here by more than 150 years. It is among the oldest monasteries in Kalimpong district."},
+        {"q": "When is the cham dance at Pedong Monastery", "a": "The monastery holds an annual masked cham dance, with dates set by the Tibetan lunar calendar, so the Western date changes each year. Ask your hotel in Kalimpong or the monastery staff for the current year's date. Arrive early on dance days for a place to stand, and do not use flash photography."},
+        {"q": "Can I photograph inside Sangchen Dorjee Gompa", "a": "Rules vary; often photography inside the prayer hall is not allowed, and you should always ask a monk or caretaker first. Photographs of the exterior, courtyard and prayer wheels are usually fine. Never use flash on murals or statues, and avoid photographing people in prayer without permission."}
+      ]
+    },
+    {
+      "slug": "pedong-cross-hill-desgodins",
+      "title": "Cross Hill and the French mission story",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Clear mornings, Oct–Apr",
+      "cost": "Free",
+      "image_query": "Cross Hill Pedong",
+      "wiki": "",
+      "summary": "Climb to Cross Hill above Pedong, where the French missionary Augustine Desgodins raised a cross in 1882 in memory of missionaries headed for Tibet, then visit the Sacred Heart Church the mission founded. A short walk into a little-known chapter of Himalayan history.",
+      "body": [
+        "The Paris Foreign Missions Society spent much of the 19th century trying to establish Catholic missions in Tibet, from the Chinese side and from India. Father Augustine Desgodins was one of its most persistent priests. After years on Tibet's eastern frontier, he came to Pedong in the early 1880s, the last good base on the road to Jelep La, and founded a mission here.",
+        "In 1882 he raised a cross on the hill above the town, as a memorial to missionaries headed for Tibet. The hill has been called Cross Hill ever since. The climb from the road takes 15–20 minutes, and from the top you see the Pedong ridge, the valleys toward the Reshi river and, on clear days, the hills of Sikkim, in the direction the priests hoped to go.",
+        "Back in town, the Sacred Heart Church, part of the same mission, still serves the local Catholic community. Visit quietly and outside services. The story of French priests, Lepcha converts and Tibetan traders on one mountain road is part of what makes Pedong more than a transit stop."
+      ],
+      "good_for": ["couples", "history lovers", "photographers", "students"],
+      "faqs": [
+        {"q": "Who built the cross at Cross Hill in Pedong", "a": "The cross was raised in 1882 by Father Augustine Desgodins, a French Catholic missionary of the Paris Foreign Missions Society, who founded a mission in Pedong while trying to reach Tibet. It was intended as a memorial to missionaries headed for Tibet. The hill has been known as Cross Hill since."},
+        {"q": "How long is the walk to Cross Hill", "a": "From the road near Pedong, the climb to Cross Hill takes about 15–20 minutes on a steep path. Allow an hour in total with time at the top. Wear shoes with grip, as the path can be slippery after rain. Your driver can drop you at the start and wait."},
+        {"q": "Can I visit the Sacred Heart Church in Pedong", "a": "Yes, visitors can usually see the church outside service times. It is an active parish church, so dress modestly, keep your voice low and do not photograph worshippers. Sunday mornings are busy with services; weekdays are quieter. Christmas in Pedong brings special services and carols for the local community."}
+      ]
+    },
+    {
+      "slug": "pedong-reshi-river-silk-route-gateway",
+      "title": "Down to the Reshi river on the old trade road",
+      "kind": "adventure",
+      "duration": "Half day",
+      "best_time": "Oct–May",
+      "cost": "Car ₹2,000–3,000 for the half day, indicative",
+      "image_query": "Reshi river Sikkim border Rhenock",
+      "wiki": "Jelep La",
+      "summary": "Drive from Pedong down to the Reshi river, the border with Sikkim, along the line of the old mule road to Jelep La. A half-day outing that shows how traders came down from Tibet, and where today's Silk Route trips cross into Sikkim.",
+      "body": [
+        "Before 1962, caravans of mules came down from Jelep La, about 4,390 m on the Sikkim–Tibet border, through Sikkim to the Reshi river and up to Pedong, then on to Algarah and Kalimpong. They carried Tibetan wool, furs and salt and returned with cloth, metal goods and tea. The British expedition to Tibet of 1904 also crossed Jelep La.",
+        "Today a road drops from Pedong through farms and forest to the Reshi river, the boundary with Sikkim, and continues to Rhenock and Rongli, the start of the Silk Route drive to Zuluk. You can go down to the river and back as a half-day outing without any Sikkim permit, as long as you do not go beyond the border check.",
+        "The river valley is warm and green, with swimming spots locals use in summer, though currents can be strong. Combine the drive with tea in Pedong and Cross Hill. If you plan to continue to Zuluk, you need permits arranged in advance through a registered Sikkim operator; Zuluk and the Old Silk Route are generally not open to foreign nationals."
+      ],
+      "good_for": ["couples", "families", "photographers", "students"],
+      "faqs": [
+        {"q": "Do I need a permit to go from Pedong to the Reshi river", "a": "No permit is needed to drive from Pedong down to the Reshi river on the West Bengal side. Crossing into Sikkim requires showing ID at the border check, and continuing to Zuluk and the Old Silk Route needs a special permit arranged through a registered Sikkim operator. Check current status before you travel."},
+        {"q": "Is the Silk Route open to foreigners", "a": "Generally no. The Zuluk and Old Silk Route area of East Sikkim lies in a restricted zone near the China border, where foreign nationals are normally not permitted. Foreigners can visit Pedong, the Reshi river and parts of East Sikkim such as Aritar with standard Sikkim permits. Rules change; check current status before you travel."},
+        {"q": "How long does the drive from Pedong to Reshi take", "a": "The drive from Pedong down to the Reshi river takes about 30–45 minutes, depending on road conditions and stops. A half-day round trip from Pedong, with time at the river and a stop at Cross Hill, costs about ₹2,000–3,000 for a reserved car, indicative for 2026."}
+      ]
+    },
+    {
+      "slug": "pedong-bazaar-and-mission-school-walk",
+      "title": "Pedong bazaar walk and morning tea",
+      "kind": "village",
+      "duration": "1–1.5 hours",
+      "best_time": "Mornings, Oct–May",
+      "cost": "₹100–300 for tea and snacks, indicative",
+      "image_query": "Pedong bazaar Kalimpong",
+      "wiki": "",
+      "summary": "Walk Pedong's small main street in the morning, past school children, taxi stands, cloth shops and tea stalls, and stop for tea and sel roti. A slow look at an ordinary hill town that once served mule caravans bound for Tibet.",
+      "body": [
+        "Pedong's bazaar is one street long, but it carries a lot of history. Shops sell cloth, hardware, groceries and school supplies to villages around, as they once supplied muleteers and traders on the road to Tibet. Many families in town descend from people who came for the trade or for the mission schools.",
+        "Mornings are the best time: school children in uniform, farmers bringing produce, jeeps loading for Kalimpong and Rhenock, and tea stalls frying sel roti and puri. Sit down with a glass of milk tea and watch the town wake. Ask shopkeepers about the old days; some older residents remember stories of the caravans from their parents.",
+        "There are no big sights on the street itself, so keep this to an hour and combine it with the monastery, Cross Hill and Damsang. Pedong has a degree college and several schools, which keep it lively in term time. If you want souvenirs, look for local pickles, churpi and woven bags rather than mass-produced items."
+      ],
+      "good_for": ["solo", "couples", "students", "photographers"],
+      "faqs": [
+        {"q": "Is Pedong worth a stop on the way to Sikkim", "a": "Yes. Even an hour gives you the 1706 monastery, Cross Hill and a tea in the bazaar, and with half a day you can add Damsang Fort and Sillery Gaon. Pedong is on the main road from Kalimpong toward Rhenock and Aritar, so it fits naturally into a Silk Route or Kalimpong–Gangtok trip via East Sikkim."},
+        {"q": "What should I eat in Pedong", "a": "Try sel roti or puri with potato curry and milk tea at a bazaar stall in the morning, and momos or thukpa at lunchtime. Small restaurants serve simple rice and dal meals. Food is basic but fresh and cheap, about ₹50–200 per person, indicative for 2026. For wider choice, eat in Kalimpong."},
+        {"q": "Is there an ATM in Pedong", "a": "Pedong has limited banking facilities, and an ATM may not always work or have cash. Withdraw money in Kalimpong before you come, especially if you are continuing to Sillery Gaon or the Silk Route, where there are no ATMs. UPI is accepted by some shops when the network is working."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How far is Pedong from Kalimpong", "a": "Pedong is about 20–22 km east of Kalimpong, around an hour by road via Algarah. Shared jeeps run through the day for about ₹60–100 a seat, and a reserved car costs about ₹1,500–2,200 one way, indicative for 2026. It makes an easy half-day trip from Kalimpong."},
+    {"q": "What is Pedong famous for", "a": "Pedong is known for Sangchen Dorjee Gompa, a monastery of about 1706, Cross Hill with its 1882 cross raised by a French missionary, the Sacred Heart Church, and nearby Damsang Fort. It is also the gateway to the Silk Route into East Sikkim and lies on the old Kalimpong–Jelep La trade route."},
+    {"q": "Should I stay in Pedong or Sillery Gaon", "a": "For views and a village atmosphere, stay in Sillery Gaon, about 8 km away at about 1,830 m, with pine forest and Kanchenjunga on clear mornings. Pedong suits those who want to be on the main road with shops and transport. Many travellers visit Pedong by day and sleep in Sillery Gaon."},
+    {"q": "Is Pedong on the Silk Route", "a": "Yes. Pedong is where many Silk Route trips start: the road goes down to the Reshi river, crosses into Sikkim at Rhenock, and climbs via Rongli and Lingtam to Zuluk. Historically, the trade route from Kalimpong to Jelep La also passed through Pedong. Zuluk needs special Sikkim permits."},
+    {"q": "What is the best time to visit Pedong", "a": "October to December and March to May are best, with dry roads and clear mornings. Winter is cool but pleasant at Pedong's altitude of about 1,240 m. The monsoon, from June to September, brings landslides on the roads to Pedong and Rhenock. Pedong's traditional agricultural fair is held around late February."},
+    {"q": "Can foreigners visit Pedong", "a": "Yes. Pedong is in Kalimpong district, West Bengal, and needs no special permit. Foreign nationals can visit freely. Going beyond into Sikkim requires a Sikkim permit, available at the Rangpo and Melli checkposts and some other points, and Zuluk is generally closed to foreigners. Check current status before you travel."},
+    {"q": "Are there hotels in Pedong", "a": "Pedong has a few small guesthouses and lodges with basic rooms at modest rates, and homestays in nearby villages. There are no large or luxury hotels. For comfort, stay in Kalimpong and visit Pedong by day; for views and a homestay, stay in Sillery Gaon nearby."},
+    {"q": "What is Damsang Fort near Pedong", "a": "Damsang Fort, or Damsang Gadi, is a ruined stone fort on a forested ridge between Pedong and Algarah. Lepcha tradition links it to Gaeboo Achyok, a Lepcha chief who resisted Bhutan in the late 17th century, and dates its building to around 1690. It fell into ruin after the Duar War of 1864–65. A short forest walk leads to it."},
+    {"q": "Is Pedong safe for travellers", "a": "Yes. Pedong is a small, quiet town with friendly residents and little crime. The main risks are road-related: narrow, winding roads and landslides in the monsoon. Use registered taxis or shared jeeps, avoid driving after dark, and check road conditions in the rainy season."}
+  ]
+}

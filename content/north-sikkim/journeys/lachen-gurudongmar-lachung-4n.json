@@ -1,0 +1,78 @@
+{
+  "slug": "lachen-gurudongmar-lachung-4n",
+  "title": "Lachen, Gurudongmar and Lachung",
+  "region": "north-sikkim",
+  "nights": 4,
+  "themes": ["high-passes", "mountain-views", "monasteries"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachen", "nights": 1}, {"place": "lachung", "nights": 1}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 14000,
+  "fares": {"budget": 14000, "comfort": 24000, "premium": 46000},
+  "fare_notes": {
+    "budget": "Shared jeeps Siliguri–Gangtok, budget Gangtok hotel, shared Lachen–Lachung group package with family hotels and most meals, permits.",
+    "comfort": "Reserved car from Siliguri, 3-star Gangtok hotel, private car for the north with The Apple Orchard Resort in Lachen and Le Coxy Resort in Lachung, breakfast and dinner, permits.",
+    "premium": "Private Innova throughout, premium Gangtok hotel, The Apple Orchard Resort in Lachen and Yarlam Resort in Lachung, all meals in the north, Zero Point if open, permits."
+  },
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 5430,
+  "meta_description": "4 nights from Siliguri: Gangtok, Lachen, Gurudongmar Lake at 5,430 m, Lachung and Yumthang, with permits and honest altitude advice, from ₹14,000.",
+  "summary": "Both North Sikkim valleys in four nights from Siliguri: Gangtok, Lachen and Gurudongmar Lake at 5,430 m, then Lachung and Yumthang. It is the full classic loop, with a Gangtok night at each end for permits and buffers. Altitude is the main risk; check current status before you travel.",
+  "intro": [
+    "This is the trip for travellers who want both of North Sikkim's big sights and have only four nights. You spend the first night in Gangtok while your permit is processed, then drive to Lachen, rise at 4 am for Gurudongmar Lake, cross to Lachung the same afternoon and see Yumthang the next dawn before returning to Gangtok. A second Gangtok night protects your flight or train from road delays.",
+    "Gurudongmar is the hardest day in Sikkim: from about 2,750 m in Lachen to 5,430 m and back in a morning. Most healthy adults manage with care. Children under five should not go, and older travellers or anyone with heart, lung or blood-pressure problems should see a doctor first and consider our 5-night version with a second night in Lachen. Lachen only reopened to tourists in 2026, so keep plans flexible."
+  ],
+  "highlights": [
+    "Gurudongmar Lake at 5,430 m, sacred to Guru Padmasambhava",
+    "The high plateau and yak pastures beyond Thangu",
+    "Yumthang Valley and the Shingba Rhododendron Sanctuary",
+    "Lachen Monastery, founded in 1858",
+    "The Teesta confluence at Chungthang, rebuilt after the 2023 flood"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "Arrive at Bagdogra or NJP and drive to Gangtok along the Teesta, entering Sikkim at Rangpo. Budget travellers use a shared jeep, about ₹350–500 a seat. Check in and make sure your operator has your ID copies and photographs for the North Sikkim permit. Walk MG Marg in the evening, buy any missing warm clothes, gloves or an oxygen can in Lal Bazaar, and eat early. Tomorrow is a long drive.", "meals": "None"},
+    {"day": 2, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 129 km · 6–7 h", "text": "Leave Gangtok by about 10 am once permits are collected. Drive north past Kabi Lungchok and Phodong to Mangan, then through the Toong checkpost to Chungthang, where the Lachen and Lachung rivers meet. Lunch here, and if time allows see the rock associated with Guru Rinpoche. Continue up the Lachen valley over the Taram Chu bridge to Lachen, about 2,750 m, by dusk. Eat lightly, drink water, skip alcohol and lay out warm clothes for the dawn start.", "meals": "Dinner"},
+    {"day": 3, "title": "Gurudongmar Lake, then Lachung", "place": "gurudongmar-lake", "overnight": "Lachung", "drive": "≈ 135 km · 9–10 h in total", "text": "Leave Lachen at 4–5 am. Stop at Thangu, about 3,900 m, for tea, toilets and the army check, and ask everyone how they feel. Continue across the plateau to Gurudongmar Lake, 5,430 m, by about 8–10 am. Spend 20–30 minutes on the shore, walking slowly; anyone with serious symptoms goes down at once. Return to Lachen for lunch, then drive down to Chungthang and up to Lachung, about 2,700 m, by late afternoon. A lower night helps you recover.", "meals": "Breakfast (packed), Lunch, Dinner"},
+    {"day": 4, "title": "Yumthang Valley, back to Gangtok", "place": "yumthang-valley", "overnight": "Gangtok", "drive": "≈ 170 km · 9–10 h in total", "text": "Leave Lachung at 5.30–6 am for Yumthang Valley, 3,564 m, through the Shingba Rhododendron Sanctuary. Spend an hour on the meadow and at the hot spring. Zero Point is optional, paid per vehicle, if the road is open and everyone is well; after yesterday's altitude, many groups skip it. Return to Lachung for breakfast, check out and drive to Gangtok, crossing the Toong checkpost before 4 pm. Reach Gangtok in the evening.", "meals": "Breakfast"},
+    {"day": 5, "title": "Gangtok to Siliguri", "place": "gangtok", "overnight": "", "drive": "≈ 115 km · 4–5 h", "text": "After breakfast, drive down to Bagdogra or NJP. If you have a late flight or train, spend an hour at Enchey Monastery or the Namgyal Institute of Tibetology first. Allow at least five hours for the road, more in wet weather, when landslides on National Highway 10 can cause delays. Budget travellers can take a shared jeep from Gangtok to Siliguri.", "meals": "Breakfast"}
+  ],
+  "stays": ["apple-orchard-resort-lachen", "le-coxy-resort-lachung", "yarlam-resort-lachung", "bichu-homestay-lachung"],
+  "includes": [
+    "Protected Area Permit processing for Lachen, Gurudongmar, Lachung and Yumthang",
+    "Transport as per tier: shared jeeps and shared North Sikkim vehicle (budget), private car (comfort, premium)",
+    "Four nights' accommodation, twin sharing",
+    "Dinner day 2, all meals day 3, breakfast day 4 in the north; breakfasts in Gangtok on comfort and premium",
+    "Gurudongmar Lake and Yumthang Valley sightseeing"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Lunches on drive days and Gangtok dinners",
+    "Zero Point charge, about ₹3,000–4,500 per vehicle (except premium)",
+    "Oxygen cans, snow-gear hire, room heaters where charged, tips",
+    "Extra nights caused by landslides or closures"
+  ],
+  "save_more": [
+    "Choose the budget tier with a shared group package for the north; it costs a third of a private car.",
+    "Travel in late March or November, when hotels discount and group seats are easy to find.",
+    "Buy gloves, caps and an oxygen can in Gangtok rather than in Lachen or at Thangu, where they cost much more."
+  ],
+  "good_to_know": [
+    "Children under five should not go to Gurudongmar; consider our Gangtok–Lachung trip instead.",
+    "Foreign nationals cannot go to Gurudongmar; their day 3 ends at Thangu.",
+    "Packaged water is banned in Lachen and above; bring a refillable bottle.",
+    "Lachen reopened in 2026 after three years of closure; check current status before you travel.",
+    "Vehicles must cross the Toong checkpost by 4 pm in both directions."
+  ],
+  "faqs": [
+    {"q": "Is 4 nights enough for North Sikkim", "a": "Four nights from Siliguri covers Gangtok, Lachen with Gurudongmar and Lachung with Yumthang, with a night in Gangtok at each end. It is a full, active trip. If anyone is older or has health concerns, add a second night in Lachen to acclimatise; see our 5-night version."},
+    {"q": "How much does a 4-night Lachen–Lachung trip cost", "a": "From about ₹14,000 per person twin sharing on the budget tier, about ₹24,000 on comfort and about ₹46,000 on premium, from Siliguri, indicative 2026. Prices rise in May, Puja week and New Year. Zero Point is extra except on premium."},
+    {"q": "Is Gurudongmar Lake safe on this itinerary", "a": "For healthy adults who follow the rules, generally yes: sleep in Lachen, drink water, avoid alcohol, walk slowly and stay 20–30 minutes at the lake. The risk is the fast climb. Children under five should not go; seniors and those with health conditions should see a doctor."},
+    {"q": "Why sleep in Lachung after Gurudongmar", "a": "Lachung is at about 2,700 m, much lower than Gurudongmar, so sleeping there helps your body recover. It also positions you for Yumthang the next morning. The drive from Lachen to Lachung via Chungthang takes about 3 hours after lunch."},
+    {"q": "Can I do this trip in winter", "a": "Partly. From December to March, Lachung and Yumthang usually have snow and are often reachable, but the Lachen road and Gurudongmar are frequently blocked by snow. If you travel in winter, be ready for a Lachung-only trip and check current status before you travel."},
+    {"q": "Should I add Zero Point after Gurudongmar", "a": "Only if everyone is feeling completely well and the weather is clear. After going to 5,430 m the day before, many people are tired and some have mild headaches. Zero Point at about 4,660 m is optional; Yumthang alone is a full morning."},
+    {"q": "What medicines should I carry", "a": "Your regular medicines, a basic first-aid kit, painkillers, anti-nausea tablets, oral rehydration salts and, if prescribed by your doctor, acetazolamide for altitude. Talk to a doctor before the trip if you have heart, lung or blood-pressure conditions, diabetes or are pregnant."},
+    {"q": "Which tier should I choose", "a": "Budget suits healthy adults and students happy to share a vehicle and stay in simple hotels. Comfort suits families and couples who want a private car and warmer rooms. Premium suits older travellers or honeymooners who want the best room in each place and no surprises."},
+    {"q": "Is Lachen open in October 2026", "a": "Yes, as of early October 2026. Permits resumed around 10–11 September 2026 after road repairs near Taram Chu. Snow from November and landslides in the monsoon can close it again. Your operator will know the latest; check current status before you travel."}
+  ]
+}

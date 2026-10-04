@@ -1,0 +1,6 @@
+{% load hills %}<a class="gcard rv" href="{{ g.url }}" data-item data-region="{{ g.region }}" data-kind="{{ g.category }}" data-land="{{ g.region }}">
+  <span class="gcard__cat"><span>{{ g.category }}</span><span>{{ g.region_obj.short }}</span></span>
+  <span class="gcard__title">{{ g.title }}</span>
+  <p>{{ g.summary|truncatewords:22 }}</p>
+  <span class="gcard__meta">{{ g.read_min }} min read</span>
+</a>

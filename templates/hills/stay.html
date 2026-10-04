@@ -1,0 +1,33 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}{{ s.name }}, {{ s.place_obj.name }}: rates, rooms and honest notes · Darjeeling Tour Plan{% endblock %}
+{% block description %}{{ s.summary|truncatechars:158 }}{% endblock %}
+{% block og_image %}{% with img=s|first_img %}{% if img %}<meta property="og:image" content="{{ img|src:1280 }}">{% endif %}{% endwith %}{% endblock %}
+{% block body_attrs %} data-land="{{ s.region }}"{% endblock %}
+{% block content %}
+<header class="wrap phead--plain"><div class="phead__in" style="padding-top: 18px">
+  <p class="eyebrow">{% icon "bed" %} {{ s.kind }} · {{ s.place_obj.name }}, {{ s.region_obj.short }}</p>
+  <div class="phead__row"><h1 class="h-xl">{{ s.name }}</h1><span class="stamp stamp--{{ s.tier }}" style="font-size: 20px">{{ s.tier }}</span></div>
+</div></header>
+<div class="wrap">{% photo s|first_img alt=s.name cls="ratio-pano" eager=True sizes="100vw" %}</div>
+<section class="sec--tight"><div class="wrap split">
+  <div>
+    <div class="answer" style="margin-top: 0">{{ s.summary }}</div>
+    <div class="prose" style="margin-top: 26px">{% for para in s.body %}<p>{{ para }}</p>{% endfor %}</div>
+    <div class="grid grid--2" style="margin-top: 26px">
+      <div class="panel"><p class="eyebrow">Why we like it</p><ul class="ticks">{% for w in s.why %}<li>{{ w }}</li>{% endfor %}</ul></div>
+      <div class="panel panel--signal"><p class="eyebrow" style="color: var(--ink)">Watch out for</p><p style="margin: 0; font-size: 18px">{{ s.watch_out }}</p></div>
+    </div>
+    <div style="margin-top: 40px">{% include "hills/partials/faq.html" with faqs=s.faqs %}</div>
+  </div>
+  <aside class="split__aside">
+    <div class="panel"><p class="eyebrow">The details</p><ul class="ledger"><li><span>Price level</span><i></i><b>{{ s.tier|capfirst }}</b></li><li><span>Rate</span><i></i><b>{{ s.rate_band }}</b></li><li><span>Type</span><i></i><b>{{ s.kind|capfirst }}</b></li>{% if s.place_obj %}<li><span>Where</span><i></i><b><a href="{{ s.place_obj.url }}">{{ s.place_obj.name }}</a></b></li>{% endif %}{% if s.brand %}<li><span>Brand</span><i></i><b>{{ s.brand }}</b></li>{% endif %}</ul>
+      {% if s.best_for %}<div class="chip-row" style="margin-top: 14px">{% for b in s.best_for %}<span class="chip chip--land">{{ b }}</span>{% endfor %}</div>{% endif %}
+      {% if s.website %}<p class="small" style="margin: 14px 0 0"><a href="{{ s.website }}" rel="noopener nofollow" target="_blank">Official website</a></p>{% endif %}</div>
+    {% include "hills/partials/quick_form.html" with qf_id="stay-aside" qf_land=s.region qf_title="Check rates for your dates" qf_message="Stay: "|add:s.name %}
+  </aside>
+</div></section>
+{% if s.journey_objs %}<section class="sec sec--tint"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Packages</p><h2 class="h-l">Packages that can use this stay</h2></div></div>
+  <div class="grid grid--4" data-fill>{% for j in s.journey_objs|slice:":4" %}{% include "hills/partials/card_journey.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_land=s.region %}</div></div></section>{% endif %}
+{% if others %}<section class="sec"><div class="wrap"><div class="sec-head"><div><p class="eyebrow">Nearby</p><h2 class="h-l">Other stays in {{ s.region_obj.short }}</h2></div></div>
+  <div class="grid grid--3" data-fill>{% for s in others %}{% include "hills/partials/card_stay.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div></div></section>{% endif %}
+{% endblock %}

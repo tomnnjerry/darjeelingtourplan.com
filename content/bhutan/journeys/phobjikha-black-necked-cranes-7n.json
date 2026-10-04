@@ -1,0 +1,152 @@
+{
+  "slug": "phobjikha-black-necked-cranes-7n",
+  "title": "Phobjikha and the black-necked cranes in 7 nights",
+  "region": "bhutan",
+  "nights": 7,
+  "themes": ["birding-and-orchids", "monasteries", "village-homestays"],
+  "stops": [
+    {"place": "thimphu", "nights": 2},
+    {"place": "punakha", "nights": 1},
+    {"place": "phobjikha", "nights": 2},
+    {"place": "paro", "nights": 2}
+  ],
+  "start": "Paro Airport (PBH), flying in from Bagdogra, Delhi or Kolkata",
+  "end": "Paro Airport (PBH)",
+  "price_from_inr": 37500,
+  "fares": {"budget": 37500, "comfort": 63000, "premium": 240000},
+  "fare_notes": {
+    "budget": "Department of Tourism-certified 3-star hotels such as Hotel Lobesa in Punakha and Hotel Olathang in Paro, and a certified hotel or registered farmhouse in Phobjikha, twin sharing; a Bhutan-registered car or Hiace; a licensed guide; breakfast and dinner; SDF at ₹1,200 per person per night. The budget fare assumes 4–6 travellers sharing one vehicle and one guide. Couples travelling alone pay more, usually 15–25%. Flights extra.",
+    "comfort": "Hotel Druk in Thimphu, Dhensa Boutique Resort in Punakha, Dewachen Hotel in Phobjikha with wood-stove rooms, and a 4-star hotel in Paro; a private car and guide; breakfast and dinner; SDF included. Flights extra.",
+    "premium": "Taj Tashi in Thimphu, the best luxury lodge available in Punakha, Gangtey Lodge in Phobjikha and COMO Uma Paro; a private car and senior guide; breakfast and dinner; SDF included. Flights extra."
+  },
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "A winter Bhutan trip for the black-necked cranes of Phobjikha: 7 nights with Thimphu, Punakha and Paro, from ₹37,500 per person including SDF.",
+  "summary": "A winter trip built around the black-necked cranes that fly over the Himalaya to Phobjikha from about late October to February. Two nights in the glacial valley, with Thimphu, Punakha and Paro around them. From ₹37,500 per person, twin sharing, with SDF, licensed guide, car, hotels and two meals a day. Flights extra.",
+  "intro": [
+    "Black-necked cranes breed on the Tibetan plateau and come down to winter in a few Bhutanese valleys. Phobjikha, a wide glacial valley at about 2,900 m around Gangtey Goenpa, is the best known. They arrive from late October and most leave by February or March. Local tradition says they circle Gangtey Goenpa three times when they arrive and again when they leave. The valley's power lines were laid underground so the birds do not fly into them.",
+    "We give Phobjikha two nights because the cranes feed on the marsh at first light and fly in to roost at dusk, and you want both. The rest of the trip follows the familiar line: Thimphu first for the Route Permit, a night in mild Punakha, and Paro last for the Tiger's Nest. Fares are for Indian nationals and include SDF at ₹1,200 per person per night and a licensed guide. Winter nights in Phobjikha drop well below freezing; pack for it."
+  ],
+  "highlights": [
+    "Black-necked cranes feeding on the Phobjikha marsh at dawn",
+    "Gangtey Goenpa, founded in 1613 by Gyalse Pema Thinley",
+    "The Black-necked Crane Festival on 11 November in the monastery courtyard",
+    "Punakha Dzong and Chimi Lhakhang in the warm Punakha valley",
+    "The Tiger's Nest hike above Paro"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Fly into Paro, drive to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 50 km · 1–1.5 h",
+      "text": "Land at Paro after the visual approach down the valley. Indians show a passport or original Voter ID for the Entry Permit if it was not issued online, and your guide meets you outside. Drive along the Paro river to Chhuzom and up to Thimphu at 2,320 m. In winter the air is dry and the sky usually clear, but it is cold once the sun drops behind the ridge, so keep a down jacket in the car. Afternoon walk around the Memorial Chorten, built in 1974, and Clock Tower Square. Thimphu has no traffic lights; a policeman directs the main junction by hand.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Thimphu while the permit is filed",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Phobjikha and Punakha need a Route Permit, issued by the Immigration office in Thimphu on working days, so we plan this day for Monday to Friday. Your operator files it while you see the city. Buddha Dordenma, about 51.5 m high, overlooks the valley. The Motithang Takin Preserve keeps the national animal, declared in 2005; legend credits Drukpa Kunley with making the first one. After lunch, Simtokha Dzong of 1629 and Tashichho Dzong, which the guide times to its visiting hours. Entry fees Nu 300–500 each, indicative 2026. Buy gloves and a woollen cap here if you forgot them.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Dochula and Punakha Dzong",
+      "place": "punakha",
+      "overnight": "Punakha",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "Winter is the best season for the view from Dochula at 3,100 m, 22 km from Thimphu, where the 108 chortens built after the 2003 operation in southern Bhutan frame the eastern Himalaya on a clear morning. The road then drops to Punakha at about 1,250 m, where winter afternoons feel like spring. Cross the cantilever bridge into Punakha Dzong, built in 1637–38 between the Pho Chhu and Mo Chhu and the place where the first king was crowned in 1907. In winter the Central Monastic Body traditionally moves down here from Thimphu. Entry Nu 500, indicative 2026.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Chimi Lhakhang, then up to Phobjikha",
+      "place": "phobjikha",
+      "overnight": "Phobjikha",
+      "drive": "≈ 78 km · 3 h",
+      "text": "After breakfast, walk 20–30 minutes through the fields at Lobesa to Chimi Lhakhang, built in 1499 by Ngawang Chogyal, cousin of the Divine Madman, Drukpa Kunley. Then drive past Wangdue and climb out of the valley into fir and dwarf bamboo. The road can carry snow in January and February; if it closes, we wait for it to be cleared. Arrive in Phobjikha by early afternoon and visit the Black-necked Crane Information Centre, Nu 200, indicative 2026, run by the Royal Society for Protection of Nature. Be on the valley edge before sunset, when the cranes fly in to roost.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Cranes at dawn and Gangtey Goenpa",
+      "place": "phobjikha",
+      "overnight": "Phobjikha",
+      "drive": "≈ 15 km in the valley",
+      "text": "Wrap up and walk out at first light, when frost covers the marsh and the cranes feed in family groups. Keep to the paths and the edge of the marsh, and bring binoculars. Mid-morning, visit Gangtey Goenpa on the spur above the valley, founded in 1613 by Gyalse Pema Thinley, grandson of the treasure-revealer Pema Lingpa. After lunch take the Gangtey nature trail, an easy walk of about 2 hours down through pine and across the valley floor. If you are here on 11 November, the Fourth King's birthday, the Black-necked Crane Festival fills the monastery courtyard, started by the RSPN in 1998.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "The long drive west to Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 185 km · 6–7 h",
+      "text": "This is the longest day, so we leave by 8 am. The road goes back down to Wangdue, across to Lobesa, over Dochula once more and through Thimphu to Chhuzom and Paro. A lunch stop in Thimphu breaks it up. If the morning is clear, Dochula gives a second chance at the mountain view. Reach Paro by mid-afternoon and, if there is light left, walk up to Rinpung Dzong, consecrated in 1646, which glows in the late winter sun. Otherwise rest; tomorrow is the hike. Paro nights in January fall well below freezing.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Tiger's Nest in winter light",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 30 km round trip",
+      "text": "Winter is a good season for the Tiger's Nest: fewer walkers and clear air. From the car park at about 2,600 m the trail climbs about 500 m to Paro Taktsang at about 3,120 m, 4–6 hours return with tea at the cafeteria halfway. The shaded parts of the path can be icy in the morning, so wear shoes with good grip. Legend says Guru Rinpoche flew here on a tigress in the 8th century; the temple dates from 1692 and was restored after a fire in 1998. Entry Nu 1,000, indicative 2026. End with a farmhouse hot stone bath, ₹1,500–3,000.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 8,
+      "title": "Fly out of Paro",
+      "place": "paro",
+      "overnight": "",
+      "drive": "≈ 10 km · 15 min",
+      "text": "Most Paro flights leave in the morning, so breakfast may be early. Reach the airport 2 hours before departure with your ID and Entry Permit. Winter mornings at Paro are usually clear, which helps flights run on time, but keep a few hours' buffer before onward connections. If you fly later, Kyichu Lhakhang is 10 minutes from town; tradition counts it among the 7th-century temples of Songtsen Gampo. Drukair and Bhutan Airlines change schedules by season; check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-lobesa-punakha", "hotel-olathang-paro", "hotel-druk-thimphu", "dhensa-boutique-resort-punakha", "dewachen-hotel-phobjikha", "taj-tashi-thimphu", "gangtey-lodge-phobjikha", "como-uma-paro"],
+  "includes": [
+    "7 nights in Department of Tourism-certified hotels or registered farmhouses in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "SDF at the Indian rate of ₹1,200 per person per night, all 7 nights",
+    "Licensed guide throughout, as the 8 April 2026 Department of Tourism notification requires",
+    "Bhutan-registered car for all transfers and sightseeing",
+    "Entry Permit help and the Route Permit for Punakha and Phobjikha"
+  ],
+  "excludes": [
+    "Flights to and from Paro",
+    "Monument and centre fees: Tiger's Nest Nu 1,000, dzongs Nu 500, Crane Centre Nu 200, indicative 2026",
+    "Lunches and drinks",
+    "Hot stone bath and pony hire",
+    "USD SDF and the US$40 visa for travellers who are not Indian nationals",
+    "Tips, insurance and personal costs"
+  ],
+  "save_more": [
+    "Travel in January or early February, when crane numbers are still good and hotels charge less than in November.",
+    "Choose a registered farmhouse in Phobjikha instead of a hotel; it is cheaper and comes with a wood stove and home cooking.",
+    "Share the car and guide with another couple; the vehicle costs the same for two people or six."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night, valid to 31 Aug 2027 under the current incentive, plus a US$40 visa fee; Bangladeshi and Maldivian passport holders have separate rules. Check current status before you travel.",
+    "The Department of Tourism notification of 8 April 2026 says every tourist needs a licensed guide beyond the first checkpoint, including from Paro airport. Plan on a guide for the whole trip. Check current status before you travel.",
+    "Indians need a passport valid for 6 months or more, or an original Voter ID with passport photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport carry an original birth certificate.",
+    "Phobjikha and Punakha need a Route Permit issued in Thimphu on working days; your operator arranges it. Check current status before you travel.",
+    "Cranes are wild birds: arrival and departure dates shift a little each year, and numbers vary. Late November to January is the safest window."
+  ],
+  "faqs": [
+    {"q": "When is the best time to see black-necked cranes in Bhutan", "a": "The cranes winter in Phobjikha from about late October to February, and some stay into March. Late November to January is the safest window for good numbers. They feed on the marsh through the day and fly in to roost at dusk, so two nights in the valley gives you an evening and a full morning. Dates shift a little each year."},
+    {"q": "When is the Black-necked Crane Festival", "a": "It is held every year on 11 November, the Fourth King's birthday, in the courtyard of Gangtey Goenpa in Phobjikha. The Royal Society for Protection of Nature started it in 1998 to build local support for the cranes. Schoolchildren perform crane dances and songs alongside folk dances. Book rooms early if you want to be there that day. Check current status before you travel."},
+    {"q": "How cold is Phobjikha in December", "a": "Very cold at night. Phobjikha sits at about 2,900 m, and from December to February night temperatures drop well below freezing, with frost on the marsh every morning. Days are often sunny and pleasant. Rooms are heated with wood stoves or electric heaters. Bring thermals, a down jacket, gloves, a woollen cap and warm socks for the dawn crane walk."},
+    {"q": "How much does a 7-night Bhutan trip with Phobjikha cost", "a": "This 7-night trip costs from ₹37,500 per person on budget, ₹63,000 on comfort and ₹2,40,000 on premium with Gangtey Lodge, twin sharing, indicative 2026, without flights. Each fare includes certified hotels, breakfast and dinner, SDF at ₹1,200 per night, a licensed guide and a car. The budget fare assumes 4–6 people share the car; couples alone pay about 15–25% more."},
+    {"q": "Do Indians need a permit for Phobjikha", "a": "Yes. The free Entry Permit covers Thimphu and Paro only. Phobjikha and Punakha need a Route Permit, issued by the Immigration office in Thimphu on working days, which is why our day 2 in Thimphu falls on a weekday. Your operator files it with your ID details. Reports say the system is being simplified, so check current status before you travel."},
+    {"q": "How far is Phobjikha from Punakha", "a": "About 78 km, which takes around 3 hours. The road runs down to Wangdue, then climbs out of the valley through forest to the rim of Phobjikha and down into the valley at about 2,900 m. In January and February snow can close the higher stretch for a few hours; we keep the schedule flexible for that."},
+    {"q": "How close can you get to the cranes in Phobjikha", "a": "Not very close, and that is the point. The cranes feed on the marshy valley floor, and you watch from the paths and the edge of the marsh, usually from a hundred metres or more. Never walk into the marsh or chase birds for photographs. Binoculars and a long lens make a big difference. The information centre has displays and staff who know where the birds are feeding."},
+    {"q": "Is a guide compulsory in Bhutan for Indians", "a": "Plan on yes. The Department of Tourism notification of 8 April 2026 restates that all tourists need a certified, licensed guide on tours beyond the first checkpoint, and at monuments. We read this as covering Indians too, although some older websites say otherwise. Our fares include a guide for the whole trip. Check current status before you travel."},
+    {"q": "Is Phobjikha worth visiting if we are not birdwatchers", "a": "Yes. Phobjikha is a wide, open glacial valley with farmhouses, potato fields, pine forest and Gangtey Goenpa on its spur. The Gangtey nature trail is an easy 2-hour walk, and nights by a wood stove are part of the experience. The cranes simply add a reason to come in winter, when the rest of Bhutan is also cheaper and clearer."}
+  ]
+}

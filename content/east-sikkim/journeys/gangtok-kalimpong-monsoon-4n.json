@@ -1,0 +1,118 @@
+{
+  "slug": "gangtok-kalimpong-monsoon-4n",
+  "title": "Monsoon-friendly Gangtok and Kalimpong, 4 nights",
+  "region": "east-sikkim",
+  "nights": 4,
+  "themes": ["budget-trips", "monasteries", "birding-and-orchids", "family-trips"],
+  "stops": [{"place": "gangtok", "nights": 3}, {"place": "kalimpong", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 11500,
+  "fares": {"budget": 11500, "comfort": 19000, "premium": 40000},
+  "fare_notes": {
+    "budget": "Budget hotels such as Hotel Sonam Delek or Hotel Tibet in Gangtok and a simple town hotel in Kalimpong, twin sharing; shared jeeps on transfer days and local shared taxis; breakfast only.",
+    "comfort": "Royal Plaza or Netuk House in Gangtok and a mid-range hotel in Kalimpong; a private small car for every transfer and sightseeing day, so we can switch roads if NH10 is cut; breakfast and dinner daily.",
+    "premium": "Mayfair Spa Resort or Taj Guras Kutir in Gangtok and one of Kalimpong's better heritage or resort hotels; a private Innova-class car with driver throughout; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2190,
+  "meta_description": "A rain-proof plan for Gangtok and Kalimpong: 4 nights from ₹11,500 per person, low altitudes, indoor sights, two road options and off-season hotel rates.",
+  "summary": "Four nights built for June to September: three in Gangtok and one in Kalimpong, all below about 2,200 m, with sights that work in rain and a private car that can change roads when NH10 is cut. Monsoon hotel rates are often lower. From ₹11,500 per person, twin sharing.",
+  "intro": [
+    "Many people can only travel in the school holidays of June and July, or around Independence Day in August. That is the wettest time in Sikkim, when Gangtok gets most of its yearly rain and NH10 along the Teesta is cut by landslides for days at a time. In July and August 2026, for example, the 20th Mile stretch was shut for weeks. We do not pretend the rain away. Instead we keep this trip low, close to towns and flexible, with two road options for every transfer.",
+    "The rain has its upside. Hotels in Gangtok often cut rates in the monsoon, the hills turn deep green, and waterfalls such as Banjhakri run full. The Namgyal Institute of Tibetology, Rumtek and Lingdum are as good under cloud as under sun. Kalimpong, at about 1,250 m, was the trading town of the old wool route to Lhasa and is known for its plant nurseries. If the sky clears and the road is open, we can add Tsomgo Lake. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two road options for every transfer, chosen each morning with our drivers",
+    "Rumtek and Lingdum monasteries, good in any weather",
+    "The Namgyal Institute of Tibetology and Gangtok's ropeway",
+    "Kalimpong, the old wool-trade town, and its plant nurseries",
+    "Monsoon hotel rates that are often lower than in spring"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Up to Gangtok by whichever road is open",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 125–160 km · 5–7 h",
+      "text": "We check the road at 7 am. If NH10 is open, we drive the usual 125 km from Bagdogra by Sevoke, Melli and Rangpo in 4.5–5.5 hours. If it is cut, we go round by Kalimpong, Pedong and Rhenock, or by Lava and Rhenock to Rorathang and Ranipool, which adds 2–3 hours. Budget travellers take a shared jeep for ₹400–600 a seat when NH10 is open; jeep fares rise on the longer roads. The hotel collects the ₹50 Sikkim tourist fee. Check current status before you travel. Dinner is a hot thukpa near MG Marg.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Gangtok under the clouds",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 30 km · 5–6 h with stops",
+      "text": "If the morning is clear, we go first to Hanuman Tok at about 2,190 m; in July a view of Kangchenjunga is rare but possible. Then Enchey Monastery, rebuilt in 1909, and the Namgyal Institute of Tibetology, an indoor museum of icons and manuscripts, ₹10–50. Do Drul Chorten with its 108 prayer wheels is next door. Ride the ropeway from Deorali for ₹150–250 return. In the afternoon drive about 7 km to Banjhakri Falls, which runs full in the rains. A half-day car costs ₹1,800–3,500; local shared taxis cost ₹20–40 a seat. Carry an umbrella and shoes with grip.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Rumtek and Lingdum, or Tsomgo if clear",
+      "place": "rumtek",
+      "overnight": "Gangtok",
+      "drive": "≈ 60 km loop · 5–6 h",
+      "text": "Our default day: Lingdum Monastery at Ranka, completed in 1999, then Rumtek, about 24 km from Gangtok, rebuilt by the 16th Karmapa and opened at Losar in 1966. Carry photo ID for the gate check at Rumtek. Shared taxis run Gangtok to Rumtek for ₹60–120 a seat. If the Tsomgo road is open and the forecast is fair, Indian and foreign travellers can swap to Tsomgo Lake at 3,753 m with a permit filed the day before; the car costs ₹4,500–6,500. Expect cloud at the lake and wet roads. Check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Gangtok to Kalimpong",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 75–100 km · 3–4.5 h",
+      "text": "The usual road runs down to Rangpo and along NH10 to Teesta Bazaar, then climbs to Kalimpong at about 1,250 m, 75 km in about 3 hours. If NH10 is broken, we go by Rorathang, Rhenock and Pedong, about 100 km. In the afternoon visit Zang Dhok Palri Phodang on Durpin Hill and one of the town's plant nurseries, known for orchids and cacti. Kalimpong was the market for the wool and mule trade with Tibet over Jelep La until the 1950s and 1960s. Walk the old bazaar streets in the evening. Kalimpong is in West Bengal, so Sikkim's permits and fee do not apply.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Kalimpong down to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 75–120 km · 2.5–5 h",
+      "text": "Kalimpong is the closest point of the trip to the plains. By NH10 and Sevoke it is about 75 km and 2.5–3 hours to NJP or Bagdogra. If NH10 is cut near Teesta Bazaar or Sevoke, we go by Lava, Gorubathan and the Dooars to Siliguri, about 120 km and 4.5–5 hours. Shared jeeps to Siliguri cost about ₹200–300 a seat when the short road is open (indicative, 2026). We leave by 8–9 am in the rains and suggest evening flights or trains. Check current status before you travel, and keep one buffer hour for roadworks.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "hotel-tibet-gangtok", "royal-plaza-gangtok", "netuk-house-gangtok", "mayfair-spa-resort-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "3 nights in Gangtok and 1 night in Kalimpong in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "Transfers from Bagdogra or NJP and back by the open road",
+    "Gangtok sightseeing day and the Rumtek and Ranka day",
+    "Daily road check by our drivers in monsoon"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Sikkim tourist fee of ₹50 per person",
+    "Lunches, and dinners on the budget tier",
+    "Tsomgo swap (permit and price difference), ropeway and entry tickets",
+    "Extra fuel or nights caused by road closures, tips and personal expenses"
+  ],
+  "save_more": [
+    "Ask for monsoon rates; Gangtok hotels often discount July and August stays.",
+    "Book flexible flights or trains rather than the cheapest non-refundable fare, since a closed road can cost more than the fare saving.",
+    "Use local shared taxis inside Gangtok (₹20–40 a seat) on half days instead of keeping a car waiting."
+  ],
+  "good_to_know": [
+    "NH10 is often cut by landslides between June and September. Alternatives via Kalimpong–Pedong–Rhenock or Lava–Gorubathan add 2–3 hours. Check current status before you travel.",
+    "Leeches appear on forest paths in the rains; long socks and salt help, and roads and monastery yards are usually clear.",
+    "Views of Kangchenjunga are rare from June to September. Come in October or April if mountains are the reason you travel.",
+    "Pakyong Airport near Gangtok has no scheduled flights as of 2026, so it is not a way around a closed NH10.",
+    "Carry a light rain jacket, quick-dry clothes and a phone pouch; hotels in Gangtok can be cool and damp."
+  ],
+  "faqs": [
+    {"q": "Is it safe to visit Gangtok in the monsoon", "a": "Yes, if you stay flexible. Gangtok town and the low sights around it are fine in rain. The risk is the road: landslides cut NH10 and side roads for hours or days. We check roads each morning, avoid driving after dark and plan buffers. Avoid trips to North Sikkim and the high passes in heavy rain. Check current status before you travel."},
+    {"q": "Is NH10 to Gangtok open in July", "a": "Often, but not always. NH10 along the Teesta has been closed for days or weeks in recent monsoons, including the 20th Mile stretch in July and August 2026. When it shuts, cars use the Kalimpong–Pedong–Rhenock road or the Lava–Gorubathan line, which add 2–3 hours. Check current status before you travel, ideally the evening before you drive."},
+    {"q": "Can we visit Tsomgo Lake in the monsoon", "a": "Sometimes. The Tsomgo road stays open on many monsoon days, but landslides and fog close it at short notice, and views at the lake are usually cloudy. We plan Rumtek as the default and switch to Tsomgo only when permits are being issued and the forecast is fair. The car costs ₹4,500–6,500. Check current status before you travel."},
+    {"q": "Are hotels cheaper in Gangtok during the monsoon", "a": "Usually, yes. Many Gangtok hotels drop rates in July and August, when demand is lowest. The exceptions are long weekends such as Independence Day, when Kolkata families arrive. Our monsoon fares already reflect typical discounts. Book refundable rooms, because a closed road can delay arrival by a day."},
+    {"q": "Why stay a night in Kalimpong on the way down", "a": "Kalimpong is closer to the plains than Gangtok, about 75 km from NJP by NH10, and has its own road out through Lava and Gorubathan when NH10 is cut. So a last night there shortens and protects the drive to your flight. It is also worth seeing: the old wool-trade town, Durpin Hill monastery and its plant nurseries."},
+    {"q": "What should we pack for Gangtok in the rains", "a": "Pack a light rain jacket, a small umbrella, shoes with good grip, quick-dry trousers, a warm layer for evenings at 15–20 °C, a dry bag for phones and some basic medicines for motion sickness. Long socks help against leeches on forest paths. Hotels may be damp, so pack spare socks and a plastic bag for wet clothes."},
+    {"q": "Can we see Kangchenjunga in the monsoon", "a": "Rarely. From June to September cloud covers the range most days, though a clear dawn after a night of rain can show the peaks for an hour. Hanuman Tok and Tashi View Point give the best chance. If mountain views are the main reason for your trip, choose October to early December or March to April instead."},
+    {"q": "Is Nathu La open in the monsoon", "a": "Nathu La can be open from Wednesday to Sunday in the monsoon for Indian nationals with a permit, but landslides and fog on the road close it more often, and views at the top are usually lost in cloud. This monsoon trip leaves it out on purpose. Ask us if you want to add it, and check current status before you travel."},
+    {"q": "Can foreigners do this monsoon trip", "a": "Yes. Every stop is open to foreign nationals who hold the free Sikkim Restricted Area Permit, issued online, at Rangpo and at Sikkim Tourism offices. Kalimpong is in West Bengal and needs no permit. The optional Tsomgo day needs an agent-arranged day permit, usually for two or more. Check current status before you travel."}
+  ]
+}

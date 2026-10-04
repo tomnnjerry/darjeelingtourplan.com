@@ -1,0 +1,8 @@
+{% load hills %}<div class="fares" data-fares role="group" aria-label="Choose a fare class">{% for t in j.tiers %}<button type="button" class="ticket ticket--{{ t.key }}" data-tier="{{ t.key }}" data-name="{{ t.name }}" data-fare="{{ t.inr|inr }}" aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}">
+  <span class="ticket__rail"><span>DTP · Nº {{ j.serial }}</span><span>{{ j.nights }}N</span></span>
+  <span class="ticket__class">{{ t.name }}</span>
+  <span class="ticket__fare">{{ t.inr|inr }}</span>
+  <span class="ticket__per">per person · twin sharing · from Siliguri</span>
+  {% if t.note %}<span class="ticket__note">{{ t.note }}</span>{% endif %}
+</button>{% endfor %}</div>
+<div class="fare-cta"><a class="btn" href="{% url 'plan' %}?journey={{ j.title|urlencode }}&land={{ j.region }}&tier=budget&from={{ request.path|urlencode }}" data-fare-go data-cta="fare-ask">Ask for the Budget plan</a><p>Indicative 2026 fares. Punch a ticket to choose a class; your written quote follows.</p></div>

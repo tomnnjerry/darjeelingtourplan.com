@@ -1,0 +1,17 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Things to do in Darjeeling, Sikkim, Bhutan and the Dooars · Darjeeling Tour Plan{% endblock %}
+{% block description %}Toy-train rides, tea walks, monastery mornings, jeep safaris, homestays and treks across seven lands, with cost, timing and tips for each.{% endblock %}
+{% block content %}
+<header class="wrap phead--plain"><div class="phead__in" style="padding-top: 18px">
+  <p class="eyebrow">Experiences</p><h1 class="h-xl">Things to do, with the price on</h1>
+  <p class="lede">Every experience lists how long it takes, the best hour and what it costs, from free monastery mornings to a steam joy ride.</p>
+</div></header>
+<section class="sec--tight"><div class="wrap">
+  <div class="mkinds" style="margin-bottom: 30px">{% for k, n in kind_links %}<a href="{% url 'experience_kind' k %}"><span class="lbadge lbadge--ink">{% icon k %}</span><b>{{ n }}</b></a>{% endfor %}</div>
+  <div class="filter-bar" data-filter-group="#exp-grid"><span class="label">Filter</span>
+    <select data-key="region" aria-label="Land"><option value="">All lands</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select>
+    <select data-key="kind" aria-label="Kind"><option value="">All kinds</option>{% for k, n in kind_links %}<option value="{{ k }}">{{ n }}</option>{% endfor %}</select></div>
+  <div class="grid grid--4" id="exp-grid" data-fill>{% for r in regions %}{% for p in r.places %}{% for e in p.experiences %}{% include "hills/partials/card_exp.html" %}{% endfor %}{% endfor %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+  <p class="muted" data-empty hidden>Nothing matches that filter. Try another land or kind.</p>
+</div></section>
+{% endblock %}

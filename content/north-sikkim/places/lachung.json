@@ -1,0 +1,139 @@
+{
+  "slug": "lachung",
+  "name": "Lachung",
+  "region": "north-sikkim",
+  "kind": "village",
+  "wiki": "Lachung",
+  "image_query": "Lachung village Sikkim snow",
+  "lat": 27.69,
+  "lng": 88.74,
+  "altitude_m": 2700,
+  "tagline": "Base for Yumthang, run by its own village council",
+  "meta_description": "Lachung, North Sikkim: how to reach it, permits, where to stay, Yumthang and Zero Point day trips, snow season, the Dzumsa and honest 2026 costs.",
+  "summary": "Lachung is a village of about 2,700 m in the Lachung valley, 120–125 km from Gangtok, and the overnight base for Yumthang and Zero Point. It is run by its own council, the Dzumsa. You need a permit through a registered operator, and roads close after landslides, so check current status before you travel.",
+  "intro": [
+    "Lachung sits where the Lachung Chu runs through a steep valley of fir, larch and apple orchards, about 21 km above Chungthang. Wikipedia gives its height as roughly 2,900 m, and local signboards say less; plan for about 2,700 m and cold nights all year. The name is usually translated as 'small pass', and the village was a trading post on the routes to Tibet before 1950. Joseph Hooker, who came here in 1849, called it the most picturesque village in Sikkim.",
+    "Most visitors arrive in the late afternoon after a 6–7 hour drive from Gangtok, sleep one night, leave at dawn for Yumthang and are back on the road south by noon. That is a pity. With a second night you can walk the old part of the village, climb to the Lachung Monastery, see how the houses are built on stone plinths against the snow and eat a slow dinner of thukpa and local potatoes.",
+    "Lachung is also a lesson in self-government. Its people, the Lachungpas, run village affairs through the Dzumsa, headed by an elected Pipon. The council settles disputes, sets rules for the community forest and, in 2009, voted to ban hydropower projects on its rivers. When you see hotels shut on a festival day, or a fine for littering, that is the Dzumsa at work."
+  ],
+  "story": {
+    "title": "The village that said no to dams",
+    "paras": [
+      "In 2006 a large hydropower project was proposed in the Lachung valley, one of dozens planned on the Teesta and its tributaries in those years. According to a 2024 account by the research group Kalpavriksh, the Dzumsa of Lachung discussed it and in 2009 decided to ban hydropower projects on its rivers outright. It went further and made proposing a dam in public a breach of village rules.",
+      "The Dzumsa is old. It took its present form in the first half of the 19th century, and the Sikkim government formally recognised it in 2001 so that it could continue alongside the panchayat system. The Pipon must traditionally be over 45, know village custom and is chosen in December by the Tibetan calendar, assisted by Gyapons who act as constables. Party flags are not allowed inside the valley.",
+      "The decision looked different after 4 October 2023, when the glacial flood from South Lhonak destroyed the 1,200 MW Teesta-III dam downstream at Chungthang. The Lachung valley had no dam to lose. Ask your host about the Dzumsa; most families are proud to explain it, and it is the best way to understand why Lachung feels so orderly."
+    ],
+    "source": "Wikipedia, 'Dzumsa' and 'Lachung'; Kalpavriksh, 'Living territory of Lachung' (2024); Sikkim Gazette recognition of Dzumsa, 2001"
+  },
+  "did_you_know": [
+    "Joseph Dalton Hooker described Lachung as the most picturesque village of Sikkim in his Himalayan Journals, published in 1854.",
+    "The Lachung Monastery, a Nyingma gompa above the village, was established in 1880 and holds an annual masked dance.",
+    "The Lachung Chu and the Lachen Chu meet at Chungthang, 21 km downstream, to form the Teesta River."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Oct – Dec"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 240 km"],
+    ["From Gangtok", "≈ 120–125 km · 6–7 h"],
+    ["Altitude", "≈ 2,700 m"],
+    ["Known for", "Yumthang base, apples, snow, the Dzumsa council"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Dawn run to Yumthang", "text": "Leave at 5.30–6 am for the 24 km drive to Yumthang. You reach the valley before the cloud and the crowds, see the yaks out on the meadow and are back for a late breakfast, which leaves time to cross the Toong checkpost before 4 pm."},
+    {"title": "Lachung Monastery", "text": "A short climb across the river from the main bazaar brings you to the Nyingma gompa founded in 1880. It is a working monastery, not a museum, so go in the morning, walk clockwise and ask before photographing inside the prayer hall."},
+    {"title": "Snow in the village", "text": "From December to March Lachung is usually under snow. Families who have never seen snow can play right outside the hotel, and the road to Yumthang often stays open to the snowline. Hire boots and gum-boots locally."},
+    {"title": "Apple and potato country", "text": "Lachung grows apples, potatoes, radish and barley on terraces around the houses. In autumn you may see apples drying on rooftops. Ask your hotel to cook local potato dishes; they taste better at 2,700 m."},
+    {"title": "Autumn colour", "text": "In late October and November the maples and larches on the slopes above Lachung turn yellow and red. It is the quietest good month here, with clear skies after Diwali and lower hotel rates."}
+  ],
+  "how_to_reach": [
+    {"mode": "Group package", "text": "The cheapest way. Registered Gangtok operators run daily shared departures in Bolero, Xylo or Scorpio vehicles that leave Gangtok around 10–11 am and reach Lachung by evening. The price includes your permit, seat, hotel and meals. Expect ₹3,500–5,500 per person for one night, indicative, 2026."},
+    {"mode": "Reserved car", "text": "A private car with a registered local driver costs about ₹9,000–13,000 for a 1N/2D Lachung round trip from Gangtok, indicative, 2026. Your operator files the permit. You cannot self-drive, and plains taxis are not allowed beyond the checkposts."},
+    {"mode": "Rail / Air", "text": "Fly to Bagdogra (IXB) or take a train to NJP in Siliguri, then go to Gangtok (≈ 115 km, 4–5 h). Spend a night in Gangtok so your permit can be processed. There is no air or rail link nearer to Lachung."}
+  ],
+  "where_to_stay": "Lachung's hotels line the highway and the slopes above the river. Budget travellers on group packages usually get simple family hotels with heaters on request; independent budget travellers can try a family homestay such as Bichu Homestay. In the comfort range, Le Coxy Resort at Fakha Chowk is a large, well-run hotel with heated mattresses. The one premium option is Yarlam Resort, on the hillside with 27 rooms and 3 suites, a spa and wide views. Hotels may change after the closures, so check current status before you travel.",
+  "stays": ["bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung"],
+  "costs": [
+    ["Group package from Gangtok, 1N/2D", "₹3,500–5,500 per person, indicative, 2026"],
+    ["Private car Gangtok–Lachung round trip", "₹9,000–13,000 per car, indicative, 2026"],
+    ["Zero Point add-on", "₹3,000–4,500 per vehicle, indicative, 2026"],
+    ["Snow boot or jacket hire", "₹150–300 per item, indicative, 2026"],
+    ["Permit processing via operator", "₹200–300 per person, indicative, 2026"]
+  ],
+  "budget_tip": "Stay two nights on a group package rather than one night in a private car; the second night costs far less than the extra driver day it replaces.",
+  "tips": [
+    "Carry enough cash from Gangtok; Lachung has an SBI branch but ATMs can be empty or offline.",
+    "Ask for a room with a heater or heated mattress and confirm whether it costs extra.",
+    "Keep your permit and ID copies handy; police check them at several points.",
+    "Respect village rules on plastic and litter; the Dzumsa can fine offenders.",
+    "Do not plan anything for the evening you arrive; the drive is long and it gets dark by 5 pm in winter."
+  ],
+  "themes": ["mountain-views", "budget-trips", "family-trips", "honeymoons", "monasteries"],
+  "nearby": ["yumthang-valley", "zero-point", "shingba-rhododendron-sanctuary", "chungthang"],
+  "experiences": [
+    {"slug": "lachung-monastery-morning-walk", "title": "Morning walk to Lachung Monastery", "kind": "spiritual", "duration": "1.5–2 hours", "best_time": "7–9 am, any season", "cost": "Free; a small offering is welcome", "image_query": "Lachung Monastery Sikkim", "wiki": "Lachung Monastery",
+      "summary": "A short climb from the bazaar to the Nyingma gompa established in 1880, on the slope across the Lachung Chu. Go early, before the Yumthang traffic returns, when butter lamps are lit and the village is just waking up.",
+      "body": [
+        "The Lachung Monastery stands on the slope across the river from the main bazaar, reached by a footbridge and a steep lane between houses and apple trees. It belongs to the Nyingma school, the oldest of the Tibetan Buddhist traditions and the one most closely tied to Guru Padmasambhava, who is revered across Sikkim. It was established in 1880 and is still the spiritual centre of the village.",
+        "Inside the main hall you will see the usual layout of a Sikkimese gompa: images of the Buddha and Guru Rinpoche, wall paintings of protective deities and rows of seats for the monks. Walk clockwise around the building and the prayer wheels, take off your shoes at the door and ask before you photograph anything inside. Mornings are best because prayers are often under way.",
+        "The monastery holds an annual masked dance, or chaam, in winter. Dates follow the Tibetan calendar, so ask your hotel when you book. On the way down, look at the older houses with stone ground floors and wooden upper storeys, built that way to keep animals and stores safe from the snow."
+      ],
+      "good_for": ["couples", "solo", "seniors", "photographers"],
+      "faqs": [
+        {"q": "How far is Lachung Monastery from the main road", "a": "It is about 1–1.5 km from the main bazaar, across the river by footbridge and up a steep lane. Most people walk it in 20–30 minutes each way. Cars can reach close to it by a longer road if anyone in your group cannot climb. Allow 1.5–2 hours with time inside."},
+        {"q": "Is there an entry fee at Lachung Monastery", "a": "No. Entry is free. You may leave a small offering at the altar or buy a butter lamp if you wish, but nobody will ask you to pay. Dress modestly, remove your shoes before the prayer hall and walk around it clockwise. Ask before taking photographs inside."},
+        {"q": "When is the Lachung Monastery mask dance", "a": "The monastery holds an annual chaam, or masked dance, in the winter season. The exact dates follow the Tibetan lunar calendar and change every year. Ask your operator or hotel when you book, and check current status before you travel, since winter snow can also close the road from Gangtok."}
+      ]},
+    {"slug": "lachung-snow-day", "title": "A snow day around Lachung", "kind": "adventure", "duration": "Half day", "best_time": "Dec–Mar, after fresh snowfall", "cost": "₹150–300 per item of hired gear, indicative, 2026", "image_query": "Lachung snow Sikkim winter", "wiki": "",
+      "summary": "In winter, Lachung and the road towards Yumthang are usually under snow. For families from the plains it is an easy first snow day: hire boots and jackets in the bazaar, play near the hotel, then drive as far towards Yumthang as the road is open.",
+      "body": [
+        "Snow usually settles in Lachung from December and lies through February, with fresh falls into March. You do not need to go far to find it. On many winter days the slopes behind the hotels and the fields by the river are white, and children can sledge on anything flat while parents sit in the sun with tea.",
+        "Most snow-day visitors pair this with the morning drive towards Yumthang. After heavy falls the Border Roads Organisation clears the road only to a point, and drivers stop where it is safe. That stopping point changes daily, so do not promise anyone Yumthang itself. Zero Point is often closed from mid-December.",
+        "Hire gum-boots, waterproof trousers and a padded jacket from the shops in the bazaar; expect ₹150–300 an item, indicative, 2026. Wear sunglasses: glare off fresh snow at this height is strong enough to hurt your eyes within an hour. Keep children's hands dry and bring a spare pair of gloves for each person."
+      ],
+      "good_for": ["families", "first-timers", "couples", "students"],
+      "faqs": [
+        {"q": "Will there be snow in Lachung in January", "a": "Usually yes. Lachung normally has snow on the ground from late December through February, and the road towards Yumthang has more. But snowfall varies year to year, and a mild winter can leave the village bare. If snow is the main reason for your trip, aim for late January to mid-February and check current status before you travel."},
+        {"q": "Can we rent snow boots and jackets in Lachung", "a": "Yes. Several shops in the Lachung bazaar hire gum-boots, padded jackets, gloves and waterproof trousers by the day. Expect about ₹150–300 per item, indicative, 2026. Check sizes and look for leaks before you pay. Gloves and socks are better bought in Gangtok, since hired ones are often damp."},
+        {"q": "Is it safe to take small children to Lachung in winter", "a": "Lachung itself, at about 2,700 m, is generally fine for healthy children if they are kept warm and dry. Nights fall well below zero, so choose a hotel with proper heating. Avoid going higher than Yumthang with small children, and do not take children under five to Gurudongmar Lake. Watch for signs of cold or altitude illness."}
+      ]},
+    {"slug": "lachung-dzumsa-village-walk", "title": "Village walk with a Lachungpa host", "kind": "village", "duration": "2 hours", "best_time": "Afternoons, Mar–May and Oct–Nov", "cost": "₹500–1,000 per group for a local guide, indicative, 2026", "image_query": "Lachung village houses Sikkim", "wiki": "Dzumsa",
+      "summary": "Walk the lanes of old Lachung with a local host, see the houses, orchards and prayer walls, and hear how the Dzumsa council runs village life. This is the experience that most one-night visitors miss.",
+      "body": [
+        "Lachung's older houses sit back from the highway, on terraces between apple trees and potato fields. A local host can take you along the lanes, past mani walls carved with prayers and water-driven prayer wheels, to the open ground where village meetings are held. Ask your hotel to find someone; many families have a son or daughter who will walk with you.",
+        "The talk usually turns to the Dzumsa. It is headed by the Pipon, chosen for a fixed term, with Gyapons who help keep order. The council decides on community forests, festivals, disputes and, in recent years, tourism matters such as cleanliness rules. In 2001 the state recognised it formally, and in 2009 it banned hydropower projects on Lachung's rivers.",
+        "Keep the walk respectful. Ask before photographing people or the inside of homes, do not step on prayer stones and stay on paths through fields. If you are invited in for tea, accept; it is the best conversation you will have in North Sikkim. A fee of ₹500–1,000 for the guide is fair, indicative, 2026."
+      ],
+      "good_for": ["couples", "solo", "students", "seniors"],
+      "faqs": [
+        {"q": "What is the Dzumsa in Lachung", "a": "The Dzumsa is Lachung's traditional village council. It is headed by an elected Pipon, helped by Gyapons and a committee, and it settles disputes, manages community resources and organises festivals. It took its present form in the 19th century and was formally recognised by the Sikkim government in 2001. Lachen has its own Dzumsa."},
+        {"q": "Can tourists attend a Dzumsa meeting", "a": "Generally no. Dzumsa meetings are for village households and are not tourist events. You can see the meeting ground and ask your host about how decisions are made. If a public festival is organised by the Dzumsa while you are there, visitors are usually welcome to watch respectfully."},
+        {"q": "How do I find a local guide in Lachung", "a": "Ask your hotel or homestay the evening you arrive. Most can arrange a family member or neighbour for a two-hour walk the next afternoon. There is no formal guide office. A fee of about ₹500–1,000 per group is reasonable, indicative, 2026. Pay the guide directly, not through the driver."}
+      ]},
+    {"slug": "lachung-autumn-colour-drive", "title": "Autumn colour on the Lachung valley road", "kind": "nature", "duration": "2–3 hours", "best_time": "Late Oct – mid Nov", "cost": "Included in most packages; extra stops free", "image_query": "Lachung valley autumn larch", "wiki": "",
+      "summary": "In late October and November the larch and maple forests above Lachung turn yellow and red. Ask your driver for short stops on the way back from Yumthang, and walk a stretch of road while the car follows.",
+      "body": [
+        "The Lachung valley has more broadleaf and larch forest than the Lachen side, which is why its autumn colour is famous. From late October the larches turn gold and the maples red, and by mid-November the higher trees have started to drop their leaves. Clear post-monsoon skies make this the best photography window of the year.",
+        "You do not need a separate excursion. On the return from Yumthang, ask your driver to stop at two or three lay-bys between the sanctuary gate and Lachung. Get out, walk 300–500 m downhill with the car behind you, and look back up the valley. The low sun after 2 pm lights the slopes well, but remember the Toong checkpost deadline if you are heading south that day.",
+        "Bring layers. Even on a sunny November afternoon, the shade in the valley is close to freezing. Stay off the road edge, where gravel is loose after the monsoon repairs, and do not walk on blind bends where trucks come down fast."
+      ],
+      "good_for": ["photographers", "couples", "seniors"],
+      "faqs": [
+        {"q": "When is autumn colour best in Lachung", "a": "Usually from the last week of October to about mid-November. The exact peak depends on how early the cold sets in. Larches turn gold first, then maples red. After mid-November many trees are bare. The sky is generally clearest in November, so a slightly later visit often gives better light."},
+        {"q": "Is November too cold for Lachung", "a": "It is cold but manageable. Expect about −2 °C at dawn and 10–12 °C in the afternoon sun. Hotels provide heaters or heated mattresses, sometimes at extra cost. Pack thermals, a down or fleece jacket, gloves and a woollen cap. Above Yumthang it is much colder, and snow can fall."},
+        {"q": "Can we stop for photos on the Yumthang road", "a": "Yes. Drivers on packages will usually stop briefly if you ask politely, especially on the way back. Keep stops short, stay off the road edge and avoid stopping on bends. Plan the day so you cross the Toong checkpost before 4 pm if you are driving south to Gangtok."}
+      ]}
+  ],
+  "faqs": [
+    {"q": "Is Lachung open for tourists in 2026", "a": "Yes, as of early October 2026. Lachung, Yumthang and Zero Point reopened to tourists on 8 September 2025 after a closure caused by landslides, and current rules require vehicles to cross the Toong checkpost by 4 pm. Landslides can close the road again at short notice, especially from May to September, so check current status before you travel."},
+    {"q": "How far is Lachung from Gangtok", "a": "About 120–125 km by road, through Kabi, Phodong, Mangan and Chungthang. The drive takes 6–7 hours on a good day, more after rain or during road repairs. Group departures usually leave Gangtok between 10 am and noon and reach Lachung around dusk, which is why most itineraries spend the first evening resting."},
+    {"q": "Do I need a permit for Lachung", "a": "Yes. Indian citizens need a Protected Area Permit, and foreign nationals a Restricted Area Permit. Both are applied for only through a registered Sikkim tour operator, with photo ID and passport photographs. The operator collects them in Gangtok before departure. Same-day permits are not issued, so book at least a few days ahead."},
+    {"q": "Is one night enough in Lachung", "a": "One night is enough to see Yumthang: you arrive in the evening, go up at dawn and leave by late morning. Two nights let you add Zero Point without rushing, walk to the monastery and recover from the drive. If you are travelling with older parents or young children, we recommend two nights."},
+    {"q": "What is the temperature in Lachung in December", "a": "In December daytime temperatures are around 5–8 °C in the sun and nights fall to about −5 °C, sometimes lower. The first proper snow usually arrives this month. Rooms can be cold, so ask for a heater. Pack thermal underwear, a down jacket, gloves, woollen socks and a cap."},
+    {"q": "How much does a Lachung trip cost from Gangtok", "a": "A one-night shared group package from Gangtok costs about ₹3,500–5,500 per person, including permit, seat, hotel and meals. A private car for 1N/2D costs about ₹9,000–13,000 per car, plus hotel. Zero Point is extra, about ₹3,000–4,500 per vehicle. These are indicative 2026 figures and rise in peak weeks."},
+    {"q": "Can I see Zero Point from Lachung", "a": "Yes, if the road is open and your permit covers it. Zero Point, at Yume Samdong, is beyond Yumthang, about an hour further up the valley. It is an optional extra paid per vehicle and often closed after mid-December because of snow. Decide on the morning, once the driver confirms the road is open."},
+    {"q": "Are there ATMs in Lachung", "a": "There is a State Bank of India branch in Lachung, but you should not rely on its ATM; it can run out of cash or lose connectivity. Carry enough cash from Gangtok or Mangan for extra meals, gear hire, tips and the Zero Point charge. Card and UPI payments work in some hotels but not reliably."},
+    {"q": "Is Lachung better than Lachen", "a": "They suit different trips. Lachung is lower, warmer and has more hotels, and it is the base for Yumthang and Zero Point, so it works for families, snow trips and flower season. Lachen is the base for Gurudongmar Lake at 5,430 m, a harder altitude day. Most people do both, Lachen first and Lachung second."}
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "phobjikha",
+  "name": "Phobjikha and Gangtey",
+  "region": "bhutan",
+  "kind": "valley",
+  "wiki": "Phobjikha Valley",
+  "image_query": "Phobjikha Valley Gangtey Bhutan",
+  "lat": 27.46,
+  "lng": 90.18,
+  "altitude_m": 2900,
+  "tagline": "A wide glacial valley where black-necked cranes spend the winter",
+  "meta_description": "Phobjikha (Gangtey) guide: black-necked cranes Nov–Feb, Gangtey Goenpa, the nature trail, crane festival, farmstays, hotels and indicative 2026 costs.",
+  "summary": "Phobjikha is a broad, U-shaped glacial valley at about 2,900–3,000 m in Wangdue district, 3 hours from Punakha. From late October to mid-February it is the winter home of endangered black-necked cranes. Stay one or two nights for crane watching, Gangtey Goenpa, the Gangtey nature trail and a farmhouse dinner.",
+  "intro": [
+    "Cross the Lawa La from the Wangdue side and the forest suddenly opens onto a wide, flat-bottomed valley of marsh, potato fields and scattered farmhouses, ringed by pine and dwarf bamboo. This is Phobjikha, also called Gangtey after the monastery on the ridge at its head. It sits at roughly 2,900–3,000 m, and the valley floor is a wetland, protected as a Ramsar site, where a stream meanders slowly between grassy banks. In winter frost lies white across it until mid-morning.",
+    "The valley is famous for one visitor. Black-necked cranes, a threatened species that breeds on the Tibetan plateau, fly over the Himalaya each autumn and winter here from late October to mid-February. Local tradition says they circle Gangtey Goenpa three times when they arrive and again when they leave for Tibet. The Royal Society for Protection of Nature runs an information centre with spotting scopes on the valley edge, and the cranes feed in the marsh within easy sight of the road.",
+    "Phobjikha has protected its birds in practical ways. Overhead power lines were never allowed across the valley because they kill cranes in flight, and the grid arrived through underground cables. Villagers still grow seed potatoes, their main cash crop, which are sold to India. Phobjikha is cold: nights in December and January drop well below freezing and snow is possible. Rooms are heated with wood stoves called bukhari. The valley needs a route permit and is about 3 hours from Punakha and 5–6 hours from Thimphu."
+  ],
+  "story": {
+    "title": "Cranes that circle the monastery three times",
+    "paras": [
+      "Gangtey Goenpa was founded in 1613 by Gyalse Pema Thinley, grandson of the great treasure-revealer Pema Lingpa of Bumthang, and it is the main seat of the Pema Lingpa tradition in western Bhutan. Wikipedia notes that Pema Lingpa had foretold a descendant would build a monastery here. The buildings were thoroughly restored between 2000 and 2008 and reconsecrated in October 2008 in the presence of the Fourth King.",
+      "The cranes are part of the monastery's story. Local tradition holds that when the black-necked cranes arrive in late October they circle Gangtey Goenpa three times before landing in the marsh, and do the same before they leave for Tibet in February. People here regard the birds as heavenly visitors and their arrival as a sign of a good year. The Black-necked Crane Festival, started by the Royal Society for Protection of Nature in 1998, is held in the monastery courtyard each November, with school children performing a crane dance."
+    ],
+    "source": "Wikipedia, 'Gangteng Monastery' and 'Phobjikha Valley'; Royal Society for Protection of Nature (crane festival). The circling of the monastery is local tradition."
+  },
+  "did_you_know": [
+    "Overhead electricity lines have never been allowed across Phobjikha because they endanger cranes; the valley's power comes through underground cables.",
+    "Seed potatoes grown in Phobjikha are the valley's main cash crop and are sold to India.",
+    "Gangtey Goenpa was founded in 1613 by Gyalse Pema Thinley, a grandson of the Bumthang treasure-revealer Pema Lingpa."
+  ],
+  "facts": [
+    ["Best months", "Nov – Feb (cranes), Apr – May, Oct"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Paro (PBH), ≈ 200 km · 6–7 h"],
+    ["From Punakha", "≈ 78 km · 3 h via Wangdue"],
+    ["Altitude", "≈ 2,900–3,000 m"],
+    ["Known for", "Black-necked cranes, Gangtey Goenpa, nature trail, potato farms"]
+  ],
+  "best_months": [2, 2, 1, 1, 1, 0, 0, 0, 1, 1, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Crane watching from the valley edge", "text": "From November to mid-February, black-necked cranes feed in the marsh below the road. Early morning and late afternoon are best, when they fly to and from their roosts calling loudly. Keep at least 100 m away, stay on paths and never chase them for a photo."},
+    {"title": "The Black-necked Crane Information Centre", "text": "Run by the Royal Society for Protection of Nature on the valley edge, with spotting scopes, displays on crane ecology and a small shop. Entry about Nu 200, indicative 2026. It is the best place to start if you have only a few hours."},
+    {"title": "Gangtey Goenpa on its ridge", "text": "Founded in 1613 and restored between 2000 and 2008, the monastery overlooks the whole valley. It is the main seat of the Pema Lingpa tradition in western Bhutan. Walk through the courtyard and the main hall; monks' quarters surround the temple."},
+    {"title": "The Gangtey nature trail", "text": "A gentle 1.5-hour walk from a mani wall below the monastery, through pine forest and across the valley floor to Khewa Lhakhang. It is the easiest good walk in Bhutan and suits families and seniors; in crane season you pass the feeding grounds."},
+    {"title": "A night in a farmhouse", "text": "Several farmhouses in Phobjikha take guests, with a wood stove in the room, dinner of red rice, potatoes and datshi, and butter tea in the morning. It is cheaper than the hotels and the best way to see village life; ask for extra blankets in winter."},
+    {"title": "The crane festival in November", "text": "Held in the courtyard of Gangtey Goenpa on or around 11 November, with masked dances, folk songs and a crane dance by local school children. It welcomes the cranes and raises money and awareness for their conservation. Book rooms early."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car with guide", "text": "From Punakha it is about 78 km, 3 hours via Wangdue Phodrang and the Lawa La. From Thimphu allow 5–6 hours. A car with driver costs ₹4,500–6,500 a day, indicative 2026. A route permit is required and is issued in Thimphu; check current status before you travel."},
+    {"mode": "Onward to central Bhutan", "text": "Phobjikha is the natural stop on the way east to Trongsa and Bumthang. From the valley, the road climbs back to the main highway and crosses Pele La (about 3,390 m) to Trongsa, roughly 120 km and 4 hours. In winter, snow on Pele La can delay the drive."},
+    {"mode": "Bus", "text": "There is no practical public transport for tourists. Occasional local buses reach the valley, but you would still need a guide and permit. Almost every visitor comes by hired car as part of a guided itinerary."}
+  ],
+  "where_to_stay": "Hotels and farmhouses are spread across the valley near Gangtey Goenpa and the village of Tabiting, and along the road towards Kilkhorthang. Dewachen Hotel, on the valley slope with wood-stove rooms and big windows, is our comfortable pick. Gangtey Lodge, just below the monastery, is the premium choice, with 12 suites and fireplaces. Amankora also has a lodge in the valley. For budget trips, registered farmhouse homestays and certified 3-star hotels charge ₹3,000–5,500 per room night, indicative 2026. All rooms in winter depend on stoves and electric blankets, so ask what heating is provided.",
+  "stays": ["dewachen-hotel-phobjikha", "gangtey-lodge-phobjikha"],
+  "costs": [
+    ["Black-necked Crane Information Centre", "≈ Nu 200 per person, indicative 2026"],
+    ["Gangtey Goenpa", "≈ Nu 300–500 per person, indicative 2026"],
+    ["Farmhouse homestay with dinner", "₹2,500–4,500 per room night, indicative 2026"],
+    ["Certified 3-star hotel", "₹3,000–5,500 per room night, indicative 2026"],
+    ["Hot stone bath", "₹1,500–2,500 per person, indicative 2026"]
+  ],
+  "budget_tip": "Stay in a registered farmhouse with dinner and breakfast included; it costs about half a hotel room in crane season and puts you closer to the marsh at dawn.",
+  "tips": [
+    "Pack for −5 °C nights from December to February: down jacket, thermals, woollen cap and gloves.",
+    "Bring binoculars; the cranes are best watched from a distance and the RSPN scopes get busy.",
+    "Do not fly drones over the valley; drones disturb the cranes and need special permission in Bhutan.",
+    "Book rooms around 11 November well ahead, as the crane festival fills the valley's few hotels.",
+    "Power cuts happen in winter; carry a torch and keep your phone charged."
+  ],
+  "themes": ["birding-and-orchids", "village-homestays", "treks-and-walks", "monasteries"],
+  "nearby": ["wangdue-phodrang", "punakha", "trongsa"],
+  "experiences": [
+    {
+      "slug": "phobjikha-black-necked-crane-watching",
+      "title": "Watching black-necked cranes at dawn",
+      "kind": "wildlife",
+      "duration": "2–3 hours",
+      "best_time": "Early mornings and late afternoons, Nov–mid-Feb",
+      "cost": "≈ Nu 200 at the information centre; viewing free",
+      "image_query": "black-necked crane Phobjikha Bhutan",
+      "wiki": "Black-necked crane",
+      "summary": "Each winter black-necked cranes fly over the Himalaya from Tibet to feed in Phobjikha's marsh. We tell you when to go, where to stand, how close you may get and how the valley protects them.",
+      "body": [
+        "The black-necked crane is a tall grey crane with a black head and neck and a red crown. It breeds on the high plateau of Tibet and Ladakh and winters in a few valleys of Bhutan, Tibet and China. In Bhutan, Phobjikha is the best known roosting site. The birds arrive in late October and leave by mid-February. Local tradition says they circle Gangtey Goenpa three times as they arrive and as they depart, and many villagers will tell you they have seen it.",
+        "Watch from the road edge or the Black-necked Crane Information Centre, run by the Royal Society for Protection of Nature, which has telescopes and displays on the cranes' life. The best times are just after dawn, when the cranes fly in from their roosts in the marsh calling loudly, and the last hour before dusk, when they return. During the day they walk slowly across the fields eating potato leftovers, roots and insects. Families stay together; you will often see a pair with a brown-headed juvenile.",
+        "Keep a respectful distance of at least 100 m, stay on paths and do not try to get closer for photos. The valley's power lines run underground to protect the cranes, and drones are not allowed. Bring binoculars and a telephoto lens of 300 mm or more. The centre's entry fee is about Nu 200, indicative 2026. If you are in Bhutan from November to February, this is worth a detour of two days."
+      ],
+      "good_for": ["photographers", "families", "seniors", "couples"],
+      "faqs": [
+        {"q": "When can I see black-necked cranes in Bhutan", "a": "From late October to mid-February, with the most birds from November to January. Phobjikha in Wangdue district is the best known site; Bumdeling in eastern Bhutan is another. Early morning and late afternoon are the best times to watch. Outside these months the cranes are on their breeding grounds in Tibet."},
+        {"q": "How close can I get to the cranes in Phobjikha", "a": "Keep at least 100 m away and stay on paths and the road edge. The cranes are endangered and easily disturbed, and villagers and the Royal Society for Protection of Nature take their protection seriously. Use binoculars or the information centre's scopes, and a 300 mm or longer lens for photographs. Drones are not allowed."},
+        {"q": "Do the cranes really circle Gangtey Monastery", "a": "That is the local tradition: the cranes are said to circle Gangtey Goenpa three times on arrival in autumn and again before leaving for Tibet. Many villagers say they have seen it, and it is recorded in accounts of the monastery. Treat it as a cherished tradition rather than a guaranteed sight."}
+      ]
+    },
+    {
+      "slug": "phobjikha-gangtey-goenpa",
+      "title": "Gangtey Goenpa above the crane valley",
+      "kind": "spiritual",
+      "duration": "1 hour",
+      "best_time": "Mornings, all year",
+      "cost": "≈ Nu 300–500 entry, indicative 2026",
+      "image_query": "Gangteng Monastery Gangtey Bhutan",
+      "wiki": "Gangteng Monastery",
+      "summary": "The monastery that gives Gangtey its name, founded in 1613 by a grandson of Pema Lingpa and rebuilt over eight years with village labour. It sits on a ridge with the whole valley below and is home to a community of monks.",
+      "body": [
+        "Gangtey Goenpa was founded in 1613 by Gyalse Pema Thinley, grandson of Pema Lingpa, the 15th-century treasure-revealer of Bumthang. It is the main seat of the Pema Lingpa tradition and is headed by the Gangteng Tulku, a line of reincarnate lamas. The monastery is built like a small dzong, with a central temple surrounded by monks' quarters and a stone-paved courtyard. Village houses cluster around it on the ridge.",
+        "By the late 20th century the old timbers were rotten with beetle damage, and between 2000 and 2008 the monastery was taken apart and rebuilt under the ninth Gangteng Tulku, using traditional carpentry and the help of local families. It was consecrated again in October 2008 in the presence of the Fourth King. Inside the main hall are large statues and painted walls; the woodwork of the new building is fine and still smells of pine.",
+        "Visit in the morning, when the light falls across the valley and monks are at prayer. Wear long sleeves and trousers and remove shoes and caps inside. Photography is not allowed in the temple. The monastery's tshechu, held in the eighth lunar month (usually September or October), and the crane festival on or around 11 November both take place in its courtyard. Entry about Nu 300–500, indicative 2026."
+      ],
+      "good_for": ["first-timers", "seniors", "photographers", "couples"],
+      "faqs": [
+        {"q": "Who founded Gangtey Monastery", "a": "Gyalse Pema Thinley, grandson of the treasure-revealer Pema Lingpa, founded it in 1613. It is the main seat of the Pema Lingpa tradition in western Bhutan and is led by the Gangteng Tulku. The buildings were fully restored between 2000 and 2008 and reconsecrated in October 2008."},
+        {"q": "Is there a festival at Gangtey Monastery", "a": "Yes, two. The Gangtey Tshechu is held in the eighth lunar month, usually September or October, with masked dances. The Black-necked Crane Festival takes place in the courtyard on or around 11 November each year. Check the official calendar for exact dates before you travel."},
+        {"q": "Can I visit Gangtey Monastery in winter", "a": "Yes. It is open all year and winter is when most visitors come, for the cranes. The courtyard can be icy in the mornings, so wear shoes with grip. Inside the temple it is very cold; keep your jacket on but remove your cap and shoes."}
+      ]
+    },
+    {
+      "slug": "phobjikha-gangtey-nature-trail",
+      "title": "The Gangtey nature trail across the valley",
+      "kind": "nature",
+      "duration": "1.5–2 hours",
+      "best_time": "Mornings, Oct–May",
+      "cost": "Free",
+      "image_query": "Gangtey nature trail Phobjikha valley",
+      "wiki": "",
+      "summary": "An easy 1.5-hour walk from a mani wall below Gangtey Goenpa, through pine forest and over the valley floor to Khewa Lhakhang. It is the gentlest good walk in Bhutan and, in winter, passes close to the crane feeding grounds.",
+      "body": [
+        "The trail begins at a mani stone wall just below Gangtey Goenpa. It drops gently through a forest of blue pine, juniper and dwarf bamboo, where you may see prayer flags strung between trees and the occasional yak or pony grazing. After 30–40 minutes the forest thins and you come out onto the open valley floor, with the marsh, the meandering stream and the far side of the valley spread before you.",
+        "The path crosses the valley on raised ground and small wooden bridges, skirting the wetland where the cranes feed in winter, and ends at Khewa Lhakhang, a small village temple on the far side. It takes about 1.5 hours at an easy pace, with very little climbing. Your car waits at the end. In spring, from April to May, wild primulas and rhododendrons flower along the forest section, and birders can look for pheasants and other species.",
+        "In crane season keep to the trail and give the birds space; some sections may be closed to protect them. Wear waterproof shoes, as the valley floor is boggy after rain or snowmelt. Carry water and a warm layer. The walk is free. It suits families with children of any walking age and fit seniors, and makes a good first morning in the valley before you visit the monastery and the crane centre."
+      ],
+      "good_for": ["families", "seniors", "couples", "photographers"],
+      "faqs": [
+        {"q": "How long is the Gangtey nature trail", "a": "About 1.5 hours at an easy pace, from the mani wall below Gangtey Goenpa through forest and across the valley floor to Khewa Lhakhang. There is very little climbing, which makes it one of the easiest walks in Bhutan. Your car meets you at the end."},
+        {"q": "Is the Gangtey nature trail suitable for children", "a": "Yes. It is gentle, mostly downhill or flat, and children enjoy the small bridges and the chance of seeing cranes in winter. Wear waterproof shoes, because the valley floor can be boggy. Keep children on the path and quiet near the cranes."},
+        {"q": "Can I see cranes on the Gangtey nature trail", "a": "Often, between November and mid-February, because the trail skirts the marsh where they feed. Keep to the path, do not approach the birds, and use binoculars. Some sections may be closed in crane season to protect them; your guide will know which. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "phobjikha-farmhouse-stay",
+      "title": "A farmhouse night with a wood stove",
+      "kind": "village",
+      "duration": "Overnight",
+      "best_time": "Oct–Apr",
+      "cost": "₹2,500–4,500 per room night with meals, indicative 2026",
+      "image_query": "Bhutan farmhouse Phobjikha valley",
+      "wiki": "",
+      "summary": "Phobjikha's registered farmhouses offer a room with a wood stove, a family dinner and butter tea in the morning. It is cheaper than the hotels and closer to the rhythm of a valley that farms seed potatoes and shares its marsh with cranes.",
+      "body": [
+        "Phobjikha's farmhouses are large two- or three-storey buildings of rammed earth and timber, with carved and painted window frames and a shingle or tin roof. Families usually live on the upper floors, with storage and animals below. Several are registered to host tourists, as the rules require, with simple rooms, thick quilts and a bukhari stove. Bathrooms are often shared or attached but basic; hot water may come in a bucket.",
+        "Dinner is eaten with the family in the kitchen or main room: red rice, potatoes from the fields, ema datshi or kewa datshi, perhaps dried pork or a vegetable dish, and suja, the salted butter tea. Hosts may offer ara, the home-distilled grain spirit. In the evening you might help with chores or hear stories of the cranes, which villagers treat with affection. Children in the family often practise their English on guests.",
+        "A homestay costs about ₹2,500–4,500 per room night including dinner and breakfast, indicative 2026, against ₹3,000–5,500 for a certified 3-star hotel without dinner. Your guide books it and stays nearby. Bring a head torch, warm sleepwear and slippers, and expect cold nights of −5 °C or lower in midwinter. Ask before photographing family members or the household altar room, and remove shoes indoors."
+      ],
+      "good_for": ["families", "students", "couples", "solo"],
+      "faqs": [
+        {"q": "Can tourists stay in farmhouses in Bhutan", "a": "Yes, in farmhouses and homestays registered with the Department of Tourism. Unregistered homes cannot legally host tourists. Your guide or tour operator will book a registered one. In Phobjikha several families host guests, with dinner and breakfast included, for about ₹2,500–4,500 per room night, indicative 2026."},
+        {"q": "Is a Phobjikha homestay warm enough in winter", "a": "Rooms are heated with a wood stove called a bukhari, and hosts give thick quilts, but nights drop to −5 °C or lower in December and January and the stove dies down after midnight. Bring thermals, a warm cap and socks for sleeping. Ask the host to light the stove early in the evening."},
+        {"q": "What food is served at a Bhutanese farmhouse", "a": "Red rice, potatoes, ema datshi or kewa datshi, seasonal vegetables, sometimes dried pork or chicken, and suja, the salted butter tea. Breakfast is often eggs, toast or pancakes with tea. Vegetarians are easily catered for. Tell your guide about allergies or no-chilli requests in advance."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "When is the best time to visit Phobjikha", "a": "November to mid-February if you want the black-necked cranes, with the crane festival on or around 11 November. April to May is good for spring flowers and mild days, and October for clear skies before the cranes peak. June to September is wet, with leeches on the trails and fewer reasons to come."},
+    {"q": "How do I reach Phobjikha from Thimphu", "a": "By car over Dochula to Punakha and Wangdue, then up over the Lawa La into the valley: about 5–6 hours. Most itineraries break the trip with two nights in Punakha. A route permit is needed and is issued in Thimphu on working days; your guide arranges it. Check current status before you travel."},
+    {"q": "Is Phobjikha worth visiting outside crane season", "a": "Yes, for a quiet valley, the Gangtey nature trail, the monastery and farm life, especially in April–May and October. But the cranes are its great draw, so if your time is short and you are travelling between March and October, Punakha, Paro and Haa may give more for each day."},
+    {"q": "How cold is Phobjikha in winter", "a": "Very. Nights in December and January drop to about −5 °C to −10 °C and days reach 5–10 °C. Frost covers the valley until mid-morning, and snow is possible. Pack a down jacket, thermals, gloves and a warm cap. Rooms rely on wood stoves and electric blankets."},
+    {"q": "Is there electricity in Phobjikha", "a": "Yes. The valley was connected to the national grid through underground cables, because overhead lines were not allowed in order to protect the cranes. Power cuts still happen, especially in winter storms. Carry a torch and a power bank, and charge devices when you can."},
+    {"q": "How many nights should I spend in Phobjikha", "a": "One night is enough to see the cranes at dusk and dawn and walk the nature trail. Two nights let you slow down, spend a full day watching birds and visit a farmhouse. Phobjikha pairs naturally with two nights in Punakha, or with Trongsa and Bumthang if you continue east."},
+    {"q": "What is the Black-necked Crane Festival", "a": "An annual festival in the courtyard of Gangtey Goenpa on or around 11 November, the Fourth King's birthday. It was started by the Royal Society for Protection of Nature in 1998 to celebrate the cranes and raise awareness of their protection, with masked dances, folk songs and a crane dance by local children."},
+    {"q": "Are there good hotels in Phobjikha", "a": "Yes, across budgets. Dewachen Hotel is a comfortable mid-range choice with wood-stove rooms and big valley windows. Gangtey Lodge and Amankora Gangtey are premium. Certified 3-star hotels and registered farmhouse homestays cover budget trips at ₹2,500–5,500 per room night, indicative 2026."},
+    {"q": "Can I see cranes without going into the marsh", "a": "Yes, and you should. The cranes feed in fields and marsh visible from the road and from the Black-necked Crane Information Centre, which has telescopes. Walking into the marsh disturbs the birds and is discouraged. Binoculars and patience at dawn or dusk are all you need."}
+  ]
+}

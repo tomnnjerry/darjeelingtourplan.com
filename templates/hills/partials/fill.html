@@ -1,0 +1,6 @@
+{% load hills %}{% for i in "123" %}<a class="card-fill" href="{% url 'plan' %}?from={{ request.path|urlencode }}{% if fill_land %}&land={{ fill_land }}{% endif %}" data-fill-card hidden{% if fill_land %} data-land="{{ fill_land }}"{% endif %} data-cta="fill-card">
+  <span class="lbadge lbadge--foil lbadge--lg">{% if forloop.counter == 1 %}{% icon "route" %}{% elif forloop.counter == 2 %}{% icon "ticket" %}{% else %}{% icon "chat" %}{% endif %}</span>
+  <span class="card-fill__title">{% if forloop.counter == 1 %}{{ fill_title|default:"Build your own route" }}{% elif forloop.counter == 2 %}Working to a budget?{% else %}Ask someone who has been{% endif %}</span>
+  <span class="card-fill__text">{% if forloop.counter == 1 %}{{ fill_text|default:"Tell us your dates, who is coming and what you want to see. We draw the route and price it three ways." }}{% elif forloop.counter == 2 %}Give us a number per person. We will tell you honestly what it buys, and where to save.{% else %}A first plan and price within one working day. No payment to start.{% endif %}</span>
+  <span class="card-fill__go">Start {% icon "arrow" %}</span>
+</a>{% endfor %}

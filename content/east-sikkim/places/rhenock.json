@@ -1,0 +1,178 @@
+{
+  "slug": "rhenock",
+  "name": "Rhenock",
+  "region": "east-sikkim",
+  "kind": "village",
+  "wiki": "Rhenock",
+  "image_query": "Rhenock Sikkim",
+  "lat": 27.18,
+  "lng": 88.65,
+  "altitude_m": 1040,
+  "tagline": "Border bazaar on the old Kalimpong–Jelep La road into Sikkim",
+  "meta_description": "Rhenock, East Sikkim: the old Kalimpong–Jelep La trade road, Lepcha, Bhutia and Gorkha history, shared jeeps, homestays and the way to Aritar.",
+  "summary": "Rhenock is a small bazaar town at about 1,040 m in Pakyong district, East Sikkim, 47 km from Kalimpong on the old road to Jelep La. Lepcha, Bhutia and Gorkha families have shaped it over several centuries. Today it is the quiet back door into Sikkim, and a cheap base for Aritar and the Silk Route.",
+  "intro": [
+    "Rhenock sits on a ridge at about 1,040 m, 63 km east of Gangtok and 47 km north of Kalimpong, close to where the Pedong side of West Bengal meets Sikkim at Reshi. Its bazaar is a long market street of shops, canteens and offices, with houses and farms spreading down the slopes around it. Most travellers know it only as a name on the road to Aritar, a short drive further on, but Rhenock is older and more lived-in, and it is a practical, cheaper place to break a journey.",
+    "The name is usually explained as Lepcha for black hill. Local histories say Lepcha families settled the area some five or six hundred years ago, when it was dense forest. Bhutia families from Tibet followed from the mid-16th century and founded villages such as Kyongsa, Aritar, Tarpin and Reshi. Nepali-speaking Gorkha groups, including Newar, Bahun, Chhetri, Gurung and Limbu families, came later, and traders from the plains arrived in the 1940s and 1950s. You hear all of it in the bazaar, though Nepali is the common tongue.",
+    "Rhenock is also the back door into Sikkim. When NH10 along the Teesta is blocked by landslides, which happens most monsoons, traffic from Siliguri often comes via Kalimpong, Pedong and Rhenock, or via Gorubathan, Lava and Rhenock on NH717A, and on to Rorathang and Pakyong. Indian travellers need no permit here. Foreign nationals need the standard Sikkim Restricted Area Permit and should confirm in advance where it can be endorsed, as Rangpo and Melli are the usual entry points. Check current status before you travel."
+  ],
+  "story": {
+    "title": "The black hill on the road to Tibet",
+    "paras": [
+      "Before the motor road, the main trade route from Kalimpong to Lhasa ran east through Algarah and Pedong, crossed into Sikkim near Reshi, and climbed through Rhenock and Rongli towards Jelep La. Pedong had Damsang fort, built by Lepchas in 1690, and a mission cross raised on a hill in 1882. Rhenock, just over the border, was a natural halt on the ridge for mule caravans carrying wool and furs down from Tibet and manufactured goods back up, and for the officials who followed the trade.",
+      "Settlement here is layered. Local histories, summarised on Wikipedia, say Lepchas were the first settlers, Bhutias came from Tibet from the mid-16th century, and Gorkha families from Nepal and the Darjeeling hills followed, especially from the late 19th century, when the British-run administration encouraged Nepali farmers to clear and settle land in Sikkim. Each group left its mark: Lepcha place names, Bhutia villages and gompas such as the one at Aritar, Hindu temples, and Nepali as the shared language of the bazaar.",
+      "The caravans stopped after the 1959 crackdown in Tibet and the 1962 war, when Jelep La was closed, and it has stayed shut since. Rhenock became what it is now: a subdivision bazaar serving farms and villages, with a school, offices and a steady flow of shared jeeps. Walk the main street slowly and you can still see the bones of a trade town, with shops built close to the road and the old route running on towards Rongli."
+    ],
+    "source": "Wikipedia: Rhenock, Jelep La, Pedong, John Claude White"
+  },
+  "did_you_know": [
+    "Rhenock's name is usually explained as Lepcha for black hill.",
+    "Wikipedia's Jelep La article lists two Indian approaches to the pass: from Gangtok via Changu and Kupup, and from Kalimpong via Algarah, Pedong, Rhenock and Rongli.",
+    "Pedong, about 20 km from Kalimpong on the road to Rhenock, has the ruins of Damsang fort, built by Lepchas in 1690."
+  ],
+  "facts": [
+    ["Best months", "Oct – May"],
+    ["Nights we suggest", "1"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 105 km"],
+    ["From Kalimpong", "≈ 47 km · 2 h"],
+    ["From Gangtok", "≈ 63 km · 2.5 h"],
+    ["Altitude", "≈ 1,040 m"],
+    ["Permit", "None for Indians; RAP for foreigners"],
+    ["Known for", "Old trade road, bazaar, gateway to Aritar"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "nights": "1",
+  "highlights": [
+    {"title": "The bazaar street", "text": "Rhenock's main street is a working market of grocers, hardware shops, tailors, sweet shops and canteens, busiest in the morning. It has no souvenir trade. Walk it end to end, eat momos or a thali for ₹60–300, and watch shared jeeps load for Siliguri, Kalimpong and Gangtok."},
+    {"title": "The old Kalimpong road", "text": "The road from Kalimpong through Algarah and Pedong to Rhenock follows the line of the old trade route to Jelep La. Stop at Pedong for the ruins of Damsang fort, built by Lepchas in 1690, and the 1882 mission cross on its hill before crossing into Sikkim."},
+    {"title": "Day hop to Aritar", "text": "Aritar is a short drive from Rhenock, with Lampokhari Lake, boats, the 1895 dak bungalow built under John Claude White and the Kagyu gompa. If Aritar's homestays are full, or you want a cheaper bed near transport, sleep in Rhenock and spend the day there."},
+    {"title": "Village homestays and farms", "text": "The slopes around Rhenock are farming country, with maize, vegetables, cardamom and cattle. A few registered village homestays take guests for simple rooms and home meals, and they are the best way to see how a Sikkimese farming family lives from day to day."},
+    {"title": "A monsoon back door", "text": "When NH10 along the Teesta is cut, drivers often reroute through Kalimpong, Pedong and Rhenock, or via Lava and NH717A. Knowing this road can save a trip. It is longer and slower, but it is often open when the main highway is not. Check current status before you travel."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps link Rhenock with Siliguri, Kalimpong and Gangtok, mostly leaving in the morning. Budget roughly ₹250–400 a seat from Siliguri, ₹120–200 from Kalimpong and ₹150–250 from Gangtok, indicative 2026. Ask at the stand the day before, as departures thin out after early afternoon."},
+    {"mode": "Reserved car", "text": "A small car from NJP or Bagdogra costs about ₹4,500–6,500 for the roughly 100–110 km, 4-hour drive, via Rangpo and Rorathang or via Kalimpong and Pedong. From Kalimpong it is about 47 km and 2 hours. Both roads see monsoon slides, so check current status before you travel."},
+    {"mode": "Rail / Air", "text": "The nearest railhead is New Jalpaiguri (NJP) and the nearest working airport is Bagdogra (IXB), both near Siliguri. Pakyong Airport, roughly 30 km away by road, has no scheduled flights as of 2026. The Sivok–Rangpo railway is still under construction. Check current status before you travel."}
+  ],
+  "where_to_stay": "Rhenock has a few simple hotels and lodges in the bazaar, used mostly by traders, officials and drivers, and a small number of registered village homestays on the slopes around it, where ₹1,500–2,500 per person usually covers dinner, bed and breakfast, indicative 2026. Most travellers who want the lake and the Silk Route sleep a short drive on at Aritar instead. Rhenock suits those who want a cheaper, quieter night close to shops and shared jeeps. We do not name properties because standards change; ask your driver or agent which homestays are registered and open this season.",
+  "stays": [],
+  "costs": [
+    ["Shared jeep seat Siliguri → Rhenock", "₹250–400"],
+    ["Shared jeep seat Kalimpong → Rhenock", "₹120–200"],
+    ["Reserved car NJP → Rhenock", "₹4,500–6,500"],
+    ["Homestay, full board", "₹1,500–2,500 per person per night"],
+    ["Thali or momos in the bazaar", "₹60–300"],
+    ["Sikkim tourist fee", "₹50 per person, collected at check-in"]
+  ],
+  "budget_tip": "Use Rhenock as your shared-jeep hub: ride in by shared jeep from Siliguri or Kalimpong, sleep here or at Aritar, and hire a Silk Route vehicle only for the permit days.",
+  "tips": [
+    "If NH10 is shut, ask your driver about the Kalimpong–Pedong–Rhenock road before you cancel; it is longer but often open.",
+    "Shared jeeps thin out after early afternoon, so aim to leave Siliguri or Kalimpong by mid-morning.",
+    "Carry cash; the bazaar has small shops and canteens but card payments are not reliable.",
+    "Keep photo ID handy, as police may check vehicles where the road crosses from West Bengal into Sikkim.",
+    "Ask your homestay about local festivals; Dasain and Tihar in October–November and Losar in February–March are busy, cheerful times in the villages."
+  ],
+  "themes": ["village-homestays", "budget-trips", "treks-and-walks", "food-and-markets"],
+  "nearby": ["aritar", "rongli", "zuluk"],
+  "experiences": [
+    {
+      "slug": "rhenock-bazaar-morning-walk",
+      "title": "A morning walk through Rhenock bazaar",
+      "kind": "culture",
+      "duration": "1–1.5 hours",
+      "best_time": "Mornings, Oct–May",
+      "cost": "Free; ₹60–300 for breakfast, indicative",
+      "image_query": "Rhenock bazaar Sikkim",
+      "wiki": "Rhenock",
+      "summary": "Walk Rhenock's market street in the morning, when shops open, shared jeeps load and farmers bring in vegetables. Eat breakfast in a canteen, and read the town's layers of Lepcha, Bhutia, Gorkha and plains history in its faces, signboards and temples.",
+      "body": [
+        "Start early, around 7.30 or 8 am, when the shutters go up. Rhenock's main street runs along the ridge with shops close on both sides: grocers, hardware stores, tailors, pharmacies, sweet shops and small canteens. Shared jeeps load at the stand for Siliguri, Kalimpong and Gangtok, with drivers calling out destinations. It is a working market, so you will find rice and kerosene, not souvenirs, and that is the point.",
+        "Look at who runs what. Local histories say Lepchas settled here first, Bhutias came from Tibet from the mid-16th century, Gorkha families followed, and traders from the plains arrived in the 1940s and 1950s. You see all of it in the names on shop boards and in the mix of temples and prayer flags. Nepali is the language of the bazaar, and a few words of it, namaste and dhanyabad, go a long way.",
+        "Stop for breakfast in a canteen: puri-sabzi, aloo dum, momos or sel roti with milk tea, at ₹60–150 a head, indicative 2026. Buy fruit from the vendors in season, mandarins in winter and plums or pears in summer. If you are heading on to Aritar or the Silk Route, this is a good place to stock up on snacks, water, cash and basic medicines before the shops thin out further up the valley."
+      ],
+      "good_for": ["solo", "students", "couples", "first-timers"],
+      "faqs": [
+        {"q": "Is Rhenock worth visiting", "a": "It is worth a night or a morning if you like real market towns more than tourist spots. Rhenock has no big sights, but its bazaar, mixed communities and place on the old Kalimpong–Jelep La trade road make it interesting, and it is a cheap, practical base for Aritar and the Silk Route. Travellers who want lakes and views should sleep at Aritar."},
+        {"q": "What food can we try in Rhenock bazaar", "a": "Canteens in Rhenock bazaar serve puri-sabzi, aloo dum, momos, chowmein, rice thalis and milk tea, and some make sel roti, the ring-shaped rice bread, in the morning. Expect ₹60–300 per person depending on what you order, indicative 2026. Ask your homestay for gundruk or local chicken curry if you want home-style Sikkimese food."},
+        {"q": "What languages are spoken in Rhenock", "a": "Nepali is the common language of the bazaar and is understood by almost everyone. Hindi is widely spoken too, especially by shopkeepers and drivers, and Lepcha and Bhutia families also speak their own languages at home. English is understood by younger people and in offices. A simple namaste and dhanyabad, thank you in Nepali, are always welcome."}
+      ]
+    },
+    {
+      "slug": "rhenock-pedong-old-trade-road-drive",
+      "title": "Drive the old trade road from Kalimpong via Pedong",
+      "kind": "culture",
+      "duration": "Half a day",
+      "best_time": "Oct–May",
+      "cost": "₹3,000–4,500 for a reserved car Kalimpong → Rhenock, indicative",
+      "image_query": "Pedong Kalimpong Damsang fort",
+      "wiki": "Pedong",
+      "summary": "The road from Kalimpong through Algarah and Pedong to Rhenock follows the line of the old wool and mule route to Jelep La. Stop at Damsang fort and the Pedong cross on the way, and arrive in Sikkim the way traders once did.",
+      "body": [
+        "From Kalimpong the road runs east along the ridge through Algarah to Pedong, about 20 km away at around 1,240 m. This was the line of the trade route to Lhasa via Jelep La, and Pedong was an important stop on it. Just outside town are the ruins of Damsang fort, built by Lepchas in 1690 and at the centre of a long feud with Bhutan, later held against the British. Only low walls remain, but the hilltop setting explains why it was built there.",
+        "In Pedong itself, Cross Hill carries a cross raised in 1882 by Father Augustine Desgodins in memory of missionaries who died trying to reach Tibet. Pedong also has Sangchen Dorjee monastery, founded in the early 1700s. From Pedong the road drops and crosses into Sikkim near Reshi, then climbs to Rhenock. With stops, the drive from Kalimpong takes three to four hours rather than the two it needs without them.",
+        "This is also the road drivers use when NH10 along the Teesta is cut, so it is worth knowing even if history is not your thing. Take a reserved car for the stops, roughly ₹3,000–4,500 from Kalimpong to Rhenock, indicative 2026, or a shared jeep if you only want the ride. Carry ID for the state border check. Check current status before you travel, as the road sees monsoon slides."
+      ],
+      "good_for": ["couples", "photographers", "seniors", "students"],
+      "faqs": [
+        {"q": "How far is Rhenock from Kalimpong", "a": "Rhenock is about 47 km from Kalimpong by road via Algarah and Pedong, usually around 2 hours without stops. Shared jeeps run between the two, mostly in the morning, at about ₹120–200 a seat; a reserved small car costs roughly ₹3,000–4,500, indicative 2026. Allow longer in the monsoon and check current status before you travel."},
+        {"q": "What can we see at Pedong on the way to Rhenock", "a": "Pedong has the ruins of Damsang fort, built by Lepchas in 1690, Cross Hill with a cross raised in 1882 by Father Augustine Desgodins in memory of missionaries bound for Tibet, and Sangchen Dorjee monastery, founded in the early 1700s. All three sit close to the main road and fit into a half-day drive from Kalimpong to Rhenock."},
+        {"q": "Was this road part of the Silk Route", "a": "Yes, in the sense travellers use the term today. The trade route from Kalimpong to Lhasa ran through Pedong, Rhenock and Rongli, then up past Zuluk and Nathang to Jelep La and the Chumbi Valley. Wool and furs came down, manufactured goods went up. Trade ended after 1959 and the 1962 war, when Jelep La was closed."}
+      ]
+    },
+    {
+      "slug": "rhenock-aritar-lake-day-hop",
+      "title": "Day hop from Rhenock to Aritar and Lampokhari",
+      "kind": "nature",
+      "duration": "Half a day",
+      "best_time": "Mornings, Oct–May",
+      "cost": "₹800–1,500 for a local taxi return, plus boating ₹50–200, indicative",
+      "image_query": "Lampokhari lake Aritar Sikkim",
+      "wiki": "Aritar, Sikkim",
+      "summary": "From a base in Rhenock, take a local taxi to Aritar for Lampokhari Lake, the 1895 dak bungalow built under John Claude White and the Kagyu gompa, and be back in the bazaar for lunch. An easy, cheap half-day with no permits.",
+      "body": [
+        "Aritar is a short drive from Rhenock, close enough that many travellers who cannot find a homestay at the lake stay in Rhenock and make a day of it. A local taxi for the return trip with waiting time costs roughly ₹800–1,500, indicative 2026. Leave early so you reach Lampokhari before the weekend day-trippers, when the water is still and the boats are free. On weekdays outside school holidays you may have the place nearly to yourself.",
+        "Start with the lake: a walk around the path takes 30–45 minutes, and a boat costs about ₹50–200 per person. Then go up to Ari Bangla, the dak bungalow built in 1895 under John Claude White, the first British Political Officer in Sikkim, where Sikkim's first police outpost and treasury opened in 1897. The Kagyu gompa nearby is worth a quiet look at its murals; remove shoes, walk clockwise and leave a small donation if you go in.",
+        "If you have energy, add the climb to Mankhim, the hilltop above the lake at about 6,500 ft with a Rai temple and views to the Kangchenjunga range on clear days. Otherwise head back to Rhenock for lunch. Aritar is below the Silk Route permit point, so this day works for families, seniors and foreign travellers with the standard Sikkim Restricted Area Permit. Carry water and a light jacket, as the lake is cooler than the bazaar."
+      ],
+      "good_for": ["families", "seniors", "couples", "first-timers"],
+      "faqs": [
+        {"q": "How far is Aritar from Rhenock", "a": "Aritar is a short drive from Rhenock, usually 20–30 minutes by local taxi depending on the road. A return trip with waiting time costs about ₹800–1,500, indicative 2026. Some travellers walk part of the way on village paths, but the road is easier for most. No permit is needed, as both places lie below the Silk Route permit point."},
+        {"q": "Should we stay in Rhenock or Aritar", "a": "Stay in Aritar if you want the lake, quiet evenings and sunrise views from Mankhim. Stay in Rhenock if you are travelling by shared jeep, want a cheaper night close to transport, or Aritar's homestays are full. The two are close enough that you can easily see Aritar on a half-day trip from Rhenock."},
+        {"q": "Can foreigners visit Rhenock and Aritar", "a": "Yes. Rhenock and Aritar lie below the Silk Route permit point, so foreign nationals can visit with the standard Sikkim Restricted Area Permit, which is free. They should confirm in advance where the permit will be endorsed if entering via the Pedong road. Zuluk and the high Silk Route remain closed to foreigners. Check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "rhenock-village-farm-homestay",
+      "title": "A farm day at a Rhenock village homestay",
+      "kind": "village",
+      "duration": "A day and a night",
+      "best_time": "Oct–May; Nov–Dec for cardamom and oranges",
+      "cost": "₹1,500–2,500 per person with meals, indicative",
+      "image_query": "Sikkim village farm terraces",
+      "wiki": "",
+      "summary": "Spend a slow day with a farming family in the villages around Rhenock: walk the fields, help in the kitchen, learn how cardamom and maize fit the year, and eat home food by the fire. Simple, cheap and the best way to see rural Sikkim.",
+      "body": [
+        "The slopes around Rhenock are farming country. Families grow maize, rice in the lower terraces, vegetables, ginger and large cardamom under the shade of trees, and keep cows and goats. Sikkim was declared India's first fully organic state in 2016, and on small farms like these you see what that means in practice: compost, cow dung and hand weeding rather than chemical sprays, and seed often saved from one harvest to the next.",
+        "A day here has no fixed plan. Walk the fields with your host in the morning, help with whatever is in season, and ask to watch or help in the kitchen. Depending on the house, you may see sel roti being fried, gundruk greens being dried, or chhurpi cheese being made. Children are welcome to play with the family's kids. Evenings are early, with dinner by the fire and stories over tea.",
+        "Book through your driver or agent and ask which homestays are registered with the tourism department this season, as standards and openings change. Rates of about ₹1,500–2,500 per person usually include dinner and breakfast, indicative 2026. Bring a small gift from home rather than sweets from the bazaar, pay fairly for anything extra, and ask before photographing people or the inside of the house. Expect shared bathrooms in some homes."
+      ],
+      "good_for": ["families", "students", "couples", "solo"],
+      "faqs": [
+        {"q": "Are there homestays in Rhenock", "a": "Yes, a small number of registered village homestays operate in the villages around Rhenock, alongside a few simple hotels and lodges in the bazaar. Homestays usually charge about ₹1,500–2,500 per person per night with dinner and breakfast, indicative 2026. We do not name individual houses because standards change; ask your driver or agent which are registered and open."},
+        {"q": "What crops are grown around Rhenock", "a": "Farms around Rhenock grow maize, vegetables, ginger and large cardamom, with rice on the lower terraces, and many families keep cows and goats. Mandarin oranges ripen in the winter months. Sikkim was declared India's first fully organic state in 2016, so small farms here rely on compost and manure rather than chemical fertilisers and pesticides."},
+        {"q": "Is a Rhenock farm stay good for children", "a": "Yes. At about 1,040 m there is no altitude concern, the pace is slow, and children usually enjoy the animals, the fields and playing with the family's own kids. Bring closed shoes, insect repellent and a torch. From June to September paths are muddy and leechy, so we suggest visiting between October and May."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Rhenock in Sikkim", "a": "Rhenock is in Pakyong district of Sikkim, in the former East Sikkim district, at about 1,040 m. It lies about 63 km east of Gangtok and 47 km north of Kalimpong, close to the West Bengal border at Reshi, on the old road from Kalimpong to Jelep La. Aritar and its lake are a short drive away, and Rongli further on."},
+    {"q": "Do we need a permit to visit Rhenock", "a": "Indian nationals do not need any permit to visit Rhenock. Foreign nationals need the standard Sikkim Restricted Area Permit, which is free, and should confirm in advance where it can be endorsed if they enter via the Pedong road, since Rangpo and Melli are the usual entry points. A Protected Area Permit is needed only beyond Rongli. Check current status before you travel."},
+    {"q": "How do we reach Rhenock from NJP or Bagdogra", "a": "Rhenock is about 100–110 km from NJP and Bagdogra, roughly 4 hours by road, either via Sevoke, Rangpo and Rorathang or via Kalimpong and Pedong. A reserved small car costs about ₹4,500–6,500; shared jeeps from Siliguri cost roughly ₹250–400 a seat, indicative 2026. Monsoon slides affect both roads, so check current status before you travel."},
+    {"q": "What does Rhenock mean", "a": "Rhenock is usually explained as a Lepcha name meaning black hill. The Lepchas are considered the earliest settlers of the area, and many place names around here come from their language. As with many place-name meanings in the hills, this is the commonly given explanation rather than a formally documented one, so treat it as local tradition."},
+    {"q": "What is the best time to visit Rhenock", "a": "October to May is best. October and November are clear and dry, December and January are cool and bright, and March to May are mild, with flowering trees on the slopes. June to September brings heavy rain, leeches on paths and landslides on the approach roads, though Rhenock itself stays reachable more often than higher places. Check current status before you travel."},
+    {"q": "Is Rhenock a good alternative route when NH10 is closed", "a": "Often, yes. When NH10 along the Teesta is cut by landslides, traffic from Siliguri to Sikkim commonly reroutes via Kalimpong, Pedong and Rhenock, or via Gorubathan, Lava and Rhenock on NH717A, then on to Rorathang, Pakyong and Gangtok. These roads are longer and slower, and can also be hit by slides. Check current status before you travel."},
+    {"q": "What is there to do in Rhenock", "a": "Walk the bazaar in the morning, eat in the canteens, spend a day at a village homestay, and take a half-day trip to Aritar for Lampokhari Lake, the 1895 dak bungalow and the gompa. History lovers can drive in from Kalimpong via Pedong to follow the old trade road. It is a place for slow days, not sightseeing lists."},
+    {"q": "How much does a night in Rhenock cost", "a": "Simple hotels and lodges in Rhenock bazaar and registered village homestays nearby usually work out at about ₹1,500–2,500 per person with meals, indicative 2026. Add ₹50 per person Sikkim tourist fee at check-in. Shared jeeps keep transport cheap: about ₹250–400 a seat from Siliguri and ₹120–200 from Kalimpong. It is one of the cheaper bases in East Sikkim."},
+    {"q": "Which communities live in Rhenock", "a": "Rhenock is mixed. Local histories say Lepchas were the earliest settlers, Bhutias from Tibet came from the mid-16th century, and Nepali-speaking Gorkha groups, including Newar, Bahun, Chhetri, Gurung and Limbu families, followed. Kirati communities, and traders from Bihar and Rajasthan who came in the mid-20th century, also live here. Nepali is the common language of the bazaar."}
+  ]
+}

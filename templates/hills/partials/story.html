@@ -1,0 +1,11 @@
+{% load hills %}{% if story %}<div class="story">
+  <div>
+    <p class="eyebrow">Told in the hills</p>
+    <h2 class="h-l" style="margin-bottom: 22px">{{ story.title }}</h2>
+    <div class="story__body prose dropcap">{% for para in story.paras %}<p>{{ para }}</p>{% endfor %}</div>
+  </div>
+  <aside class="story__note">
+    {% if local_name %}<div class="rstamp" role="img" aria-label="{{ local_name.text }}, {{ local_name.language }}: {{ local_name.meaning }}"><div><b>{{ local_name.text }}</b><span>{{ local_name.language }}</span><i>“{{ local_name.meaning }}”</i></div></div>{% endif %}
+    <p class="story__source"><b>Where this comes from</b>{{ story.source }}</p>
+  </aside>
+</div>{% endif %}

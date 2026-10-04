@@ -1,0 +1,144 @@
+{% load static hills %}<!doctype html>
+<html lang="en-IN" class="js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Darjeeling Tour Plan · Affordable trips to Darjeeling, Sikkim and Bhutan{% endblock %}</title>
+<meta name="description" content="{% block description %}Darjeeling, Sikkim, Bhutan and the Dooars planned properly and priced in the open: budget, comfort and premium fares, shared-jeep tips, permits and the local stories behind every stop.{% endblock %}">
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:site_name" content="Darjeeling Tour Plan">
+<meta property="og:title" content="{% block og_title %}{{ block.super }}{% endblock %}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_IN">
+{% block og_image %}{% endblock %}
+<meta name="theme-color" content="#F2B01E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='4' y='10' width='56' height='34' rx='2' fill='%23F2B01E' stroke='%231C1813' stroke-width='4'/%3E%3Cpath d='M18 44v16M46 44v16' stroke='%231C1813' stroke-width='5'/%3E%3Ctext x='32' y='36' font-family='Arial Narrow,Arial' font-weight='900' font-size='22' text-anchor='middle' fill='%231C1813'%3EDTP%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Big+Shoulders+Display:wght@500;700;800;900&family=Big+Shoulders+Stencil+Display:wght@600;800&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..500&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<link rel="preconnect" href="https://upload.wikimedia.org">
+{% block head_extra %}{% endblock %}
+<link rel="stylesheet" href="{% static 'css/hillcart.css' %}?v={{ V }}">
+<style>{% for r in nav_regions %}[data-land="{{ r.slug }}"]{--ground:{{ r.ground }};--ground-2:{{ r.ground2 }};--accent:{{ r.accent }};--land-ink:{{ r.ink }};--tint:{{ r.tint }};--grad:linear-gradient(135deg,{{ r.grad.0 }} 0%,{{ r.grad.1 }} 55%,{{ r.grad.2 }} 100%);--foil:linear-gradient(115deg,{{ r.foil.0 }} 0%,{{ r.foil.1 }} 42%,{{ r.foil.2 }} 78%,{{ r.foil.1 }} 100%);--foil-deep:{{ r.foil.2 }}}{% endfor %}</style>
+{% for block_ld in ld %}<script type="application/ld+json">{{ block_ld|safe }}</script>
+{% endfor %}
+{% if GA4 %}<script async src="https://www.googletagmanager.com/gtag/js?id={{ GA4 }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","{{ GA4 }}");</script>{% endif %}
+</head>
+<body{% block body_attrs %}{% endblock %}>
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="util">
+  <div class="wrap util__in">
+    <p class="util__wx" aria-label="Weather now in the hills"><span><span class="dot" aria-hidden="true"></span>Now in the hills</span><span data-wx="27.04,88.26" hidden>Darjeeling <b data-wx-t></b> <span data-wx-w></span></span><span data-wx="27.33,88.61" hidden>Gangtok <b data-wx-t></b> <span data-wx-w></span></span><span data-wx="27.30,88.23" hidden>Pelling <b data-wx-t></b></span><span data-wx="27.47,89.64" hidden>Thimphu <b data-wx-t></b></span><span data-wx="26.71,88.43" hidden>Siliguri <b data-wx-t></b></span></p>
+    <nav class="util__links" aria-label="Contact">
+      {% if tel %}<a href="tel:{{ tel }}" data-cta="util-call">{{ SITE.phone }}</a>{% endif %}
+      {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="util-whatsapp" rel="noopener">WhatsApp</a>{% endif %}
+      <a href="mailto:{{ SITE.email }}" data-cta="util-email">{{ SITE.email }}</a>
+      <a href="{% url 'how_we_work' %}">How we work</a>
+    </nav>
+  </div>
+</div>
+
+<header class="mast">
+  <div class="wrap mast__in">
+    <a class="wordmark" href="{% url 'home' %}" aria-label="Darjeeling Tour Plan, home"><span class="wordmark__plate">Darjeeling</span><span class="wordmark__rest">Tour Plan</span></a>
+    {% include "hills/partials/nav.html" %}
+    <div class="mast__cta">
+      <button class="icon-btn" type="button" data-search-open aria-label="Search the site"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></button>
+      <a class="btn btn--sm mast__plan" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="header-plan">Get a free plan</a>
+      <button class="burger" type="button" data-sheet-open aria-label="Open menu"><span></span></button>
+    </div>
+  </div>
+</header>
+
+<div class="sheet" role="dialog" aria-modal="true" aria-label="Menu">
+  <div class="sheet__top"><span class="wordmark"><span class="wordmark__plate">Darjeeling</span><span class="wordmark__rest">Tour Plan</span></span><button class="sheet__close" type="button" data-sheet-close aria-label="Close menu">×</button></div>
+  <button class="sheet__search" type="button" data-search-open><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg> Search places, packages, guides</button>
+  <details class="acc" open><summary>Destinations</summary><div class="sheet__lands">{% for r in nav_regions %}<a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="lbadge lbadge--foil">{% icon r.slug %}</span><span><b>{{ r.name }}</b><small>{{ r.line }}</small></span></a>{% endfor %}</div></details>
+  <details class="acc"><summary>Tour packages</summary><div class="sheet__links"><a href="{% url 'journeys' %}">Every package</a><a href="{% url 'affordable' %}">Affordable trips</a>{% for t in nav_themes|slice:":8" %}<a href="{{ t.url }}">{{ t.name }}</a>{% endfor %}</div></details>
+  <details class="acc"><summary>Experiences and stays</summary><div class="sheet__links">{% for k, n in nav_kinds %}<a href="{% url 'experience_kind' k %}">{{ n }}</a>{% endfor %}<a href="{% url 'stays' %}">Stays</a><a href="{% url 'festivals' %}">Festivals</a></div></details>
+  <details class="acc"><summary>Plan</summary><div class="sheet__links"><a href="{% url 'journal' %}">Stories</a><a href="{% url 'guides' %}">Guides</a><a href="{% url 'seasons' %}">When to go</a><a href="{% url 'tools' %}">Trip tools</a><a href="{% url 'routes' %}">Routes and fares</a><a href="{% url 'how_we_work' %}">How we work</a><a href="{% url 'contact' %}">Contact</a><a href="{% url 'faq' %}">FAQ</a></div></details>
+  <div class="sheet__cta"><a class="btn" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="sheet-plan">Get a free plan</a>{% if wa_base %}<a class="btn btn--ghost" href="{{ wa_base }}?text={{ wa_text }}" data-cta="sheet-whatsapp">WhatsApp</a>{% endif %}{% if tel %}<a class="btn btn--ghost" href="tel:{{ tel }}" data-cta="sheet-call">Call</a>{% endif %}</div>
+</div>
+
+<div class="search" role="dialog" aria-modal="true" aria-label="Search" hidden>
+  <div class="search__box wrap">
+    <label class="sr-only" for="q">Search</label>
+    <input id="q" type="search" placeholder="Search places, packages, stays, guides…" autocomplete="off" data-search-url="{% url 'search_index' %}">
+    <button type="button" class="sheet__close" data-search-close aria-label="Close search">×</button>
+    <ul class="search__results" aria-live="polite"></ul>
+    <p class="small search__hint">Try "Sandakphu", "toy train", "Bhutan for Indians", "homestay", "rhino"</p>
+  </div>
+</div>
+
+<main id="main">
+{% block crumbs %}{% if crumbs %}{% include "hills/partials/crumbs.html" %}{% endif %}{% endblock %}
+{% block content %}{% endblock %}
+</main>
+
+{% block cta %}{% include "hills/partials/cta.html" %}{% endblock %}
+
+<footer class="foot">
+  <svg class="foot__ridge" viewBox="0 0 1600 90" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0H1600V22L1540 34 1470 18 1400 40 1330 26 1260 52 1180 30 1120 46 1040 20 980 38 900 12 850 30 780 8 720 34 650 22 590 50 520 28 450 44 390 24 320 48 250 30 180 50 110 34 50 46 0 30Z"/></svg>
+  <div class="wrap">
+    <div class="foot__top">
+      <p class="foot__big">From 122 metres<br>to the <em>snowline</em></p>
+      <div class="foot__contact">
+        <a class="fcard" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="footer-plan"><b>Plan online</b><span>Three short steps, a first plan within one working day</span></a>
+        {% if wa_base %}<a class="fcard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="footer-whatsapp"><b>WhatsApp us</b><span>Quick questions, quick answers</span></a>{% else %}<a class="fcard" href="{% url 'affordable' %}" data-cta="footer-affordable"><b>Budget trips</b><span>Shared jeeps, homestays, the cheaper months</span></a>{% endif %}
+        <a class="fcard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="footer-contact"><b>{% if tel %}Call {{ SITE.phone }}{% else %}Write to us{% endif %}</b><span>{{ SITE.email }}</span></a>
+      </div>
+    </div>
+    <form class="letter" method="post" action="{% url 'subscribe' %}">
+      {% csrf_token %}
+      <div><h2 class="h-s">The Hill Post</h2><p>One email a month: which roads are open, which months are cheap, festival dates and a story from the hills. Nothing else.</p></div>
+      <div class="letter__row"><label class="sr-only" for="lt-email">Email</label><input id="lt-email" type="email" name="email" required placeholder="Your email"><input type="hidden" name="source_page" value="{{ request.path }}"><input type="text" name="website" class="sr-only" tabindex="-1" autocomplete="off" aria-hidden="true"><button class="btn" type="submit" data-cta="newsletter">Subscribe</button></div>
+    </form>
+    <div class="foot__cols">
+      <div><h3>Destinations</h3><ul>{% for r in nav_regions %}<li><a href="{{ r.url }}" data-land="{{ r.slug }}"><span class="lbadge lbadge--sm lbadge--foil">{% icon r.slug %}</span>{{ r.name }}</a></li>{% endfor %}</ul></div>
+      <div><h3>Popular packages</h3><ul>{% for j in nav_popular|slice:":7" %}<li><a href="{{ j.url }}">{{ j.title }}</a></li>{% endfor %}</ul></div>
+      <div><h3>Trip styles</h3><ul>{% for t in nav_themes|slice:":7" %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}<li><a href="{% url 'themes' %}">Every style</a></li></ul></div>
+      <div><h3>Plan</h3><ul><li><a href="{% url 'affordable' %}">Affordable trips</a></li><li><a href="{% url 'journal' %}">Stories</a></li><li><a href="{% url 'guides' %}">Guides</a></li><li><a href="{% url 'seasons' %}">When to go</a></li><li><a href="{% url 'festivals' %}">Festivals</a></li><li><a href="{% url 'routes' %}">Routes and fares</a></li><li><a href="{% url 'tools' %}">Trip tools</a></li></ul></div>
+      <div><h3>Company</h3><ul><li><a href="{% url 'about' %}">About us</a></li><li><a href="{% url 'how_we_work' %}">How we work</a></li><li><a href="{% url 'contact' %}">Contact</a></li><li><a href="{% url 'faq' %}">FAQ</a></li><li><a href="{% url 'photo_credits' %}">Photo credits</a></li><li><a href="{% url 'html_sitemap' %}">Sitemap</a></li></ul></div>
+      <div><h3>Policies</h3><ul>{% for k, n in nav_policies %}<li><a href="{% url 'policy' k %}">{{ n }}</a></li>{% endfor %}</ul></div>
+    </div>
+    <div class="foot__trust">
+      <span>[Tourism department registration no.]</span><span>[GSTIN]</span><span>Payments: [UPI · bank transfer · cards]</span><span>No payment to start · written, itemised quotes</span>
+    </div>
+    <div class="foot__base">
+      <span>© {% now "Y" %} Darjeeling Tour Plan · {{ SITE.address }}</span>
+      <span>Photos: Wikimedia Commons contributors, credited on each page · Maps drawn from Natural Earth · Weather by Open-Meteo</span>
+      <a href="#main">Back to top ↑</a>
+    </div>
+  </div>
+</footer>
+
+{% block fab %}
+<div class="fab" data-fab>
+  <div class="fab__panel" id="fab-panel" hidden>
+    <p class="fab__title">Talk to a planner</p>
+    <a href="{% url 'plan' %}?from={{ request.path|urlencode }}{% block fab_land %}{% endblock %}" data-cta="fab-plan"><b>Plan online</b><span>A first plan and price within one working day</span></a>
+    {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" rel="noopener" data-cta="fab-whatsapp"><b>WhatsApp</b><span>Usually the fastest reply</span></a>{% endif %}
+    {% if tel %}<a href="tel:{{ tel }}" data-cta="fab-call"><b>Call {{ SITE.phone }}</b><span>{{ SITE.hours }}</span></a>{% endif %}
+    <a href="{% url 'contact' %}#callback" data-cta="fab-callback"><b>Request a call back</b><span>Tell us when suits you</span></a>
+    <a href="{% url 'affordable' %}" data-cta="fab-affordable"><b>Budget trips</b><span>The cheapest way to do it well</span></a>
+  </div>
+  <button class="fab__toggle" type="button" aria-expanded="false" aria-controls="fab-panel" aria-label="Contact options"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 10h8M8 13h5"/></svg></button>
+  <a class="btn fab__main" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="fab-main">{% block fab_label %}Get a free plan{% endblock %}</a>
+</div>
+<nav class="dock" aria-label="Quick contact">
+  {% if wa_base %}<a href="{{ wa_base }}?text={{ wa_text }}" data-cta="dock-whatsapp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 12a8 8 0 0 1-11.8 7L4 20l1.1-4A8 8 0 1 1 20 12z"/></svg>WhatsApp</a>{% else %}<a href="mailto:{{ SITE.email }}" data-cta="dock-email"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>Email</a>{% endif %}
+  {% if tel %}<a href="tel:{{ tel }}" data-cta="dock-call"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>Call</a>{% else %}<a href="{% url 'affordable' %}" data-cta="dock-affordable"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M3 7h18v3a2 2 0 0 0 0 4v3H3v-3a2 2 0 0 0 0-4z"/></svg>Budget</a>{% endif %}
+  <a class="dock__main" href="{% url 'plan' %}?from={{ request.path|urlencode }}" data-cta="dock-plan">Get a free plan</a>
+</nav>
+{% endblock %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" defer></script>
+<script src="https://unpkg.com/lenis@1.1.13/dist/lenis.min.js" defer></script>
+{% block scripts %}{% endblock %}
+<script src="{% static 'js/hillcart.js' %}?v={{ V }}" defer></script>
+</body>
+</html>

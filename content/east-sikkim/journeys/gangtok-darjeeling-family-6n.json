@@ -1,0 +1,98 @@
+{
+  "slug": "gangtok-darjeeling-family-6n",
+  "title": "Gangtok and Darjeeling family trip",
+  "region": "east-sikkim",
+  "nights": 6,
+  "themes": ["family-trips", "mountain-views", "toy-train", "tea-gardens", "monasteries"],
+  "stops": [
+    {"place": "gangtok", "nights": 3},
+    {"place": "darjeeling", "nights": 3}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 17500,
+  "fares": {"budget": 17500, "comfort": 29000, "premium": 62000},
+  "fare_notes": {
+    "budget": "Budget family-run hotels such as Hotel Sonam Delek or Hotel Tibet in Gangtok and a similar class near the Mall in Darjeeling, with family rooms or an extra mattress where offered. One private Innova or Xylo for the family on transfer days, shared seats on the Tsomgo tour. Breakfast daily.",
+    "comfort": "Comfort hotels such as Royal Plaza or Netuk House in Gangtok and a good mid-range hotel in Darjeeling with lifts or few stairs where possible. A private Innova or Xylo throughout. Breakfast and dinner daily.",
+    "premium": "Mayfair Spa Resort, Elgin Nor-Khill or Taj Guras Kutir in Gangtok and a premium or heritage hotel in Darjeeling, a private SUV with a senior driver for all seven days, and booked toy-train seats. Breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 4000,
+  "meta_description": "Gangtok and Darjeeling family trip: 6 nights, short drives, Tsomgo Lake, the zoo, toy train and Tiger Hill, from ₹17,500 per person.",
+  "summary": "A 6-night family plan with no drive longer than five hours. Three nights in Gangtok for Tsomgo Lake, the ropeway and the monasteries, three in Darjeeling for Tiger Hill, the toy train and the zoo. Afternoons are kept light so children and grandparents can rest, and one big day is followed by an easy one.",
+  "intro": [
+    "Families tell us the same thing after a rushed hill trip: too many 5 am starts, too many hours in the car, children sick on the bends. So this plan does fewer things and gives more time to each. Gangtok, at 1,650 m, has the high day to Tsomgo Lake at 3,753 m and Baba Mandir at about 4,000 m, then a town day with the ropeway and gardens. Darjeeling, at about 2,050 m, gets three nights instead of the usual two, which means one spare morning if cloud hides Kangchenjunga at Tiger Hill.",
+    "We price per person on twin sharing; many hotels let children under 5 share existing beds free, and older children usually pay for an extra mattress, which hotels charge at ₹800–1,500 a night, indicative. Ask us for a family quote. One Innova or Xylo carries six with luggage. Carry motion-sickness tablets, snacks and warm layers for everyone. Operators usually will not take children under 5 to Nathu La, and we keep it optional for older children too. Check current status before you travel."
+  ],
+  "highlights": [
+    "Snow at Tsomgo Lake, 3,753 m, from December to April, with yaks on the shore",
+    "The Gangtok ropeway over town and an evening walk on car-free MG Marg",
+    "Red pandas and snow leopards at the Padmaja Naidu Himalayan Zoological Park in Darjeeling",
+    "A toy-train joy ride on the UNESCO-listed Darjeeling Himalayan Railway",
+    "Sunrise on Kangchenjunga from Tiger Hill, with a spare morning in case of cloud"
+  ],
+  "days": [
+    {"day": 1, "title": "Bagdogra or NJP to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120 km · 4.5–5.5 h",
+     "text": "Your driver meets you at Bagdogra Airport or NJP station. The road follows the Teesta on NH10 through Sevoke and Rangpo, where Sikkim starts; it is mostly river level with few tight bends until the last hour. We stop at Melli or Rangpo for a snack and a toilet break. NH10 is often blocked by landslides in monsoon and the detour via Kalimpong adds one to two hours, so check current status before you travel. At the hotel you may pay the ₹50 Sikkim tourist fee per person aged 5 and over. Rest, and keep dinner light.",
+     "meals": "Dinner (comfort and premium)"},
+    {"day": 2, "title": "Tsomgo Lake and Baba Mandir", "place": "tsomgo-lake", "overnight": "Gangtok", "drive": "≈ 110 km round trip · 7 h",
+     "text": "Your hotel or agent arranges the Protected Area Permit a day ahead with two passport photos and an ID copy for each person; school ID or a birth certificate copy works for children. We leave at 8 am. The road climbs about 2,100 m to Tsomgo Lake at 3,753 m, so we stop every half hour and keep children warm and fed. Hire coats and boots for ₹100–300; yak rides cost ₹300–600, indicative. Baba Mandir, at about 4,000 m, is the shrine to Sepoy Harbhajan Singh. If anyone gets a headache or feels sick, we turn back. Check current status before you travel.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 3, "title": "Ropeway, zoo and Banjhakri Falls", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 30 km local · 5 h",
+     "text": "An easy town day after the high one. Start with the Gangtok ropeway, ₹150–250 return, indicative, for a slow ride over the rooftops of the town. Then the Himalayan Zoological Park at Bulbuley, where the walk is long and hilly, so take water. After lunch, Banjhakri Falls park has a waterfall, footbridges and space for children to run; the name comes from the Banjhakri, the forest shaman of Nepali folk belief. End at MG Marg, where cars, smoking and littering are banned, and children can walk safely. Momos cost ₹60–150 a plate.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 4, "title": "Gangtok to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 100 km · 4–5 h",
+     "text": "After breakfast we drive down the Teesta to Melli, cross into West Bengal and climb through Teesta Bazaar and the tea gardens around Peshok to Ghum and Darjeeling, at about 2,050 m. The climb after Teesta Bazaar has many bends, so give motion-sickness tablets 30 minutes before. We stop at a viewpoint over the Teesta and Rangeet rivers when the driver finds a safe place. Check current status before you travel. Afternoon rest, then a short walk to Chowrasta, the open square at the top of town, where children can ride ponies for a small fee.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 5, "title": "Zoo, HMI and the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 15 km local · 5 h",
+     "text": "A late start. The Padmaja Naidu Himalayan Zoological Park holds red pandas, snow leopards and Himalayan wolves, and the same gate leads to the Himalayan Mountaineering Institute museum, with gear and photographs from early Everest climbs. Allow two to three hours; check its weekly closing day before you go. After lunch, ride the toy train on a Darjeeling–Ghum joy ride, about 2 hours return, round Batasia Loop with a stop at the railway museum at Ghum. Seats cost ₹1,000–1,800, indicative, and sell out in peak months, so we book early. Check current status before you travel.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 6, "title": "Tiger Hill sunrise and a tea garden", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km local · 5 h",
+     "text": "Leave at about 4 am for Tiger Hill, 2,590 m and about 11 km away, to see the sun hit Kangchenjunga. Wrap children in blankets in the car; it is near freezing at that hour from November to February. Back by 7:30 am for breakfast and a nap. Late morning, walk down to Happy Valley Tea Estate, one of the gardens closest to town, to see tea bushes and, in season, pluckers at work. If Tiger Hill was cloudy, we try again tomorrow at no extra cost before the drive down.",
+     "meals": "Breakfast, dinner (comfort and premium)"},
+    {"day": 7, "title": "Darjeeling to Bagdogra or NJP", "place": "siliguri", "overnight": "", "drive": "≈ 70 km · 3–3.5 h",
+     "text": "Breakfast, then the drive down through Ghum, Sonada and Kurseong, with the toy-train track beside the road for much of the way. A stop at Kurseong gives children a break and you a cup of tea. The driver takes the Rohini road or the Pankhabari road, whichever is clearer that morning. We reach Bagdogra or NJP in about 3–3.5 hours; book flights after 1 pm or an evening train to leave margin for traffic. Pakyong Airport near Gangtok has no scheduled flights as of 2026, so Bagdogra stays the airport for this trip.",
+     "meals": "Breakfast"}
+  ],
+  "stays": ["hotel-sonam-delek-gangtok", "hotel-tibet-gangtok", "royal-plaza-gangtok", "netuk-house-gangtok", "mayfair-spa-resort-gangtok", "elgin-nor-khill-gangtok", "taj-guras-kutir-gangtok"],
+  "includes": [
+    "6 nights on twin sharing in the class you choose",
+    "Daily breakfast; dinner on comfort and premium",
+    "Private Innova or Xylo for transfers, the Gangtok town day and the Gangtok to Darjeeling drive",
+    "Tsomgo and Baba Mandir day with permit processing",
+    "Tiger Hill early-morning car, with a second try if the first is cloudy"
+  ],
+  "excludes": [
+    "Flights or trains to Bagdogra or NJP",
+    "Extra mattress charges for children, quoted per family",
+    "Zoo, ropeway, toy-train and other entry tickets, unless you choose premium",
+    "Nathu La permit and vehicle top-up",
+    "The ₹50 per person Sikkim tourist fee, paid at check-in",
+    "Lunches, snacks, tips and personal costs"
+  ],
+  "save_more": [
+    "Travel in school-term weeks of March or November rather than Durga Puja or May holidays, when hotel rates jump.",
+    "Ask for family rooms or interconnecting rooms rather than two doubles; many Gangtok and Darjeeling hotels price them lower per head.",
+    "Eat lunch where drivers and locals eat: a thali costs ₹150–300 against ₹500 or more at hotel restaurants."
+  ],
+  "good_to_know": [
+    "Operators usually will not take children under 5 to Nathu La, which is open to Indian tourists Wednesday to Sunday only. Check current status before you travel.",
+    "Children and older travellers feel altitude too; at Tsomgo keep visits to an hour and walk slowly.",
+    "Foreign nationals need a Restricted Area Permit to enter Sikkim, free at Rangpo or online.",
+    "Carry motion-sickness tablets, wet wipes and a change of clothes for children in the car.",
+    "June to September brings heavy rain and NH10 closures; we do not suggest this trip then with small children."
+  ],
+  "faqs": [
+    {"q": "Is Tsomgo Lake safe for children", "a": "For most healthy children over about 5, yes, if you go up slowly and stay an hour or so. The lake is at 3,753 m, high enough for headaches and nausea. Keep them warm, give water and snacks, and turn back if anyone is unwell. We do not suggest it for infants or children with breathing problems. Ask your doctor if unsure."},
+    {"q": "Can children go to Nathu La", "a": "Operators usually will not take children under 5 to Nathu La, and the army can turn them back at the checkpoint. The pass is at 4,310 m, open to Indian tourists Wednesday to Sunday only, and often shut after snow. For families we suggest Tsomgo and Baba Mandir, which gives the snow without the extra height. Check current status before you travel."},
+    {"q": "How long is the drive from Gangtok to Darjeeling", "a": "About 100 km and 4–5 hours by car, down the Teesta to Melli, then up through Teesta Bazaar and Peshok to Ghum and Darjeeling. The second half has many bends, so give motion-sickness tablets before it. Shared jeeps run too, for ₹400–600 a seat, indicative, but a private car is easier with children and luggage."},
+    {"q": "What is the best time for a family trip to Gangtok and Darjeeling", "a": "October to December gives clear mountain views and dry roads, and matches Puja and winter holidays, though Puja week is crowded and expensive. March to May is warmer with flowers, good for summer holidays, but views are hazier. We avoid July and August, when rain is heavy and NH10 often closes. Check current status before you travel."},
+    {"q": "How much does a 6-night Gangtok Darjeeling family trip cost", "a": "From ₹17,500 per person on twin sharing with budget hotels, breakfast and a private car on transfer days. Comfort, with mid-range hotels, dinners and a car throughout, is about ₹29,000 per person; premium, with top hotels, is about ₹62,000. Children's extra beds cost ₹800–1,500 a night, indicative, so ask for a family quote."},
+    {"q": "Which vehicle is best for a family of five or six", "a": "An Innova or Xylo seats six with luggage on the roof or in the back, and is the usual choice for this trip. For the Tsomgo day, a Gangtok-registered Bolero, Scorpio or Xylo is required by local rules, so even a private family car changes at Gangtok for that day. Our comfort and premium fares include both."},
+    {"q": "Is the toy train good for kids", "a": "Yes. The joy ride from Darjeeling to Ghum and back takes about 2 hours, circles Batasia Loop with its war memorial and garden, and stops at the small railway museum at Ghum. That is long enough for most children. Book online early because seats sell out from October to December and in May. Check current status before you travel."},
+    {"q": "Do Indian families need any permit for Gangtok", "a": "No permit is needed to enter Sikkim or to stay in Gangtok. You need a Protected Area Permit only for Tsomgo Lake, Baba Mandir and Nathu La, which your hotel or agent arranges with two passport photos and an ID copy per person. Hotels collect a ₹50 tourist fee per person aged 5 and over. Check current status before you travel."},
+    {"q": "What should we pack for children", "a": "Warm layers for everyone: thermals, a fleece, a jacket, caps and gloves, even in April, because Tsomgo and Tiger Hill are cold. Add sunscreen, lip balm, motion-sickness tablets, a basic medicine kit, snacks and a reusable water bottle. Comfortable shoes with grip matter on Darjeeling's steep lanes. Sikkim restricts plastic, so carry cloth bags."}
+  ]
+}
