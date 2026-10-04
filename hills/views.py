@@ -446,6 +446,8 @@ def plan(request):
         initial = {"source_page": request.GET.get("from", "")[:300], "kind": "full"}
         if request.GET.get("land"):
             initial["lands"] = [request.GET["land"]]
+        if request.GET.get("budget") in ("under-15k", "15-25k", "25-50k", "50k-plus"):
+            initial["budget"] = request.GET["budget"]
         if request.GET.get("month") in MONTHS:
             initial["month"] = request.GET["month"]
         if request.GET.get("journey"):

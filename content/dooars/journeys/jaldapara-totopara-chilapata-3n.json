@@ -1,0 +1,77 @@
+{
+  "slug": "jaldapara-totopara-chilapata-3n",
+  "title": "Jaldapara, Totopara and Chilapata in 3 nights",
+  "region": "dooars",
+  "nights": 3,
+  "themes": ["wildlife-safaris", "village-homestays", "birding-and-orchids", "family-trips"],
+  "stops": [{"place": "jaldapara-national-park", "nights": 2}, {"place": "chilapata-forest", "nights": 1}],
+  "start": "NJP station, Bagdogra Airport (IXB) or Siliguri; Hasimara station for train travellers",
+  "end": "NJP station, Bagdogra Airport (IXB) or Siliguri; Hasimara station for train travellers",
+  "price_from_inr": 10000,
+  "fares": {"budget": 10000, "comfort": 16500, "premium": 26000},
+  "fare_notes": {
+    "budget": "A simple Madarihat hotel and the Malangi forest lodge at Hasimara, twin sharing; a reserved car shared by four for the transfers; one Jaldapara and one Chilapata jeep safari with seats in a full jeep; a local guide for Totopara; breakfast and dinner.",
+    "comfort": "WBTDC's Aranya Tourism Property at Madarihat, then Malangi lodge; a private car for your party throughout; two Jaldapara safaris and one Chilapata safari in a jeep for your party; Totopara guide; breakfast and dinner.",
+    "premium": "The best rooms at Aranya for all three nights, avoiding a hotel change; a private SUV and driver; every safari in a private jeep; a naturalist for a bird walk; a Toto guide for a longer village visit; all meals."
+  },
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 300,
+  "meta_description": "3 nights from ₹10,000 in the eastern Dooars: Jaldapara rhino safaris, a guided visit to the Toto village of Totopara and a Chilapata forest drive.",
+  "summary": "Three nights around Madarihat and Hasimara: dawn rhino safaris in Jaldapara, a respectful guided half-day at Totopara, home of the Toto people, and a jeep drive through the Chilapata forest. Short drives, simple lodges, and the option to reach by train. From ₹10,000 per person, twin sharing.",
+  "intro": [
+    "Jaldapara is the best place in West Bengal to see one-horned rhinos: the March 2025 census estimated about 331 in its 216 sq km of grassland and riverine forest along the Torsa. A safari at first light is the reason to come. Next door, Chilapata is a dark, dense forest corridor that elephants use to move between Jaldapara and Buxa, with the ruins of Nalraja Garh inside.",
+    "Totopara, 21 km north of Madarihat under the Bhutan hills, is home to almost the entire Toto community, a Tibeto-Burman-speaking people who numbered 321 in 1951 and 1,184 in 2001. Their language now has its own script, made by Dhaniram Toto and added to Unicode in 2021. We visit only with a local guide, in a small group, asking before every photograph. Jaldapara and Chilapata close from mid-June to mid-September; check current status before you travel."
+  ],
+  "highlights": [
+    "Two chances at a dawn rhino safari in Jaldapara",
+    "A guided half-day at Totopara, with the story of the Toto script",
+    "Chilapata's forest track and the Nalraja Garh ruins",
+    "Grassland birds along the Torsa river",
+    "Train access: Hasimara station is about 20 km from Madarihat"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Madarihat", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 125 km · 3–3.5 h", "text": "We pick you up at NJP, Bagdogra or Siliguri and drive east over the Coronation Bridge at Sevoke, through the Mahananda forest and the Malbazar, Chalsa and Binnaguri tea gardens, to Madarihat at the edge of Jaldapara. Train travellers ride to Hasimara instead and are met there. After lunch, rest through the warm afternoon. Late in the day walk to the Torsa side or visit the South Khayerbari rescue centre if it is open. Dinner at the lodge and an early night before the dawn safari. Mobile signal is fine at Madarihat.", "meals": "Dinner"},
+    {"day": 2, "title": "Dawn safari and Totopara", "place": "totopara", "overnight": "Madarihat", "drive": "≈ 50 km with the safari and Totopara", "text": "The first jeep safari leaves at sunrise into Jaldapara's grassland, the best hour for rhinos, gaur, hog deer and peafowl. A jeep for up to six costs about ₹2,800–4,000, indicative 2026. After breakfast drive 21 km to Totopara on a narrow road that crosses several riverbeds. Meet a local guide, ideally from the village, and walk through the lanes, the school area and the market. Ask about the Toto script, Ishpa and Cheima, the two traditional deities, and how the village has changed. Buy tea and snacks in the village, ask before every photograph, and leave by mid-afternoon.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Second safari and Chilapata", "place": "chilapata-forest", "overnight": "Hasimara", "drive": "≈ 30 km plus safaris", "text": "Take a second Jaldapara safari at dawn if you are on comfort or premium, or sleep in. Then drive about 20 km east to Hasimara and check in at the Malangi forest lodge. In the afternoon, a jeep safari into Chilapata follows a forest track through tall sal and mixed jungle to the brick ruins of Nalraja Garh, an old fort whose builders are uncertain; local tradition links it to the Gupta period. Elephants are the animals you are most likely to meet here, along with peacocks and deer. The forest is dark and quiet; keep voices low. Evening at the lodge.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Back to Siliguri or on to Bhutan", "place": "siliguri", "overnight": "", "drive": "≈ 145 km · 3.5–4 h", "text": "After breakfast drive back west past Birpara, the tea gardens and the Coronation Bridge to Siliguri, about 3.5–4 hours. For a flight from Bagdogra, choose one leaving after 3 pm. Train travellers board at Hasimara, 5 minutes away. If you have Bhutan in mind, Jaigaon and Phuentsholing are only about 18 km from Hasimara; Indians need a passport or original voter ID to get the entry permit and pay the SDF. Check current status before you travel.", "meals": "Breakfast"}
+  ],
+  "stays": ["aranya-tourism-property-jaldapara", "malangi-lodge-hasimara"],
+  "includes": [
+    "3 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "Road transfers from Siliguri, NJP, Bagdogra or Hasimara and back",
+    "One or two Jaldapara safaris and one Chilapata safari, by tier",
+    "Local guide for the Totopara visit"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Lunches",
+    "Camera and park guide fees",
+    "Elephant rides where offered",
+    "Purchases and donations at Totopara, tips, personal expenses"
+  ],
+  "save_more": [
+    "Take the train from NJP to Hasimara and back; it costs a fraction of the road transfer and takes about the same time.",
+    "Book the Malangi lodge for all three nights and visit Jaldapara from there; one base saves a hotel change and a car half-day.",
+    "Fill a safari jeep with six people; the price is per jeep."
+  ],
+  "good_to_know": [
+    "Jaldapara and Chilapata close from mid-June to mid-September. Check current status before you travel.",
+    "The road to Totopara crosses riverbeds that flood after heavy rain; in the monsoon the village can be cut off for days.",
+    "The Toto are a small community recognised by the government as a particularly vulnerable tribal group; please visit as a guest, not as a spectator.",
+    "Jaldapara safari tickets need photo ID for each traveller and sell out at weekends and holidays.",
+    "The Hollong Tourist Lodge inside Jaldapara burned down in June 2024; stays are now at Madarihat and Hasimara."
+  ],
+  "faqs": [
+    {"q": "Can tourists visit Totopara", "a": "Yes. Totopara is an ordinary village and open to visitors; there is no permit. We strongly suggest going with a local guide, ideally from the village, keeping the group small and asking before every photograph. Spend money locally on tea, snacks and guide fees. Do not treat it as a show: people here are going about their day."},
+    {"q": "How far is Totopara from Jaldapara", "a": "Totopara is about 21 km north of Madarihat, the gateway town for Jaldapara, and takes 1–1.5 hours each way by car on a narrow road that crosses several riverbeds. A car for the return trip costs about ₹1,800–2,800, indicative 2026. In heavy rain the river crossings flood, so avoid the monsoon."},
+    {"q": "Who are the Toto people", "a": "The Toto are a small Tibeto-Burman-speaking community living almost entirely in Totopara, in Alipurduar district. Their population was 321 in 1951 and 1,184 in 2001. Traditional belief centres on the deities Ishpa and Cheima. Community elder Dhaniram Toto created a script for the language in 2015, and he received the Padma Shri in 2023."},
+    {"q": "Is a Jaldapara safari worth it", "a": "Yes, if you want rhinos. Jaldapara had about 331 one-horned rhinos in the March 2025 census, the second-largest population in India after Kaziranga, and the open grassland makes them easier to see than in Gorumara. A dawn safari is the best bet. Sightings are not guaranteed, which is why our comfort tier includes two safaris."},
+    {"q": "What is Chilapata forest known for", "a": "Chilapata is a dense forest between Jaldapara and the Buxa Tiger Reserve, used by elephants as a corridor. A jeep safari takes you through tall sal and mixed jungle to the brick ruins of Nalraja Garh. It feels wilder and darker than Jaldapara, with fewer vehicles. Elephants, gaur, deer and peafowl are the usual sightings."},
+    {"q": "Which station is nearest to Jaldapara", "a": "Hasimara and Madarihat stations are the closest, and Hasimara has more trains, including the Kanchankanya Express from Sealdah. From NJP the train takes about 3–4 hours. Alipurduar Junction is about an hour away by road. Timetables change, so check current status before you travel."},
+    {"q": "Is there an elephant safari at Jaldapara", "a": "Elephant rides have been offered at Jaldapara in some seasons, but not reliably in recent years, especially after the Hollong lodge fire in 2024. Where they run, the cost has been about ₹1,000–2,000 per person, indicative 2026. Many visitors now choose jeep safaris only. Check current status before you travel."},
+    {"q": "Can we add Bhutan after this trip", "a": "Yes, easily. Phuentsholing is about 18 km from Hasimara. Indians enter with a passport or original voter ID and pay Bhutan's Sustainable Development Fee of ₹1,200 per person per night; other nationals need a visa in advance. A licensed guide is needed beyond Phuentsholing. Check current status before you travel."},
+    {"q": "What is the best time to visit Jaldapara", "a": "November to April. Winter mornings are cool and clear, and from February the grass is shorter after burning or cutting, which helps sightings. October is fine once the park has reopened, though Puja week is crowded. May is hot. The park is closed from mid-June to mid-September."}
+  ]
+}

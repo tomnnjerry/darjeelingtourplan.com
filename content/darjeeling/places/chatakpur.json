@@ -1,0 +1,175 @@
+{
+  "slug": "chatakpur",
+  "name": "Chatakpur",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "Chatakpur",
+  "image_query": "Chatakpur eco village Darjeeling",
+  "lat": 26.966,
+  "lng": 88.3,
+  "altitude_m": 2290,
+  "tagline": "An eco-village inside Senchal forest, above Sonada",
+  "meta_description": "Plan Chatakpur on a budget: the eco-village in Senchal Wildlife Sanctuary, Kangchenjunga views, forest walks, homestays, how to reach and 2026 costs.",
+  "summary": "Chatakpur is a small eco-village at about 2,290 m inside Senchal Wildlife Sanctuary, reached by a rough forest road from Sonada, roughly 25 km from Darjeeling. Families run simple homestays, a watchtower faces Kangchenjunga, and the forest is good for birds. Stay one or two nights from October to May.",
+  "intro": [
+    "Chatakpur is a cluster of farmhouses in a forest clearing above Sonada, inside Senchal Wildlife Sanctuary. The last stretch of road, about 7 km from Sonada, is a bumpy forest track through tall cryptomeria and oak, and it feels much further from Darjeeling than the 25 km on the map. At the top you find a small village, a few vegetable plots, homestays with wooden balconies and, on clear mornings, Kangchenjunga straight across the valley.",
+    "The village became known for community-run ecotourism, developed with the forest department to give families an income from guests rather than from the forest itself. Homestays share a common approach: simple rooms, home-cooked meals, and visitors who respect the sanctuary rules. There is no market, no restaurant row and very little traffic. Days are spent on forest walks, at the watchtower, reading on a balcony or helping in the kitchen.",
+    "Chatakpur suits travellers who want quiet more than sights. It is good value, since homestay rates usually include all meals, but the reserved car up the forest road adds to the cost, so share it if you can. The track is rough after rain, and the monsoon months bring heavy cloud, leeches and the risk of slips. Come from October to May, and check current status before you travel."
+  ],
+  "story": {
+    "title": "A village inside one of India's oldest sanctuaries",
+    "paras": [
+      "Senchal Wildlife Sanctuary, which surrounds Chatakpur, is one of the oldest wildlife sanctuaries in India, declared in 1915. It protects the forested slopes around Tiger Hill and Senchal, where the Senchal lakes have long supplied drinking water to Darjeeling town. Much of the forest is a mix of native oak, magnolia and rhododendron with older plantations of Japanese cedar, and it shelters barking deer, wild boar, Himalayan black bear and many birds.",
+      "Villages inside protected forests face a hard balance: families need fuel, fodder and income, while the forest needs to be left alone. Chatakpur's answer has been ecotourism, with homestays run by village families and supported by the West Bengal Forest Department and the local eco-development committee. Guests bring income without new roads or hotels. It is a small experiment, and its success depends on visitors keeping noise down, carrying their rubbish out and staying on paths."
+    ],
+    "source": "Wikipedia: Chatakpur, Senchal Wildlife Sanctuary; West Bengal Forest Department eco-tourism notes"
+  },
+  "did_you_know": [
+    "Senchal Wildlife Sanctuary, which surrounds Chatakpur, was declared in 1915 and is one of the oldest wildlife sanctuaries in India.",
+    "The Senchal lakes inside the same sanctuary have long supplied drinking water to Darjeeling town.",
+    "Sonada, the nearest town to Chatakpur, is a station on the Darjeeling Himalayan Railway between Kurseong and Ghum."
+  ],
+  "facts": [
+    ["Best months", "Oct – Dec, Mar – May"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 70 km"],
+    ["From Darjeeling", "≈ 25 km · 1–1.5 h via Sonada"],
+    ["Altitude", "≈ 2,290 m"],
+    ["Known for", "Eco-village homestays, Senchal forest, Kangchenjunga views"]
+  ],
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Kangchenjunga from the watchtower", "text": "A short walk from the homestays leads to a watchtower and open slopes facing the Kangchenjunga range. On clear mornings from October to April the whole range shows above the forest. Go at sunrise, when the snow turns pink, and again at dusk if the sky stays clear."},
+    {"title": "Forest walks in Senchal", "text": "Walk the forest road and village paths through cryptomeria, oak and rhododendron. You might hear barking deer, see langurs in the trees or spot fresh signs of wild boar. Keep to the road or go with a local guide, since this is a protected sanctuary."},
+    {"title": "Community-run homestays", "text": "Village families run the homestays, cook the meals and guide the walks. Rooms are simple with thick quilts, and food is home-style: rice, dal, vegetables from the garden, chicken or eggs on request. The money stays in the village, which is the whole point."},
+    {"title": "Birds around the clearing", "text": "The edge between forest and fields is good for birds. Early mornings bring tits, minivets, laughingthrushes, flycatchers and woodpeckers, and in spring several sunbirds visit the flowering trees. Sit on your balcony with tea and binoculars before breakfast."},
+    {"title": "A toy-train stop below", "text": "Sonada, the nearest town, is a station on the Darjeeling Himalayan Railway. You can ride the toy train from Darjeeling, Ghum or Kurseong to Sonada and have your homestay car meet you there for the last climb, if timings suit. Check current status before you travel."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps between Darjeeling and Kurseong or Siliguri stop at Sonada, ₹60–120 a seat from Darjeeling, indicative 2026. There is no regular shared service up the 7 km forest road to Chatakpur, so arrange for your homestay to send a car from Sonada, usually ₹800–1,500."},
+    {"mode": "Reserved car", "text": "A reserved car from Darjeeling to Chatakpur costs about ₹2,000–3,000 one way, and from Bagdogra or NJP about ₹3,500–5,000, indicative 2026. Ask for a vehicle with good ground clearance; the last stretch from Sonada is a rough forest track that gets muddy after rain."},
+    {"mode": "Rail / Air", "text": "Bagdogra (IXB) and NJP are about 70 km away. The Darjeeling Himalayan Railway stops at Sonada, the nearest town, so you can ride the toy train part of the way and take a car up. Train timings and services change, so check current status before you travel."}
+  ],
+  "where_to_stay": "All stays in Chatakpur are simple village homestays and the community eco-tourism cottages, run by local families. Expect clean rooms with wooden walls, heavy quilts, attached or shared bathrooms and hot water by geyser or bucket. Rates are usually quoted per person per day with all meals, around ₹1,800–2,800, indicative 2026. Book ahead through the homestay directly or a known Darjeeling agent, as there are only a few rooms. If you want hotel comfort, sleep in Darjeeling at the WBTDC Darjeeling Tourism Property or the Dekeling, or in Kurseong at Cochrane Place, and visit Chatakpur for a long day instead.",
+  "stays": [],
+  "costs": [
+    ["Reserved car Darjeeling → Chatakpur, one way", "₹2,000–3,000"],
+    ["Shared jeep Darjeeling → Sonada", "₹60–120 a seat"],
+    ["Homestay car Sonada → Chatakpur", "₹800–1,500 per car"],
+    ["Homestay with all meals", "₹1,800–2,800 per person per day"],
+    ["Sanctuary entry and vehicle fees", "≈ ₹100–300, indicative"],
+    ["Local guide for a forest walk", "₹500–1,000 per group"]
+  ],
+  "budget_tip": "Take a shared jeep to Sonada and ask your homestay to collect you there; it costs a fraction of a reserved car from Darjeeling for the same view at the top.",
+  "tips": [
+    "Carry enough cash for your stay; there is no ATM, shop or card machine in the village.",
+    "Pack a torch and warm layers; nights are cold all year and power cuts happen.",
+    "Keep noise down and carry your plastic back out; this is a village inside a wildlife sanctuary.",
+    "Ask before walking off the forest road; some trails need a guide and some areas are off limits.",
+    "Avoid June to September, when the forest road can turn to mud and leeches are everywhere on paths."
+  ],
+  "themes": ["village-homestays", "mountain-views", "birding-and-orchids", "treks-and-walks", "budget-trips"],
+  "nearby": ["tiger-hill", "ghum", "darjeeling", "kurseong"],
+  "experiences": [
+    {
+      "slug": "chatakpur-watchtower-sunrise",
+      "title": "Sunrise over Kangchenjunga at the watchtower",
+      "kind": "nature",
+      "duration": "1.5 hours",
+      "best_time": "Dawn, Oct–Apr",
+      "cost": "Free for homestay guests",
+      "image_query": "Chatakpur Kangchenjunga sunrise",
+      "wiki": "Chatakpur",
+      "summary": "Walk a few minutes from your homestay to Chatakpur's watchtower and open slopes for sunrise over the Kangchenjunga range, seen above miles of Senchal forest. No crowds, no queues, no tickets, and the best views come from October to December.",
+      "body": [
+        "Chatakpur faces north across the deep valleys towards the Kangchenjunga range, and the village watchtower gives an unbroken view above the trees. Ask your host the night before for the sunrise time and the path, which takes only a few minutes from most homestays. Leave in the dark with a torch and warm clothes. By the time you climb the tower, the first light is usually catching the highest snow.",
+        "On clear autumn mornings the range shows end to end, with Kangchenjunga in the middle and the lower ridges of Sikkim and Darjeeling below. Compared with Tiger Hill, a few kilometres away, the view here is quieter and closer to the forest, with birdsong instead of car horns. You may share the tower with a handful of other guests at most, even in the busy October weeks.",
+        "Clouds are the risk. From February the view becomes hazier, and from June to September it is mostly hidden. If the morning is grey, go back to bed and try again the next day, or come up at dusk when cloud sometimes clears. The watchtower is a simple structure, so take care on the steps in wet or frosty weather, and keep children close."
+      ],
+      "good_for": ["photographers", "couples", "families", "solo", "first-timers"],
+      "faqs": [
+        {"q": "Can you see Kangchenjunga from Chatakpur", "a": "Yes. Chatakpur faces the Kangchenjunga range across the valleys, and the village watchtower gives a clear, quiet view on fine mornings. October to December gives the best chance; from February haze increases, and in the monsoon months cloud usually hides the peaks. Sunrise is the best time, with dusk a second chance on clear days."},
+        {"q": "Is Chatakpur better than Tiger Hill", "a": "They are different. Tiger Hill is higher and more famous, with a wider view, but it can be very crowded in season. Chatakpur offers a calmer view of Kangchenjunga from a village inside the forest, with no crowds or traffic. If you are staying overnight in Chatakpur, there is no need to drive to Tiger Hill as well."},
+        {"q": "What time should I go to the Chatakpur watchtower", "a": "Be at the watchtower about 20–30 minutes before sunrise, which is around 5.30 am in October and about 6.15 am in December. The peaks light up before the sun clears the horizon. Your homestay host will tell you the exact time. Carry a torch, a warm jacket and something hot to drink."}
+      ]
+    },
+    {
+      "slug": "chatakpur-senchal-forest-walk",
+      "title": "Forest walk in Senchal Wildlife Sanctuary",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Mornings, Mar–May and Oct–Dec",
+      "cost": "₹500–1,000 per group for a local guide, indicative",
+      "image_query": "Senchal Wildlife Sanctuary forest",
+      "wiki": "Senchal Wildlife Sanctuary",
+      "summary": "A guided morning walk on the forest road and paths around Chatakpur, through cryptomeria, oak and rhododendron in Senchal Wildlife Sanctuary. Listen for barking deer, watch for langurs and birds, and learn the plants from a villager who has grown up among them.",
+      "body": [
+        "Senchal Wildlife Sanctuary was declared in 1915 and covers the forested slopes around Tiger Hill, Senchal and Chatakpur. The forest is a mix of native broadleaf trees, such as oak, magnolia and rhododendron, and older plantations of Japanese cedar, or cryptomeria, which grows straight and tall. A walk from the village takes you down the forest road and along paths that villagers use to collect fodder and reach their fields.",
+        "Ask your homestay to find a local guide; many young people in the village know the trails well and can point out medicinal plants, fresh animal signs and the calls of barking deer. Himalayan black bear and leopard live in the sanctuary but are rarely seen, and guides know which areas to avoid. Langurs, squirrels and birds are the usual sightings. In spring, rhododendrons flower along the higher paths.",
+        "Start after breakfast, wear shoes with grip and carry water. Paths are often damp under the trees and can be steep. Do not leave the trail on your own, light fires or pick plants; rules inside a sanctuary are strict for good reason. In the monsoon, leeches are common and mist closes in quickly, so keep walks short or skip them from June to September."
+      ],
+      "good_for": ["families", "couples", "students", "photographers", "solo"],
+      "faqs": [
+        {"q": "Is Chatakpur inside Senchal Wildlife Sanctuary", "a": "Yes. Chatakpur is a forest village within Senchal Wildlife Sanctuary, one of India's oldest, declared in 1915. That is why the road from Sonada is a forest track and why sanctuary rules apply: no loud music, no fires, no plastic left behind and no wandering off trails alone. Small entry and vehicle fees may be charged at the gate."},
+        {"q": "What animals live in Senchal Wildlife Sanctuary", "a": "The sanctuary shelters barking deer, wild boar, Himalayan black bear, leopard, langurs and many birds, among other species. Most mammals are shy and rarely seen; on a walk you are more likely to hear barking deer or see langurs and birds. Walk with a local guide, keep quiet and stay on paths for the best chance of sightings."},
+        {"q": "Do I need a guide to walk in Chatakpur", "a": "For the forest road near the village, no. For longer forest paths, yes, we strongly suggest a local guide, usually ₹500–1,000 per group, indicative 2026. Guides know which trails are open, where animals have been seen and how to get back before mist settles. Ask your homestay to arrange one the evening before."}
+      ]
+    },
+    {
+      "slug": "chatakpur-eco-village-homestay",
+      "title": "Living with an eco-village family",
+      "kind": "village",
+      "duration": "1–2 nights",
+      "best_time": "Oct–May",
+      "cost": "₹1,800–2,800 per person per day with meals, indicative",
+      "image_query": "Chatakpur homestay village",
+      "wiki": "",
+      "summary": "Stay with a Chatakpur family in their community-run homestay: home-cooked meals from the garden, a wood-panelled room with thick quilts, and quiet evenings in a forest village. It is simple, warm and good value, and it supports a village that chose tourism over logging.",
+      "body": [
+        "Chatakpur's homestays are part of a community ecotourism effort supported by the forest department. Each family keeps a few rooms, and guests are shared around so that the income spreads through the village. Rooms are simple and wood-lined, with heavy quilts, attached or shared bathrooms and hot water by geyser or bucket. Electricity is available but cuts happen, so carry a torch and a power bank.",
+        "Meals are eaten with the family or in a small dining room. Expect rice, dal, seasonal vegetables from the garden, squash, potatoes, mustard greens, homemade achar and, if you ask, chicken or eggs. Breakfast might be puri, aloo dum or noodles with tea. If you want to help cook or learn a dish, say so; most hosts are happy to show you, and the kitchen is the warmest place in the house.",
+        "Book ahead, since there are only a few rooms, and confirm what the price includes: most quote per person per day with all meals. Pay in cash. Respect the village rules on noise, alcohol and waste, and ask before photographing people. There is little to buy, so bring snacks and any medicines you need. A two-night stay gives you one full day to walk, read and watch the light on the mountains."
+      ],
+      "good_for": ["couples", "families", "solo", "students", "seniors"],
+      "faqs": [
+        {"q": "How much does a homestay in Chatakpur cost", "a": "Expect about ₹1,800–2,800 per person per day with all meals, indicative 2026, depending on the room and season. Peak weeks in October and around New Year cost more. The car up the forest road is extra. Book directly with a homestay or through a known agent, confirm what is included and carry cash for the balance."},
+        {"q": "Is Chatakpur good for a family trip", "a": "Yes, for families who enjoy quiet and nature. Children usually love the forest, the watchtower and farm animals. There is nothing commercial: no shops, restaurants or entertainment, and nights are cold. Carry warm clothes, snacks, games and medicines. The rough forest road can upset car-sick children, so take the drive slowly."},
+        {"q": "Is alcohol allowed in Chatakpur", "a": "Rules vary by homestay and are set with the village committee, but noisy drinking and parties are discouraged because Chatakpur is a village inside a wildlife sanctuary. Ask your host before you bring alcohol. Loud music is not welcome at any hour. If you want a nightlife evening, Darjeeling is the better place."}
+      ]
+    },
+    {
+      "slug": "chatakpur-sonada-toy-train-link",
+      "title": "Toy train to Sonada, then up to Chatakpur",
+      "kind": "rail",
+      "duration": "Half day",
+      "best_time": "Mornings, Oct–May",
+      "cost": "Toy train fare plus ₹800–1,500 car from Sonada, indicative",
+      "image_query": "Sonada station Darjeeling Himalayan Railway",
+      "wiki": "Sonada",
+      "summary": "Ride the Darjeeling Himalayan Railway to Sonada, a small bazaar town between Kurseong and Ghum, then have your homestay car take you 7 km up the forest road to Chatakpur. It turns a transfer into part of the trip, if train timings suit.",
+      "body": [
+        "Sonada is a small hill town on Hill Cart Road and a station on the Darjeeling Himalayan Railway, the UNESCO-listed line between NJP and Darjeeling. Toy trains that run between Darjeeling and Kurseong or NJP stop here. Riding from Darjeeling or Ghum takes you through forest and past roadside houses at walking pace, with the line crossing the road again and again. From Kurseong the climb is steeper and more scenic.",
+        "Timetables change by season and some services run only on certain days, so check the current schedule and book on IRCTC before planning around it. The joyride trains that go only between Darjeeling and Ghum do not reach Sonada. Once you arrive, walk out to the road, have tea in the bazaar and meet your homestay car for the last 7 km, a rough forest track that takes about 30–40 minutes.",
+        "If the train timing does not fit, take a shared jeep along Hill Cart Road to Sonada instead, ₹60–120 a seat from Darjeeling, indicative 2026. Either way, you save the cost of a reserved car from Darjeeling. Keep luggage light: carrying big bags on and off the train and into a small jeep is awkward. Leave early so you reach Chatakpur before afternoon mist."
+      ],
+      "good_for": ["families", "couples", "first-timers", "photographers", "students"],
+      "faqs": [
+        {"q": "Does the toy train stop at Sonada", "a": "Yes. Sonada is a station on the Darjeeling Himalayan Railway between Kurseong and Ghum, and trains running between Darjeeling and Kurseong or NJP stop there. The Darjeeling–Ghum joyrides do not. Timetables change seasonally and in the monsoon, so check current status and book through IRCTC before you travel."},
+        {"q": "How far is Chatakpur from Sonada", "a": "About 7 km by a rough forest road through Senchal Wildlife Sanctuary, roughly 30–40 minutes by car. There is no regular shared jeep on this stretch, so ask your homestay to send a vehicle, usually ₹800–1,500, indicative 2026. Walking up is possible for fit travellers with light bags, but take a guide."},
+        {"q": "Can I visit Chatakpur as a day trip from Darjeeling", "a": "Yes. A reserved car for a day trip costs about ₹2,500–3,500, indicative 2026. Leave early for the views, walk in the forest, eat lunch at a homestay by arrangement and return by afternoon. A night is better, though, because the best light on Kangchenjunga comes at sunrise and the village is quietest in the evening."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Chatakpur", "a": "Chatakpur is a forest village at about 2,290 m inside Senchal Wildlife Sanctuary in Darjeeling district, about 7 km above Sonada by a forest road. It is roughly 25 km and 1–1.5 hours from Darjeeling and about 70 km from Bagdogra and NJP. The village faces the Kangchenjunga range across the valleys."},
+    {"q": "How do I reach Chatakpur from NJP", "a": "Take a shared jeep from NJP or Siliguri towards Darjeeling and get off at Sonada, then have your homestay car take you up the 7 km forest road. A reserved car straight from NJP or Bagdogra costs about ₹3,500–5,000, indicative 2026, and takes 3–3.5 hours. Ask for a vehicle with good ground clearance."},
+    {"q": "What is the best time to visit Chatakpur", "a": "October to December has the clearest views of Kangchenjunga and dry forest roads. March to May brings rhododendrons and birdsong, with some haze. January and February are cold but often clear. June to September is the monsoon: heavy cloud, leeches and a muddy, sometimes impassable forest track. Check current status before you travel."},
+    {"q": "Is Chatakpur worth visiting", "a": "Yes, if you want a quiet forest village with mountain views and simple homestays. There are no shops, restaurants or sights in the usual sense, so it suits couples, families and nature lovers who are happy to walk, read and watch the light. One or two nights is right for most people."},
+    {"q": "Is the road to Chatakpur bad", "a": "The last 7 km from Sonada is a rough, narrow forest track with stones and potholes. In dry weather most local drivers manage it in 30–40 minutes. After rain it can be muddy and slippery, and in heavy monsoon spells it may be closed. Use a local vehicle with good clearance and check current status before you travel."},
+    {"q": "Is there mobile network in Chatakpur", "a": "Coverage is limited and varies by network and spot in the village. Some homestays get a weak signal on a balcony or near the watchtower. Do not plan on video calls or working online. Tell family your plans before leaving Sonada, carry a power bank and download maps and entertainment in advance."},
+    {"q": "Does it snow in Chatakpur", "a": "Snow is occasional. Chatakpur sits at about 2,290 m, so light snowfall can happen in some winters, usually in January or February, and frost is common on clear nights. Snow and ice can make the forest road unsafe, so drivers may refuse to go up. Pack proper winter clothing from December to February."},
+    {"q": "Can foreigners stay in Chatakpur", "a": "Yes. No special permit is needed for foreign nationals to visit Chatakpur, which lies in West Bengal outside the restricted areas. Carry your passport and visa, as homestays must record guest details, and pay any sanctuary entry fees at the foreigners' rate. Rules can change, so check current status before you travel."},
+    {"q": "How many days are enough for Chatakpur", "a": "One night is enough to see sunrise from the watchtower and take a forest walk. Two nights give a full, unhurried day for longer walks, birding and rest, and a second chance at the view if the first morning is cloudy. Most people combine Chatakpur with Darjeeling or Kurseong on a 4–6 night trip."}
+  ]
+}

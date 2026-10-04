@@ -10,11 +10,16 @@ ROOT = Path(__file__).resolve().parent.parent / "content"
 sys.path.insert(0, str(Path(__file__).parent))
 from check_region import BANNED  # noqa: E402
 
-slugs = json.loads((ROOT / "_slugs.json").read_text(encoding="utf-8"))
+# every slug that exists in the region content, by type
+slugs = {d.name for d in ROOT.iterdir() if (d / "region.json").exists()}
 known = {k: set() for k in ("place", "journey", "stay", "guide", "festival")}
-for land in slugs.values():
-    for k in known:
-        known[k] |= set(land[k + "s"])
+for land in slugs:
+    base = ROOT / land
+    for k, sub in (("place", "places"), ("journey", "journeys"), ("guide", "guides")):
+        known[k] |= {json.loads(f.read_text(encoding="utf-8"))["slug"] for f in (base / sub).glob("*.json")}
+    for k, name in (("stay", "stays.json"), ("festival", "festivals.json")):
+        if (base / name).exists():
+            known[k] |= {x["slug"] for x in json.loads((base / name).read_text(encoding="utf-8"))}
 errors, warns = [], []
 only = set(sys.argv[1:])
 files = sorted((ROOT / "journal").glob("*.json"))

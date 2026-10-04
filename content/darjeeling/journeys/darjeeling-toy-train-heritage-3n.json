@@ -1,0 +1,109 @@
+{
+  "slug": "darjeeling-toy-train-heritage-3n",
+  "title": "Darjeeling toy train heritage trip in 3 nights",
+  "region": "darjeeling",
+  "nights": 3,
+  "themes": ["toy-train", "tea-gardens", "mountain-views"],
+  "stops": [{"place": "darjeeling", "nights": 3}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 9500,
+  "fares": {"budget": 9500, "comfort": 16500, "premium": 36000},
+  "fare_notes": {
+    "budget": "WBTDC Darjeeling Tourism Property or Revolver, twin sharing; shared jeeps for the road transfers; one diesel joyride seat and one Darjeeling–Kurseong train ticket; breakfast only.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel; a private small car for transfers and the Kurseong day; one steam joyride seat; breakfast and dinner daily.",
+    "premium": "Windamere Hotel or Mayfair Hill Resort; a private Innova-class car throughout; steam joyride and first-class train seats where offered; breakfast and dinner."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2258,
+  "meta_description": "3 nights on the Darjeeling Himalayan Railway from ₹9,500 per person: a steam joyride to Ghum, the DHR museum, Batasia Loop and the train through Kurseong.",
+  "summary": "A slow three-night trip for people who come for the train. We ride the UNESCO-listed Darjeeling Himalayan Railway to Ghum behind a steam engine, visit the museum at India's highest station, take the train down to Kurseong through the bazaar, and drive back past the old loops. From ₹9,500 per person, twin sharing.",
+  "intro": [
+    "The Darjeeling Himalayan Railway opened to Darjeeling on 4 July 1881. It climbs on 2 ft (610 mm) gauge track from the plains to Ghum at 2,258 m, using loops and Z-shaped reverses instead of tunnels, and in 1999 it became the first railway in Asia, and only the second in the world, to be inscribed as a UNESCO World Heritage Site. Some of its B-class steam engines, built in Britain from 1889, still work the line.",
+    "Most visitors give the train two hours. We give it three days, without making the trip a chore for anyone in the family who is less keen. Day 2 is the classic steam joyride to Ghum with a stop at Batasia Loop and time in the station museum. Day 3 takes the train down to Kurseong, where it runs inches from shop counters on Hill Cart Road. Services change with track repairs and the monsoon, so we always confirm timings before you book: check current status before you travel."
+  ],
+  "highlights": [
+    "A steam joyride from Darjeeling to Ghum, about two hours return",
+    "The DHR museum at Ghum, India's highest railway station at 2,258 m",
+    "Batasia Loop, completed in 1919, with Kangchenjunga behind it",
+    "The train squeezing through Kurseong bazaar on Hill Cart Road",
+    "Agony Point loop and the Tindharia workshops on the drive down"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Up the hill to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h by road",
+      "text": "We meet you at NJP or Bagdogra. If the through train from NJP to Darjeeling is running on your date and you have seven to eight hours, you can ride the whole 88 km line up; most people drive and save the train for the best sections. By road we follow Hill Cart Road where we can, so you meet the track at Sukna, Rangtong and Kurseong. Budget travellers take a shared jeep for ₹250–400 a seat. In the evening walk to Darjeeling station, see the engines being readied, and stroll up to Chowrasta. Check current status before you travel.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Steam joyride to Ghum and Batasia",
+      "place": "ghum",
+      "overnight": "Darjeeling",
+      "drive": "",
+      "text": "Board the morning or midday joyride at Darjeeling station. Steam seats cost about ₹1,500–1,600 and diesel ₹800–1,000, indicative 2026. The train climbs 7 km to Ghum with a stop of about 10 minutes at Batasia Loop, where the track spirals round a garden and the Gorkha War Memorial. At Ghum you get roughly 30 minutes for the DHR museum in the old station building: photographs, tickets, signal equipment and the small engine Baby Sivok. Back in Darjeeling by early afternoon. Walk up to the Mall for lunch, then visit the Himalayan Mountaineering Institute and the zoo next door.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Down the line to Kurseong",
+      "place": "kurseong",
+      "overnight": "Darjeeling",
+      "drive": "≈ 32 km back by road · 1.5 h",
+      "text": "Take the passenger train from Darjeeling down to Kurseong, about 30 km and 2.5–3 hours through Ghum, Sonada and Tung, where the line runs beside the road and past village kitchens. Fares are low; check IRCTC for the current train and fare. In Kurseong, watch the train pass the bazaar shops, then hire a local taxi for ₹1,500–2,200 for Netaji's family house at Giddapahar, now a museum, and a short walk at Makaibari tea estate with a tasting for ₹200–500. Return to Darjeeling by shared jeep (₹100–180) or your car in the late afternoon. If the train is not running, we drive both ways.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Loops and workshops on the way down",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 75 km · 3.5–4 h with stops",
+      "text": "Leave after breakfast and take Hill Cart Road down through Kurseong rather than the faster Rohini road. Below Mahanadi the track loops round itself at Agony Point near Tindharia, one of the tightest curves on the line, and Tindharia has kept the railway's main workshop since the early days. Stop at Gayabari and Rangtong to see the reverses, where trains back up a spur to gain height. Reach Siliguri by early afternoon for trains from NJP or flights from Bagdogra. Budget travellers ride a shared jeep from Darjeeling for ₹250–400 a seat and skip the stops.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling"],
+  "includes": [
+    "3 nights in Darjeeling in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "One toy-train joyride seat (diesel on budget, steam on comfort and premium)",
+    "One Darjeeling–Kurseong train ticket where the service runs",
+    "Road transfers from NJP or Bagdogra and back (shared jeep on budget)"
+  ],
+  "excludes": [
+    "Trains and flights to Siliguri",
+    "The full NJP–Darjeeling train ride, if you choose it",
+    "Museum and entry tickets: HMI, zoo, Batasia, Giddapahar donations",
+    "Lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Ride the diesel joyride rather than steam; you see the same loop and museum for about half the fare.",
+    "Travel in March or the second half of November, when joyride seats are easier to get and hotels discount.",
+    "Use shared jeeps for the Kurseong return (₹100–180 a seat) instead of a reserved car (₹1,800–2,500)."
+  ],
+  "good_to_know": [
+    "Toy-train joyrides and passenger trains are booked on IRCTC like any Indian Railways train; seats in October, May and June sell out weeks ahead.",
+    "Timetables change with track repairs, landslides and the monsoon, and some services are suspended in July and August. Check current status before you travel.",
+    "The train is slow: about 10–15 km an hour uphill. Bring a jacket, as the coaches are not heated.",
+    "Photography from the track is not allowed; stand well back from the rails in Kurseong and Ghum bazaars.",
+    "The Ghum Festival of the DHR in late November and early December adds special runs and events."
+  ],
+  "faqs": [
+    {"q": "How do I book the Darjeeling toy train joyride", "a": "Book on the IRCTC website or app, searching from Darjeeling (DJ) to Darjeeling (DJ) for the joyride, or at the station counter. Steam and diesel joyrides run several times a day in season and take about two hours return. Book as soon as your dates are fixed for October, May and June. Check current status before you travel."},
+    {"q": "Is steam or diesel better for the joyride", "a": "Steam is the experience people remember: the smoke, the whistle and the B-class engine working hard up the grade. It costs about ₹1,500–1,600 against ₹800–1,000 for diesel, indicative 2026. Both stop at Batasia Loop and Ghum museum and take the same time. On a tight budget, diesel shows you the line just as well."},
+    {"q": "Does the toy train still run from NJP to Darjeeling", "a": "A through train has run between NJP and Darjeeling in recent years, taking seven to eight hours for about 88 km, but it has been suspended at times for track repairs and landslides. Kurseong–Darjeeling services and joyrides are more regular. Look on IRCTC for your dates, and check current status before you travel."},
+    {"q": "Why is the Darjeeling railway a UNESCO site", "a": "UNESCO inscribed the Darjeeling Himalayan Railway in 1999 as an outstanding example of a hill railway that solved steep terrain with simple, bold engineering: loops, Z-reverses and a 2 ft gauge. It was the first railway in Asia on the list. The Nilgiri and Kalka–Shimla railways were added later under the name Mountain Railways of India."},
+    {"q": "What is in the DHR museum at Ghum", "a": "The museum in Ghum station's old building holds photographs of the line's construction, old tickets, lamps, signalling equipment and records from the British period. In the yard stands Baby Sivok, one of the early small engines. Joyride tickets usually include a stop of around 30 minutes there. A small fee may apply if you visit separately."},
+    {"q": "Is this trip good for children and grandparents", "a": "Yes. The pace is easy, with no long hikes, and children love the steam engine and the loops. The highest point is Ghum at 2,258 m. Grandparents should note the steep walks in Darjeeling town; we can arrange taxis for short hops. The coaches have narrow seats, so a two-hour joyride is enough for small children."},
+    {"q": "Can we see the train without riding it", "a": "Yes, and it costs almost nothing. Stand at Batasia Loop (entry ₹20–50), on the road through Ghum, or in Kurseong bazaar, where the train passes the shops. Ask your hotel for the day's timings. Keep well back from the track and never cross in front of a moving engine."},
+    {"q": "When is the Ghum Festival of the DHR", "a": "The Ghum Festival is held in late November and early December, with the 2026 edition planned for 28 November to 6 December. It brings special steam runs, exhibitions and local food and music around Ghum and Darjeeling stations. Dates and events change each year, so check current status before you travel."},
+    {"q": "What does the 3-night toy train trip cost", "a": "From ₹9,500 per person, twin sharing, on budget, with one diesel joyride and a Kurseong train ticket. Comfort costs about ₹16,500 with a steam joyride, a private car and dinners. Premium at Windamere or Mayfair starts around ₹36,000. Prices are indicative for 2026 and rise in October and May."}
+  ]
+}

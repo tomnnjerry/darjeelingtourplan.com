@@ -1,0 +1,118 @@
+{
+  "slug": "kalimpong-lava-gorumara-4n",
+  "title": "Kalimpong, Lava and Gorumara in 4 nights",
+  "region": "kalimpong",
+  "nights": 4,
+  "themes": ["wildlife-safaris", "family-trips", "mountain-views", "tea-gardens"],
+  "stops": [{"place": "kalimpong", "nights": 1}, {"place": "lava", "nights": 1}, {"place": "lataguri", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 13500,
+  "fares": {"budget": 13500, "comfort": 22500, "premium": 42000},
+  "fare_notes": {
+    "budget": "Deolo Tourist Lodge or a town guesthouse in Kalimpong, the WBFDC Lava Eco Tourism Centre, and a simple lodge at Lataguri, twin sharing; a private small car shared by four for the whole loop; one Gorumara jeep safari; breakfast daily and dinner at Lava and Lataguri.",
+    "comfort": "Morgan House or Holumba Haven in Kalimpong, the better rooms in Lava, and a comfortable forest-edge resort at Lataguri; a private car throughout; two Gorumara safaris with watchtower slots booked ahead; breakfast and dinner daily.",
+    "premium": "Mayfair Himalayan Spa Resort or Elgin Silver Oaks in Kalimpong, the best available rooms in Lava, and the top resort at Lataguri; a private Innova-class car; two safaris plus a Neora Valley jeep morning from Lava; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2200,
+  "meta_description": "Kalimpong, Lava and Gorumara in 4 nights from ₹13,500 per person: hills, pine forest, then a jeep safari for rhino and gaur in the Dooars. Oct–May.",
+  "summary": "A loop that drops from the hills to the jungle: a night in Kalimpong, a night in the pine forest at Lava, then down the Gorubathan road to Lataguri for two nights and jeep safaris in Gorumara National Park, home of the one-horned rhino and gaur. From ₹13,500 per person, twin sharing.",
+  "intro": [
+    "Families who want both mountains and wildlife usually do Darjeeling and then go to the Dooars by the same road they came up. This trip makes a circle instead. You climb to Kalimpong along the Teesta, cross the ridge to Lava at about 2,200 m, then drop more than 2,000 m through forest and tea gardens via Gorubathan to Lataguri on the edge of Gorumara National Park. You never drive the same road twice, and no day is longer than three and a half hours.",
+    "Gorumara is a small park, about 80 sq km, on the Murti and Jaldhaka rivers, with grassland and sal forest. Jeep safaris go to watchtowers where rhino, gaur, elephant, deer and peafowl come to the salt licks and water. It is closed from mid-June to mid-September, like every Dooars park, and safari slots sell out on winter weekends. We book the safaris first and fit the hill nights around them."
+  ],
+  "highlights": [
+    "A circular route: Teesta valley up, Gorubathan forest road down",
+    "Zang Dhok Palri on Durpin and the Kalimpong bazaar",
+    "A night among the pines at Lava, gateway to Neora Valley",
+    "Jeep safaris to Gorumara watchtowers for rhino and gaur",
+    "Tea gardens and rivers of the Dooars on the way to Lataguri"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Kalimpong",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70–80 km · 2.5–3.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive along the Teesta through Sevoke and Teesta Bazaar to Kalimpong at about 1,250 m. Since the October 2023 flood NH10 closes often; if it is cut, we reverse the loop and go to Lataguri first. Check current status before you travel. After lunch, visit Zang Dhok Palri on Durpin, consecrated by the Dalai Lama in 1976, and a cactus nursery. Walk the Haat Bazaar if it is a Wednesday or Saturday, and taste Kalimpong cheese, made here since a Swiss Jesuit dairy started in the 1950s.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Deolo, then over Algarah to Lava",
+      "place": "lava",
+      "overnight": "Lava",
+      "drive": "≈ 40 km · 2 h with stops",
+      "text": "Morning at Deolo, Kalimpong's highest point at 1,704 m, for the widest view of the town and the Teesta valley, and a look at the cottages of Dr. Graham's Homes, founded in 1900. Drive east through Algarah into fir and pine to Lava at about 2,200 m. Visit Kagyu Thekchen Ling monastery and walk the forest lanes above the lodge in the afternoon. Premium travellers can add a Neora Valley jeep to Zero Point this afternoon or tomorrow at dawn. Nights at Lava are near freezing from December to February; pack a warm layer.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Down through Gorubathan to Lataguri",
+      "place": "lataguri",
+      "overnight": "Lataguri",
+      "drive": "≈ 80 km · 3–3.5 h",
+      "text": "After breakfast take the forest road down from Lava past Gorubathan into the Dooars tea country, dropping from 2,200 m to under 200 m in three hours. The air warms quickly; change into light clothes. Stop at a tea garden roadside or by the Neora river, then on through Chalsa to Lataguri on the edge of Gorumara National Park. Check in and take the afternoon jeep safari, about ₹2,500–4,000 per jeep including entry, guide and watchtower fees, indicative 2026. Rhino, gaur and elephant come to the salt licks near dusk.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Morning safari and a Murti river afternoon",
+      "place": "lataguri",
+      "overnight": "Lataguri",
+      "drive": "≈ 40 km · 4–5 h with safari",
+      "text": "A dawn safari to a different watchtower, such as Jatraprasad or Medla, gives the best light and the most birds: hornbills, peafowl, kingfishers and parakeets. Safari slots are booked through the forest department's counter at Lataguri or online; they fill fast on winter weekends. Rest through midday. In the afternoon drive to the Murti river near Chalsa, where the clear water runs over stones out of the hills, or walk through a tea garden with your driver. The park is closed from mid-June to mid-September; check current status before you travel.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Lataguri to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70–80 km · 2–2.5 h",
+      "text": "A last walk at the forest edge after breakfast, then drive west along the highway through tea gardens and across the Teesta at the Coronation Bridge near Sevoke or by the main road to Siliguri. Allow 2.5 hours to Bagdogra or NJP, more if traffic is heavy around Siliguri. This is the shortest exit of any hill trip in the region, so an early afternoon flight or train is fine. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "wbfdc-lava-eco-tourism-centre"],
+  "includes": [
+    "4 nights: 1 in Kalimpong, 1 in Lava, 2 in Lataguri, twin sharing",
+    "Breakfast daily; dinners at Lava and Lataguri on all tiers, and in Kalimpong on comfort and premium",
+    "Private car for the whole loop (shared by four on budget)",
+    "One Gorumara jeep safari on budget, two on comfort and premium",
+    "Neora Valley jeep morning on premium"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Extra safaris, camera fees and Neora entry on budget and comfort",
+    "Lunches and any meals not listed",
+    "Paragliding at Deolo and monastery donations",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Travel on weekdays; Gorumara safari slots and Lataguri lodges are busiest and dearest on Friday to Sunday from November to February.",
+    "Take one dawn safari instead of two; the dawn slot usually gives the best sightings for the money.",
+    "Use WBFDC's Lava lodge and a simple Lataguri lodge; you spend days outdoors, and the forest is at the door of both."
+  ],
+  "good_to_know": [
+    "Gorumara National Park and all Dooars safaris close from mid-June to mid-September. Check current status before you travel.",
+    "Safari slots are limited and sell out on winter weekends and holidays; book as soon as dates are fixed.",
+    "Wildlife sightings are never guaranteed. Rhino and gaur are seen on most days, elephants less often.",
+    "The temperature difference between Lava and Lataguri can be 15 °C or more; pack layers you can peel off.",
+    "Mosquito repellent helps at Lataguri, especially in October and from March onward."
+  ],
+  "faqs": [
+    {"q": "How far is Lataguri from Lava", "a": "About 80 km, three to three and a half hours by road. The route drops from Lava through forest to Gorubathan, then into the Dooars tea gardens and on through Chalsa to Lataguri. A reserved car costs about ₹3,000–4,500, indicative 2026. There are few shared jeeps on this road, so a car is the practical choice. Check current status before you travel."},
+    {"q": "When is Gorumara National Park open", "a": "Gorumara is usually open from mid-September to mid-June and closed from about 16 June to 15 September for the monsoon, as are other Dooars parks. The best months are November to March, when grass is shorter and animals are easier to see. April and May are hot but good near water. Check current status before you travel."},
+    {"q": "What animals can we see in Gorumara", "a": "Indian one-horned rhinoceros and gaur are the main sightings, along with elephants, sambar, barking deer, wild boar and peafowl. Leopards live in the park but are rarely seen. Birders find hornbills, kingfishers, woodpeckers and many grassland species. Sightings depend on the season, the watchtower and luck."},
+    {"q": "How do we book a Gorumara jeep safari", "a": "Safari slots are sold by the forest department, at its counter near Lataguri and online, and through lodges that book for guests. Each slot goes to a specific watchtower. Cost runs about ₹2,500–4,000 per jeep including entry, guide and watchtower fees, indicative 2026. Book early for winter weekends, and check current status before you travel."},
+    {"q": "Is this trip good for children", "a": "Yes. Children enjoy the safari jeeps, the watchtowers and the change from cold hills to warm jungle in one morning. No day is longer than three and a half hours on the road. Bring layers for Lava's cold nights, mosquito repellent for Lataguri, and binoculars. Very young children may get restless in the quiet of a watchtower."},
+    {"q": "Can we do the trip in reverse, Lataguri first", "a": "Yes, and we do so when NH10 to Kalimpong is closed, because Lataguri and Lava can be reached through the Dooars without NH10. Starting with the jungle and ending in the hills also suits travellers arriving in the warm months. The safari days just need to fall on a weekday if possible."},
+    {"q": "Is Gorumara better than Jaldapara", "a": "They differ. Gorumara is smaller and closer to the hills, with watchtower-based safaris and easy access from Lataguri. Jaldapara is larger, further east, and known for more rhinos and for elephant rides when they run. For a short trip that starts in Kalimpong, Gorumara fits far better. For a dedicated wildlife trip, many people do both."},
+    {"q": "What does Lataguri feel like", "a": "Lataguri is a small highway town on the edge of Gorumara, with many resorts and lodges strung along the main road and among tea gardens. It is warm, flat and green, with forest on one side. Evenings are quiet. Most people come only for the safaris, so two nights are enough for two safaris and a rest."},
+    {"q": "How much is this 4-night trip for a couple", "a": "On our budget tier about ₹27,000 for two, indicative 2026, with simple rooms, breakfast and dinners at Lava and Lataguri, a car shared with another couple, and one safari. Comfort runs about ₹45,000 for two with a private car and two safaris. Prices rise around Christmas, New Year and the Puja holidays."}
+  ]
+}

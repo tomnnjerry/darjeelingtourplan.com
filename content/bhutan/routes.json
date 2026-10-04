@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "phuentsholing-to-thimphu",
+    "from": "phuentsholing",
+    "to": "thimphu",
+    "distance_km": 165,
+    "summary": "Phuentsholing to Thimphu is about 165 km and 5–6 hours on the main highway, climbing from about 300 m to 2,320 m past Gedu, Chukha and Chhuzom. Tourists travel in a Bhutan-registered car with a licensed guide beyond the Rinchending checkpoint. Start early and allow extra time in the monsoon.",
+    "options": [
+      {"mode": "Tourist car with guide", "time": "5–6 h", "cost": "₹4,500–6,500 per car per day, plus guide ₹2,000–3,000 a day, indicative 2026", "text": "This is how almost every visitor makes the trip. Your operator sends a Bhutan-registered car with driver and your licensed guide meets you in Phuentsholing after the permit formalities. The car stops at Rinchending, about 5 km up, for permit checks, then climbs through forest to Gedu and Chukha for lunch or tea, and down to Chhuzom before the last hour up the Wang Chhu valley to Thimphu."},
+      {"mode": "Minibus for groups", "time": "5.5–6.5 h", "cost": "₹8,000–12,000 per vehicle per day, indicative 2026", "text": "Groups of 7–15 usually travel in a Toyota Coaster or similar minibus, which brings the per-head transport cost well below that of two or three cars. It is a little slower on the bends. Ask for a vehicle with good luggage space, as roof racks are not always used. The same guide rules apply, and one guide can cover the whole group."},
+      {"mode": "Split with a night on the way", "time": "Two half-days", "cost": "Extra night of hotel and SDF", "text": "If you arrive at Jaigaon after a long journey from Siliguri or NJP, sleep in Phuentsholing, complete permits in the morning without rushing, and drive up the next day. This is not a separate transport option, but it is the most comfortable way to plan the trip and avoids arriving in Thimphu after dark."}
+    ],
+    "stops_on_way": [
+      "Rinchending checkpoint (permit check, guided travel begins)",
+      "Kharbandi Goenpa above Phuentsholing",
+      "Gedu town for tea",
+      "Chukha, with the hydropower dam below the road",
+      "Chhuzom, the confluence of the Paro and Thimphu rivers, with three chortens"
+    ],
+    "tip": "Leave Phuentsholing by 9 am so you are past the fog-prone stretch around Gedu before the afternoon; check current status before you travel, especially June to September.",
+    "faqs": [
+      {"q": "How long does it take from Phuentsholing to Thimphu", "a": "Plan on 5–6 hours for the roughly 165 km, including a lunch or tea stop at Gedu or Chukha. Roadworks, fog around Gedu and monsoon landslides can add hours. Leave by about 9 am so you reach Thimphu before dark. In June to September, keep some slack in your plan. Check current status before you travel."},
+      {"q": "Can I take a public bus from Phuentsholing to Thimphu as a tourist", "a": "In practice, no. Under current rules, tourists beyond the Rinchending checkpoint must travel with a licensed guide, and tours run in Bhutan-registered tourist vehicles. Public buses carry Bhutanese passengers between the two towns, but a tourist cannot travel independently on them. Your operator arranges the car and guide. Check current status before you travel."},
+      {"q": "Do I need a guide from Phuentsholing to Thimphu", "a": "Yes. Under the Department of Tourism notification of 8 April 2026 restating the 2024 rules, both Indian and international visitors need a licensed guide beyond the first designated checkpoint, which is Rinchending, about 5 km above Phuentsholing. Your guide meets you in Phuentsholing. Check current status before you travel."},
+      {"q": "Where can I stop for lunch between Phuentsholing and Thimphu", "a": "Gedu, about 2 hours up, and the Chukha area have simple restaurants serving set meals of red rice, ema datshi, dal and vegetables for about ₹250–450 per person, indicative 2026. Your guide and driver know the reliable ones. Chhuzom has a few tea stalls. Carry water and snacks for the winding road."}
+    ]
+  },
+  {
+    "slug": "thimphu-to-paro",
+    "from": "thimphu",
+    "to": "paro",
+    "distance_km": 55,
+    "summary": "Thimphu to Paro is about 55 km and 1–1.5 hours: down the Wang Chhu valley to the confluence at Chhuzom, then up the Paro Chhu past Tachog Lhakhang and the airport. It is the easiest drive in Bhutan and covered by the entry permit for Indian visitors.",
+    "options": [
+      {"mode": "Tourist car with guide", "time": "1–1.5 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "The standard way. Most itineraries combine this short transfer with sightseeing: Simtokha Dzong on the way out of Thimphu, the confluence at Chhuzom, the iron-chain bridge at Tachog Lhakhang, and lunch in Paro. With stops it becomes a relaxed half-day. Your guide and car are already with you for the trip, so there is no separate cost beyond the day rate."},
+      {"mode": "Airport transfer", "time": "1–1.5 h", "cost": "Included in most packages", "text": "Paro airport is in the Paro valley, so many travellers arriving by air drive straight to Thimphu for the first nights and return to Paro at the end, or the other way round. Your guide meets you at arrivals. Even this transfer needs a licensed guide under current rules. Flights depend on visibility, so leave time before onward connections."}
+    ],
+    "stops_on_way": [
+      "Simtokha Dzong, built in 1629 by the Zhabdrung",
+      "Chhuzom confluence and its three chortens",
+      "Tachog Lhakhang and the iron-chain bridge associated with Thangtong Gyalpo",
+      "Viewpoint over Paro airport runway",
+      "Paro town and Rinpung Dzong"
+    ],
+    "tip": "Do the Thimphu–Paro drive on your last morning and fly out the next day, so a cloudy Paro morning does not risk your flight; check current status before you travel.",
+    "faqs": [
+      {"q": "How far is Paro from Thimphu", "a": "About 55 km, which takes 1–1.5 hours by car on a good two-lane highway. The road follows the Wang Chhu down to Chhuzom and then climbs gently up the Paro valley past the airport. With stops at Simtokha Dzong and Tachog Lhakhang, most people make it a half-day. It is one of the easiest drives in Bhutan."},
+      {"q": "Do Indians need a route permit for Paro", "a": "No. The Entry Permit issued at Phuentsholing, at Paro airport or online covers Thimphu and Paro. Route permits are needed for places beyond them, such as Punakha, Haa, Phobjikha or Bumthang, and are issued in Thimphu on working days. A licensed guide is still required. Check current status before you travel."},
+      {"q": "What is Tachog Lhakhang", "a": "Tachog Lhakhang is a temple on the far bank of the Paro Chhu on the Thimphu–Paro road, associated with Thangtong Gyalpo, the 15th-century Tibetan saint and bridge builder. You reach it by an iron-chain footbridge rebuilt in the traditional style. The temple is privately owned by a family linked to his lineage, so ask your guide whether it is open."},
+      {"q": "Should I stay in Thimphu or Paro first", "a": "If you fly in, Thimphu first and Paro last usually works best: you acclimatise in town before the Tiger's Nest hike, and you sleep near the airport before your flight. If you arrive overland from Phuentsholing, Thimphu is the natural first stop anyway. Paro first suits trips that start with the Druk Path Trek."}
+    ]
+  },
+  {
+    "slug": "thimphu-to-punakha",
+    "from": "thimphu",
+    "to": "punakha",
+    "distance_km": 72,
+    "summary": "Thimphu to Punakha is about 72–76 km and 2.5–3 hours, over Dochula pass at about 3,100 m with its 108 chortens, then down through forest to the warm Punakha valley at about 1,250 m. A route permit from Thimphu is needed for Indian visitors.",
+    "options": [
+      {"mode": "Tourist car with guide", "time": "2.5–3 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "Leave Thimphu by 8 am for the best chance of a clear view from Dochula, where on good mornings in October to February the snow peaks of the eastern Himalaya line up to the north. Stop for tea and the 108 chortens, then drive down past Lampelri and the rice terraces of Lobesa. Many plans add Chimi Lhakhang before checking in to Punakha."},
+      {"mode": "Minibus for groups", "time": "3–3.5 h", "cost": "₹8,000–12,000 per vehicle per day, indicative 2026", "text": "For groups of 7–15, a minibus is the cheapest per person. It is slower on the hairpins up to Dochula and down to Lobesa, so allow an extra half-hour. The guide rules and route permit are the same, and the group can share one guide."}
+    ],
+    "stops_on_way": [
+      "Hongtsho checkpoint (permits checked)",
+      "Dochula pass, 108 chortens and Druk Wangyal Lhakhang",
+      "Royal Botanical Park at Lampelri",
+      "Lobesa rice terraces",
+      "Chimi Lhakhang, a 20-minute walk from the road"
+    ],
+    "tip": "Make sure your Punakha route permit is issued on a weekday before you leave Thimphu; the immigration office does not issue them at weekends or on public holidays, so check current status before you travel.",
+    "faqs": [
+      {"q": "How long is the drive from Thimphu to Punakha", "a": "About 2.5–3 hours for the 72–76 km, including a stop at Dochula. The road climbs to the pass at about 3,100 m and then descends about 1,800 m to the Punakha valley through forest. Fog on Dochula and roadworks can add time. Leave early in the morning for the clearest views from the pass."},
+      {"q": "Can you see the Himalaya from Dochula", "a": "Yes, on clear days, mostly from October to February in the early morning. The eastern Himalayan range, including Gangkhar Puensum, can be seen to the north. In spring the views are hazier, and in the monsoon months the pass is often in cloud. Leave Thimphu by 8 am for the best chance."},
+      {"q": "Do I need a permit to go from Thimphu to Punakha", "a": "Yes, Indian visitors need a route permit for Punakha, which the immigration office in Thimphu issues on working days. Your operator arranges it with your Entry Permit and itinerary, and permits are checked at Hongtsho. International visitors' itineraries are permitted through their operator. A licensed guide is required. Check current status before you travel."},
+      {"q": "Is the road from Thimphu to Punakha good", "a": "Yes, it is a paved two-lane highway, widened in recent years, though with many bends on both sides of Dochula. People who get carsick should sit in front and take a tablet before leaving. In winter, early mornings on the pass can be icy, and snow occasionally slows traffic. Check current status before you travel."}
+    ]
+  },
+  {
+    "slug": "paro-to-haa-via-chele-la",
+    "from": "paro",
+    "to": "haa",
+    "distance_km": 67,
+    "summary": "Paro to Haa over Chele La is about 65–70 km and 2.5–3 hours, climbing to about 3,988 m, usually described as Bhutan's highest motorable pass, before dropping into the Haa valley at about 2,720 m. A route permit is needed. In snow, cars go the long way via Chhuzom.",
+    "options": [
+      {"mode": "Tourist car via Chele La", "time": "2.5–3 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "The usual route leaves the Paro valley at Bondey and climbs through blue pine and rhododendron forest to Chele La, where most groups stop for 30–60 minutes for the flags and, on clear mornings, Jomolhari. The road then drops about 26 km through forest into the Haa valley. Leave Paro early for the best views and to reach Haa by lunch."},
+      {"mode": "Tourist car via Chhuzom", "time": "4–5 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "When snow or ice closes Chele La, usually between December and March, cars take the lower road from Chhuzom, the confluence on the Thimphu–Phuentsholing highway, up the Haa Chhu valley. It is longer and lacks the pass views, but it is the reliable winter option. Your operator will decide on the day based on road reports."}
+    ],
+    "stops_on_way": [
+      "Bondey village at the turn-off from the Paro valley",
+      "Kila Goemba nunnery, below the pass on the Paro side",
+      "Chele La pass and prayer flags",
+      "Forest descent into the Haa valley",
+      "Lhakhang Karpo, the White Temple, at Haa town"
+    ],
+    "tip": "Leave Paro by 6.30 am to reach Chele La before cloud builds; check current status before you travel in winter, when snow can close the pass.",
+    "faqs": [
+      {"q": "How long is the drive from Paro to Haa", "a": "About 2.5–3 hours over Chele La for roughly 65–70 km, plus time at the pass. The road climbs to about 3,988 m and descends about 26 km into the Haa valley. When snow closes the pass, the route via Chhuzom takes 4–5 hours. Check current status before you travel, especially from December to March."},
+      {"q": "Do I need a permit for Haa", "a": "Yes. Haa needs a route permit on top of the Thimphu–Paro Entry Permit for Indian visitors. Your operator gets it from the immigration office in Thimphu on a working day, so plan to pass through Thimphu on a weekday before the Haa leg. A licensed guide is required. Check current status before you travel."},
+      {"q": "Can I do Haa as a day trip from Paro", "a": "Yes, but it is a long day of 5–6 hours of driving, leaving only a few hours in the valley. We prefer one or two nights in a Haa farmhouse, which gives time for the White and Black temples, village walks and dinner with a family. A day trip works if you are short of time and the pass is clear."},
+      {"q": "Is the road over Chele La safe", "a": "Yes, in good conditions, with an experienced Bhutanese driver. It is paved but narrow and winding, with steep drops in places. In winter, ice and snow can make it dangerous, and the road may be closed; your operator will switch to the Chhuzom route if needed. People prone to carsickness should sit in front."}
+    ]
+  },
+  {
+    "slug": "punakha-to-phobjikha",
+    "from": "punakha",
+    "to": "phobjikha",
+    "distance_km": 78,
+    "summary": "Punakha to Phobjikha is about 78 km and 3 hours: south to Wangdue Phodrang, then east and up through forest over Lawa La into the broad Phobjikha valley at about 2,900–3,000 m. It is a climb of over 1,600 m, so take a warm layer.",
+    "options": [
+      {"mode": "Tourist car with guide", "time": "3 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "Most groups leave Punakha after breakfast, stop at Wangdue Phodrang Dzong and have lunch in Bajothang, then drive up through oak and rhododendron forest towards Nobding before turning off over Lawa La and dropping into the valley. You reach Phobjikha by mid-afternoon, in time for the Black-necked Crane Information Centre and a walk before dark."},
+      {"mode": "Minibus for groups", "time": "3.5 h", "cost": "₹8,000–12,000 per vehicle per day, indicative 2026", "text": "Minibuses manage the road, though the climb is slow. In winter, ask your operator whether ice on the upper road is expected, as early mornings can be slippery. For groups of 7 or more, this is the cheapest way per head, and one guide covers everyone."}
+    ],
+    "stops_on_way": [
+      "Wangdue Phodrang Dzong, rebuilt and reconsecrated in 2022",
+      "Lunch in Bajothang, Wangdue's new town",
+      "Forest road towards Nobding",
+      "Lawa La pass",
+      "First view down into the Phobjikha valley"
+    ],
+    "tip": "Withdraw cash in Bajothang or Punakha before you go up; ATMs in Phobjikha are few and can be offline, and check current status before you travel in winter, when the upper road can ice.",
+    "faqs": [
+      {"q": "How far is Phobjikha from Punakha", "a": "About 78 km, roughly 3 hours by car, via Wangdue Phodrang and Lawa La. With stops at Wangdue Dzong and for lunch in Bajothang, most groups take 4–5 hours and arrive by mid-afternoon. The road climbs from about 1,250 m to about 2,900–3,000 m, so it is much colder at the end."},
+      {"q": "Do I need a separate permit for Phobjikha", "a": "Phobjikha is in Wangdue Phodrang district and is usually covered by the same route permit as Punakha and Wangdue, arranged by your operator in Thimphu on a working day. Make sure it is listed on your permit before you leave Thimphu. A licensed guide is required. Check current status before you travel."},
+      {"q": "Is the road to Phobjikha open in winter", "a": "Yes, normally, and winter is the main season for the black-necked cranes, from about late October to February. Early mornings can be icy on the upper road and over Lawa La, and snow occasionally slows traffic. Drivers usually travel in daylight. Check current status before you travel and allow extra time."},
+      {"q": "Can I visit Phobjikha as a day trip from Punakha", "a": "It is possible but tiring: about 6 hours of driving for a few hours in the valley. We strongly suggest at least one night, ideally two, so you can see the cranes at dawn and dusk, walk the Gangtey Nature Trail and visit Gangtey Goenpa without rushing. Farmhouse stays are good value."}
+    ]
+  },
+  {
+    "slug": "phobjikha-to-bumthang-via-trongsa",
+    "from": "phobjikha",
+    "to": "bumthang",
+    "distance_km": 188,
+    "summary": "Phobjikha to Jakar in Bumthang is about 190 km and 7–8 hours, over Pele La (about 3,390 m) to Trongsa and then Yotong La (about 3,425 m) to Bumthang. We usually split it with a night or a long lunch stop at Trongsa to see the dzong.",
+    "options": [
+      {"mode": "Tourist car, in one day", "time": "7–8 h", "cost": "₹4,500–6,500 per car per day, indicative 2026", "text": "Leave Phobjikha early, climb back to the highway and cross Pele La, stop at Chendebji Chorten for tea, and reach Trongsa for lunch and the dzong. The afternoon drive over Yotong La to Jakar takes 2.5–3 hours, through the Chumey valley known for yathra weaving. It is a long day; only do it if your plan is tight."},
+      {"mode": "Tourist car, with a night in Trongsa", "time": "4 h + 2.5–3 h", "cost": "Same car rate; one extra hotel night", "text": "Our preferred plan. Drive about 120 km and 4 hours to Trongsa, see the dzong and the Ta Dzong museum in the afternoon, sleep in Trongsa, and drive 68 km over Yotong La to Jakar the next morning. You arrive in Bumthang fresh, and nobody spends eight hours in a car."},
+      {"mode": "Domestic flight on the way back", "time": "≈ 30 min flight", "cost": "₹6,000–12,000 one way, indicative 2026", "text": "There is no flight between Phobjikha and Bumthang, but Bathpalathang airport near Jakar has domestic flights to Paro on some days. Many travellers drive east and fly back, saving two long days. Schedules are limited and weather-dependent; check current status before you travel."}
+    ],
+    "stops_on_way": [
+      "Pele La pass, about 3,390 m",
+      "Chendebji Chorten, built in the Nepali style",
+      "Trongsa Dzong viewpoint and the dzong",
+      "Ta Dzong museum, Trongsa",
+      "Yotong La pass and the Chumey valley weaving villages"
+    ],
+    "tip": "Split the drive with a night in Trongsa rather than a rushed one-day transfer; fog on Pele La is common in the monsoon, so check current status before you travel.",
+    "faqs": [
+      {"q": "How long is the drive from Phobjikha to Bumthang", "a": "About 7–8 hours of driving for roughly 190 km: about 4 hours to Trongsa over Pele La, then 2.5–3 hours over Yotong La to Jakar. With stops for Chendebji Chorten and Trongsa Dzong it becomes a full day of 9–10 hours. We suggest splitting it with a night in Trongsa."},
+      {"q": "Is it worth stopping in Trongsa", "a": "Yes. Trongsa Dzong is the largest dzong in Bhutan and the ancestral seat of the Wangchuck kings, and the Ta Dzong museum above it tells their story. Even a 2–3 hour lunch stop is worthwhile; a night lets you see both without rushing and splits the long drive into two easy halves."},
+      {"q": "Can I fly to Bumthang instead of driving", "a": "Yes, there are domestic flights between Paro and Bathpalathang airport near Jakar on some days, taking about 30 minutes. Fares are about ₹6,000–12,000 one way, indicative 2026. Many travellers drive out via Phobjikha and Trongsa and fly back to Paro. Schedules are limited and can be cancelled for weather; check current status before you travel."},
+      {"q": "How high are the passes between Phobjikha and Bumthang", "a": "Pele La, between Phobjikha and Trongsa, is at about 3,390 m, and Yotong La, between Trongsa and Bumthang, is at about 3,425 m. Both are cold and often foggy, with snow possible in winter. Carry a warm layer in the car. The road between them drops to about 2,200 m at Trongsa."}
+    ]
+  }
+]

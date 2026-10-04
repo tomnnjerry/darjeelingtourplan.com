@@ -1,0 +1,183 @@
+{
+  "slug": "buxa-fort-jayanti-4n",
+  "title": "Chilapata, Buxa Fort and Jayanti in 4 nights",
+  "region": "dooars",
+  "nights": 4,
+  "themes": [
+    "treks-and-walks",
+    "wildlife-safaris",
+    "village-homestays",
+    "birding-and-orchids"
+  ],
+  "stops": [
+    {
+      "place": "chilapata-forest",
+      "nights": 1
+    },
+    {
+      "place": "buxa-tiger-reserve",
+      "nights": 1
+    },
+    {
+      "place": "jayanti",
+      "nights": 2
+    }
+  ],
+  "start": "NJP station, Bagdogra Airport (IXB) or Siliguri",
+  "end": "Alipurduar Junction, NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 13500,
+  "fares": {
+    "budget": 13500,
+    "comfort": 19500,
+    "premium": 28000
+  },
+  "fare_notes": {
+    "budget": "Malangi forest lodge at Hasimara and village homestays at Lepchakha or Santalabari and Jayanti, twin sharing with shared or simple attached bathrooms; a reserved car shared by four for the long transfers; one Chilapata jeep safari in a full jeep; local guide for the fort walk; all meals at the homestays.",
+    "comfort": "Aranya Tourism Property at Madarihat for the first night, then the best rooms available at Santalabari and Jayanti homestays with attached bathrooms; a private car for your party throughout; a private Chilapata jeep; a guide for each walk; all meals.",
+    "premium": "Aranya's best rooms, then the top-rated homestay rooms at Buxa and Jayanti; a private SUV and driver for all four days; a naturalist guide for the birding walks; porters to Lepchakha; all meals. The forest has no luxury hotels: premium buys comfort and service, not marble."
+  },
+  "best_months": [
+    2,
+    2,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    2
+  ],
+  "pace": "Active",
+  "max_altitude_m": 1100,
+  "meta_description": "Chilapata's forest, the walk to Buxa Fort and Lepchakha, and riverbed days at Jayanti: 4 nights from ₹13,500, with homestays and local guides.",
+  "summary": "Four nights in the eastern Dooars, where the forest climbs into the Bhutan hills: a Chilapata safari, the walk up to Buxa Fort and the Drukpa village of Lepchakha, then two nights at Jayanti for riverbed walks and the Mahakal cave. Simple homestays and good guides. From ₹13,500 per person, twin sharing.",
+  "intro": [
+    "This is the Dooars for people who would rather walk than sit in a jeep. Buxa Tiger Reserve rises from flat sal forest near Rajabhatkhawa to the Bhutan border, and the old Buxa Fort sits at about 867 m on the trade route into Bhutan. The British took it in the Duar War of 1864–65, made it a detention camp for Indian revolutionaries from 1930 to 1937, and Tibetan monks studied here from 1959 to 1971. Above it, Lepchakha looks over the plains and rivers on a clear day.",
+    "Jayanti is a forest village on a wide stony riverbed with the Bhutan hills behind. You walk the riverbed, watch the far bank for elephants, and climb to the Mahakal limestone cave. Homestays here are simple and the food is home cooking. Tigers are now extremely rare in Buxa, so come for forest, birds and history. Rules on homestays inside the reserve change from time to time; check current status before you travel."
+  ],
+  "highlights": [
+    "Jeep safari through Chilapata's dense forest to the Nalraja Garh ruins",
+    "The walk from Santalabari to Buxa Fort, a Bhutanese pass fort and 1930s detention camp",
+    "Sunrise from Lepchakha, a Drukpa village above the fort",
+    "Riverbed walks at Jayanti with the Bhutan hills behind",
+    "The climb to the Mahakal limestone cave"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Chilapata forest",
+      "place": "chilapata-forest",
+      "overnight": "Hasimara or Madarihat",
+      "drive": "≈ 145 km · 3.5–4 h",
+      "text": "We leave Siliguri early and drive east over the Coronation Bridge, through the Malbazar and Chalsa tea gardens, and past Birpara to Hasimara. Train travellers can instead ride from NJP to Hasimara in 3–4 hours. After lunch at the lodge, take the afternoon jeep safari into Chilapata, a dense forest corridor between Jaldapara and Buxa used by elephants. The track passes the brick ruins of Nalraja Garh, an old fort whose builders are uncertain; local tradition links it to the Gupta period. A jeep for up to six costs about ₹2,500–3,500, indicative 2026. Dinner and an early night.",
+      "meals": "Lunch, dinner"
+    },
+    {
+      "day": 2,
+      "title": "Walk up to Buxa Fort and Lepchakha",
+      "place": "buxa-tiger-reserve",
+      "overnight": "Santalabari or Lepchakha",
+      "drive": "≈ 70 km · 2 h, then a 2–4 h walk",
+      "text": "Drive through Alipurduar district to Rajabhatkhawa, where you pay the forest entry, then up to the road end at Santalabari. From here a stony path climbs through forest to Buxa Fort, about an hour on foot. Little of the fort stands, but the walls, the gate and a small memorial to the detainees of the 1930s are there. Your guide tells the fort's story, from the Bhutanese garrison to the 1865 Treaty of Sinchula and the Tibetan monks of 1959. Fit walkers continue about 1–1.5 hours to Lepchakha, a Drukpa village on the ridge with a chorten. Porters carry bags for ₹300–600, indicative 2026.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Down the hill to Jayanti",
+      "place": "jayanti",
+      "overnight": "Jayanti",
+      "drive": "≈ 35 km · 1.5 h by car",
+      "text": "Watch sunrise from Lepchakha or the fort, then walk back down to Santalabari. A forest trail of about 13 km links Buxa Duar with Jayanti, but it needs a guide, forest permission and dry weather; most groups go by car via Rajabhatkhawa instead, about 1.5 hours. Jayanti sits on a wide riverbed of white stones, dry for much of winter, with forested hills rising into Bhutan behind. In the afternoon walk the riverbed with your host. Look for elephant tracks and listen for barking deer. Stay off the riverbed after dark.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Mahakal cave and the riverbed",
+      "place": "jayanti",
+      "overnight": "Jayanti",
+      "drive": "",
+      "text": "A full day on foot. With a local guide, cross the riverbed and climb to the Mahakal cave, a natural limestone cave with stalactites revered as a shrine to Shiva. The walk takes 3–5 hours return depending on the route and river level, with a steep final section and a small stream crossing. A guide costs about ₹800–1,500 per group, indicative 2026. In the afternoon rest, read, or walk the forest edge with binoculars: hornbills, minivets and kingfishers are regular. After dinner your host may light a fire in the yard; Jayanti nights are quiet apart from the insects.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Jayanti to Alipurduar or Siliguri",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 30 km · 1 h to Alipurduar; ≈ 185 km · 5 h to Siliguri",
+      "text": "After breakfast we drive out through the reserve. Train travellers get off at Alipurduar Junction, about an hour away, for trains to NJP, Kolkata and beyond. Everyone else drives back west through Hasimara and the tea gardens to Siliguri, about 5 hours, or carries on to Phuentsholing, about 1.5–2 hours from Jayanti. For a flight from Bagdogra, choose one leaving after 4 pm, or stay a night in Siliguri. Shops at Rajabhatkhawa sell snacks and water for the road.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "malangi-lodge-hasimara",
+    "aranya-tourism-property-jaldapara"
+  ],
+  "includes": [
+    "4 nights in your chosen tier, twin sharing",
+    "All meals from lunch on day 1 to breakfast on day 5",
+    "Road transfers from Siliguri and to Alipurduar or Siliguri",
+    "One Chilapata jeep safari",
+    "Local guides for the Buxa Fort walk and the Mahakal cave"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Forest entry tickets for Buxa and Jayanti, about ₹50–200 per person, indicative 2026",
+    "Porters on the Lepchakha walk, unless premium",
+    "Camera fees and tips",
+    "Personal expenses and medical costs"
+  ],
+  "save_more": [
+    "Take the train from NJP to Hasimara and back from Alipurduar, and use the car only inside the Dooars.",
+    "Travel as a group of four to six to share the car, guides and the safari jeep.",
+    "Skip the Chilapata safari and spend the first night at Jayanti instead; you save the safari and one transfer, though you lose the forest drive."
+  ],
+  "good_to_know": [
+    "Buxa and Jayanti are inside a tiger reserve with forest rules on entry, walking routes and homestays that change from season to season. Check current status before you travel.",
+    "The walk to Buxa Fort is steep and stony; wear proper shoes and carry 1.5 litres of water each.",
+    "Homestays at Lepchakha and Jayanti are basic: hot water by the bucket, patchy mobile signal and power cuts.",
+    "Do not walk the Jayanti riverbed or forest edge at dawn or after dark without your host; elephants are common.",
+    "Rivers at Jayanti and on the Totopara side rise fast after rain; the monsoon months are not suitable."
+  ],
+  "faqs": [
+    {
+      "q": "How difficult is the Buxa Fort trek",
+      "a": "Moderate. From the road end at Santalabari the path climbs steadily through forest to the fort in about an hour, roughly 2.5–5 km depending on the route. It is stony and steep in places but well used. Lepchakha is another 1–1.5 hours above the fort and steeper. Most fit adults and children over 10 manage both with rests. Porters can carry bags."
+    },
+    {
+      "q": "Can you stay overnight at Buxa Fort or Lepchakha",
+      "a": "There are simple homestays at Santalabari, near the fort and at Lepchakha, offering a bed, blankets and home meals, usually ₹1,500–2,500 per person a night with food, indicative 2026. Forest rules on homestays inside the reserve have changed several times in recent years, so we confirm before booking. Check current status before you travel."
+    },
+    {
+      "q": "What is the history of Buxa Fort",
+      "a": "Buxa Fort guarded the Buxa Duar, a pass on the trade route between Bengal and Bhutan. The Bhutanese held it until the British took it in the Duar War of 1864–65, confirmed by the Treaty of Sinchula in 1865. From 1930 to 1937 it was a detention camp for Indian revolutionaries, and from 1959 to 1971 monks who had fled Tibet ran a study centre there."
+    },
+    {
+      "q": "Will I see a tiger in Buxa",
+      "a": "Almost certainly not. Buxa was declared a tiger reserve in 1983, but tigers are now extremely rare here and recent surveys have recorded very few. Come for elephants, gaur, birds, the forest and the history. Buxa records at least 284 bird species, and winter mornings are excellent for hornbills, minivets and woodpeckers."
+    },
+    {
+      "q": "How far is Jayanti from Alipurduar and Siliguri",
+      "a": "Jayanti is about 30 km and an hour from Alipurduar Junction, and about 185 km and 5 hours from Siliguri by road. Alipurduar has trains to NJP and Kolkata. Most people combine Jayanti with Buxa Fort and Chilapata or Jaldapara, so the long drive is split into shorter days."
+    },
+    {
+      "q": "Is it safe to walk in Buxa and Jayanti",
+      "a": "Yes, with a local guide and in daylight. The main risk is wild elephants, which use the riverbeds and forest edges, mainly at dawn and dusk. Walk with a guide who knows the area, keep voices low, and turn back if your guide says so. Leeches appear after rain. We do not run these walks in the monsoon."
+    },
+    {
+      "q": "What is the Mahakal cave at Jayanti",
+      "a": "Mahakal is a natural limestone cave in the hills above Jayanti, with stalactites and stalagmites, revered locally as a shrine to Shiva. Pilgrims visit in large numbers around Shivratri. The walk takes 3–5 hours return from Jayanti, crossing the riverbed and climbing a steep final section. Go with a local guide and avoid it after rain."
+    },
+    {
+      "q": "Can we cross into Bhutan from Buxa",
+      "a": "No. The old paths from Buxa and Lepchakha into Bhutan are not open as tourist border crossings. The nearest crossing for tourists is Jaigaon–Phuentsholing, about 1.5–2 hours by road from Jayanti, where Indians get an entry permit and pay the SDF. Check current status before you travel."
+    },
+    {
+      "q": "What should I pack for Buxa and Jayanti",
+      "a": "Walking shoes with good grip, a light fleece for winter evenings, a torch with spare batteries, a power bank, mosquito repellent, a refillable bottle and some cash: there are no ATMs at Santalabari or Jayanti. Earth-coloured clothes help on forest walks. Carry your original photo ID for forest entry."
+    }
+  ]
+}

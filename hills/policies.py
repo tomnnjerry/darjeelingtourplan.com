@@ -27,7 +27,7 @@ POLICIES["refund-and-cancellation"] = {
             ]},
         ]),
         ("Supplier terms that may be stricter", [
-            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are peak-season palace hotel stays (Christmas, New Year, Diwali), luxury train cabins, national park safari permits, domestic flights on non-refundable fares and festival-period camps. Where a supplier refunds nothing, we cannot refund that part.",
+            "Some services carry their own non-refundable terms, which we tell you about in your quote before you book. Common examples are peak-week hotel stays (the October Puja holidays, Christmas and New Year), toy-train joy-ride tickets, Jaldapara and Gorumara safari bookings, Sikkim and Bhutan permits once issued, and flights or trains on non-refundable fares. Where a supplier refunds nothing, we cannot refund that part.",
         ]),
         ("If we have to change or cancel", [
             "If we cancel your journey for any reason other than events outside our control, we refund everything you have paid us in full.",
@@ -60,7 +60,7 @@ POLICIES["booking-terms"] = {
             "To book, accept the quote in writing and pay the deposit of [25]% of the total price. We then confirm every service in writing. The balance is due [45] days before departure; bookings made within [45] days are paid in full. See the payments policy for methods.",
         ]),
         ("Your responsibilities", [
-            "You must hold a valid passport and visa where required, the permits we tell you about for restricted areas, and travel insurance that covers medical evacuation and, for Ladakh and high Nepal, altitudes up to the highest point on your route. Please tell us about health conditions, mobility needs and diets when you book.",
+            "You must hold a valid passport and visa where required, the permits we tell you about for restricted areas, and travel insurance that covers medical evacuation and, for North Sikkim, Nathu La, Sandakphu and other high routes, altitudes up to the highest point on your route. Please tell us about health conditions, mobility needs and diets when you book.",
         ]),
         ("Our responsibilities", [
             "We plan and book your journey with care and use suppliers we have worked with. Hotels, airlines, railways, parks and other suppliers provide their services under their own terms. Where something goes wrong on the ground, tell your planner straight away so we can help while you are still there.",
@@ -87,7 +87,7 @@ POLICIES["payments"] = {
                 "Deposit: [25]% of the total price, to confirm your booking.",
                 "Balance: due [45] days before departure.",
                 "Late bookings (within [45] days of departure): full payment at booking.",
-                "Some suppliers (luxury trains, festival-period camps, peak palace stays) need early payment; your quote will say so.",
+                "Some suppliers (peak-week hotels, toy-train and safari bookings, Bhutan festival-week rooms) need early payment; your quote will say so.",
             ]},
         ]),
         ("How you can pay", [
@@ -154,7 +154,7 @@ POLICIES["disclaimer"] = {
             "Our guides, journeys and place pages describe conditions as we understand them when written. They are for planning, not a guarantee. Distances and drive times are typical, not exact. Prices are indicative.",
         ]),
         ("Health and altitude", [
-            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially to Ladakh, high Nepal, Tawang or North Sikkim.",
+            "Our notes on altitude, heat and health are general advice, not medical advice. Please see a doctor before travelling, especially to North Sikkim (Gurudongmar, Zero Point), Nathu La, Zuluk, Sandakphu or Chele La.",
         ]),
         ("Photographs", [
             "Photographs come from Wikimedia Commons under free licences and are credited to their authors. They show places as they were when photographed. See our photo credits page.",

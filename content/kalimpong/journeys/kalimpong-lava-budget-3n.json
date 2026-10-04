@@ -1,0 +1,109 @@
+{
+  "slug": "kalimpong-lava-budget-3n",
+  "title": "Kalimpong and Lava on a budget in 3 nights",
+  "region": "kalimpong",
+  "nights": 3,
+  "themes": ["budget-trips", "mountain-views", "monasteries", "treks-and-walks"],
+  "stops": [{"place": "kalimpong", "nights": 1}, {"place": "lava", "nights": 2}],
+  "start": "Siliguri, NJP station or Bagdogra Airport (IXB)",
+  "end": "Siliguri, NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 8500,
+  "fares": {"budget": 8500, "comfort": 15000, "premium": 30000},
+  "fare_notes": {
+    "budget": "WBTDC's Deolo Tourist Lodge or a simple town guesthouse in Kalimpong, then the WBFDC Lava Eco Tourism Centre or a family hotel in Lava, twin sharing; shared jeeps for Siliguri–Kalimpong, Kalimpong–Lava and Lava back to Siliguri; one shared Neora Valley jeep; breakfast only in Kalimpong, breakfast and dinner in Lava.",
+    "comfort": "Morgan House or Holumba Haven in Kalimpong and the better rooms at the Lava forest lodge or a good family hotel; a private small car for the Siliguri pickup, the Kalimpong half-day and the drive to Lava; your own Neora jeep and guide; breakfast and dinner daily.",
+    "premium": "Mayfair Himalayan Spa Resort or Elgin Silver Oaks in Kalimpong, then the best available rooms in Lava, which has no luxury hotels; a private Innova-class car with driver for all three days; Neora jeep, guide and permits arranged ahead; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 2590,
+  "meta_description": "Kalimpong and Lava in 3 nights from ₹8,500 per person: shared jeeps, a forest lodge, Neora Valley by jeep, Kalimpong monasteries and the Haat Bazaar.",
+  "summary": "Three nights for travellers who want the hills without the bill: one night in Kalimpong for Durpin, the bazaar and the mission town, two in Lava for the Neora Valley forest and the walk to Rishyap. Shared jeeps do the long legs. From ₹8,500 per person, twin sharing.",
+  "intro": [
+    "This is the trip we give students, young couples and anyone counting rupees. The big savings are on transport. A reserved car from Siliguri to Kalimpong costs ₹3,000–4,500; a shared jeep seat costs ₹200–300. Kalimpong to Lava is another ₹100–150 a seat. So we put you in shared jeeps for the three long legs and pay for a vehicle only where there is no public transport, which is the Neora Valley jeep from Lava to Zero Point. You lose a little flexibility. You keep most of the money.",
+    "Kalimpong gets one night because the town sights fit into an afternoon and a morning on foot: Durpin's monastery, the Haat Bazaar on Wednesday or Saturday, the MacFarlane church and the nurseries. Lava gets two nights at about 2,200 m, which gives you a full day in the national park and a spare morning for the forest trail up to Rishyap or the lane to Changey Falls. The forest lodge in Lava is plain, cold in winter, and a five-minute walk from the permit office. Bring a warm jacket in any month."
+  ],
+  "highlights": [
+    "Shared jeeps for every long leg, saving ₹5,000 or more per couple",
+    "Zang Dhok Palri on Durpin, consecrated by the Dalai Lama in 1976",
+    "A jeep day into Neora Valley National Park, red panda country",
+    "The 4 km forest trail between Lava and Rishyap for a Kanchenjunga view",
+    "Two nights at 2,200 m in a forest lodge among pines"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Kalimpong by shared jeep",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70 km · 2.5–3.5 h",
+      "text": "Take a shared jeep from the stands near Siliguri's bus terminus or Panitanki More, ₹200–300 a seat, indicative 2026. Jeeps leave when full, so go before 1 pm. The road follows the Teesta past Sevoke and Teesta Bazaar, then climbs to Kalimpong at about 1,250 m. Since the October 2023 flood NH10 closes often; jeeps then go round by Lava or Peshok and take longer. Check current status before you travel. After lunch, walk to the MacFarlane Memorial Church of 1891 and the Haat Bazaar if it is a Wednesday or Saturday. Eat momos near the motor stand for ₹60–150 a plate.",
+      "meals": "None"
+    },
+    {
+      "day": 2,
+      "title": "Durpin morning, shared jeep to Lava",
+      "place": "lava",
+      "overnight": "Lava",
+      "drive": "≈ 32 km · 1.5 h",
+      "text": "Walk or take a shared taxi up Durpin for Zang Dhok Palri, the Nyingma monastery founded by Dudjom Rinpoche and consecrated by the Dalai Lama in 1976. Morning light over the Teesta and Relli valleys is the best of the day. On the way back, stop at one of the cactus and orchid nurseries for a free or ₹50 walk round. By late morning take a shared jeep to Lava from the Kalimpong motor stand, ₹100–150 a seat. The road climbs through Algarah into fir and pine. In Lava, visit Kagyu Thekchen Ling monastery in the afternoon and confirm tomorrow's Neora permit at the forest range office.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Neora Valley by jeep to Zero Point",
+      "place": "neora-valley-national-park",
+      "overnight": "Lava",
+      "drive": "≈ 26 km round trip · 5–6 h with walks",
+      "text": "Leave at about 6.30 am in a permitted jeep with a forest guide. Entry costs about ₹120–150 per Indian and ₹500 per foreigner, the jeep ₹1,500–2,500 and the guide ₹300–600, indicative 2026; we fill the jeep with other travellers to split the cost. The track runs about 13 km through oak, fir and rhododendron to Zero Point, where you walk with the guide on permitted trails. Red pandas live here but are rarely seen; listen instead for laughingthrushes and look for barking deer. The park closes from mid-June to mid-September. Check current status before you travel. Back by lunch, rest, and walk the pine lanes above the lodge at dusk.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Rishyap trail at dawn, then down",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 100–110 km · 4–4.5 h",
+      "text": "If the sky is clear and your legs are fresh, walk the 4 km forest trail up toward Rishyap with a local guide for the Kanchenjunga view, then come back for breakfast; it takes two to three hours each way, so many people go only to the first open ridge. Otherwise sleep in. Late morning, take a shared jeep down. Some go to Siliguri via Gorubathan and Malbazar, others back through Kalimpong; seats run about ₹250–400, indicative 2026. Keep at least three hours of margin before a train from NJP or a flight from Bagdogra, and a full day in the rains.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "wbfdc-lava-eco-tourism-centre"],
+  "includes": [
+    "3 nights in your chosen tier, twin sharing: 1 in Kalimpong, 2 in Lava",
+    "Breakfast daily from day 2; dinners in Lava (all tiers) and Kalimpong (comfort and premium)",
+    "Shared jeep seats on budget, private car on comfort and premium",
+    "Neora Valley jeep to Zero Point with a forest guide",
+    "Our help booking the forest lodge and the park permit"
+  ],
+  "excludes": [
+    "Trains and flights to NJP or Bagdogra",
+    "Neora Valley entry and camera fees, paid at the forest office",
+    "Lunches and any meals not listed",
+    "Rishyap trail guide, nursery fees and paragliding",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Travel Monday to Thursday; Lava rooms fill and rates rise at weekends when Siliguri and Kolkata visitors arrive.",
+    "Share the Neora jeep with other travellers at the forest office; one jeep takes up to six and costs the same for two.",
+    "Go in March, early April or the second half of November, when lodges discount and the weather is still good."
+  ],
+  "good_to_know": [
+    "Neora Valley National Park is closed from mid-June to mid-September, and may close at short notice for repairs or weather. Check current status before you travel.",
+    "Shared jeeps leave when full and thin out after early afternoon; do not plan a late start on transfer days.",
+    "Lava nights drop to near freezing from December to February. The forest lodge has blankets, but bring a warm layer and socks.",
+    "ATMs in Lava are few and unreliable; carry enough cash from Kalimpong or Siliguri.",
+    "Foreign nationals need no special permit for Kalimpong or Lava, but pay a higher Neora entry fee."
+  ],
+  "faqs": [
+    {"q": "How much does a 3-night Kalimpong and Lava trip cost", "a": "About ₹8,500 per person for three nights on our budget tier, twin sharing, indicative 2026. That covers simple rooms, shared jeeps for the long transfers, a shared Neora jeep and most meals in Lava. Comfort, with heritage rooms in Kalimpong and a private car, runs about ₹15,000, and premium about ₹30,000. Peak weeks at Puja and Christmas cost more."},
+    {"q": "Is a shared jeep from Siliguri to Kalimpong safe", "a": "Yes, for most travellers. Shared jeeps are how local people travel, and drivers on this road do it daily. Seats cost ₹200–300, indicative 2026. Sit in the middle row if you get car sick, keep luggage small because it goes on the roof under a tarpaulin, and travel before mid-afternoon. In heavy rain or when NH10 is cut, ask about the diversion before you pay."},
+    {"q": "Can we do Lava and Neora Valley without a private car", "a": "Mostly. Shared jeeps run from Kalimpong to Lava through the morning for ₹100–150 a seat. Inside Neora you must use a permitted jeep from Lava in any case, so a private car would not help there. The only gap is Rishyap and Changey Falls, which need a short hire of ₹800–1,500 or a walk. That is why this trip works on a budget."},
+    {"q": "How many days do we need for Lava", "a": "Two nights is right. Arrive by lunch on the first day, enter Neora Valley early the next morning, and keep the last morning for the Rishyap trail or Changey Falls. One night leaves no slack if the park jeep is delayed or the weather turns. Three nights suit keen birders who want two separate forest mornings."},
+    {"q": "Is Neora Valley open in October", "a": "Usually yes. The park normally reopens around 16 September after the monsoon closure, and October is one of the best months, with clearing skies and fresh forest. Early October can still bring rain and slippery tracks. Permits are issued at the Lava forest range office. Check current status before you travel, because reopening dates shift after heavy rains."},
+    {"q": "Will we see snow in Lava", "a": "Possibly, in January or February, but it is never certain. Lava at about 2,200 m gets a light fall in some winters, usually for a day or two, and the road can ice over. If snow is the main reason for your trip, keep your dates flexible and watch the forecast a week ahead. Nights are near freezing all winter regardless."},
+    {"q": "Is the Lava forest lodge comfortable", "a": "It is clean and simple rather than comfortable. The WBFDC Lava Eco Tourism Centre has cottages and huts among tall pines, a canteen and the forest at the door, at ₹2,000–3,500 a room night, indicative. Some cottages sit up steep steps and hot water can be slow at busy times. Most guests come for the setting and the location next to the permit office."},
+    {"q": "Can seniors do this trip", "a": "Yes, at an easy pace. The jeep ride into Neora is bumpy but short, and walks from Zero Point can be kept to a few hundred metres. Skip the Rishyap trail and ask for a lodge room near the road. Shared jeeps have tight seats, so seniors usually prefer the comfort tier with a private car. Carry any medicines, since Lava has only basic health care."},
+    {"q": "What should we pack for Lava", "a": "Pack a warm jacket in every month, plus a fleece or sweater, a woollen cap and thick socks from November to March. Add walking shoes with grip for the forest trails, a rain jacket from April, a torch for early starts, and a refillable bottle. Lava has a small bazaar for snacks but few shops for gear, so bring what you need from Siliguri."}
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "sittong",
+  "name": "Sittong",
+  "region": "darjeeling",
+  "kind": "village",
+  "wiki": "Sittong",
+  "image_query": "Sittong orange orchard Darjeeling",
+  "lat": 26.91,
+  "lng": 88.35,
+  "altitude_m": 1200,
+  "tagline": "Orange orchards and hornbill forest below Kurseong",
+  "meta_description": "Plan Sittong on a budget: orange orchards in winter, Latpanchar hornbills, Ahaldara views, homestays, how to reach from NJP and 2026 costs.",
+  "summary": "Sittong is a cluster of villages at roughly 1,000–1,300 m in the Kurseong hills, known for its mandarin orange orchards. Come November to January to see the oranges ripen, stay in a family homestay, and add Latpanchar for hornbills and Ahaldara for views. It is about 2–2.5 hours from NJP.",
+  "intro": [
+    "Sittong is not one village but a spread of hamlets on the slopes south-east of Kurseong, often split into Sittong I, II and III. Houses stand among terraced fields, bamboo and, above all, orange trees. From November to January the orchards turn orange with small, sweet Darjeeling mandarins, and the village smells of fruit. Families sell oranges by the basket, and homestay guests are often invited to pick a few from the trees.",
+    "Sittong sits lower and warmer than Darjeeling, so it is pleasant in winter when the high towns are freezing. It makes a quiet base for the lower hills. Latpanchar, a short drive away, is known for hornbills and its cinchona plantations, Ahaldara viewpoint faces the Kangchenjunga range and the Teesta valley, and Mungpoo, with its Tagore house, is close by. Kurseong is about an hour up the road.",
+    "This is one of the cheaper corners of the Darjeeling hills. Homestays usually charge per person with all meals included, and there is little to spend money on beyond a basket of oranges. The roads are narrow and some stretches are rough, so a local driver who knows them is worth paying for. Avoid the heavy monsoon months from June to September, when landslides and leeches are common."
+  ],
+  "story": {
+    "title": "Mandarins in the hills of Darjeeling",
+    "paras": [
+      "Oranges have been grown in the Darjeeling hills for generations, and the lower, warmer slopes around Sittong, Mirik and the Kurseong valleys suit them best. The fruit is a small mandarin, loose-skinned and sweet, and it ripens in the cool dry months from November to January. For many families in Sittong, the orchard is a main source of cash income, sold to traders who carry the crop down to Siliguri and beyond.",
+      "The orchards have faced hard years. Ageing trees, pests and disease, and changes in rainfall have hurt yields across the Darjeeling hills, and some families have replanted or turned to other crops. Homestay tourism has given villages like Sittong another source of income, and many hosts now pair a winter visit with an orchard walk. Buying fruit directly from the grower, rather than at a roadside stall, keeps more of the money in the village."
+    ],
+    "source": "Wikipedia: Sittong; West Bengal horticulture reports on Darjeeling mandarin orange decline"
+  },
+  "did_you_know": [
+    "Sittong's mandarin oranges ripen between November and January, which is the busiest homestay season in the village.",
+    "Latpanchar, near Sittong, sits inside Mahananda Wildlife Sanctuary and is known among birders for hornbills.",
+    "The West Bengal government's cinchona plantations, which once supplied quinine, include estates at Latpanchar and Mungpoo near Sittong."
+  ],
+  "facts": [
+    ["Best months", "Nov – Jan for oranges, Oct – Apr overall"],
+    ["Nights we suggest", "1–2"],
+    ["Nearest airport", "Bagdogra (IXB), ≈ 60 km"],
+    ["From Siliguri", "≈ 50–55 km · 2–2.5 h"],
+    ["Altitude", "≈ 1,000–1,300 m"],
+    ["Known for", "Orange orchards, homestays, Latpanchar hornbills"]
+  ],
+  "best_months": [2, 1, 1, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "nights": "1–2",
+  "highlights": [
+    {"title": "Orange orchards in winter", "text": "From November to January the trees around Sittong hang heavy with small, sweet mandarins. Walk the orchards with your host, pick a few, and buy a basket straight from the grower. It is the best reason to visit, and the season when homestays fill up first."},
+    {"title": "Hornbills at Latpanchar", "text": "Latpanchar, a short drive from Sittong inside Mahananda Wildlife Sanctuary, is known among birders for hornbills. Go with a local guide at dawn to the forest edge, where the birds come to feed. March to May is often best, but sightings are never certain."},
+    {"title": "Ahaldara viewpoint", "text": "A hilltop above Latpanchar with wide views over the Teesta valley and, on clear mornings, the Kangchenjunga range. Sunrise from October to December is the classic time. There is a small parking area and a short climb to the top."},
+    {"title": "Village life at a slower pace", "text": "Sittong's homestays are family homes among fields, bamboo and orange trees. Help in the kitchen, walk to the village school or church, and watch harvests being sorted. Evenings are quiet and warm compared with Darjeeling, with stars and crickets."},
+    {"title": "Easy pairing with Mungpoo and Kurseong", "text": "Mungpoo, where Rabindranath Tagore stayed at Maitreyi Devi's house, is a short drive away, and Kurseong's tea gardens and toy train are about an hour up. A loop of Kurseong, Sittong and Mungpoo makes a quiet 3–4 night trip."}
+  ],
+  "how_to_reach": [
+    {"mode": "Shared jeep", "text": "Shared jeeps to Sittong are few: a small number run from Kurseong and from Siliguri on the lower roads, usually once or twice a day, ₹100–200 a seat, indicative 2026. Ask your homestay which service runs that week; they will often arrange a pick-up from Kurseong instead."},
+    {"mode": "Reserved car", "text": "A reserved car from NJP or Bagdogra costs about ₹3,000–4,500, 2–2.5 hours, and from Kurseong about ₹1,500–2,500, about an hour, indicative 2026. Routes vary with road conditions; drivers may go via Kurseong and Dilaram or via the lower road through Latpanchar. Check current status before you travel."},
+    {"mode": "Rail / Air", "text": "The nearest airport is Bagdogra (IXB), about 60 km away, and the nearest big station is NJP. Kurseong, on the Darjeeling Himalayan Railway, is the nearest toy-train station, about an hour away by road. Check current status before you travel."}
+  ],
+  "where_to_stay": "Sittong has no hotels. You stay in family homestays spread across Sittong I, II and III, usually with a few rooms each, attached bathrooms, and all meals cooked by the family. Rates are typically ₹1,500–2,500 per person per day with food, indicative 2026, rising a little in the orange season and Puja weeks. Homestays near the main road are easier to reach; those deeper in the orchards are quieter. If you want a hotel, stay in Kurseong at the WBTDC Kurseong Tourism Property or at Cochrane Place, and visit Sittong for the day.",
+  "stays": [],
+  "costs": [
+    ["Reserved car NJP → Sittong", "₹3,000–4,500"],
+    ["Reserved car Kurseong → Sittong", "₹1,500–2,500"],
+    ["Homestay with all meals", "₹1,500–2,500 per person per day"],
+    ["Oranges from the grower, in season", "₹50–150 per dozen"],
+    ["Latpanchar and Ahaldara half-day car", "₹1,500–2,500"],
+    ["Local birding guide at Latpanchar", "₹800–1,500 per group"]
+  ],
+  "budget_tip": "Ask your homestay to combine your pick-up with a Latpanchar and Ahaldara stop on the way in, so one car covers the transfer and the sightseeing.",
+  "tips": [
+    "Book early for late November to early January; the orange season is when the best homestays fill.",
+    "Carry cash for your stay and for fruit; there are no ATMs in the villages.",
+    "Ask before picking oranges; the trees are a family's livelihood, and most hosts are happy to show you which ones you may take.",
+    "Pack insect repellent; Sittong is lower and warmer than Darjeeling, with more mosquitoes in the warm months.",
+    "Avoid the monsoon months from June to September, when landslides on the narrow roads are common."
+  ],
+  "themes": ["village-homestays", "birding-and-orchids", "budget-trips", "family-trips", "food-and-markets"],
+  "nearby": ["kurseong", "mungpoo", "darjeeling", "mirik"],
+  "experiences": [
+    {
+      "slug": "sittong-orange-orchard-walk",
+      "title": "Orange orchard walk in winter",
+      "kind": "village",
+      "duration": "2 hours",
+      "best_time": "Mornings, mid-Nov to mid-Jan",
+      "cost": "Free for homestay guests; oranges ₹50–150 a dozen, indicative",
+      "image_query": "Darjeeling orange orchard mandarin",
+      "wiki": "",
+      "summary": "Walk the terraced orchards of Sittong with your host when the mandarins are ripe, learn how families pick, sort and sell the crop, and buy a basket straight from the tree. Mid-November to mid-January is the season.",
+      "body": [
+        "Ask your homestay host to take you round the family orchard after breakfast, when the light is soft and the dew has dried. The trees grow on narrow terraces among maize and vegetable plots, and in season the branches bend with small, loose-skinned mandarins. Hosts explain how they judge ripeness, when traders come, and how the orchard has changed over the years as trees aged and rains shifted.",
+        "Pick only what your host offers; the fruit is a year's income for many families. You will often see the harvest being sorted into baskets by size, ready for a trader's truck to Siliguri. Buying direct from the grower costs little and pays the family properly. A dozen usually costs ₹50–150, indicative 2026, depending on size and the year's crop. The fruit travels well if you keep it in a cloth bag.",
+        "Outside the season, the walk is still pleasant: in spring the trees flower and the air smells sweet, and in autumn the fruit is green and growing. Wear shoes with grip, since terraces are steep and can be slippery. Do not climb the trees or pull branches. If you want to see the whole cycle of village life, stay two nights and help in the kitchen with whatever is being harvested that week."
+      ],
+      "good_for": ["families", "couples", "seniors", "first-timers", "photographers"],
+      "faqs": [
+        {"q": "When is orange season in Sittong", "a": "The mandarins ripen from about mid-November to mid-January, with December usually the peak. Exact timing varies with altitude and the year's weather. Homestays fill up in this window, especially over Christmas and New Year, so book a few weeks ahead. Outside the season the orchards are green and the village is quieter."},
+        {"q": "Can I buy oranges directly in Sittong", "a": "Yes. Most homestay families and neighbours sell fruit in season, often at ₹50–150 a dozen, indicative 2026, depending on size and the crop. Buying direct from the grower pays the family better than roadside stalls. Ask before picking from any tree, and carry a cloth bag for the drive home."},
+        {"q": "Are Sittong oranges the same as Darjeeling oranges", "a": "Yes, Sittong grows the small, loose-skinned mandarin oranges sold as Darjeeling oranges, which also grow around Mirik and the lower Kurseong valleys. They are sweet with a little sharpness and easy to peel. Yields have fallen in recent decades because of ageing trees and disease, so a good crop year is worth catching."}
+      ]
+    },
+    {
+      "slug": "sittong-latpanchar-hornbill-birding",
+      "title": "Hornbills and forest birds at Latpanchar",
+      "kind": "wildlife",
+      "duration": "Half day",
+      "best_time": "Dawn, Mar–May and Oct–Dec",
+      "cost": "₹800–1,500 guide per group plus car, indicative",
+      "image_query": "hornbill Latpanchar Mahananda",
+      "wiki": "Mahananda Wildlife Sanctuary",
+      "summary": "An early drive from Sittong to Latpanchar, on the edge of Mahananda Wildlife Sanctuary, to look for hornbills and other forest birds with a local guide. Sightings are not guaranteed, but the forest at dawn is rich in birdsong and the hills are quiet.",
+      "body": [
+        "Latpanchar lies a short drive from Sittong, on a ridge above the Teesta valley, with the forests of Mahananda Wildlife Sanctuary falling away below. The area is known among birders for hornbills, large birds with heavy curved bills that feed on forest fruit, and it also has cinchona plantations run by the state government. Local guides, some of whom run homestays, know the fruiting trees and the hours when birds visit.",
+        "Leave Sittong before dawn so you reach the forest edge as the light comes. Stand quietly at a viewpoint over the canopy and listen: hornbills are often heard before they are seen, with loud wingbeats and calls. Barbets, drongos, bulbuls and many smaller birds fill the trees. A good guide may also find woodpeckers and raptors. Two to three hours is enough before the forest goes quiet in the mid-morning heat.",
+        "Hire a guide through your homestay and agree the rate, usually ₹800–1,500 per group, indicative 2026, plus the car. Carry binoculars and wear muted colours. Do not play bird calls loudly to attract birds; it stresses them, especially in the breeding season. Mahananda's rules apply on sanctuary land, and some trails may need permission or fees, so follow your guide's lead and check current status before you travel."
+      ],
+      "good_for": ["photographers", "solo", "couples", "students"],
+      "faqs": [
+        {"q": "Can I see hornbills at Latpanchar", "a": "Possibly. Latpanchar, on the edge of Mahananda Wildlife Sanctuary, is known among birders for hornbills, but sightings depend on season, fruiting trees and luck. Go at dawn with a local guide who knows where the birds are feeding that week. March to May is often a good time, though many groups see none."},
+        {"q": "How far is Latpanchar from Sittong", "a": "Latpanchar is a short drive from Sittong, typically 30–45 minutes depending on the road and which part of Sittong you stay in. Most visitors go by a car arranged through their homestay, often combining Latpanchar with Ahaldara viewpoint. A half-day car usually costs ₹1,500–2,500, indicative 2026."},
+        {"q": "Is there a fee to enter Mahananda Wildlife Sanctuary at Latpanchar", "a": "Village roads and viewpoints around Latpanchar can be visited freely, but entering the core of Mahananda Wildlife Sanctuary may need forest department permission and fees, and some areas are closed. Your local guide will know which trails are open. Rules and fees change, so check current status before you travel."}
+      ]
+    },
+    {
+      "slug": "sittong-ahaldara-viewpoint-sunrise",
+      "title": "Sunrise at Ahaldara viewpoint",
+      "kind": "nature",
+      "duration": "2–3 hours",
+      "best_time": "Dawn, Oct–Dec",
+      "cost": "₹1,000–2,000 per car from Sittong, indicative",
+      "image_query": "Ahaldara viewpoint Latpanchar",
+      "wiki": "",
+      "summary": "A dawn drive from Sittong to Ahaldara, a hilltop near Latpanchar with a wide view over the Teesta valley and, on clear mornings, the Kangchenjunga range. Combine it with hornbill watching at Latpanchar for a full morning.",
+      "body": [
+        "Ahaldara is a small hilltop above Latpanchar with an open, almost circular view. Below lie the forests of Mahananda Wildlife Sanctuary and the Teesta valley, and on clear mornings the snow peaks of the Kangchenjunga range rise to the north. The climb from the parking spot to the top is short but steep. There may be a few simple stalls or a lodge nearby, but facilities are basic, so bring water and tea.",
+        "Leave Sittong about an hour before sunrise. The road is narrow and dark, so go with a local driver who knows it. At the top, the light first reaches the high snow and then the valley floors, where morning mist lies like a lake. October to December gives the best chance of clear skies; in spring, haze often softens the view, and in the monsoon months it is usually hidden.",
+        "Afterwards, drive down to Latpanchar for hornbills while the birds are active, then back to Sittong for a late breakfast. A car for the morning costs ₹1,000–2,000 from Sittong, indicative 2026, or more if you add Latpanchar birding and a guide. Carry a warm layer; even at this modest height, winter dawns are chilly. Respect any signs about restricted areas near the sanctuary boundary."
+      ],
+      "good_for": ["photographers", "couples", "families", "solo"],
+      "faqs": [
+        {"q": "What can you see from Ahaldara viewpoint", "a": "On clear mornings, Ahaldara shows the Kangchenjunga range to the north, the Teesta valley below and the forested ridges of Mahananda Wildlife Sanctuary around you. Morning mist often fills the valleys. Clear views are most likely from October to December. In spring haze reduces visibility, and in the monsoon cloud usually hides everything."},
+        {"q": "How do I reach Ahaldara from Sittong", "a": "By car, about 30–45 minutes on narrow roads through Latpanchar, then a short, steep walk to the top. Ask your homestay to arrange a local driver, usually ₹1,000–2,000 for the morning, indicative 2026. There is no regular shared transport at sunrise. Leave about an hour before sunrise to be in time."},
+        {"q": "Is there a place to stay at Ahaldara", "a": "There have been a few small lodges and homestays around Latpanchar and Ahaldara, but options are limited and change. Most travellers sleep in Sittong and drive up for sunrise. If you want to stay at Latpanchar itself, ask a known Darjeeling or Siliguri agent which homestays are currently operating and book ahead."}
+      ]
+    },
+    {
+      "slug": "sittong-homestay-kitchen-and-village-food",
+      "title": "Village food in a Sittong homestay",
+      "kind": "food",
+      "duration": "2–3 hours",
+      "best_time": "Evenings, all year except monsoon",
+      "cost": "Included in homestay rate",
+      "image_query": "Nepali village meal Darjeeling homestay",
+      "wiki": "",
+      "summary": "Eat what Sittong families eat: rice, dal, fresh greens, squash, homemade achar, and chicken or eggs on request, cooked on a village stove. Ask to help in the kitchen and you will learn more about hill food in an evening than in a week of restaurant menus.",
+      "body": [
+        "Food in Sittong comes from the fields around the house. A typical dinner is rice with dal, a dry vegetable such as squash, potatoes or beans, sautéed mustard or radish greens, and a sharp achar made with local chillies or tomatoes. Chicken or eggs are added if you ask in advance. Breakfast may be puri with potato curry, or noodles, with sweet milky tea. In winter, there are oranges after every meal.",
+        "Ask your host if you can help or watch in the kitchen. Many hill kitchens still cook on wood or gas stoves with blackened pots, and the cook works fast. You might see gundruk, fermented leafy greens dried for winter, turned into a sour soup, or sel roti, the ring-shaped rice bread, fried for a festival. Do not expect a written recipe; quantities are judged by eye and hand.",
+        "Meals are almost always included in the homestay price, which is quoted per person per day. Tell your host about allergies or vegetarian needs when you book. Eat at the family's hours, usually an early dinner around 7–8 pm. If you want to thank them, buy a basket of oranges or a jar of homemade achar to take home, rather than leaving a large tip."
+      ],
+      "good_for": ["families", "couples", "solo", "students", "seniors"],
+      "faqs": [
+        {"q": "What food is served in Sittong homestays", "a": "Home-style Nepali hill food: rice, dal, seasonal vegetables and greens, homemade achar, and chicken or eggs on request. Breakfast is often puri with potato curry or noodles, with tea. Some families serve gundruk soup or sel roti. Meals are usually included in the per-person homestay rate. Tell your host about dietary needs when you book."},
+        {"q": "Is vegetarian food available in Sittong", "a": "Yes. Village meals are built around rice, dal, vegetables and greens, so vegetarian food is easy. Tell your host in advance if you do not eat eggs or if you want food without onion and garlic, so they can plan. Ask whether any soup is made with meat stock, as that sometimes happens."},
+        {"q": "Are there restaurants in Sittong", "a": "No proper restaurants. There are a few small shops and tea stalls with biscuits, noodles and snacks, but meals come from your homestay. That is why rates include food. Carry any special snacks or baby food you need, and if you want restaurant choice, Kurseong is about an hour away."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "Where is Sittong", "a": "Sittong is a cluster of villages in the Kurseong subdivision of Darjeeling district, at roughly 1,000–1,300 m, south-east of Kurseong. It is about an hour from Kurseong, 2–2.5 hours from NJP and Bagdogra, and close to Mungpoo and Latpanchar. The villages are often split into Sittong I, II and III."},
+    {"q": "What is the best time to visit Sittong", "a": "Mid-November to mid-January is best, when the orange orchards are ripe and the skies clear. October and February to April are also pleasant, with flowering trees in spring and good birding at Latpanchar. Avoid June to September, when heavy rain, landslides and leeches make the narrow roads and paths difficult."},
+    {"q": "How do I reach Sittong from NJP", "a": "Most people take a reserved car from NJP or Bagdogra, about ₹3,000–4,500 and 2–2.5 hours, indicative 2026. On a budget, take a shared jeep to Kurseong, ₹120–200, and arrange a homestay pick-up from there. Shared jeeps direct to Sittong are few. Check road conditions before you travel."},
+    {"q": "Is Sittong worth visiting", "a": "Yes, especially in the orange season, if you like quiet villages, farm life and birding. Sittong has no big sights, shops or nightlife, so it suits families, couples and slow travellers. One or two nights is enough, ideally combined with Kurseong and Mungpoo or as a calm end to a Darjeeling trip."},
+    {"q": "How much does a Sittong homestay cost", "a": "Most homestays charge about ₹1,500–2,500 per person per day with all meals, indicative 2026, a little more in peak orange season and Puja weeks. Transport is extra. Book directly by phone or through a known agent, confirm what is included and pay the balance in cash, since cards and ATMs are not available."},
+    {"q": "Is Sittong good for families with children", "a": "Yes. Children usually enjoy the orchards, farm animals and open space, and the warmer climate is easier than Darjeeling in winter. Roads are narrow and winding, so carry motion-sickness tablets. There are no shops for baby supplies or medicines nearby, so bring what you need from Siliguri or Kurseong."},
+    {"q": "Can I visit Sittong as a day trip from Darjeeling", "a": "It is possible but long: Sittong is about 2–2.5 hours from Darjeeling each way. A day trip by reserved car costs about ₹3,500–5,000, indicative 2026. A day trip from Kurseong is easier. We suggest a night in Sittong instead, so you see the orchards in morning light and catch the evening calm."},
+    {"q": "Is Sittong safe to visit", "a": "Yes. Sittong is a quiet farming area where homestay families look after guests. The main risks are the roads: narrow, steep and sometimes damaged by landslides, especially in the monsoon. Travel by daylight with a local driver, carry a torch for power cuts, and check current status before you travel in wet months."},
+    {"q": "Is there mobile network in Sittong", "a": "Coverage varies by network and village. Some parts of Sittong get workable signal on the main networks, while houses deeper in the valley may get little. Some homestays offer Wi-Fi, but speeds can be slow. Do not plan on working online, and download maps before you leave Kurseong or Siliguri."}
+  ]
+}

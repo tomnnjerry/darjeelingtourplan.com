@@ -1,0 +1,218 @@
+{
+  "slug": "dooars-and-bhutan-via-phuentsholing-7n",
+  "title": "Jaldapara and Bhutan by road in 7 nights",
+  "region": "dooars",
+  "nights": 7,
+  "themes": [
+    "wildlife-safaris",
+    "monasteries",
+    "mountain-views",
+    "family-trips"
+  ],
+  "stops": [
+    {
+      "place": "jaldapara-national-park",
+      "nights": 2
+    },
+    {
+      "place": "phuentsholing",
+      "nights": 1
+    },
+    {
+      "place": "thimphu",
+      "nights": 2
+    },
+    {
+      "place": "paro",
+      "nights": 1
+    },
+    {
+      "place": "phuentsholing",
+      "nights": 1
+    }
+  ],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 26000,
+  "fares": {
+    "budget": 26000,
+    "comfort": 42000,
+    "premium": 110000
+  },
+  "fare_notes": {
+    "budget": "A simple Madarihat hotel or the Malangi lodge at Hasimara, then Department of Tourism-certified 3-star hotels in Phuentsholing, Thimphu and Paro, twin sharing; a reserved car shared by four on the Indian side; a Bhutan-registered car and licensed guide shared by four to six; one Jaldapara safari; breakfast and dinner; SDF at ₹1,200 per person per night for 4 nights. Couples travelling alone pay about 15–25% more.",
+    "comfort": "WBTDC's Aranya Tourism Property at Madarihat, then 4-star or boutique hotels in Bhutan; a private car on both sides of the border and a private licensed guide; two Jaldapara safaris; breakfast and dinner; SDF included.",
+    "premium": "Aranya's best rooms, then the best certified hotel in Phuentsholing, Taj Tashi in Thimphu and COMO Uma Paro; a private SUV in India and a private car and senior guide in Bhutan; private jeep safaris; breakfast and dinner; SDF included."
+  },
+  "best_months": [
+    2,
+    2,
+    2,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    2,
+    2,
+    2
+  ],
+  "pace": "Balanced",
+  "max_altitude_m": 3120,
+  "meta_description": "7 nights from ₹26,000: two nights for Jaldapara's rhinos, then Bhutan by road via Phuentsholing to Thimphu and Paro, with SDF and a licensed guide.",
+  "summary": "Seven nights that start with rhinos and end with dzongs: two nights at Madarihat for Jaldapara's dawn safaris, then across the border at Phuentsholing and up to Thimphu and Paro for the Tiger's Nest walk. Built for Indian travellers by road, with SDF and guide included. From ₹26,000 per person, twin sharing.",
+  "intro": [
+    "Jaldapara and the Bhutan border are about 40 km apart, and almost nobody puts them in the same trip. They should. You spend two nights at Madarihat for the rhinos, then drive an hour to Jaigaon and walk through the gate into Phuentsholing. From there the road climbs 165 km to Thimphu at 2,320 m, through Gedu and Chukha. It is one of the cheapest ways for Indian travellers to see Bhutan, because there is no flight to pay for.",
+    "Bhutan's rules matter. Indians pay a Sustainable Development Fee of ₹1,200 per person per night, enter with a passport or original voter ID, and, under the Department of Tourism notification of April 2026, need a licensed guide beyond the Rinchending checkpoint above Phuentsholing. Other nationals pay more and need a visa. Jaldapara closes from mid-June to mid-September. All of these change, so check current status before you travel."
+  ],
+  "highlights": [
+    "A dawn rhino safari in Jaldapara, home to about 331 rhinos in 2025",
+    "Crossing the border on foot at Jaigaon–Phuentsholing",
+    "Thimphu's Memorial Chorten, Buddha Dordenma and Tashichho Dzong",
+    "The walk up to Paro Taktsang, the Tiger's Nest, at about 3,120 m",
+    "Rinpung Dzong and the old bridge in Paro"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Madarihat",
+      "place": "jaldapara-national-park",
+      "overnight": "Madarihat",
+      "drive": "≈ 125 km · 3–3.5 h",
+      "text": "We pick you up at Bagdogra, NJP or Siliguri and drive east over the Coronation Bridge, through the Mahananda forest and the tea gardens of Malbazar, Chalsa and Binnaguri, to Madarihat at the gate of Jaldapara. Train travellers can ride to Hasimara instead. After lunch, rest. Tonight we check that every traveller has a passport valid for six months or an original voter ID, plus passport photos, for the Bhutan entry permit; Aadhaar is not accepted. Dinner at the lodge and an early night before the dawn safari.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Jaldapara safaris and Totopara",
+      "place": "jaldapara-national-park",
+      "overnight": "Madarihat",
+      "drive": "≈ 50 km with safari and Totopara",
+      "text": "The first jeep safari leaves at sunrise into Jaldapara's grassland along the Torsa, the best time for rhinos, gaur and hog deer. A jeep for up to six costs about ₹2,800–4,000, indicative 2026. After breakfast, either rest or drive 21 km to Totopara with a local guide for a short, respectful visit to the Toto community; ask before every photograph. Comfort and premium travellers take a second safari in the afternoon. Safari slots sell out fast at weekends, so we book them as soon as booking opens; check current status before you travel.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Into Bhutan at Phuentsholing",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 40 km · 1–1.5 h",
+      "text": "An easy morning, then a short drive past Hasimara to Jaigaon, where the Indian car stops. You walk through the gate into Phuentsholing, about 300 m above sea level. If the Entry Permit was not issued online, the immigration office at the pedestrian terminal issues it, and the SDF is paid with it. Your Bhutanese guide meets you here. Walk to Zangtho Pelri Lhakhang in the town centre and the crocodile breeding centre if it is open. Bhutan's clocks run 30 minutes ahead of Indian time. Check current status before you travel.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "The mountain road to Thimphu",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 165 km · 5–6 h",
+      "text": "Your Bhutan-registered car leaves after breakfast. About 5 km up the road is the Rinchending checkpoint, where permits are checked. The road climbs through Gedu and past the Chukha hydropower area, then drops to Chhuzom, where the Paro and Thimphu rivers meet beside three chortens. Fog around Gedu can slow the drive, especially in the rains. Lunch on the way costs ₹250–600. Reach Thimphu, at about 2,320 m, by late afternoon and walk down to Clock Tower Square. Thimphu has no traffic lights; a policeman directs traffic by hand at the main junction.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Thimphu in a day",
+      "place": "thimphu",
+      "overnight": "Thimphu",
+      "drive": "≈ 30 km in town",
+      "text": "Start at the Memorial Chorten, built in 1974 for the Third King, where older residents walk circuits all morning. Drive up to Buddha Dordenma, about 51.5 m high, then the Motithang Takin Preserve; the takin is the national animal. After lunch, Simtokha Dzong, built by the Zhabdrung in 1629, and the archery ground if a match is on. Tashichho Dzong, which houses the king's offices, opens to visitors at set hours, so your guide times the visit. Monument fees run Nu 300–500 each, indicative 2026; check current status before you travel.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Tiger's Nest and Paro",
+      "place": "paro",
+      "overnight": "Paro",
+      "drive": "≈ 65 km · 1.5–2 h",
+      "text": "Leave Thimphu at 7 am for the Taktsang trailhead in the Paro valley. The walk climbs about 500 m from the car park to the monastery, perched on a cliff at about 3,120 m, and most fit adults take 4–6 hours return with a break at the cafeteria halfway. Ponies can be hired for the first part. Go slowly and carry water. In the late afternoon, if energy allows, walk across the covered bridge to Rinpung Dzong, built in 1644, and the main street of Paro town. Long sleeves and long trousers or skirts are needed at dzongs.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Paro back to Phuentsholing",
+      "place": "phuentsholing",
+      "overnight": "Phuentsholing",
+      "drive": "≈ 155 km · 5–6 h",
+      "text": "After breakfast we stop at Kyichu Lhakhang, one of the oldest temples in Bhutan, traditionally dated to the 7th century, then drive down the Paro valley to Chhuzom and on through Chukha and Gedu to Phuentsholing. The temperature rises as you drop: from about 2,200 m to 300 m in a day. Your guide's work ends at the hotel. Spend the evening on Phuentsholing's market streets, buying Bhutanese chillies, red rice or yak cheese. Your exit is stamped at the immigration office if needed.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 8,
+      "title": "Phuentsholing to Siliguri",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 160 km · 4–5 h",
+      "text": "Walk back through the gate to Jaigaon, where your Indian car waits, and drive west through Hasimara, Birpara and the tea gardens to Siliguri, about 4–5 hours. Budget travellers can take an NBSTC or private bus from Jaigaon for ₹150–300, about 5–6 hours, indicative 2026, or the train from Hasimara to NJP. For a flight from Bagdogra, choose one leaving after 3 pm. Keep a copy of your Bhutan entry permit until you are back in India.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": [
+    "aranya-tourism-property-jaldapara",
+    "malangi-lodge-hasimara"
+  ],
+  "includes": [
+    "7 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "Indian car from Siliguri to Jaigaon and back; Bhutan-registered car from Phuentsholing to Paro and back",
+    "Licensed Bhutanese guide from day 3 to day 7 and SDF at ₹1,200 per person per night for 4 nights",
+    "One Jaldapara safari on budget, two on comfort and premium"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Lunches",
+    "Monument entry fees in Bhutan and park camera fees",
+    "Ponies at Taktsang, Totopara guide fees and tips",
+    "Personal expenses, travel insurance and medical costs"
+  ],
+  "save_more": [
+    "Travel as a group of four to six to share the Bhutanese car and guide, which brings the budget fare down by 15–25% compared with a couple alone.",
+    "Children aged 6–12 pay half the SDF and under-6s pay none, so family trips cost less per head than they look.",
+    "Take the train between NJP and Hasimara instead of a reserved car on the Indian side."
+  ],
+  "good_to_know": [
+    "Our fares are for Indian nationals and include the SDF at ₹1,200 per person per night. Most other nationalities pay US$100 per person per night under the current incentive, plus a visa fee. Check current status before you travel.",
+    "Indians need a passport valid for six months or an original voter ID; Aadhaar, PAN and driving licences are not accepted. Children without a passport carry an original birth certificate.",
+    "A licensed guide is required beyond the Rinchending checkpoint under the Department of Tourism notification of April 2026. Check current status before you travel.",
+    "Jaldapara closes from mid-June to mid-September, and Bhutan's road via Gedu is slow in the rains.",
+    "Bhutan Standard Time is 30 minutes ahead of Indian time."
+  ],
+  "faqs": [
+    {
+      "q": "Can we visit Jaldapara and Bhutan in one trip",
+      "a": "Yes. Madarihat, the gateway to Jaldapara, is about 40 km and 1–1.5 hours from the Jaigaon–Phuentsholing border. You can take a dawn safari on day 2 and be in Bhutan the next day. This trip uses two nights in Jaldapara and five in Bhutan, returning to Siliguri by road."
+    },
+    {
+      "q": "How much is the SDF for Indians in Bhutan",
+      "a": "Indian nationals pay a Sustainable Development Fee of ₹1,200 (Nu 1,200) per person per night. Children aged 6–12 pay half and under-6s pay nothing. On this trip you spend 4 nights in Bhutan, so the SDF is ₹4,800 per adult, included in our fares. Day visitors staying under 24 hours in Phuentsholing do not pay it. Check current status before you travel."
+    },
+    {
+      "q": "Which documents do Indians need for Bhutan by road",
+      "a": "A passport valid for at least six months, or an original voter ID (EPIC) card, plus passport-size photos. Aadhaar, PAN and driving licences are not accepted. Children under 18 without a passport need their original birth certificate. The entry permit is issued online or at the Phuentsholing pedestrian terminal. Check current status before you travel."
+    },
+    {
+      "q": "Is a guide compulsory for Indians in Bhutan",
+      "a": "Plan on yes. A Department of Tourism notification of April 2026 says all tourists need a licensed guide beyond the first checkpoint, Rinchending for Phuentsholing, and at monuments. Older websites say Indians can travel alone in Thimphu and Paro; we do not rely on that. Our fares include the guide. Check current status before you travel."
+    },
+    {
+      "q": "Can our Siliguri car go into Bhutan",
+      "a": "Siliguri taxis normally stop at Jaigaon, and you switch to a Bhutan-registered tourist vehicle in Phuentsholing. Private Indian cars can enter with a permit from the transport authority at the border, for a daily fee, and you still need a licensed guide. For most groups a Bhutanese car is simpler. Check current status before you travel."
+    },
+    {
+      "q": "How hard is the Tiger's Nest walk",
+      "a": "It is a steady climb of about 500 m from the car park to the monastery at about 3,120 m, 4–6 hours return for most fit adults. The path is wide and dusty, with steps near the end. Go slowly, carry water and rest at the cafeteria halfway. Ponies can be hired for the first section. Children over 8 usually manage with breaks."
+    },
+    {
+      "q": "When is the best time for this trip",
+      "a": "October to April. Jaldapara is open from about mid-September and is best from November to April, and Bhutan's valleys are clear and dry from October to December and in spring. December and January are cold in Thimphu and Paro, with frosty mornings. Mid-June to mid-September Jaldapara is closed and the Bhutan road is slow in the rain."
+    },
+    {
+      "q": "Can we use Indian rupees and UPI in Bhutan",
+      "a": "Indian rupees are accepted almost everywhere because the ngultrum is pegged 1:1 to the rupee. Carry ₹500 or smaller notes. UPI and Indian cards work in some shops and hotels, but not all, so keep cash. There are ATMs in Phuentsholing, Thimphu and Paro. Check current status before you travel."
+    },
+    {
+      "q": "Can foreign nationals do this trip",
+      "a": "Yes, with changes. Foreigners can visit Jaldapara with a passport and no special permit. For Bhutan they need a visa arranged in advance through a licensed Bhutanese operator, and they pay the SDF in US dollars at a higher rate, so the Bhutan part costs much more than our Indian fares. Check current status before you travel."
+    }
+  ]
+}

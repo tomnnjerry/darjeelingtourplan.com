@@ -1,0 +1,80 @@
+{
+  "slug": "north-sikkim-honeymoon-6n",
+  "title": "North Sikkim honeymoon in 6 nights",
+  "region": "north-sikkim",
+  "nights": 6,
+  "themes": ["honeymoons", "mountain-views", "high-passes", "monasteries"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachen", "nights": 1}, {"place": "lachung", "nights": 2}, {"place": "gangtok", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 19500,
+  "fares": {"budget": 19500, "comfort": 33000, "premium": 62000},
+  "fare_notes": {
+    "budget": "A private small car for Siliguri–Gangtok transfers, a good-value Gangtok hotel with breakfast, a private Lachen–Lachung car shared with one other couple, a family hotel in Lachen, Bichu Homestay in Lachung with breakfast and dinner, permits.",
+    "comfort": "Reserved car from Siliguri, a 3-star Gangtok hotel with a view room, a private car for the north, The Apple Orchard Resort in Lachen and Le Coxy Resort in Lachung with breakfast and dinner, permits.",
+    "premium": "Private Innova-class car throughout, a premium Gangtok hotel, The Apple Orchard Resort in Lachen and two nights at Yarlam Resort with all meals and spa access, Zero Point if open, permits."
+  },
+  "best_months": [0, 1, 1, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 5430,
+  "meta_description": "6 nights for couples: Gurudongmar Lake at dawn, two slow nights in Lachung and Yumthang, then two Gangtok nights to unwind, from ₹19,500.",
+  "summary": "A honeymoon that does both North Sikkim valleys without the rush: Gurudongmar Lake at dawn from Lachen, then two slow nights in Lachung with Yumthang and an empty afternoon, and two Gangtok nights to finish. Private car on every tier. From ₹19,500 per person, twin sharing; check current status before you travel.",
+  "intro": [
+    "Couples tell us the same thing after a standard North Sikkim package: they saw everything and remember mostly the car. This plan keeps the two big sights, Gurudongmar Lake at 5,430 m and Yumthang in the Shingba sanctuary, and adds the one thing honeymooners want most: time with nothing scheduled. The second night in Lachung gives you a morning in the valley and an afternoon to walk the village lanes. The two Gangtok nights at the end protect your flight and give you an evening on MG Marg without checking the clock.",
+    "Be clear about the hard day. Gurudongmar means leaving Lachen at about 4 am and climbing to 5,430 m, then descending to Lachung the same day. Healthy couples manage it with care. Lachen reopened to tourists only in 2026 after the October 2023 flood, and roads on both sides still close after rain or snow, so we treat Lachen as a planned stop with a Lachung-only fallback. Foreign nationals cannot go to Gurudongmar and turn at Thangu. Check current status before you travel."
+  ],
+  "highlights": [
+    "Gurudongmar Lake at 5,430 m at first light",
+    "Two nights in Lachung, with a free afternoon in the village",
+    "Yumthang Valley and its hot spring by the river",
+    "Lachen Monastery, founded in 1858, and the Teesta confluence at Chungthang",
+    "Two unhurried evenings on Gangtok's car-free MG Marg"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "Your private car meets you at Bagdogra or NJP and drives up NH10 along the Teesta into Sikkim at Rangpo. Check in by mid-afternoon. Your operator needs your ID copies and photographs today for the Lachen and Lachung permit, which is filed in advance; same-day permits are not issued. Walk MG Marg in the evening, buy gloves and a woollen cap if you forgot them, and eat early. No alcohol for the next three nights; it makes altitude harder on the body.", "meals": "Breakfast on comfort and premium"},
+    {"day": 2, "title": "Gangtok to Lachen", "place": "lachen", "overnight": "Lachen", "drive": "≈ 129 km · 6–7 h", "text": "Leave Gangtok by about 10 am with permits. Stop at Kabi Lungchok and the Seven Sisters Waterfall, then Mangan, the Toong checkpost and Chungthang, where the Lachen and Lachung rivers join. Lunch in Chungthang, where a rock is linked by Buddhist tradition to Guru Rinpoche. The road up the Lachen valley crosses the new Taram Chu bridge, built after the flood. Reach Lachen, about 2,750 m, by dusk. Fill your bottles from the hotel filter: Lachen's Dzumsa banned packaged water here in 2012.", "meals": "Dinner"},
+    {"day": 3, "title": "Gurudongmar at dawn, then Lachung", "place": "gurudongmar-lake", "overnight": "Lachung", "drive": "≈ 135 km · 9–10 h in total", "text": "Leave at 4–5 am wrapped in every layer you have. Stop at Thangu, about 3,900 m, for tea and the army check, and be honest with each other about headaches. Cross the plateau to Gurudongmar Lake, 5,430 m, sacred to Buddhists and linked by legend to Guru Padmasambhava. Twenty to thirty minutes at the shore, walking slowly, is enough. Back to Lachen for lunch, then down to Chungthang and up to Lachung, about 2,700 m, by late afternoon. Anyone with severe headache, vomiting or confusion goes down at once.", "meals": "Breakfast (packed), Lunch, Dinner"},
+    {"day": 4, "title": "Yumthang and a free afternoon", "place": "yumthang-valley", "overnight": "Lachung", "drive": "≈ 50 km round trip · 4–5 h", "text": "Sleep in a little after yesterday, and leave at about 7 am for Yumthang, 24 km away at 3,564 m, through the Shingba Rhododendron Sanctuary. Snow from December to March, flowers in late April and May, open meadow and yaks in autumn. Visit the hot spring sheds by the river. Zero Point, about 4,660 m, is optional at ₹3,000–4,500 per vehicle, indicative 2026, and only if you both feel completely well. Back by lunch. The afternoon is yours: the village lanes, the 1880 Lachung Monastery above town, or the room and the view.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Lachung to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120–125 km · 6–7 h", "text": "A late breakfast, then leave by about 10 am so the car crosses the Toong checkpost before 4 pm, as the September 2026 order requires. Lunch at Chungthang or Mangan, with a stop at Singhik for Kanchenjunga if the sky is clear. Reach Gangtok by evening. Check in, take a hot shower, and have dinner somewhere quiet off MG Marg. If a slide delayed you in Lachung, this is the day that absorbs it. Check current status before you travel.", "meals": "Breakfast"},
+    {"day": 6, "title": "A slow day in Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 35 km · 4–5 h, optional", "text": "Nothing before 9 am. Then, if you want, a half-day car tour for about ₹1,800–3,500, indicative 2026: Enchey Monastery, rebuilt in 1909, the Namgyal Institute of Tibetology, Do Drul Chorten and Hanuman Tok for Kanchenjunga. Or ride the Gangtok ropeway over the town, or walk Ridge Park near the old palace gate, best in March and April when the trees flower. Couples with energy can swap today for Tsomgo Lake on a separate permit at extra cost. Spend the evening on MG Marg, a car-free street of about 1 km.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 7, "title": "Gangtok to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 115 km · 4.5–5.5 h", "text": "Breakfast, then leave Gangtok by 8–9 am. The road drops along the Teesta past Rangpo and Sevoke to the plains. Allow at least five hours for Bagdogra or NJP, more after rain, because NH10 jams at Rangpo and Sevoke and slides near Melli can force a detour via Kalimpong. Book flights or trains after 2 pm, or after 4 pm in the wet months. Check current status before you travel.", "meals": "Breakfast"}
+  ],
+  "stays": ["apple-orchard-resort-lachen", "bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung"],
+  "includes": [
+    "Six nights' accommodation: three in Gangtok, one in Lachen, two in Lachung, twin sharing",
+    "Private car on every tier (shared with one other couple in the north on budget)",
+    "Protected Area Permit processing for Lachen, Gurudongmar, Lachung and Yumthang",
+    "Dinner day 2, all meals day 3, breakfast and dinner day 4, breakfast day 5",
+    "Gurudongmar Lake, Yumthang Valley and an optional Gangtok half-day tour"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Zero Point charge (included on premium if open), ropeway and museum tickets",
+    "Sikkim tourist fee of ₹50 per person, lunches on drive days",
+    "Spa treatments, oxygen cans, snow-gear hire, heaters where charged",
+    "Tips and extra nights caused by closures"
+  ],
+  "save_more": [
+    "Travel in November or the first half of March, when Lachung and Gangtok rates are lower and the skies are often clear.",
+    "On budget, share the North Sikkim car with one other couple; the vehicle costs the same for two or four.",
+    "Splurge on one night, not all: take Yarlam for the second Lachung night only and a family hotel for the first."
+  ],
+  "good_to_know": [
+    "Lachen reopened to tourists in 2026; if its road closes, we switch to a Lachung-only plan with three nights there. Check current status before you travel.",
+    "Foreign nationals cannot visit Gurudongmar; their day 3 ends at Thangu.",
+    "Vehicles must cross the Toong checkpost by 4 pm in both directions.",
+    "Anyone with heart, lung or blood-pressure problems, or who is pregnant, should see a doctor before going to 5,430 m.",
+    "Carry a refillable bottle; packaged water is banned in Lachen and above."
+  ],
+  "faqs": [
+    {"q": "Is North Sikkim good for a honeymoon", "a": "Yes, if you like mountains more than shopping. You get snow or flowers at Yumthang, Gurudongmar Lake at 5,430 m and quiet villages with very few cars after dark. Rooms are simpler than in Gangtok or Darjeeling, except for a few places such as Yarlam in Lachung. The long drives and the 4 am Gurudongmar start are the price; our two Lachung nights soften both."},
+    {"q": "How much does a 6-night North Sikkim honeymoon cost", "a": "From about ₹19,500 per person twin sharing on budget, ₹33,000 on comfort and ₹62,000 on premium, from Siliguri, indicative 2026. All tiers use a private car. Prices rise in May, Puja week and New Year. Zero Point is extra except on premium, and spa treatments are always extra."},
+    {"q": "Which is the best hotel in Lachung for couples", "a": "Yarlam Resort is widely described as the most upscale hotel in Lachung, with a spa, a guests-only restaurant and rooms looking over the valley; it sits above the village, so you rely on the car to go out. Le Coxy Resort is a comfortable mid-range choice with heated mattresses. Bichu Homestay is simple, warm and family-run. Confirm heating in writing in winter."},
+    {"q": "Is Gurudongmar safe for a honeymoon couple", "a": "For healthy adults who follow the rules, generally yes. Sleep a night in Lachen first, drink water, avoid alcohol, walk slowly and keep to 20–30 minutes at the lake. Headache and breathlessness are common; severe headache, vomiting or confusion mean going down at once. If either of you is pregnant or has a heart, lung or blood-pressure condition, skip the lake and see a doctor."},
+    {"q": "Can we skip Gurudongmar and stay longer in Lachung", "a": "Yes. Many couples prefer three nights in Lachung, with Yumthang one day and a free day or Zero Point the next, and no 4 am start. The price falls slightly because Lachen drops out. It is also our fallback if the Lachen road is closed. Tell us when you book, and we will file the permit for Lachung and Yumthang only."},
+    {"q": "Which month is best for a North Sikkim honeymoon", "a": "October and November for clear skies and open roads, and late April to May for rhododendrons. December to February brings snow at Lachung, but the Lachen side and Gurudongmar are often closed. Many wedding-season honeymoons fall in late November and February; book Lachung hotels early then. Avoid June to August, when landslides close roads and permits are often paused."},
+    {"q": "Can foreign national couples do this trip", "a": "Mostly. With a Sikkim Restricted Area Permit and the North Sikkim permit through an approved operator, foreign couples can usually visit Lachen, Thangu, Lachung and Yumthang. Foreign nationals are not allowed at Gurudongmar, so day 3 turns at Thangu. Zero Point rules for foreigners vary. A mixed Indian and foreign couple follows the foreign rules. Check current status before you travel."},
+    {"q": "Will our phones work in Lachen and Lachung", "a": "Partly. BSNL and some private networks work in Lachen and Lachung villages, but signal is patchy and data can be slow. Between Thangu and Gurudongmar and above Yumthang there is usually no signal. Tell family you may be offline for a day, download maps and music in Gangtok, and carry a power bank, since power cuts happen."},
+    {"q": "Is a private car really needed for a honeymoon", "a": "We think so. A group package puts you in a shared Bolero or Xylo with up to eight or ten others on a fixed schedule, and the timing is set by the slowest group member. A private car lets you leave Yumthang when you want, stop for photos and sleep in on day 4. On budget we share the car with one other couple to keep the cost down."}
+  ]
+}

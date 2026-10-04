@@ -1,0 +1,64 @@
+{% extends "hills/base.html" %}{% load hills %}
+{% block title %}Affordable Darjeeling, Sikkim and Bhutan trips: budget packages and tips · Darjeeling Tour Plan{% endblock %}
+{% block description %}Budget tour packages across Darjeeling, Kalimpong, Sikkim, Bhutan and the Dooars, sorted by price per night, with shared-jeep fares, cheaper months, homestays and what is free.{% endblock %}
+{% block content %}
+<header class="phead phead--slab on-dark"><div class="wrap phead__in">
+  <p class="eyebrow">{% icon "ticket" %} Affordable trips</p>
+  <h1 class="h-xl">A cheaper trip, <span class="accent">not a worse one</span></h1>
+  <p class="lede">Same routes, same permits, same care. You save on the things that do not change the trip: shared jeeps on transfer days, the quieter months, homestays and government lodges, and two or three bases instead of five.</p>
+  <div class="hero__ctas"><a class="btn btn--land" href="{% url 'plan' %}?budget=under-15k&from={{ request.path|urlencode }}" data-cta="affordable-plan">Plan a budget trip</a><a class="btn btn--ghost" href="{% url 'tool_budget' %}" data-cta="affordable-calc">Trip cost calculator</a></div>
+</div></header>
+
+<section class="sec--tight"><div class="wrap budgetband">
+  <div>
+    <p class="eyebrow">Where the money goes</p>
+    <h2 class="h-l" style="margin-bottom: 22px">Five ways we keep the price down</h2>
+    <ul class="savings">
+      <li><span class="lbadge">{% icon "jeep" %}</span><div><b>Shared jeeps on transfer days</b><span>A seat from NJP or Siliguri to Darjeeling, Kalimpong or Gangtok costs a fraction of a reserved car. We keep the car for sightseeing days, when it earns its price.</span></div></li>
+      <li><span class="lbadge">{% icon "calendar" %}</span><div><b>The quieter months</b><span>Late November to early December and February give clear mountains at lower rates. Peak weeks are the Puja holidays, Christmas to New Year and April to mid-June.</span></div></li>
+      <li><span class="lbadge">{% icon "bed" %}</span><div><b>Homestays and government lodges</b><span>Village homestays usually include dinner and breakfast. WBTDC, forest department and Sikkim Tourism lodges sit in some of the best spots at fair prices.</span></div></li>
+      <li><span class="lbadge">{% icon "route" %}</span><div><b>Fewer bases</b><span>Every hotel change costs half a day and a transfer. Two or three bases with day trips is cheaper and calmer than a new town every night.</span></div></li>
+      <li><span class="lbadge">{% icon "sparkle" %}</span><div><b>What is free</b><span>Monasteries, the Mall and Chowrasta, MG Marg, tea-garden roads, village trails and most viewpoints cost nothing. We tell you which tickets are worth buying.</span></div></li>
+    </ul>
+  </div>
+  {% if regions %}{% with r=regions.0 %}{% if r.budget %}<div data-land="{{ r.slug }}">{% include "hills/partials/chalk.html" with rows=r.budget.costs chalk_title=r.short|add:" rate board" %}</div>{% endif %}{% endwith %}{% endif %}
+</div></section>
+
+{% include "hills/partials/lungta.html" %}
+
+<section class="sec" id="packages"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Tour packages</p><h2 class="h-l">Budget fares, lowest per night first</h2>
+    <p class="lede">Prices are per person, twin sharing, from Bagdogra, NJP or Siliguri. Each package lists exactly what its budget fare includes.</p></div>
+    <a class="link-go" href="{% url 'journeys' %}">Every package {% icon "arrow" %}</a></div>
+  <div class="bands">{% for b in bands %}
+    {% with key=b.key %}<div>
+      <div class="band-head"><h3 class="h-m">{{ b.name }}</h3><b>per person, budget fare</b></div>
+      <div class="grid grid--4" data-fill>{% for j in cheap %}{% if key == "under-15k" and j.price_from_inr < 15000 or key == "15-25k" and j.price_from_inr >= 15000 and j.price_from_inr < 25000 or key == "25k-plus" and j.price_from_inr >= 25000 %}{% include "hills/partials/card_journey.html" %}{% endif %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+    </div>{% endwith %}
+  {% endfor %}</div>
+</div></section>
+
+{% if regions %}<section class="sec sec--paper2" id="by-land"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Land by land</p><h2 class="h-l">What things cost on the ground</h2>
+    <p class="lede">Indicative 2026 rates for shared jeeps, cars, rooms and tickets, and the one tip per land that saves the most.</p></div></div>
+  <div class="grid grid--2">{% for r in regions %}{% if r.budget %}<div class="block" data-land="{{ r.slug }}" style="margin-bottom: 0">
+    <h3 class="h-m" style="margin-bottom: 10px"><a href="{{ r.url }}#budget" style="text-decoration: none">{{ r.name }}</a></h3>
+    <p class="muted" style="font-size: 16.5px">{{ r.budget.tips.0 }}</p>
+    {% include "hills/partials/chalk.html" with rows=r.budget.costs chalk_title=r.short %}
+  </div>{% endif %}{% endfor %}</div>
+</div></section>{% endif %}
+
+{% if stays %}<section class="sec"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">{% icon "bed" %} Budget stays</p><h2 class="h-l">Clean rooms at honest prices</h2>
+    <p class="lede">Government lodges, homestays and budget hotels we would send our own families to, each with one honest line about what to watch out for.</p></div>
+    <a class="link-go" href="{% url 'stays' %}">All stays {% icon "arrow" %}</a></div>
+  <div class="grid grid--3" data-fill>{% for s in stays %}{% include "hills/partials/card_stay.html" %}{% endfor %}{% include "hills/partials/fill.html" with fill_title="Need a cheaper room?" fill_text="Give us a nightly budget. We know which homestays and lodges are worth it." %}</div>
+</div></section>{% endif %}
+
+{% if guides %}<section class="sec sec--paper2"><div class="wrap">
+  <div class="sec-head"><div><p class="eyebrow">Read before you go</p><h2 class="h-l">Budget guides</h2></div><a class="link-go" href="{% url 'guides' %}">All guides {% icon "arrow" %}</a></div>
+  <div class="grid grid--3" data-fill>{% for g in guides %}{% include "hills/partials/card_guide.html" %}{% endfor %}{% include "hills/partials/fill.html" %}</div>
+</div></section>{% endif %}
+
+<section class="sec"><div class="wrap narrow">{% include "hills/partials/faq.html" with faqs=faqs faq_title="Travelling for less" %}</div></section>
+{% endblock %}

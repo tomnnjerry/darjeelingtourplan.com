@@ -1,0 +1,145 @@
+{
+  "slug": "sandakphu-phalut-singalila-trek-7n",
+  "title": "Sandakphu and Phalut Singalila trek in 7 nights",
+  "region": "darjeeling",
+  "nights": 7,
+  "themes": ["treks-and-walks", "mountain-views", "birding-and-orchids", "budget-trips"],
+  "stops": [{"place": "darjeeling", "nights": 1}, {"place": "sandakphu", "nights": 6}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 17500,
+  "fares": {"budget": 17500, "comfort": 26000, "premium": 42000},
+  "fare_notes": {
+    "budget": "One night at the WBTDC Darjeeling Tourism Property or Revolver; trekkers' huts and village lodges on the trail in shared rooms or dorms; all meals on the trek; a licensed guide shared by the group; shared jeeps to Manebhanjan and back from Srikhola; park fees.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel in Darjeeling; private twin rooms in the better trail lodges where available; all meals; a licensed guide and one porter for every two trekkers; private car transfers at both ends.",
+    "premium": "The Windamere in Darjeeling; the best private rooms on the trail; a dedicated guide and a porter per trekker; a Land Rover on standby for Tumling–Sandakphu in case anyone needs to ride; private SUV transfers."
+  },
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 0, 2, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 3636,
+  "meta_description": "The Sandakphu–Phalut trek in 7 nights from ₹17,500 per person: Everest, Lhotse, Makalu and Kangchenjunga from 3,636 m on the Singalila ridge.",
+  "summary": "The full Singalila ridge trek: from Manebhanjan up to Sandakphu at 3,636 m, the highest point in West Bengal, on to Phalut for Kangchenjunga at close range, then down through Gorkhey and Rammam to Srikhola. About 75–80 km over six walking days, with lodges every night. From ₹17,500 per person, twin sharing.",
+  "intro": [
+    "From Sandakphu you can see four of the five highest mountains on earth: Everest, Kangchenjunga, Lhotse and Makalu. That view, from a ridge on the India–Nepal border inside Singalila National Park, is why this is the best-loved trek in the Darjeeling hills. The trail rises from Manebhanjan at 2,134 m through Tumling, Kalipokhri and Bikheybhanjang to Sandakphu, then runs 21 km along the open ridge to Phalut at about 3,600 m. Instead of retracing our steps, we drop through forest to Gorkhey, Rammam and Srikhola, and drive out from there.",
+    "It is a moderate trek with no technical sections, but the days are long and the height is real. You sleep above 3,000 m for three nights. The park rules require a licensed guide, park entry and stays at registered lodges; trekking without a guide is not permitted. The park closes from mid-June to mid-September. October and November give the clearest views; April and May bring rhododendrons in flower, with more haze. Rules and fees change, so check current status before you travel."
+  ],
+  "highlights": [
+    "Everest, Lhotse, Makalu and Kangchenjunga from Sandakphu at 3,636 m",
+    "The 21 km ridge walk from Sandakphu to Phalut",
+    "Rhododendron forests in flower in April and May",
+    "Red panda habitat in Singalila National Park",
+    "Riverside villages at Gorkhey and Rammam on the way down"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Darjeeling and briefing",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Reach Darjeeling by shared jeep from NJP for ₹250–400 a seat, or by private car on comfort and premium. Sleeping at 2,042 m tonight helps your body before the trail. In the evening your guide meets you to check boots, rain gear, a down jacket, gloves and a headtorch, and to collect copies of photo ID for the park permit. Foreign nationals must carry their passport. Hire missing gear in Darjeeling for ₹100–300 a day, indicative 2026. Buy snacks, oral rehydration salts and a power bank; charging on the trail is limited and sometimes paid.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Manebhanjan to Tumling",
+      "place": "sandakphu",
+      "overnight": "Tumling",
+      "drive": "≈ 26 km to Manebhanjan · 1–1.5 h; trek ≈ 11 km · 5–6 h",
+      "text": "Drive to Manebhanjan at 2,134 m, where the park office checks permits and assigns your guide; park entry costs about ₹100–200 a day for Indians and more for foreigners, indicative 2026. The trail climbs steeply to Chitrey and its small monastery, then rises more gently through Lamaydhura and Meghma, crossing in and out of Nepal along the border. Tumling, at about 2,970 m, has a few lodges and, on a clear afternoon, the first full view of the Kangchenjunga range. Drink plenty of water, walk slowly and keep warm after sunset.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Tumling to Kalipokhri",
+      "place": "sandakphu",
+      "overnight": "Kalipokhri",
+      "drive": "Trek ≈ 13 km · 5–6 h",
+      "text": "Walk through Jaubari on the Nepal side and descend to Gairibas at about 2,620 m, where the forest of oak, magnolia and rhododendron is good red panda country; they are shy and rarely seen. Climb through Kaiyakatta to Kalipokhri at about 3,186 m, named for its small dark pond, which local tradition holds sacred. This is the first night above 3,000 m. A mild headache is common; tell your guide if it worsens. Lodges here are basic, with shared toilets. Dinner is usually rice, dal, a vegetable, eggs and hot tea.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Kalipokhri to Sandakphu",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "Trek ≈ 6 km · 3–4 h",
+      "text": "A short but steep day. The trail passes Bikheybhanjang at about 3,000 m, then climbs hard for the last 4 km to Sandakphu at 3,636 m, the highest point in West Bengal. Arrive by lunch and rest. In the afternoon, if the sky is clear, the Kangchenjunga massif lies to the north and the Everest group to the west, about 140 km away. Watch sunset on the peaks, then sleep early. At dawn tomorrow, step out at about 5 am for the classic view of the Sleeping Buddha, the outline of the Kangchenjunga range.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 5,
+      "title": "The ridge walk to Phalut",
+      "place": "sandakphu",
+      "overnight": "Phalut",
+      "drive": "Trek ≈ 21 km · 7–8 h",
+      "text": "The longest and finest day. After the sunrise from Sandakphu, walk north along the open grassy ridge through Sabargram, with the mountains in front of you all day. There is almost no shade and little water, so carry 2 litres and a packed lunch, and protect your skin from the sun and wind. Phalut, at about 3,600 m, sits close to where Nepal, West Bengal and Sikkim meet, and Kangchenjunga looks close enough to touch. If weather turns or anyone is unwell, the guide may turn back to Sandakphu; Land Rovers do not run this stretch.",
+      "meals": "Breakfast, packed lunch, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Phalut down to Gorkhey",
+      "place": "sandakphu",
+      "overnight": "Gorkhey",
+      "drive": "Trek ≈ 15 km · 6–7 h",
+      "text": "One more sunrise from the top of Phalut, a short climb from the lodge. Then the trail leaves the ridge and drops about 1,200 m through thick forest of rhododendron, fir and bamboo, which is hard on the knees; walking poles help. Gorkhey, at about 2,400 m, is a small village beside a river on the Sikkim border, with terraced fields and a few homestays. Your legs will ache, and a hot wash and a long sleep are the plan. The air is warmer here after three nights above 3,000 m.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 7,
+      "title": "Gorkhey to Rammam",
+      "place": "sandakphu",
+      "overnight": "Rammam",
+      "drive": "Trek ≈ 9 km · 4–5 h",
+      "text": "A shorter day that climbs out of Gorkhey to the village of Samanden, in a bowl of fields among the forest, then on to Rammam at about 2,560 m. The trail passes cardamom groves and Lepcha and Nepali farmhouses. Arrive by early afternoon and rest at the lodge, or walk to the village and talk with the families who have hosted trekkers for decades. This is the evening for tipping your guide and porters; we suggest ₹300–500 a day per staff member from the group, indicative 2026.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 8,
+      "title": "Rammam to Srikhola and out to NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "Trek ≈ 9 km · 3–4 h; drive ≈ 120 km · 5–6 h",
+      "text": "Walk down through forest to Srikhola at about 1,900 m, where a bridge crosses the river and cars wait. From here drive via Rimbik and Dhotrey or Manebhanjan to Darjeeling and on to NJP or Siliguri, arriving in the evening. Budget trekkers ride a shared jeep from Srikhola or Rimbik to Darjeeling, then on to Siliguri; seats are limited after midday. Book a late train or a night in Siliguri, as the trek and long drive on one day are tiring. If you prefer, add a night in Darjeeling before heading home.",
+      "meals": "Breakfast, lunch"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling"],
+  "includes": [
+    "1 night in Darjeeling in your chosen tier and 6 nights in trail lodges",
+    "All meals on the trek, from day 2 breakfast to day 8 lunch",
+    "Licensed Singalila National Park guide; porters on comfort and premium",
+    "Park entry and camera fees for the route",
+    "Transfers NJP–Darjeeling–Manebhanjan and Srikhola–NJP (shared jeeps on budget)"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Porters on budget (₹800–1,200 a day each, indicative 2026)",
+    "Gear hire, bottled drinks, snacks and charging fees on the trail",
+    "Tips for guides and porters",
+    "Travel and medical insurance, and evacuation costs"
+  ],
+  "save_more": [
+    "Trek as a group of four to six and share one guide; the guide fee is charged per group, not per person.",
+    "Carry your own pack instead of hiring a porter, and hire boots, jackets and poles in Darjeeling instead of buying them.",
+    "Go in the second half of November or early March, when lodges are quieter and bargaining for private rooms is easier."
+  ],
+  "good_to_know": [
+    "A licensed guide is compulsory inside Singalila National Park; trekking alone is not allowed. Check current status before you travel.",
+    "The park closes to trekkers from about 16 June to 15 September each year.",
+    "December to February brings snow and temperatures well below 0 °C at night; only well-equipped trekkers should go then.",
+    "The trail crosses the open border with Nepal; Indians carry photo ID, foreigners carry their passport and visa.",
+    "Mobile signal is patchy: Nepali networks work in some places, Indian ones in others."
+  ],
+  "faqs": [
+    {"q": "How difficult is the Sandakphu Phalut trek", "a": "Moderate. There are no technical sections, but you walk 9–21 km a day for six days with steep climbs to Chitrey and Sandakphu and a long, knee-testing descent from Phalut. Anyone who walks 5–8 km regularly and climbs stairs without trouble can do it with preparation. Start walking or stair training four to six weeks before the trek."},
+    {"q": "What is the best month for the Sandakphu trek", "a": "October and November for the clearest mountain views and dry trails. April and May bring rhododendrons in flower and warmer days, but more haze and afternoon cloud. March and December are good if you can handle the cold. The park closes from about mid-June to mid-September. Check current status before you travel."},
+    {"q": "Is a guide compulsory for Sandakphu", "a": "Yes. Singalila National Park rules require trekkers to hire a licensed guide at Manebhanjan, and the park office checks this. Guides cost about ₹1,000–1,500 a day per group, indicative 2026, and they arrange lodges and meals. It also makes the trek safer, since paths fork into Nepal and weather turns quickly. Check current status before you travel."},
+    {"q": "How much does the Sandakphu Phalut trek cost", "a": "Our 7-night trip starts at ₹17,500 per person, twin sharing, on budget, with a shared guide, basic lodges, all meals on the trail and shared jeeps. Comfort, with porters, private rooms where available and private transfers, costs about ₹26,000; premium starts around ₹42,000. Independent trekkers with a group of four spend ₹2,000–3,000 a day each."},
+    {"q": "Can we see Everest from Sandakphu", "a": "Yes, on a clear day. Everest, Lhotse and Makalu are visible to the west, roughly 140 km away, and Kangchenjunga fills the northern skyline. Early mornings from October to December give the best chance. From April onwards haze and cloud often hide Everest by mid-morning, so be outside at dawn."},
+    {"q": "Is there a road to Sandakphu", "a": "Yes. A narrow, steep road runs from Manebhanjan to Sandakphu, used by old Land Rovers and other four-wheel drives that carry visitors and supplies; a vehicle costs ₹5,500–7,500 return, indicative 2026. The road runs near the trail in places. There is no road from Sandakphu to Phalut for tourist vehicles, and that ridge is walked."},
+    {"q": "What is the accommodation like on the trek", "a": "Basic. Trekkers' huts and private lodges offer dorm beds or simple twin rooms with thick blankets, shared toilets and limited hot water, which may cost extra. Meals are simple rice, dal, vegetables, noodles and eggs. Lodges at Sandakphu fill fast in October and May, which is why we book ahead through the guide."},
+    {"q": "Will I get altitude sickness on the Sandakphu trek", "a": "Some people feel a headache or shortness of breath above 3,000 m. The route climbs gradually, so serious altitude sickness is uncommon, but you must tell your guide about symptoms. Drink 3–4 litres a day, avoid alcohol and climb slowly. If vomiting, confusion or severe breathlessness starts, descend at once."},
+    {"q": "Can foreigners do the Sandakphu trek", "a": "Yes. Foreign nationals can trek Sandakphu and Phalut with a licensed guide, paying a higher park fee than Indians. Because the trail crosses the India–Nepal border in places, carry your passport and Indian visa at all times. Rules can change, so check current status before you travel and ask your guide at Manebhanjan."}
+  ]
+}

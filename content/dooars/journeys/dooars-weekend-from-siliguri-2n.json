@@ -1,0 +1,76 @@
+{
+  "slug": "dooars-weekend-from-siliguri-2n",
+  "title": "Dooars family weekend from Siliguri in 2 nights",
+  "region": "dooars",
+  "nights": 2,
+  "themes": ["family-trips", "wildlife-safaris", "tea-gardens", "budget-trips"],
+  "stops": [{"place": "lataguri", "nights": 2}],
+  "start": "Siliguri, NJP station or Bagdogra Airport (IXB); New Mal Junction for train travellers from Kolkata",
+  "end": "Siliguri, NJP station or Bagdogra Airport (IXB); New Mal Junction for the train back",
+  "price_from_inr": 6000,
+  "fares": {"budget": 6000, "comfort": 11000, "premium": 20000},
+  "fare_notes": {
+    "budget": "A family-run lodge in Lataguri, twin sharing (children share parents' room); a reserved small car shared by four from Siliguri and back; one Gorumara watchtower safari in a shared jeep; breakfast and dinner.",
+    "comfort": "The Reserve Gorumara at Lataguri or a cottage at Murti Banani; a private car for your family both days; two safari sessions in a jeep for your party; breakfast and dinner.",
+    "premium": "Sinclairs Retreat Dooars at Chalsa, with its pool and tea-garden setting; a private SUV for the weekend; two private jeep safaris; all meals."
+  },
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 150,
+  "meta_description": "A 2 nights Dooars weekend from Siliguri or Kolkata, from ₹6,000: Gorumara watchtower safari, Murti river, tea gardens and Jalpesh temple at an easy pace.",
+  "summary": "A two-night weekend at Lataguri for families from Siliguri, or from Kolkata on the Friday-night train to New Mal. One Gorumara watchtower safari, an afternoon by the Murti river, the Chalsa tea gardens and the Jalpesh temple, with short drives. From ₹6,000 per person, twin sharing.",
+  "intro": [
+    "Most Siliguri families do the Dooars as a weekend, and it works: Lataguri is only about 80 km and 2 hours away, and one good watchtower session can show you gaur, elephants and peacocks at close range. Families from Kolkata can join by taking the Kanchankanya Express from Sealdah on Friday night to New Mal Junction, about 10 km from Lataguri, and the same train back on Sunday night.",
+    "We keep it easy. One safari in the afternoon of day 1 or the morning of day 2, never both on the first day. Lunch where children can run around. A slow hour at the Murti river, where the water is shallow and clear in winter. Weekend safari slots go fast, especially from November to February, so book as early as booking opens. Gorumara closes from mid-June to mid-September; check current status before you travel."
+  ],
+  "highlights": [
+    "Gorumara watchtower session over a salt lick, with gaur and elephants",
+    "The shallow Murti river and the forest lodges at Murti",
+    "Chalsa tea gardens and the Chapramari forest road",
+    "Jalpesh temple near Maynaguri, first built in 1524",
+    "Short drives: about 2 hours each way from Siliguri"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Lataguri and a river afternoon", "place": "lataguri", "overnight": "Lataguri", "drive": "≈ 80 km · 2–2.5 h", "text": "Leave Siliguri by 8 am, cross the Coronation Bridge at Sevoke and drive through the Mahananda forest and the tea gardens of Odlabari and Malbazar. Kolkata families arriving at New Mal on the Kanchankanya Express are met at the station. Check in at Lataguri and have lunch. In the afternoon drive 15 km to Murti, where the river runs shallow and clear over stones in winter and children can paddle at the edge under supervision. Stay off the banks after dark; elephants cross here. Back in Lataguri, many lodges arrange an evening folk-dance programme for a small fee.", "meals": "Dinner"},
+    {"day": 2, "title": "Gorumara safari and tea gardens", "place": "gorumara-national-park", "overnight": "Lataguri", "drive": "≈ 50 km with the safari", "text": "Take a morning watchtower safari: the jeep runs to Jatraprasad, Chukchuki or the Rhino Observation Point, where you sit above a salt lick for about an hour. Gaur, elephant, sambar and peacocks are common; rhinos come out less often. Each jeep holds six and costs about ₹2,500–3,500 with the watchtower, indicative 2026. Gorumara safaris are usually closed on Thursdays; check current status before you travel. After breakfast, drive to Chalsa for the tea gardens and the view over the Chapramari forest. Pluckers are at work from March to November. Late afternoon, a second safari or a rest by the lodge.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Jalpesh temple and home", "place": "siliguri", "overnight": "", "drive": "≈ 110 km · 3 h with the temple", "text": "After breakfast drive about 30 minutes south to the Jalpesh temple near Maynaguri, a Shiva temple first built in 1524 under Bishwa Singha of the Koch dynasty and rebuilt later. It is the site of a large fair at Mahashivratri. Shoes come off at the gate; a small donation is customary. Then drive back to Siliguri through Jalpaiguri town or via Malbazar, about 2.5 hours. Kolkata families have the day free and take the evening Kanchankanya Express from New Mal; check the timetable, which changes. Siliguri families are home by mid-afternoon.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-reserve-gorumara-lataguri", "murti-banani-eco-tourism-centre", "sinclairs-retreat-dooars-chalsa"],
+  "includes": [
+    "2 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner",
+    "Car from Siliguri, NJP, Bagdogra or New Mal and back",
+    "One Gorumara safari on budget, two on comfort and premium",
+    "Safari booking on the official forest department system"
+  ],
+  "excludes": [
+    "Train tickets from Kolkata",
+    "Lunches",
+    "Evening dance programmes and temple donations",
+    "Camera and guide fees at the park",
+    "Personal expenses"
+  ],
+  "save_more": [
+    "Go Sunday to Tuesday instead of Friday to Sunday; mid-week rooms and safaris are cheaper and easier to get.",
+    "Use a bus or shared vehicle from Siliguri to Lataguri at ₹100–200 a seat, indicative 2026, and hire a car only for the safari day.",
+    "Pick a watchtower slot instead of a long jeep circuit; it costs less and often shows more animals."
+  ],
+  "good_to_know": [
+    "Gorumara is closed from mid-June to mid-September, and safaris are usually closed on Thursdays. Check current status before you travel.",
+    "Carry the original photo ID used for safari booking for every adult; children may need age proof.",
+    "Lataguri's main road carries highway traffic; hold small children's hands on evening walks.",
+    "Mosquito repellent is useful all year, and essential from April to October.",
+    "During Durga Puja and from 24 December to 1 January, weekend rates can double; book months ahead."
+  ],
+  "faqs": [
+    {"q": "Is two nights enough for the Dooars", "a": "Two nights is enough for Gorumara alone: one or two watchtower safaris, the Murti river, tea gardens and the Jalpesh temple. It is not enough for Jaldapara too, which is another 2.5 hours east. For both parks, take our 4-night wildlife trip. For a first family visit from Siliguri or Kolkata, a weekend at Lataguri is a good start."},
+    {"q": "How do we reach Lataguri from Kolkata", "a": "The simplest way is the overnight Kanchankanya Express from Sealdah to New Mal Junction, about 10 km from Lataguri, then a car or auto. Sleeper fares are about ₹400–550, indicative 2026. You can also take any overnight train to NJP and drive 2–2.5 hours, or fly to Bagdogra. Timetables change, so check current status before you travel."},
+    {"q": "What can children see on a Gorumara safari", "a": "From the watchtowers, children commonly see gaur, the large wild cattle, plus elephants, sambar and barking deer, peafowl and hornbills. Rhinos appear on some days. Sightings are never guaranteed. Children need to stay quiet for about an hour in the tower, so bring binoculars and a small notebook to keep them busy."},
+    {"q": "Is Murti river safe for children", "a": "In winter the Murti is shallow, clear and slow at the usual spots near the lodges, and children can paddle at the edge with an adult. Do not let them go into the current, and avoid the river after rain, when it rises fast. Leave the banks before dusk, because elephants cross the river in the evening."},
+    {"q": "How much does a Dooars weekend cost for a family of four", "a": "On our budget tier, about ₹24,000 for two adults and two children sharing one room, indicative 2026, including lodge, breakfast and dinner, a car from Siliguri and one safari. Comfort runs about ₹40,000–45,000. Children under 5 usually stay free; ask about extra beds. Train fares from Kolkata are extra."},
+    {"q": "Are there resorts with a pool near Gorumara", "a": "A few. Sinclairs Retreat Dooars at Chalsa, about 20 minutes from Lataguri, has a pool and is our premium pick for families. Some private resorts at Lataguri also have small pools. Government lodges and family-run hotels do not. Pools may be closed in winter for cleaning, so ask when you book."},
+    {"q": "Can we do the Dooars in the monsoon", "a": "The parks close from mid-June to mid-September, so there are no safaris. You can still stay at Lataguri, Murti or Samsing for the green tea gardens and rain-fed rivers, at much lower rates. Rivers rise quickly and some roads flood. For a family weekend with safaris, choose October to May. Check current status before you travel."},
+    {"q": "What food is available at Lataguri", "a": "Lodges serve Bengali home food: rice, dal, fish curry, chicken, egg curry and vegetables, with rotis. Local river fish, bamboo-shoot and leafy-green dishes appear when the cook is from the area; ask for them. Roadside dhabas sell thalis for ₹100–200, indicative 2026. Ask lodges for less spicy food for children; they are used to it."},
+    {"q": "Which day of the week is Gorumara closed", "a": "Gorumara safaris are usually closed on Thursdays, as we understand the current rule, and the park closes completely from mid-June to mid-September. If your weekend runs Thursday to Saturday, take the safari on Friday morning. Lodges, the Murti river and the tea gardens stay open. Check current status before you travel."}
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "sandakphu-land-rover-4n",
+  "title": "Sandakphu by Land Rover in 4 nights",
+  "region": "darjeeling",
+  "nights": 4,
+  "themes": ["mountain-views", "treks-and-walks", "family-trips"],
+  "stops": [{"place": "darjeeling", "nights": 1}, {"place": "sandakphu", "nights": 2}, {"place": "darjeeling", "nights": 1}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 11500,
+  "fares": {"budget": 11500, "comfort": 18500, "premium": 33000},
+  "fare_notes": {
+    "budget": "WBTDC Darjeeling Tourism Property or Revolver for the two Darjeeling nights; basic lodges at Tumling and Sandakphu with all meals there; one Land Rover with driver shared by six travellers; shared jeeps NJP–Darjeeling and back.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel in Darjeeling; the best private twin rooms available at Tumling and Sandakphu; a Land Rover shared by four; a private car NJP–Darjeeling and back; breakfast and dinner in Darjeeling.",
+    "premium": "Windamere Hotel or Mayfair Hill Resort in Darjeeling; the best rooms at Tumling and Sandakphu; a private Land Rover for your party; a private Innova-class car at both ends; breakfast and dinner throughout."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3636,
+  "meta_description": "Sandakphu without the trek in 4 nights from ₹11,500 per person: a Land Rover up the Singalila ridge to see Everest and Kangchenjunga from 3,636 m.",
+  "summary": "The Sandakphu view without six days of walking. We ride the old Land Rovers up from Manebhanjan, sleep one night at Tumling to adjust to the height, then a night at Sandakphu at 3,636 m for sunset and sunrise over Everest, Lhotse, Makalu and Kangchenjunga. Darjeeling nights at both ends. From ₹11,500 per person, twin sharing.",
+  "intro": [
+    "For decades the Land Rovers of Manebhanjan have carried supplies, villagers and visitors up the Singalila ridge. Several are vintage vehicles from the 1950s and 1960s, kept running by local owner-drivers, and the narrow road they climb is one of the steepest in India. Riding one to Sandakphu, the highest point in West Bengal, opens the trek's famous view to families, older travellers and anyone short of time. On a clear morning four of the world's five highest peaks line the horizon.",
+    "We do not rush it. Going straight from Darjeeling to 3,636 m in one day gives many people headaches and a bad night, so we stop at Tumling, at about 2,970 m, on the first night. The next morning the Land Rover continues through Gairibas and Kalipokhri to Sandakphu, and those who want a short walk can do the last stretch on foot. Lodges are basic, nights are cold and toilets are often shared. The road and park rules change, so check current status before you travel."
+  ],
+  "highlights": [
+    "Riding the Manebhanjan Land Rovers up the Singalila ridge",
+    "A night at Tumling with the Kangchenjunga range at sunset",
+    "Sunrise over Everest, Lhotse, Makalu and Kangchenjunga at Sandakphu",
+    "An optional walk on the trek trail from Kalipokhri",
+    "Rhododendron forests in flower in April and May"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Reach Darjeeling by shared jeep from NJP for ₹250–400 a seat, indicative 2026, or by private car. Rest in the afternoon: sleeping at 2,042 m tonight is the first step towards Sandakphu. Walk up to Chowrasta and the Mall in the evening, and use the time to fill gaps in your kit. You need a down or heavy fleece jacket, a woollen cap, gloves, thermals and a headtorch even in May, since Sandakphu nights fall below freezing for much of the year. Gear hire shops in Darjeeling charge ₹100–300 a day.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Manebhanjan to Tumling by Land Rover",
+      "place": "sandakphu",
+      "overnight": "Tumling",
+      "drive": "≈ 26 km to Manebhanjan · 1–1.5 h; ≈ 11 km by Land Rover · 1.5 h",
+      "text": "Drive to Manebhanjan at 2,134 m by mid-morning. At the park office pay entry, about ₹100–200 per person for Indians and more for foreigners, plus a vehicle fee, and meet your Land Rover and driver. A Land Rover for the round trip with two nights' halt costs roughly ₹8,000–11,000, indicative 2026, shared by up to six. The road climbs hard past Chitrey and Meghma, crossing the border with Nepal in places, to Tumling at about 2,970 m. Walk around the hamlet in the afternoon and watch sunset on Kangchenjunga. Drink plenty and take it easy.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Tumling to Sandakphu",
+      "place": "sandakphu",
+      "overnight": "Sandakphu",
+      "drive": "≈ 20 km by Land Rover · 2–3 h",
+      "text": "Continue through Jaubari and down to Gairibas, in oak and rhododendron forest, then climb past Kaiyakatta to Kalipokhri at about 3,186 m. If you feel well, walk the last 6 km on the trail through Bikheybhanjang while the Land Rover goes ahead with the bags; it is steep for the final 4 km and takes 3–4 hours. Otherwise ride all the way. At Sandakphu, 3,636 m, rest after lunch. In late afternoon walk to the viewpoint for sunset on Kangchenjunga and, if clear, the Everest group to the west. Dinner early; it gets very cold.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Sandakphu sunrise and back to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 31 km by Land Rover · 3–4 h; ≈ 26 km to Darjeeling · 1–1.5 h",
+      "text": "Step out at about 5 am for sunrise. On a clear morning the light hits Kangchenjunga first, then Makalu, Lhotse and Everest, roughly 140 km to the west. After breakfast the Land Rover takes you back down the ridge to Manebhanjan, a bumpy 3–4 hours, and your car or a shared jeep (₹80–150 a seat) brings you to Darjeeling by mid-afternoon. A hot shower and a proper bed feel very good tonight. Dinner on Nehru Road, or at the hotel on comfort and premium.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Darjeeling to NJP or Bagdogra",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "If you have the energy, be on Chowrasta at 6 am for one more look at the mountains you saw up close yesterday, then breakfast. Leave Darjeeling by 10–11 am for an afternoon flight from Bagdogra or an evening train from NJP; the drive takes 3–3.5 hours through Ghum and Kurseong. Budget travellers take a shared jeep for ₹250–400 a seat from the motor stands near Chowk Bazaar. Allow an extra hour on weekends and after rain.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling"],
+  "includes": [
+    "2 nights in Darjeeling in your chosen tier, twin sharing",
+    "1 night at Tumling and 1 at Sandakphu in lodges, with all meals there",
+    "Land Rover with driver from Manebhanjan and back (shared on budget and comfort)",
+    "Transfers NJP–Darjeeling–Manebhanjan and back (shared jeeps on budget)",
+    "Park entry and vehicle fees for Singalila National Park"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Guide, if park rules require one for your group",
+    "Gear hire, bottled drinks, snacks and charging fees at the lodges",
+    "Lunches and dinners in Darjeeling on the budget tier",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Fill the Land Rover: the vehicle costs the same for two or six people, so join with another family or ask us to match you with a group.",
+    "Hire down jackets and thermals in Darjeeling for ₹100–300 a day rather than buying gear you will use twice.",
+    "Travel in March or late November, when Darjeeling hotels discount and Sandakphu lodges have spare rooms."
+  ],
+  "good_to_know": [
+    "Sandakphu is at 3,636 m; anyone with heart or lung conditions should consult a doctor, and children under 5 are better left out.",
+    "Lodges are basic, with shared toilets in many and hot water by the bucket for a fee.",
+    "Singalila park rules, vehicle fees and guide requirements change. Check current status before you travel.",
+    "Snow can block the road between December and March for a few days at a time.",
+    "Carry photo ID (passport for foreigners): the road crosses the open Nepal border in places."
+  ],
+  "faqs": [
+    {"q": "Can you go to Sandakphu by car", "a": "Yes, by four-wheel drive. Land Rovers and other 4x4s run from Manebhanjan, 26 km from Darjeeling, up to Sandakphu on a steep, narrow road. Ordinary cars and city SUVs are not suitable. A Land Rover for the round trip with two nights' halt costs about ₹8,000–11,000, indicative 2026, and seats up to six. Check current status before you travel."},
+    {"q": "Why stop at Tumling instead of going straight to Sandakphu", "a": "Because going from 2,042 m in Darjeeling to 3,636 m in one day gives many people headaches, nausea and a sleepless night. Stopping at Tumling, about 2,970 m, lets your body adjust. It also gives you an extra sunset and sunrise with the Kangchenjunga range in view, so you have two chances at clear weather."},
+    {"q": "What can you see from Sandakphu", "a": "On a clear day, Kangchenjunga to the north, the whole Kangchenjunga range often called the Sleeping Buddha, and to the west Everest, Lhotse and Makalu, roughly 140 km away. That makes four of the five highest mountains in the world. Mornings from October to December give the clearest views; spring haze often hides Everest by mid-morning."},
+    {"q": "Is Sandakphu suitable for senior citizens", "a": "Many fit seniors go by Land Rover, but the altitude and cold need respect. Sandakphu sits at 3,636 m, the ride is bumpy, lodges have stairs and shared toilets, and nights fall below freezing. Anyone with heart or lung problems should ask a doctor first. The Tumling night and a slow pace make it easier."},
+    {"q": "How much does the Sandakphu Land Rover trip cost", "a": "From ₹11,500 per person, twin sharing, on budget with a Land Rover shared by six, basic lodges and shared jeeps. Comfort, with better rooms, a Land Rover shared by four and a private car, costs about ₹18,500. Premium, with a private Land Rover and the Windamere, starts near ₹33,000. Prices are indicative for 2026."},
+    {"q": "When is snow at Sandakphu", "a": "Snow usually falls between December and March, most often in January and February, and the ridge can stay white for days. Temperatures drop to −10 °C or lower at night. The road may close briefly after heavy falls. Snow is beautiful but cold and unpredictable; for clear views with less risk, choose October, November or early December."},
+    {"q": "Is there electricity and mobile network at Sandakphu", "a": "Lodges have electricity, often from solar or generators, with limited hours, and charging phones may cost a small fee. Mobile signal is patchy: in places a Nepali network works better than Indian ones. Carry a power bank, download offline maps and tell family you may be out of contact for a day or two."},
+    {"q": "Do we need a guide for Sandakphu by Land Rover", "a": "Trekkers must hire a licensed guide. For Land Rover visitors the rules have varied: sometimes the driver is enough, at other times the park office has asked groups to take a guide. We confirm the current rule before your trip and include the cost if needed. Check current status before you travel."},
+    {"q": "Can we walk part of the way", "a": "Yes. The most popular stretch is from Kalipokhri to Sandakphu, about 6 km and 3–4 hours, steep for the last 4 km. The Land Rover carries your bags ahead. Anyone feeling the altitude should ride instead. You can also take short walks around Tumling, along the ridge, with good views on clear afternoons."}
+  ]
+}

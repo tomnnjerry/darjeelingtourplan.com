@@ -1,0 +1,79 @@
+{
+  "slug": "dooars-family-holiday-from-kolkata-5n",
+  "title": "Dooars family holiday from Kolkata in 5 nights",
+  "region": "dooars",
+  "nights": 5,
+  "themes": ["family-trips", "wildlife-safaris", "tea-gardens", "mountain-views"],
+  "stops": [{"place": "lataguri", "nights": 2}, {"place": "jhalong", "nights": 1}, {"place": "jaldapara-national-park", "nights": 2}],
+  "start": "New Mal Junction (Kanchankanya Express from Sealdah), NJP station or Bagdogra Airport (IXB)",
+  "end": "Hasimara station, NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 13500,
+  "fares": {"budget": 13500, "comfort": 23500, "premium": 45000},
+  "fare_notes": {
+    "budget": "A family-run Lataguri lodge, a Jhalong homestay and a simple Madarihat hotel or the Malangi lodge, twin sharing (children share parents' room); a reserved car shared by four for all transfers; one Gorumara watchtower safari and one Jaldapara safari in shared jeeps; breakfast and dinner.",
+    "comfort": "The Reserve Gorumara at Lataguri, the best Jhalong homestay or lodge, and WBTDC's Aranya Tourism Property at Madarihat; a private car for your family throughout; two safaris in each park in a jeep for your party; breakfast and dinner.",
+    "premium": "Sinclairs Retreat Dooars at Chalsa, the best available Jhalong stay and Aranya's best rooms; a private SUV and driver; private jeep safaris; a naturalist for one bird walk; all meals."
+  },
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 900,
+  "meta_description": "5 nights from ₹13,500 for Kolkata families: overnight train to the Dooars, Gorumara and Jaldapara safaris, and a river night at Jhalong on the Bhutan border.",
+  "summary": "A five-night school-holiday trip for families from Kolkata: the overnight train to New Mal, two nights at Lataguri for Gorumara, a cool river night at Jhalong on the Bhutan border, and two at Madarihat for Jaldapara's rhinos. Short drives, early nights. From ₹13,500 per person, twin sharing.",
+  "intro": [
+    "Kolkata families have holidayed in the Dooars for generations, and the overnight train is half the fun: board the Kanchankanya Express at Sealdah in the evening and wake up to tea gardens. From New Mal Junction it is 10 km to Lataguri and Gorumara. We give each place enough time that children are not dragged from one car seat to the next: no drive on this trip is longer than about 3 hours.",
+    "In the middle we climb to Jhalong, a village on the Jaldhaka river at the Bhutan border, about 600 m up, where the air is cooler and the river runs green over boulders. Bindu, the last Indian village up the valley, sits right on the border. Then east to Madarihat for Jaldapara's dawn safaris, where the 2025 census counted about 331 rhinos. The parks close from mid-June to mid-September; check current status before you travel."
+  ],
+  "highlights": [
+    "The overnight Kanchankanya Express from Sealdah through the tea gardens",
+    "Gorumara watchtowers over salt licks, with gaur and elephants",
+    "Jhalong and Bindu on the Jaldhaka river at the Bhutan border",
+    "Dawn rhino safari in Jaldapara",
+    "Totopara or the Chilapata forest as an optional half-day"
+  ],
+  "days": [
+    {"day": 1, "title": "Arrive at New Mal, on to Lataguri", "place": "lataguri", "overnight": "Lataguri", "drive": "≈ 10 km · 20 min from New Mal", "text": "Your train reaches New Mal Junction in the morning; families flying in to Bagdogra or arriving at NJP are met there for the 2-hour drive via Sevoke. Check in at Lataguri, have a late breakfast and let everyone sleep off the train. In the afternoon drive 15 km to the Murti river, which runs shallow and clear in winter, so children can paddle at the edge with an adult. Leave before dusk, when elephants cross. Back at the lodge, a local troupe may perform Rajbanshi or Adivasi dances in the evening for a small fee.", "meals": "Dinner"},
+    {"day": 2, "title": "Gorumara watchtower safaris", "place": "gorumara-national-park", "overnight": "Lataguri", "drive": "≈ 40 km in safari jeeps", "text": "Gorumara's safaris take you by jeep to a watchtower above a salt lick, where you sit quietly for an hour. Morning at Chukchuki is good for birds and hornbills; afternoon at Jatraprasad or the Rhino Observation Point brings gaur, elephants, sambar and sometimes a rhino. A jeep for six with the watchtower costs about ₹2,500–3,500, indicative 2026. Give children binoculars and a notebook to tick off sightings. Gorumara safaris are usually closed on Thursdays; check current status before you travel. Rest at the lodge between sessions.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Up the Jaldhaka valley to Jhalong", "place": "jhalong", "overnight": "Jhalong", "drive": "≈ 50 km · 1.5–2 h", "text": "Drive north through the Chalsa tea gardens and climb into the hills along the Jaldhaka river to Jhalong, about 600 m up, where the temperature drops a few degrees. After lunch at the homestay, drive on to Bindu, the last village on the Indian side, where a dam on the Jaldhaka sits right at the Bhutan border. Photography rules near the dam and border can be strict, so ask before you take pictures. Back in Jhalong, walk by the river and watch for river birds such as forktails and plumbeous redstarts. Evenings are cool; carry a sweater.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Jhalong to Madarihat", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 100 km · 3 h", "text": "Drive back down to the plains and east through the tea gardens of Nagrakata, Banarhat and Binnaguri, crossing the Diana and Jaldhaka rivers, to Madarihat at the gate of Jaldapara. On the way, stop at a roadside tea shop to taste Dooars CTC tea, the strong, granular tea most Indian homes drink. Check in, rest through the afternoon and, if time allows, visit the South Khayerbari rescue centre. Early dinner and early bed: the Jaldapara safari tomorrow leaves at sunrise.", "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Rhinos at dawn, Chilapata or Totopara", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 50 km with safari and half-day trip", "text": "The first jeep safari rolls into Jaldapara's grassland at sunrise, the best hour for rhinos, gaur, hog deer and peafowl. A jeep for up to six costs about ₹2,800–4,000, indicative 2026. After breakfast, choose a half-day: a jeep safari in the dense Chilapata forest near Hasimara, with the Nalraja Garh ruins, or a guided visit to Totopara, 21 km away, home of the Toto community. At Totopara, keep the group small and ask before every photograph. Comfort and premium families can take a second Jaldapara safari instead.", "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Train home from Hasimara", "place": "jaldapara-national-park", "overnight": "", "drive": "≈ 20 km to Hasimara; ≈ 125 km · 3–3.5 h to Siliguri", "text": "After breakfast, Kolkata families drive about 20 km to Hasimara for the Kanchankanya Express back to Sealdah or a train to NJP. Families flying from Bagdogra drive west through Birpara, the tea gardens and the Coronation Bridge to Siliguri, about 3–3.5 hours; choose a flight leaving after 2 pm. Timetables change, so check current status before you travel. Phuentsholing in Bhutan is only about 40 km from Madarihat if you want to extend.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-reserve-gorumara-lataguri", "sinclairs-retreat-dooars-chalsa", "aranya-tourism-property-jaldapara", "malangi-lodge-hasimara"],
+  "includes": [
+    "5 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "Car for all transfers from New Mal, NJP or Bagdogra to Hasimara, NJP or Bagdogra",
+    "One safari in each park on budget, two in each on comfort and premium",
+    "Safari booking on the official forest department system"
+  ],
+  "excludes": [
+    "Train or air fares from Kolkata",
+    "Lunches",
+    "Chilapata safari or Totopara guide fees on budget",
+    "Camera fees, dance programmes and tips",
+    "Personal expenses and medical costs"
+  ],
+  "save_more": [
+    "Book sleeper or 3AC on the Kanchankanya Express early; it saves a night's hotel and the road transfer from NJP.",
+    "Travel in late January, February or early March, outside Puja and Christmas weeks, when lodges discount and safari seats are easier.",
+    "Children under 5 usually stay free in parents' rooms; ask for an extra mattress rather than a second room."
+  ],
+  "good_to_know": [
+    "Gorumara and Jaldapara close from mid-June to mid-September, and Gorumara safaris are usually closed on Thursdays. Check current status before you travel.",
+    "Safari bookings need photo ID for adults; carry age proof for children.",
+    "Jhalong homestays are simple, with hot water by the bucket in some.",
+    "Do not photograph the Bindu dam or border posts without permission.",
+    "Pack mosquito repellent, sunscreen and a warm layer for Jhalong evenings."
+  ],
+  "faqs": [
+    {"q": "What is the best Dooars itinerary for a family from Kolkata", "a": "Take the overnight Kanchankanya Express from Sealdah to New Mal, spend two nights at Lataguri for Gorumara, one at Jhalong in the hills and two at Madarihat for Jaldapara, then return by train from Hasimara. Five nights keeps drives under 3 hours and gives you at least two safaris. Three nights works if you skip Jaldapara."},
+    {"q": "How long does the train from Sealdah to New Mal take", "a": "The Kanchankanya Express takes roughly 12–13 hours from Sealdah to New Mal Junction, running overnight. Sleeper fares are about ₹400–550 and 3AC about ₹1,100–1,500, indicative 2026. Timings and halts change with timetable revisions, so check current status before you travel. Book early for school holidays and Puja."},
+    {"q": "Is the Dooars good for small children", "a": "Yes, with some planning. Drives are short, lodges are on flat ground, and the watchtowers are a good way for children to see big animals safely. Dawn safaris mean early starts, so pick one per day. Safari jeeps are open and bumpy; hold small children on your lap. Some parks set minimum ages for elephant rides."},
+    {"q": "Where is Jhalong and why go there", "a": "Jhalong is a small village on the Jaldhaka river in the hills north of Chalsa, about 600 m up, close to the Bhutan border. It is cooler than the plains, the river is clear and green, and Bindu, the last village on the Indian side, has a dam right at the border. It is quiet and good for river birds."},
+    {"q": "How much does a 5-night Dooars trip cost for a family of four", "a": "On our budget tier, about ₹54,000 for two adults and two children sharing rooms, indicative 2026, if both children are counted as full travellers; younger children usually cost less. Comfort runs about ₹90,000–95,000. That covers stays, breakfast and dinner, the car and safaris by tier. Train fares are extra."},
+    {"q": "Which is better for children, Gorumara or Jaldapara", "a": "Both, for different reasons. Gorumara's watchtowers let children sit and watch gaur and elephants at a salt lick without a long jeep ride. Jaldapara's open grassland gives the best chance of a rhino, with about 331 counted in 2025. That is why this trip includes both. If you can do only one, pick Gorumara for younger children."},
+    {"q": "Is it safe to visit the Dooars during school holidays in May", "a": "Yes, the parks are open until mid-June. May is hot and humid in the plains, 22–32 °C, with frequent storms, so plan safaris for early morning and late afternoon. Jhalong is a little cooler. Lodges discount mid-week. Afternoon storms can bring down trees on forest roads, so leave margin in your plans."},
+    {"q": "What food is available for children in the Dooars", "a": "Lodges serve simple Bengali home food: rice, dal, fish, chicken, egg curry, aloo bhaja and rotis. Most will make plain, less spicy food on request. Bring biscuits, fruit and snacks for safaris and drives, as shops are few on forest roads. Packaged milk is available in Lataguri, Malbazar and Madarihat."},
+    {"q": "Do we need any permit for Bindu or the Bhutan border", "a": "Indian nationals do not need a permit to visit Jhalong or Bindu. Photography near the dam and border posts may be restricted, so follow signs and ask staff. You cannot cross into Bhutan at Bindu; the tourist crossing is at Jaigaon–Phuentsholing, near Hasimara. Check current status before you travel."}
+  ]
+}

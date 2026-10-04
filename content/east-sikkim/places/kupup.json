@@ -43,7 +43,7 @@
   "highlights": [
     {"title": "Elephant Lake, or Bitang Tso", "text": "A small glacial lake in the hollow below Kupup, said by locals to look like an elephant lying down, trunk and all, when seen from the road above. It is green in summer, often frozen in winter, and regarded as the source of the Dichu river."},
     {"title": "The Yak Golf Course", "text": "An Army golf course at 3,970 m that Guinness World Records lists as the highest in the world. It belongs to an Army base, so treat it as a view from the road, not a round you can book. Snow covers it for much of the winter."},
-    {"title": "The road towards Jelep La", "text": "Jelep La, at about 4,390 m, is around 5 km from Kupup. It was the pass of the Kalimpong wool trade, and the road you drive follows the old British line. The pass itself is closed to tourists; you see the ridge it crosses."},
+    {"title": "The road towards Jelep La", "text": "Jelep La, at about 4,270 m, is around 5 km from Kupup. It was the pass of the Kalimpong wool trade, and the road you drive follows the old British line. The pass itself is closed to tourists; you see the ridge it crosses."},
     {"title": "A high valley without trees", "text": "At nearly 4,000 m Kupup is above the tree line: grass, juniper and dwarf rhododendron, yaks grazing, and the Dongkya Range on the skyline. In May and June small alpine flowers come up between the rocks. It feels nothing like the forests around Gangtok."},
     {"title": "The Silk Route crossing", "text": "Kupup is the link between the Nathu La road and the zigzag road down to Zuluk. Coming from Gangtok, it is the start of the Silk Route proper; coming from Zuluk, it is the last high stretch before Baba Mandir and Tsomgo."}
   ],
@@ -125,7 +125,7 @@
       "cost": "Free (Silk Route permit and car extra)",
       "image_query": "Jelep La pass Sikkim",
       "wiki": "Jelep La",
-      "summary": "From Kupup you look towards Jelep La, about 5 km away at roughly 4,390 m, the pass that carried Tibetan wool to Kalimpong for decades. The pass is closed to tourists, but standing here and knowing its story changes the whole Silk Route drive.",
+      "summary": "From Kupup you look towards Jelep La, about 5 km away at roughly 4,270 m, the pass that carried Tibetan wool to Kalimpong for decades. The pass is closed to tourists, but standing here and knowing its story changes the whole Silk Route drive.",
       "body": [
         "Jelep La was the great trade pass of this frontier. The route ran from Kalimpong through Pedong, Rhenock and Rongli, up past Zuluk and Nathang to Kupup, then over Jelep La into the Chumbi Valley and on to Lhasa. The British started a cart road to the pass in 1884, and by the early 20th century Kalimpong was the market where Tibetan wool met Indian buyers. Mule trains carried wool south and cloth, tools and grain north.",
         "The pass also carried history. In 1888 Tibetan troops were pushed back over it after the fighting at Gnathang. Younghusband's expedition used it in 1903–04. In 1910 the 13th Dalai Lama crossed it in flight from Chinese troops, staying almost two years in Darjeeling and Sikkim. After the 1962 war it was closed, and unlike Nathu La it has not reopened for trade. Talk of reopening it comes up from time to time, but nothing has changed on the ground.",
@@ -134,7 +134,7 @@
       "good_for": ["students", "solo", "seniors"],
       "faqs": [
         {"q": "Can tourists visit Jelep La", "a": "No. Jelep La is a closed border pass between Sikkim and Tibet, and tourists are not allowed to go up to it. From the Kupup area you can see the ridge it crosses, and your driver can point it out on a clear day. The nearest pass you can actually visit is Nathu La, for Indian nationals on a permit. Check current status before you travel."},
-        {"q": "What is the difference between Jelep La and Nathu La", "a": "They are about 5 km apart on the same Dongkya Range. Jelep La, at about 4,390 m, served Kalimpong and the wool trade; Nathu La, at 4,310 m, served Gangtok. Both closed after 1962. Nathu La reopened for border trade in 2006 and is open to Indian tourists. Jelep La has stayed closed to trade and to visitors."},
+        {"q": "What is the difference between Jelep La and Nathu La", "a": "They are about 5 km apart on the same Dongkya Range. Jelep La, at about 4,270 m, served Kalimpong and the wool trade; Nathu La, at 4,310 m, served Gangtok. Both closed after 1962. Nathu La reopened for border trade in 2006 and is open to Indian tourists. Jelep La has stayed closed to trade and to visitors."},
         {"q": "Can we visit Menmecho Lake from Kupup", "a": "No. Menmecho Lake lies below Jelep La at about 3,830 m and is closed to tourists. It is known for its trout and has a fish farm nearby, and it feeds the Rangpo Chu, a tributary of the Teesta. Kupup's Elephant Lake is the lake you can see on this stretch, from the road. Check current status before you travel."}
       ]
     },

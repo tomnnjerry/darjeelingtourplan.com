@@ -1,0 +1,78 @@
+{
+  "slug": "dzongu-lepcha-homestay-4n",
+  "title": "Dzongu Lepcha homestay in 4 nights",
+  "region": "north-sikkim",
+  "nights": 4,
+  "themes": ["village-homestays", "treks-and-walks", "birding-and-orchids", "budget-trips"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "dzongu", "nights": 3}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 13500,
+  "fares": {"budget": 13500, "comfort": 22000, "premium": 36000},
+  "fare_notes": {
+    "budget": "Shared jeeps Siliguri–Gangtok and Gangtok–Mangan, a simple Gangtok hotel with breakfast, three nights at Lingthem Lyang Homestay with all meals, homestay pickup from Mangan, one guided village walk, Dzongu permit.",
+    "comfort": "Reserved small car from Siliguri to Gangtok and on to Dzongu, a 3-star Gangtok hotel, three nights at Mayal Lyang Homestay with all meals, two guided walks, private drop back to Siliguri, Dzongu permit.",
+    "premium": "Private Innova-class car with driver for all five days, a premium Gangtok hotel, the best available room at Mayal Lyang with all meals, a local guide every day, the Rong Lungten Lee and Phodong stops, Dzongu permit. Dzongu has no luxury hotels; premium buys comfort on the road and time with guides."
+  },
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2000,
+  "meta_description": "4 nights in Dzongu, the Lepcha reserve of North Sikkim: homestays, village walks, cardamom groves and the Teesta, with permit help, from ₹13,500.",
+  "summary": "Three nights with a Lepcha family in Dzongu, the reserve across the Teesta from Mangan, after one night in Gangtok. Village walks, cardamom groves, farm food and the story of the hunger strike against the dams. Low altitude and gentle pace. From ₹13,500 per person, twin sharing; check current status before you travel.",
+  "intro": [
+    "Dzongu is the North Sikkim trip for people who would rather sit in a kitchen than queue at a viewpoint. A royal proclamation of the Chogyal set it aside as a reserve for the Lepchas in 1956, and only Lepchas may own land here. There are no hotels. You stay in family homes in villages such as Passingdang and Lingthem, between about 700 and 2,000 m, eat rice, millet and greens from the farm, and walk between villages with young local guides. It is warm, green and full of birds, and nothing like the snow country above Chungthang.",
+    "Every non-Lepcha visitor needs a Dzongu entry permit, usually arranged by your homestay from ID copies and photographs sent a week ahead. Dzongu is outside the Lachung–Lachen permit zone, so it suits foreign nationals and families who cannot go higher, but rules for foreigners have changed over the years. The Teesta valley roads were damaged in the 2023 flood and again by later landslides, and the Sanklang bridge into Dzongu was rebuilt in 2025. Check current status before you travel."
+  ],
+  "highlights": [
+    "Three nights with a Lepcha family in a traditional wooden house",
+    "Walks through rice terraces and large cardamom groves with village guides",
+    "Rong Lungten Lee, the replica Lepcha house at Namprikdang",
+    "Kanchenjunga from Lingthem on clear winter mornings",
+    "Kabi Lungchok and Phodong Monastery on the drive north"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "We meet you at Bagdogra or NJP and drive up NH10 along the Teesta, entering Sikkim at Rangpo. Budget travellers ride a shared jeep from Siliguri for about ₹350–500 a seat. Before this day you should already have emailed your ID copies and two photographs each to the homestay, because the Dzongu permit takes a few days. In the evening walk MG Marg and buy anything you forgot: a torch, a light rain jacket, leech socks if it is spring. Dzongu shops are few and small, so carry cash for the whole stay from Gangtok.", "meals": "Breakfast on comfort and premium"},
+    {"day": 2, "title": "Kabi, Phodong and into Dzongu", "place": "dzongu", "overnight": "Dzongu", "drive": "≈ 75 km · 3–4 h plus stops", "text": "Leave Gangtok by 9 am on the North Sikkim Highway. Stop at Kabi Lungchok, about 20 km out, where stone pillars mark the blood brotherhood sworn between the Lepcha sage Thekong Tek and the Bhutia prince Khye Bumsa, as Sikkimese tradition tells it. Then Phodong Monastery, one of the six main monasteries of Sikkim. Budget travellers take a shared jeep to Mangan (₹250–350 a seat) and meet the homestay's car there. Cross the Teesta by the Sanklang bridge, show your permit at the check-post and reach the village by mid-afternoon. Tea in the family kitchen, a short walk round the fields, and an early dinner by the wood stove.", "meals": "Dinner"},
+    {"day": 3, "title": "Village walk and cardamom groves", "place": "dzongu", "overnight": "Dzongu", "drive": "On foot · 4–5 h with breaks", "text": "A village guide, usually a young person from the family or a neighbour, walks you through terraces of rice and millet and down into the shaded gullies where large cardamom grows under alder. Mangan district calls itself the large cardamom capital of the world, and from about August to November you may see pods smoke-drying in a bhatti kiln. Expect steep paths and some stream crossings. Lunch is packed or at a neighbour's house. In the afternoon help in the kitchen, ask how Lepcha names for plants and birds are used, and rest. Guides cost about ₹800–1,500 per group, indicative 2026.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 4, "title": "Waterfalls, a hot spring or a long view", "place": "dzongu", "overnight": "Dzongu", "drive": "Short drive and walks · 5–6 h", "text": "Your hosts choose today's walk by the season and the state of the paths: a waterfall, one of Dzongu's natural hot springs, or a climb to a viewpoint where Kanchenjunga shows on a clear morning, best from October to April. Birders should go out at first light; the forests here hold barbets, sunbirds and laughingthrushes. In the evening ask about the Affected Citizens of Teesta, the young Lepchas whose hunger strike began in Gangtok on 20 June 2007 and helped stop four of six dams planned in the reserve. Some of the people who took part still live in these villages.", "meals": "Breakfast, Lunch, Dinner"},
+    {"day": 5, "title": "Rong Lungten Lee and down to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 170 km · 6–7 h", "text": "Leave after an early breakfast. Stop at Rong Lungten Lee near Namprikdang, where the Teesta meets the Kanaka, a replica of a traditional Lepcha house raised on posts, listed by the Mangan district administration. Then cross back to Mangan and take the shorter road down through Dikchu and Singtam to NH10, rather than going back via Gangtok. Allow 6–7 hours to Bagdogra or NJP, more after rain, and book flights or trains after 4 pm. Budget travellers return by shared jeep from Mangan to Gangtok or Singtam and change there for Siliguri. Check current status before you travel, as slides near Dikchu are common.", "meals": "Breakfast"}
+  ],
+  "stays": ["lingthem-lyang-homestay-dzongu", "mayal-lyang-homestay-dzongu", "singhik-bungalow-mangan"],
+  "includes": [
+    "One night in Gangtok and three nights in a Dzongu homestay, twin sharing",
+    "All meals in Dzongu, cooked by the host family",
+    "Transfers as per tier: shared jeeps on budget, private car on comfort and premium",
+    "Dzongu entry permit arranged through the homestay",
+    "Guided village walks: one on budget, two on comfort, daily on premium"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Sikkim tourist fee of ₹50 per person, collected by hotels",
+    "Lunch on travel days and dinner in Gangtok",
+    "Monastery offerings, extra guide days, angling or camping",
+    "Tips, personal expenses and costs caused by road closures"
+  ],
+  "save_more": [
+    "Ride shared jeeps from Siliguri to Gangtok and Gangtok to Mangan, and pay only for the homestay pickup from Mangan; it saves ₹6,000–9,000 per car each way.",
+    "Travel in late November, December or early March, when Dzongu is dry and Gangtok hotels discount.",
+    "Book the homestay directly with all meals included; there is nothing to buy in the villages and no restaurant bills to add."
+  ],
+  "good_to_know": [
+    "Send ID copies and two photographs each to the homestay at least seven days ahead; you cannot get a Dzongu permit at the check-post.",
+    "Toilets in Lepcha homes are often outside the main house; bring a torch and slippers.",
+    "Mobile signal is patchy in upper Dzongu; tell family at home you may be offline for a day or two.",
+    "Leeches are common from May to September in the lower forests; carry leech socks or salt.",
+    "Ask before photographing people, homes and rituals, and dress modestly in villages and gompas."
+  ],
+  "faqs": [
+    {"q": "Do I need a permit to visit Dzongu", "a": "Yes. Every visitor who is not a Lepcha from Dzongu needs an entry permit, as we understand the current rule. Your homestay usually arranges it with the district authorities from scans of your photo ID and two passport photos, so send them at least a week before you arrive. You show the permit at the check-post after crossing the Teesta from Mangan. Check current status before you travel."},
+    {"q": "Can foreigners stay in a Dzongu homestay", "a": "Foreign nationals first need the Sikkim Restricted Area Permit, then a Dzongu permit arranged in advance. Rules for foreigners in Dzongu have changed over the years, and some periods have needed group travel through a registered operator. Ask your homestay to confirm the current process before you book anything, and allow extra days. Check current status before you travel."},
+    {"q": "How do I reach Dzongu from Gangtok", "a": "Take a shared jeep from Gangtok's North Sikkim stand to Mangan, about 65 km and 3 hours, for ₹250–350 a seat, indicative 2026. Your homestay picks you up there and drives you across the Sanklang bridge into Dzongu, which costs about ₹1,000–2,000 per car. A reserved car from Gangtok to a Dzongu village costs about ₹4,000–6,000 one way. Check current status before you travel."},
+    {"q": "Is Dzongu good for families with small children", "a": "Yes, more than the high north. Dzongu villages lie between about 700 and 2,000 m, so there is no altitude risk, and children usually love the farm animals and the kitchen. The catches are steep paths, outdoor toilets in many homes and leeches in the wet months. Choose short walks, bring a torch and good shoes, and avoid June to August, when roads slip."},
+    {"q": "What food do Lepcha homestays serve", "a": "Mostly what the farm grows: red rice, millet, buckwheat, seasonal greens, ferns, squash, bamboo shoot, local cheese and sometimes chicken or pork. Meals are cooked on wood stoves and eaten in the kitchen with the family. Many homes brew chi, a millet beer served in a bamboo vessel; drinking it is entirely optional. Tell your hosts early about allergies or a vegetarian diet."},
+    {"q": "How much does a Dzongu homestay cost", "a": "Expect about ₹2,000–3,500 per person a night with all meals in a simpler home, indicative 2026, and more for well-known homestays with private rooms. Lingthem Lyang lists rooms at about ₹3,000–5,500 for two with meals and Mayal Lyang about ₹5,000–8,000. Guides, pickups and permits are extra. Our budget package starts at ₹13,500 per person with transport and a Gangtok night."},
+    {"q": "When is the best time to visit Dzongu", "a": "October to April. October and November are clear and the cardamom harvest is under way; December to February is cool and dry with the best Kanchenjunga views from higher villages; March and April bring orchids and birdsong. May turns hot and wet. June to August is the monsoon, with leeches and landslides on the Teesta roads. Tendong Lho Rumfaat on 8 August draws visitors despite the rain."},
+    {"q": "Can I combine Dzongu with Lachung or Lachen", "a": "Yes. Dzongu sits across the river from Mangan, on the way to Chungthang, so you can add two nights in Lachung or Lachen after it. You need a separate Protected Area Permit for Lachung and Lachen through a registered operator, and a registered vehicle. The simplest plan is Gangtok, Dzongu, then a group package to Lachung from Mangan or back in Gangtok."},
+    {"q": "Is Dzongu affected by the 2023 Teesta flood", "a": "The flood of October 2023 damaged roads and bridges along the Teesta, including approaches near Mangan, and later landslides closed the Sanklang crossing for a time. The BRO rebuilt the Sanklang bridge in 2025. Villages higher in Dzongu were largely spared, but road access remains the weak point, especially in monsoon. Ask your homestay about the road a few days before you go and check current status before you travel."}
+  ]
+}

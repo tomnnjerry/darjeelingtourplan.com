@@ -1,0 +1,100 @@
+{
+  "slug": "kalimpong-pedong-weekend-2n",
+  "title": "Kalimpong and Pedong weekend in 2 nights",
+  "region": "kalimpong",
+  "nights": 2,
+  "themes": ["budget-trips", "monasteries", "food-and-markets", "mountain-views"],
+  "stops": [{"place": "kalimpong", "nights": 2}],
+  "start": "Siliguri, NJP station or Bagdogra Airport (IXB)",
+  "end": "Siliguri, NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 6000,
+  "fares": {"budget": 6000, "comfort": 11500, "premium": 26000},
+  "fare_notes": {
+    "budget": "WBTDC's Deolo Tourist Lodge or a clean guesthouse near the motor stand, twin sharing; shared jeeps from Siliguri and back; a half-day car for Pedong and Damsang shared by four; town sights on foot and by shared taxi; breakfast only.",
+    "comfort": "Morgan House, Holumba Haven or Sinclairs Retreat; a private small car for the transfers and both sightseeing days; breakfast and dinner daily.",
+    "premium": "Mayfair Himalayan Spa Resort, Elgin Silver Oaks or Sterling Park; a private Innova-class car and driver for the whole weekend; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 1704,
+  "meta_description": "A Kalimpong weekend in 2 nights from ₹6,000 per person: Durpin, Deolo, the Haat Bazaar, then Pedong's 1706 monastery, Cross Hill and Damsang Fort.",
+  "summary": "A two-night break from Siliguri, Kolkata or Dhaka: one day for Kalimpong town, its monasteries, nurseries and Saturday haat, and a half-day east along the old Tibet trade road to Pedong's 1706 monastery, Cross Hill and Damsang Fort. Shared jeeps keep it cheap. From ₹6,000 per person, twin sharing.",
+  "intro": [
+    "Kalimpong is the easiest proper hill town to reach from Siliguri: about 70 km and three hours by shared jeep, against a longer climb to Darjeeling or Gangtok. That makes it the right size for a weekend. Leave Friday night from Kolkata on a train to NJP, ride up on Saturday morning, and you are on Durpin by lunch. If you arrive on a Saturday, the Haat Bazaar is running, with village sellers, churpi, spices and brooms.",
+    "On the second day we go east to Pedong, 20–22 km along the ridge, on the old mule road to Jelep La and Tibet. The town has a monastery founded around 1706, when this hillside was part of Bhutan, a cross raised in 1882 by a French priest who was trying to reach Tibet, and the ruined Damsang Fort nearby. Together with Kalimpong's churches and gompas they explain why this small ridge mattered so much for a century. Back in time for Kalimpong's evening and a last plate of momos."
+  ],
+  "highlights": [
+    "Zang Dhok Palri on Durpin and the view from Deolo at 1,704 m",
+    "The Haat Bazaar on Wednesday and Saturday mornings",
+    "Pedong's Sangchen Dorjee Gompa, founded around 1706",
+    "Cross Hill and Damsang Fort on the old Tibet trade road",
+    "Kalimpong cheese, milk lollipops and cactus nurseries"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Siliguri to Kalimpong, Durpin and Deolo",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70 km · 2.5–3.5 h, plus 20 km in town",
+      "text": "Take a morning shared jeep from the stands near Siliguri's bus terminus or Panitanki More, ₹200–300 a seat, indicative 2026, or meet our car at NJP or Bagdogra. Since the October 2023 flood NH10 closes often, and the detour takes longer; check current status before you travel. After lunch, take a shared taxi or car up to Zang Dhok Palri on Durpin, consecrated by the Dalai Lama in 1976, then across to Deolo at 1,704 m for sunset over the Teesta valley. Deolo park entry costs ₹20–60, indicative 2026. Dinner in town; Kalimpong goes quiet by 9 pm.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Haat Bazaar, Pedong and Damsang",
+      "place": "pedong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 50 km round trip · 5 h",
+      "text": "On a Saturday, start at the Haat Bazaar by 8 am, when farmers set out greens, churpi, spices and brooms. Then drive east on the old trade road to Pedong. Visit Sangchen Dorjee Gompa, founded around 1706 in the Bhutanese period, and climb to Cross Hill, where the French missionary Augustine Desgodins raised a cross in 1882. Stop at the forest ruins of Damsang Fort, which Lepcha tradition links to the chief Gaeboo Achyok. Back in Kalimpong by mid-afternoon for a cactus nursery and the MacFarlane Memorial Church of 1891. A shared jeep to Pedong costs ₹60–100 a seat, indicative 2026.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Morning walk, then down",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70–80 km · 2.5–3.5 h",
+      "text": "An early walk along Rinkingpong Road or to Tharpa Choling monastery above the town, founded in 1912, while the air is clear. Buy Kalimpong cheese and milk lollipops near the market for home. Take a late-morning shared jeep or the car back to Siliguri, keeping at least three hours of margin for a train from NJP or a flight from Bagdogra. On Sunday afternoons jeeps fill fast, so book your seat at the Kalimpong motor stand the evening before.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "sinclairs-retreat-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "sterling-park-kalimpong"],
+  "includes": [
+    "2 nights in Kalimpong in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "Shared jeeps on budget, private car on comfort and premium",
+    "Half-day car to Pedong, Cross Hill and Damsang Fort",
+    "Transfers to Durpin and Deolo"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Park entries, nursery fees and donations",
+    "Lunches, and dinners on budget",
+    "Paragliding at Deolo, about ₹2,500–4,000",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Do the town sights by shared taxi and on foot; a full-day 'points' car costs ₹2,500–3,500 that a couple does not need.",
+    "Book the WBTDC Deolo Tourist Lodge or Morgan House on weekdays, when government rates are at their lowest.",
+    "Take the shared jeep to Pedong, ₹60–100 a seat, and walk to Cross Hill instead of hiring a car."
+  ],
+  "good_to_know": [
+    "The Haat Bazaar runs on Wednesdays and Saturdays; plan your town day around one of them.",
+    "Shared jeeps from Siliguri thin out after early afternoon, and return seats sell out on Sunday afternoons.",
+    "NH10 can close in heavy rain; keep a spare evening in the monsoon months. Check current status before you travel.",
+    "Dr. Graham's Homes is a working school campus; view it from the road unless you have permission to enter.",
+    "Many shops and eateries close by 8–9 pm; eat dinner early or at your hotel."
+  ],
+  "faqs": [
+    {"q": "Is a weekend enough for Kalimpong", "a": "Yes, for the town and one short excursion. Two nights give you Durpin, Deolo, the Haat Bazaar, the churches and nurseries, and a half-day to Pedong. You will not reach Lava, Lolegaon or Neora Valley on this trip; for those, add one or two nights. Arriving by an overnight train to NJP makes the weekend work."},
+    {"q": "How much does a Kalimpong weekend cost", "a": "From about ₹6,000 per person for two nights on our budget tier, twin sharing, indicative 2026, with shared jeeps, a simple lodge, breakfast and a shared half-day car to Pedong. Comfort, with Morgan House or Holumba Haven and a private car, runs about ₹11,500. Premium in a heritage hotel runs about ₹26,000."},
+    {"q": "What day is the Kalimpong Haat Bazaar", "a": "The Haat Bazaar runs on Wednesdays and Saturdays near the town centre. Come early, ideally between 7 and 10 am, when village sellers bring vegetables, churpi, spices, dried fish, brooms and handlooms. It thins out after midday. Carry small notes, and leave room for momos at the edge of the market."},
+    {"q": "How far is Pedong from Kalimpong", "a": "About 20–22 km east along the ridge, roughly an hour by road. Shared jeeps leave from the Kalimpong motor stand through the morning for ₹60–100 a seat, indicative 2026, and a half-day car with Damsang Fort costs ₹2,500–3,500. Pedong is also the start of the Silk Route drive into East Sikkim."},
+    {"q": "What is the history of Pedong", "a": "Pedong sat on the mule route from Kalimpong to Jelep La and Tibet. Its monastery dates to around 1706, when the area was part of Bhutan, and the Bhutanese held it until the Treaty of Sinchula in 1865. French Catholic missionaries arrived in the 1880s, and Augustine Desgodins raised the cross on Cross Hill in 1882."},
+    {"q": "Can we go paragliding in Kalimpong on a weekend", "a": "Yes. Tandem flights take off from Deolo hill and cost about ₹2,500–4,000 per person, indicative 2026, for 10 to 30 minutes depending on the package. Flights depend on wind and weather and stop in rain. Book with an operator on the spot or through your hotel, and check their safety record and equipment first."},
+    {"q": "Is Kalimpong good for a short trip from Kolkata", "a": "Yes. Take an overnight train from Kolkata to NJP on Thursday or Friday night, and a shared jeep to Kalimpong in the morning; you arrive by lunch. Return on Sunday afternoon for an evening train. Kalimpong is closer and quieter than Darjeeling, so less of your weekend is spent on the road."},
+    {"q": "Where should we stay in Kalimpong for a weekend", "a": "On a budget, WBTDC's Deolo Tourist Lodge for the view, or a guesthouse near the motor stand for shared jeeps. For heritage at fair prices, Morgan House on Durpin or Holumba Haven's garden cottages. For a treat, the Mayfair Himalayan Spa Resort, Elgin Silver Oaks or Sterling Park. Book ahead for October and December weekends."},
+    {"q": "What should we eat in Kalimpong", "a": "Try momos and thukpa in small places near the motor stand, sel roti and aloo dum for breakfast, Kalimpong cheese from the old Swiss Jesuit dairy tradition, and the soft milk lollipops sold everywhere. At the Haat Bazaar, look for churpi, dried yak or cow cheese, and local chilli pickles to take home."}
+  ]
+}

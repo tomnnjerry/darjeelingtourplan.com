@@ -1,0 +1,78 @@
+{
+  "slug": "yumthang-rhododendron-spring-4n",
+  "title": "Yumthang rhododendron spring trip in 4 nights",
+  "region": "north-sikkim",
+  "nights": 4,
+  "themes": ["birding-and-orchids", "mountain-views", "treks-and-walks", "family-trips"],
+  "stops": [{"place": "gangtok", "nights": 1}, {"place": "lachung", "nights": 2}, {"place": "mangan", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 13000,
+  "fares": {"budget": 13000, "comfort": 22500, "premium": 42000},
+  "fare_notes": {
+    "budget": "Shared jeep Siliguri–Gangtok, a simple Gangtok hotel, a Lachung package seat with Bichu Homestay or a similar family hotel and breakfast and dinner, Singhik Bungalow on the way down, shared or pooled car for the last day, permits.",
+    "comfort": "Reserved car from Siliguri, a 3-star Gangtok hotel, a private Lachung-registered car for the north, two nights at Le Coxy Resort with breakfast and dinner, Singhik Bungalow, private drop to Siliguri, permits.",
+    "premium": "Private Innova-class car throughout, a premium Gangtok hotel, two nights at Yarlam Resort with all meals in Lachung, a local birding guide for one morning, Zero Point if open, Singhik Bungalow, permits."
+  },
+  "best_months": [0, 0, 1, 2, 2, 0, 0, 0, 0, 1, 1, 0],
+  "pace": "Balanced",
+  "max_altitude_m": 3564,
+  "meta_description": "4 nights for Yumthang's rhododendron season: two dawns in the Shingba sanctuary from Lachung and a Kanchenjunga night at Singhik, from ₹13,000.",
+  "summary": "Built for late April and May, when the Shingba Rhododendron Sanctuary flowers between Lachung and Yumthang. Two nights in Lachung give you two dawns among the trees, and a last night at Singhik faces Kanchenjunga before the drive down. From ₹13,000 per person, twin sharing; check current status before you travel.",
+  "intro": [
+    "Most Yumthang trips give you one rushed morning: up at 5, an hour in the valley, back to Lachung and off to Gangtok. In flower season that is a waste. The Shingba Rhododendron Sanctuary, created in 1984, covers about 43 square km of the Lachung valley between roughly 3,000 and 3,700 m, and sources count two to four dozen rhododendron species. Different species open at different heights over several weeks, so a second morning is often better than the first. This plan gives you two dawns and an afternoon to walk the road edge slowly.",
+    "The flowers have a history. Joseph Dalton Hooker came up these valleys in 1849, and his folio The Rhododendrons of Sikkim-Himalaya and the seed he sent to Kew filled English gardens. One species he described, Rhododendron niveum, is now Sikkim's state tree. Late April and May are also the busiest weeks of the year, and pre-monsoon storms can bring landslides from mid-May, as in 2025. Book early, keep the Singhik night as a buffer and check current status before you travel."
+  ],
+  "highlights": [
+    "Two dawns in the Shingba Rhododendron Sanctuary and Yumthang at 3,564 m",
+    "Rhododendron niveum, Sikkim's state tree, described by Hooker in 1849",
+    "The Yumthang hot spring and yak herds on the meadow",
+    "Lachung Monastery, a Nyingma gompa established in 1880",
+    "Sunrise on Kanchenjunga and Siniolchu from Singhik"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "We meet you at Bagdogra or NJP and drive to Gangtok along the Teesta, entering Sikkim at Rangpo. Budget travellers take a shared jeep for about ₹350–500 a seat. Your operator should already hold your ID copies and photographs, because the Protected Area Permit for Lachung and Yumthang is filed in advance and not issued on the same day. In the evening buy a warm cap and gloves in Lal Bazaar if you need them; mornings at Yumthang in April are close to freezing. Eat early.", "meals": "Breakfast on comfort and premium"},
+    {"day": 2, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 120–125 km · 6–7 h", "text": "Leave Gangtok by about 10 am once permits are collected. Short stops at Kabi Lungchok, the Seven Sisters Waterfall and the view down to Phodong, then on to Mangan and through the Toong checkpost to Chungthang, where the Lachen and Lachung rivers meet to form the Teesta. Lunch here. The road then climbs the Lachung valley through forest that already shows rhododendrons in red and pink at lower heights by late April. Reach Lachung, about 2,700 m, by late afternoon. Drink water, skip alcohol, and ask your hotel to pack breakfast for a 5.30 am start.", "meals": "Dinner"},
+    {"day": 3, "title": "Yumthang and the sanctuary at dawn", "place": "yumthang-valley", "overnight": "Lachung", "drive": "≈ 50 km round trip · 5–6 h", "text": "Leave at 5.30 am, before cloud fills the valley. The sanctuary begins a few kilometres up the Yumthang road. Ask the driver to stop where the trees are in full flower, not only at the crowded points. Yumthang meadow, 24 km from Lachung at 3,564 m, has yaks, the Lachung Chu and a sulphur hot spring with simple sheds. Zero Point, about 4,660 m, is optional and paid per vehicle, ₹3,000–4,500, indicative 2026; with flowers as the goal, most groups skip it. Back in Lachung by noon, then walk up to Lachung Monastery, established in 1880, in the afternoon.", "meals": "Breakfast (packed), Dinner"},
+    {"day": 4, "title": "A second dawn, then Singhik", "place": "mangan", "overnight": "Singhik, near Mangan", "drive": "≈ 60 km · 3 h after a morning outing", "text": "Go back up the Yumthang road at first light for one or two hours on foot along the road edge, between about 3,000 and 3,500 m, where Rhododendron niveum and other tree species grow. Birders look for hoary-throated barwing and other species recorded in the sanctuary; a local guide costs about ₹800–1,500 per group. Stay on the road, never break a branch, and carry out every wrapper. After breakfast drive down through Chungthang, crossing the Toong checkpost before 4 pm, to Singhik Bungalow at about 1,560 m, facing Kanchenjunga across the valley.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Kanchenjunga sunrise and down to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 165 km · 6–7 h", "text": "Step out at dawn for Kanchenjunga and Siniolchu from the Singhik ridge. In May the peaks are often in cloud by 8 am, so be early. After breakfast drive down through Mangan, Dikchu and Singtam to NH10 and on to Bagdogra or NJP, about 6–7 hours. Book flights or trains after 4 pm. Budget travellers can take a shared jeep from Mangan to Gangtok or Singtam and change there for Siliguri. If a slide closed the road on day 4, this is the day we use to catch up. Check current status before you travel.", "meals": "Breakfast"}
+  ],
+  "stays": ["bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung", "singhik-bungalow-mangan"],
+  "includes": [
+    "Protected Area Permit processing for Lachung and Yumthang",
+    "One night in Gangtok, two in Lachung and one at Singhik, twin sharing",
+    "Breakfast and dinner in Lachung and Singhik",
+    "Transport as per tier: shared jeep and package seat on budget, private car on comfort and premium",
+    "Two Yumthang road outings from Lachung"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Zero Point charge, about ₹3,000–4,500 per vehicle (included on premium if open)",
+    "Lunches, Gangtok dinners and the ₹50 Sikkim tourist fee",
+    "Birding guide on budget and comfort, snow-gear hire, heaters where charged",
+    "Tips and costs caused by landslides or closures"
+  ],
+  "save_more": [
+    "Go in the last ten days of April rather than mid-May: the lower trees are in flower and Lachung rates have not hit their peak.",
+    "Skip Zero Point; it costs ₹3,000–4,500 per vehicle and the flowers are lower down.",
+    "Share one private car between four or five travellers; the vehicle price is the same for two or five."
+  ],
+  "good_to_know": [
+    "Bloom timing shifts by a week or two each year with snow and temperature; no one can promise peak flowers on a given date.",
+    "Late April and May are the busiest weeks in Lachung; book hotels and permits three to four weeks ahead.",
+    "Vehicles must cross the Toong checkpost by 4 pm in both directions under the September 2026 order.",
+    "Foreign nationals can usually do this whole trip with a Restricted Area Permit in a group of two or more; Zero Point rules for foreigners vary.",
+    "Packaged water is discouraged in Sikkim; carry a refillable bottle and fill it at your hotel."
+  ],
+  "faqs": [
+    {"q": "When do the rhododendrons bloom at Yumthang", "a": "The Shingba sanctuary usually flowers from late April through May, with lower species opening first and higher ones later. Exact timing shifts by a week or two with winter snow and spring temperatures. For the best odds we suggest the last week of April to the third week of May. Some trees flower lower in the valley from early April. Check recent reports from your operator before you fix dates."},
+    {"q": "Why two nights in Lachung for the flowers", "a": "Because one morning is often not enough. Cloud usually fills the valley by late morning in spring, and a single rushed trip can end in fog. Two nights give you two dawns, and the second outing can be slow and on foot along the road edge, where you see far more than from a car window. It also adds a buffer if a slide delays the drive up."},
+    {"q": "How much does the Yumthang spring trip cost", "a": "From about ₹13,000 per person twin sharing on budget, ₹22,500 on comfort and ₹42,000 on premium, from Siliguri, indicative 2026. May is the most expensive month in Lachung, so prices can rise, especially around school holidays. Zero Point is extra except on premium. Group seats are cheaper than private cars unless you fill the car."},
+    {"q": "Is Zero Point worth adding in flower season", "a": "Usually not, if flowers are why you came. Zero Point, about 4,660 m, sits above the tree line and is mostly snow and rock in spring. It costs ₹3,000–4,500 per vehicle and adds altitude risk, roughly 2,000 m above Lachung in one morning. If everyone is well, the sky is clear and the road is open, it is a fine bonus. Decide on the morning."},
+    {"q": "How many rhododendron species grow at Yumthang", "a": "Sources give different counts, from about two dozen to around forty species in the Shingba sanctuary and the wider Lachung valley. They range from tree-sized species to low shrubs, in red, pink, white, yellow and purple. The state tree, Rhododendron niveum, has magenta to lilac flower heads and leaves felted white underneath. A local guide can help you tell several apart."},
+    {"q": "Can children go on this trip", "a": "Yes. The highest point is Yumthang at 3,564 m and you sleep at about 2,700 m, which most children manage well. Keep them warm at dawn, give them water and watch for headache or unusual tiredness. We advise against taking children under five to Zero Point. The road days are long, so bring snacks, motion-sickness tablets if needed and something to do in the car."},
+    {"q": "Is May safe for North Sikkim given landslides", "a": "Mostly, with planning. Pre-monsoon storms can trigger landslides from mid-May, as they did in 2025, and permits can be paused at short notice. That is why we put a Singhik night at the end of this trip as a buffer, and why flights should be after 4 pm on the last day. Take refundable bookings where you can and check current status before you travel."},
+    {"q": "Can I see rhododendrons without going to Yumthang", "a": "Yes, though it is a different experience. Rhododendrons grow in many forests across Sikkim, including the Barsey sanctuary in West Sikkim, which needs no Protected Area Permit. But nowhere else gives you the range of species, the snow peaks and the open meadow of Yumthang on one road. If your permit is refused or the road shuts, Barsey is our fallback."},
+    {"q": "What should I pack for Yumthang in April", "a": "Thermal inner layers, a fleece, a windproof jacket, a warm cap, gloves and good walking shoes. Dawn at Yumthang in April can be around freezing, and afternoons can bring hail. Add sunscreen and sunglasses, because the light is strong at 3,500 m. A refillable bottle, a small torch and a rain cover for your camera bag are useful. Snow boots are rarely needed by May."}
+  ]
+}

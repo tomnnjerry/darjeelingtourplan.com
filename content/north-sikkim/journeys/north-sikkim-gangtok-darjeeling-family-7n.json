@@ -1,0 +1,81 @@
+{
+  "slug": "north-sikkim-gangtok-darjeeling-family-7n",
+  "title": "Darjeeling, Gangtok and Lachung family trip",
+  "region": "north-sikkim",
+  "nights": 7,
+  "themes": ["family-trips", "mountain-views", "toy-train", "tea-gardens"],
+  "stops": [{"place": "darjeeling", "nights": 2}, {"place": "gangtok", "nights": 1}, {"place": "lachung", "nights": 2}, {"place": "gangtok", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 21000,
+  "fares": {"budget": 21000, "comfort": 34000, "premium": 72000},
+  "fare_notes": {
+    "budget": "Budget hotels in Darjeeling and Gangtok with breakfast; one reserved car for transfers shared by a family of four; a Lachung package seat or pooled car with Bichu Homestay or a similar family hotel, breakfast and dinner; permits.",
+    "comfort": "3-star hotels in Darjeeling and Gangtok with breakfast and dinner; a private car with driver for all transfers and sightseeing; Le Coxy Resort in Lachung with breakfast and dinner; permits.",
+    "premium": "Heritage or premium hotels in Darjeeling and Gangtok; a private Innova-class car throughout; Yarlam Resort in Lachung with all meals; the Darjeeling toy-train joy ride; Zero Point if open and suitable; permits."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Balanced",
+  "max_altitude_m": 3564,
+  "meta_description": "7 nights for families: Darjeeling and the toy train, Gangtok, then two nights in Lachung for Yumthang, with no Gurudongmar climb, from ₹21,000.",
+  "summary": "A family trip that climbs in steps: two nights in Darjeeling, then Gangtok, then two unhurried nights in Lachung for Yumthang and, in season, snow. We leave out Gurudongmar on purpose, so grandparents and small children can come. Two Gangtok nights at the end protect your train or flight. From ₹21,000 per person.",
+  "intro": [
+    "Families from Kolkata, Dhaka and Delhi often ask us for Darjeeling, Gangtok and North Sikkim in one trip, with children and grandparents together. The usual answer is a rush: one night everywhere and a 4 am start for a lake at 5,430 m. We think that is the wrong trip for a mixed family. This one sleeps no higher than about 2,700 m, at Lachung, and its highest point is Yumthang at 3,564 m. It still gives you the toy train, Tiger Hill, the Gangtok monasteries and snow or flowers at Yumthang, depending on the month.",
+    "The order matters. Darjeeling at about 2,050 m and Gangtok at about 1,650 m let everyone get used to hill roads and cool nights before the long drive north. Two nights in Lachung turn Yumthang into a relaxed morning with time for snow play or the hot spring, and a spare half-day if a slide delays you. Road access to Lachung has been cut for months at a time since the October 2023 flood, so we always keep a Gangtok-side fallback ready. Check current status before you travel."
+  ],
+  "highlights": [
+    "Tiger Hill sunrise and the Batasia Loop on the Darjeeling Himalayan Railway",
+    "A toy-train joy ride on the UNESCO-listed line",
+    "Gangtok's MG Marg, Enchey Monastery and the Namgyal Institute of Tibetology",
+    "Two nights in Lachung and an unhurried morning at Yumthang",
+    "Snow play from December to March or rhododendrons in late April and May"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 70 km · 3–3.5 h", "text": "We meet you at Bagdogra or NJP and drive up through Kurseong to Darjeeling, about 2,050 m. Tea gardens line the road above Rohini, and the toy-train tracks cross it again and again. Check in and take the afternoon slowly. Walk to Chowrasta and the Mall in the evening, when families gather on the benches and ponies wait for children. Eat early tonight: the Tiger Hill drive leaves at about 4 am. Tell us now if anyone gets car-sick, so we can seat them in front.", "meals": "Dinner on comfort and premium"},
+    {"day": 2, "title": "Tiger Hill, Batasia and the toy train", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 30 km · 6–7 h with stops", "text": "Drive to Tiger Hill, 2,590 m, for sunrise on Kanchenjunga, then stop at Ghum Monastery and the Batasia Loop, where the line spirals round a war memorial. After breakfast take a toy-train joy ride between Darjeeling and Ghum on the Darjeeling Himalayan Railway, a UNESCO World Heritage Site since 1999; tickets cost about ₹1,000–1,800 a seat, indicative 2026, and sell out, so book online early. Spend the afternoon at the Himalayan Mountaineering Institute and the Padmaja Naidu Himalayan Zoological Park, where children can see red pandas. Check current status before you travel.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 3, "title": "Darjeeling to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 100 km · 4–5 h", "text": "After breakfast drive down through Lamahatta or Peshok to the Teesta, with a tea-garden stop, and up NH10 into Sikkim at Rangpo. Reach Gangtok, about 1,650 m, by mid-afternoon. Your operator collects your ID copies and photographs today for the Lachung permit, which is filed in advance. In the evening walk MG Marg, a car-free street of about 1 km, and buy gloves, woollen caps and snacks for the north in Lal Bazaar. The hotel collects the ₹50 Sikkim tourist fee; check current status before you travel.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 4, "title": "Gangtok to Lachung", "place": "lachung", "overnight": "Lachung", "drive": "≈ 120–125 km · 6–7 h", "text": "Leave Gangtok by about 10 am with permits in hand, in a Lachung-registered vehicle. Stop at Kabi Lungchok, where Lepcha and Bhutia leaders swore blood brotherhood according to Sikkimese tradition, and at the Seven Sisters Waterfall for a stretch. Lunch at Mangan or Chungthang, where two rivers join to form the Teesta. Reach Lachung, about 2,700 m, by late afternoon. Keep children warm and give everyone water. In winter the heated mattress or blanket in your room matters more than the view, so confirm it at check-in.", "meals": "Dinner"},
+    {"day": 5, "title": "Yumthang without the rush", "place": "yumthang-valley", "overnight": "Lachung", "drive": "≈ 50 km round trip · 4–5 h", "text": "Leave at about 6.30 am rather than 5, because you have a second night here. Yumthang, 24 km away at 3,564 m, sits in the Shingba Rhododendron Sanctuary. From December to March expect snow on the meadow and the road; boots and padded jackets hire in Lachung for ₹150–300 an item, indicative 2026. In late April and May the trees flower. Visit the hot spring sheds by the river. We do not take children under five to Zero Point, about 4,660 m. Back for a late lunch and a quiet afternoon in Lachung village.", "meals": "Breakfast, Dinner"},
+    {"day": 6, "title": "Lachung monastery, back to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120–125 km · 6–7 h", "text": "A short walk after breakfast to Lachung Monastery, a Nyingma gompa established in 1880, or along the village lanes past apple trees and wooden houses. Ask your host about the Dzumsa, the village council that still runs Lachung. Leave by about 10 am so the car crosses the Toong checkpost before 4 pm, as the current rule requires. Lunch at Mangan or Chungthang, and reach Gangtok in the evening. If a slide held you in Lachung, today absorbs it and we lose only the Gangtok sightseeing. Check current status before you travel.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 7, "title": "Gangtok monasteries and viewpoints", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 35 km · 5–6 h with stops", "text": "An easy day. Visit Enchey Monastery, rebuilt in 1909, the Namgyal Institute of Tibetology and Do Drul Chorten with its 108 prayer wheels, then Hanuman Tok for Kanchenjunga on a clear morning. A half-day car tour costs about ₹1,800–3,500, indicative 2026. Families with energy left can add Tsomgo Lake instead, on a separate day permit through a registered agent and in a Gangtok-registered car, at extra cost. Spend the evening on MG Marg with momos and shopping. Pack tonight for an early start.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 8, "title": "Gangtok to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 115 km · 4.5–5.5 h", "text": "Leave Gangtok by 8–9 am after breakfast. The road drops along the Teesta past Rangpo, Melli and Sevoke to the plains. Allow at least five hours for Bagdogra or NJP, more after rain, because NH10 jams at Rangpo and Sevoke and slides can force a detour via Kalimpong. Book trains and flights after 2 pm, and after 4 pm in the wet months. Budget families can save by taking a shared jeep to Siliguri, though with children and luggage a reserved car is easier.", "meals": "Breakfast"}
+  ],
+  "stays": ["bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung"],
+  "includes": [
+    "Seven nights' accommodation: two in Darjeeling, three in Gangtok, two in Lachung, twin sharing",
+    "Breakfast daily; dinners in Lachung on all tiers and everywhere on comfort and premium",
+    "Car with driver for transfers and sightseeing as per tier",
+    "Protected Area Permit processing for Lachung and Yumthang",
+    "Tiger Hill, Batasia Loop, Gangtok half-day tour and Yumthang"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Toy-train tickets except on premium, monument and zoo tickets",
+    "Sikkim tourist fee of ₹50 per person",
+    "Zero Point charge, snow-gear hire, Tsomgo Lake day",
+    "Lunches, tips and costs caused by landslides or closures"
+  ],
+  "save_more": [
+    "Travel in the first half of March or late November, when Darjeeling and Gangtok hotels discount and Lachung is cold but quieter.",
+    "A family of four or five should book one private car for the whole trip rather than separate transfers; per head it costs about the same as shared seats with far less waiting.",
+    "Hire snow boots and jackets in Lachung for ₹150–300 an item instead of buying gear the children will outgrow."
+  ],
+  "good_to_know": [
+    "This trip has no Gurudongmar day by design; for the high lake, see our Lachen and Lachung journeys.",
+    "Children under five should not go to Zero Point; Yumthang at 3,564 m is fine for most families who go slowly.",
+    "Lachung roads close after heavy snow and in the monsoon; we keep a Gangtok fallback plan ready. Check current status before you travel.",
+    "Toy-train joy-ride seats sell out weeks ahead in May, June and October; book as soon as dates are fixed.",
+    "Carry ID for every family member, including children, for the North Sikkim permit."
+  ],
+  "faqs": [
+    {"q": "Is North Sikkim suitable for a family with small children", "a": "Lachung and Yumthang are, with care. You sleep at about 2,700 m and visit Yumthang at 3,564 m, which most children handle if they are warm, fed and drinking water. The drives are long, 6–7 hours each way from Gangtok, so plan snacks and stops. We do not take children under five to Zero Point or Gurudongmar, which is why this trip leaves Gurudongmar out."},
+    {"q": "Can grandparents manage this 7-night trip", "a": "Most healthy seniors manage well, because the trip climbs in steps and never sleeps above about 2,700 m. The long drives are the harder part, so choose the comfort or premium tier for a private car and a warmer room. Anyone with heart, lung or blood-pressure problems should see a doctor before travel and carry their medicines and prescriptions."},
+    {"q": "How much does a 7-night Darjeeling, Gangtok and Lachung trip cost", "a": "From about ₹21,000 per person twin sharing on budget, ₹34,000 on comfort and ₹72,000 on premium, from Siliguri, indicative 2026. Children sharing a bed with parents usually cost less; ask us. Prices rise in May, June, Puja week and New Year. Toy-train tickets, Zero Point and Tsomgo are extra except where the tier says otherwise."},
+    {"q": "Will we see snow at Lachung on this trip", "a": "From about late December to early March, snow usually lies at Lachung or on the road to Yumthang, but no month is certain and fresh falls can close the road. In late March there is often snow at Yumthang but not in the village. From April to November you will usually see snow only on the peaks, unless you add Zero Point in spring."},
+    {"q": "Why not include Gurudongmar Lake", "a": "Because it climbs from about 2,750 m at Lachen to 5,430 m in one morning, which is a real risk for small children, older travellers and anyone unwell. Operators usually refuse children under five. A family trip is better spent with two relaxed nights in Lachung. If older children and fit adults want the lake, choose our Lachen and Lachung journeys instead."},
+    {"q": "Can we do the toy train with children", "a": "Yes. The joy ride between Darjeeling and Ghum takes about two hours with a stop at the Batasia Loop and the Ghum museum, which suits children well. Book seats online through IRCTC as soon as your dates are fixed, because they sell out in holidays. Steam and diesel services cost different amounts; check current status before you travel."},
+    {"q": "What if the Lachung road is closed when we arrive in Gangtok", "a": "We switch to a Gangtok-side plan: Tsomgo Lake and Baba Mandir on one day, if open, and Rumtek, Ranka or a permit-free trip to Kabi Lungchok and Phodong on the other. The Lachung permit cost is usually small, and hotel bookings in Lachung can often be moved. Take refundable bookings where possible and check current status before you travel."},
+    {"q": "Which months are best for this family trip", "a": "March to May and October to November. Spring brings flowers at Yumthang and clear mornings in Darjeeling; autumn brings the clearest mountain views. December to February suits families who want snow at Lachung and can handle cold nights. We do not run this trip from June to August, when landslides close North Sikkim roads and permits are often suspended."},
+    {"q": "Do children need documents for the North Sikkim permit", "a": "Yes. Every traveller, including infants, needs a photo ID copy and passport-size photographs for the Protected Area Permit. For children, a passport, Aadhaar card, school ID or birth certificate is usually accepted. Carry the originals on the trip, because checkposts can ask for them. Foreign national children need passports and visas like adults. Check current status before you travel."}
+  ]
+}
