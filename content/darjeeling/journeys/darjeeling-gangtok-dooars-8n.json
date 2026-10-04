@@ -1,0 +1,154 @@
+{
+  "slug": "darjeeling-gangtok-dooars-8n",
+  "title": "Darjeeling, Gangtok and the Dooars in 8 nights",
+  "region": "darjeeling",
+  "nights": 8,
+  "themes": ["mountain-views", "wildlife-safaris", "toy-train", "family-trips"],
+  "stops": [{"place": "darjeeling", "nights": 3}, {"place": "gangtok", "nights": 3}, {"place": "lataguri", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 21000,
+  "fares": {"budget": 21000, "comfort": 35000, "premium": 78000},
+  "fare_notes": {
+    "budget": "WBTDC Darjeeling Tourism Property or Revolver, then budget hotels in Gangtok and a simple forest-edge resort in Lataguri, twin sharing; shared jeeps on transfer days where practical, a group-shared car for sightseeing; one Gorumara safari; breakfast only.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel in Darjeeling, then mid-range hotels in Gangtok and Lataguri; a private small car throughout; Tsomgo day and two safaris; breakfast and dinner daily.",
+    "premium": "Windamere Hotel or Mayfair Hill Resort in Darjeeling, a premium hotel in Gangtok and the best jungle resort in Lataguri; a private Innova-class car throughout; Tsomgo day and two safaris; breakfast and dinner daily."
+  },
+  "best_months": [1, 2, 2, 1, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 3753,
+  "meta_description": "8 nights from snow peaks to rhino country from ₹21,000 per person: Darjeeling's toy train, Gangtok and Tsomgo Lake, then Gorumara safaris in the Dooars.",
+  "summary": "The long loop from the mountains to the forest: three nights in Darjeeling for Tiger Hill, tea and the toy train, three in Gangtok with Tsomgo Lake, and two at Lataguri on the edge of Gorumara National Park for rhino, gaur and elephant from the watchtowers. Ends an easy drive from Bagdogra. From ₹21,000 per person, twin sharing.",
+  "intro": [
+    "In eight nights this trip runs from 3,753 m at Tsomgo Lake to about 100 m in the Dooars, the strip of forest, tea and grassland at the foot of the hills. Darjeeling gives you Kangchenjunga at dawn and the railway; Gangtok gives you monasteries and the high lake; the Dooars give you something most hill trips miss: Indian one-horned rhinoceros, gaur, elephants and peacocks in Gorumara National Park, seen from forest watchtowers at dusk.",
+    "The order matters. We do the hills first, while everyone is fresh, and finish in the warm plains, where the last drive to Bagdogra or NJP takes only 2–2.5 hours. Gorumara, like all Dooars parks, closes from mid-June to mid-September for the monsoon breeding season, so this trip runs from mid-September to early June, at its best from October to March. Tsomgo needs a permit; foreign nationals also need a Sikkim Restricted Area Permit. Check current status before you travel."
+  ],
+  "highlights": [
+    "Tiger Hill sunrise and a toy-train joyride in Darjeeling",
+    "Tsomgo Lake at 3,753 m and Baba Mandir from Gangtok",
+    "Rumtek and the monasteries of Gangtok",
+    "Watchtower safaris in Gorumara for rhino, gaur and elephant",
+    "Tea gardens of the Dooars on the drive to Lataguri"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive up through Kurseong and Ghum. Budget travellers take a shared jeep from NJP for ₹250–400 a seat, indicative 2026. Check in, rest after the climb, and walk up to Chowrasta in the late afternoon. The Mall loop round Observatory Hill takes about an hour on foot with tea stops, and on a clear evening the snows turn pink at sunset. Eat early at a momo shop or bakery on Nehru Road. Tonight we check the sky to choose the Tiger Hill morning.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Tiger Hill, Ghum and the zoo",
+      "place": "tiger-hill",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 4–5 h",
+      "text": "Leave at about 4 am for Tiger Hill at 2,567 m to watch dawn on Kangchenjunga. Stop at Yiga Choeling in Ghum, founded in 1850, and Batasia Loop with its Gorkha War Memorial on the way back, entry ₹20–50. After breakfast visit the Himalayan Mountaineering Institute, founded in 1954, and the Padmaja Naidu Himalayan Zoological Park, known for red pandas and snow leopards; one ticket at ₹100–150 covers both, indicative 2026. The zoo usually closes on Thursdays. Afternoon free for shopping or rest.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Toy train and Happy Valley tea",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 10 km · local",
+      "text": "Ride the toy-train joyride to Ghum and back, about two hours, with stops at Batasia Loop and the Ghum railway museum; steam seats cost about ₹1,500–1,600 and diesel ₹800–1,000, indicative 2026. The Darjeeling Himalayan Railway has been a UNESCO World Heritage Site since 1999. After lunch go down to Happy Valley Tea Estate, started in the 1850s, for a garden walk, then taste first and second flush at a tea shop near Chowrasta. If you skip the train, take the ropeway over the tea gardens from North Point instead.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Darjeeling to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 100 km · 4–5 h",
+      "text": "Drive down through the Lopchu tea gardens to the Teesta at Teesta Bazaar, then up NH10 via Melli to Rangpo, where foreign nationals show their Sikkim permit. Shared jeeps from Darjeeling cost ₹400–550 a seat, indicative 2026, and leave in the morning. Reach Gangtok at about 1,650 m by mid-afternoon; the hotel collects a small Sikkim tourist fee. Walk MG Marg in the evening, a car-free street of about 1 km. Tonight we file your Tsomgo permit with a registered agent, which needs photo ID and photos. Check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Gangtok monasteries and Rumtek",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 60 km · 6–7 h",
+      "text": "A day at Gangtok's height helps before Tsomgo tomorrow. Visit Enchey Monastery, rebuilt in 1909, the Namgyal Institute of Tibetology and Do Drul Chorten, then Hanuman Tok or Ganesh Tok for views on a clear morning. A half-day car costs ₹1,800–3,500. After lunch drive about 24 km to Rumtek, the seat in exile of the Karmapa, rebuilt by the 16th Karmapa and opened in 1966; carry photo ID for the gate check. Back in Gangtok by evening. Budget travellers can reach Rumtek by shared taxi for ₹60–120 a seat.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Tsomgo Lake and Baba Mandir",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 80 km round trip · 6–7 h",
+      "text": "Leave early in a Gangtok-registered car for Tsomgo Lake at 3,753 m, about 40 km up the Nathu La road; the car costs ₹4,500–6,500, or a shared seat ₹800–1,300, indicative 2026. Walk slowly at the lake and stay about an hour. Continue to Baba Harbhajan Singh Mandir if the road is open. Indian nationals can add Nathu La on Wednesday to Sunday with an extra permit and car charge. Coat and boot hire costs ₹100–300 in snow. Snow can close the road between December and April, so check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 7,
+      "title": "Gangtok down to Lataguri in the Dooars",
+      "place": "lataguri",
+      "overnight": "Lataguri",
+      "drive": "≈ 150 km · 5–5.5 h",
+      "text": "Drive down NH10 along the Teesta to Sevoke, cross the Teesta on the Coronation Bridge, then run east through the tea gardens of the Dooars past Malbazar to Lataguri, a small village on the edge of Gorumara National Park at about 100 m. Shed your jackets; the plains are 15–20 °C warmer than Gangtok. In the late afternoon, if a slot is free, take your first watchtower safari. Safari tickets are sold by the West Bengal forest department, online and at the Lataguri counter, and sell out on weekends. Evening in the resort, listening to the forest.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 8,
+      "title": "Gorumara safaris and the Murti river",
+      "place": "lataguri",
+      "overnight": "Lataguri",
+      "drive": "≈ 40 km · two safaris",
+      "text": "Take the early-morning safari in an open jeep to a watchtower such as Jatraprasad or Chandrachur, where rhino, gaur and wild elephants come to salt licks and water. A jeep with entry, guide and fees costs roughly ₹2,000–3,500, indicative 2026. Rest through the hot middle of the day, then go out again in the afternoon, perhaps to Medla, reached partly by bullock cart. Before dusk walk down to the Murti river, a clear stream from the Neora hills. Gorumara closes from mid-June to mid-September; check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 9,
+      "title": "Lataguri to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 85 km · 2–2.5 h",
+      "text": "A last walk at dawn to hear the birds: hornbills, peacocks and parakeets are common at the forest edge. After breakfast drive west through Malbazar and the Sevoke forest to Siliguri, about 2–2.5 hours, for flights from Bagdogra or trains from NJP. This is the shortest and flattest drive of the trip, so even an early-afternoon flight works. Elephants sometimes cross the highway near Sevoke and Gajoldoba; drivers stop and wait, and so should you. Budget travellers can take a bus or shared vehicle from Malbazar to Siliguri.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling"],
+  "includes": [
+    "3 nights in Darjeeling, 3 in Gangtok and 2 in Lataguri in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "All transfers and sightseeing as described (shared jeeps on some budget transfers)",
+    "Tsomgo Lake day with permit on comfort and premium",
+    "One Gorumara safari on budget; two on comfort and premium"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Nathu La add-on, coat and boot hire",
+    "Toy-train joyride, entry tickets and camera fees",
+    "Sikkim tourist fee, lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Use a shared seat for Tsomgo (₹800–1,300) and shared jeeps for Darjeeling–Gangtok (₹400–550) instead of reserved cars.",
+    "Travel in late February or early March, when the hills are often clear, the Dooars are cool and hotels in all three places discount.",
+    "Book Gorumara safaris online as soon as the forest department opens slots, and pick weekdays, when there is less competition for jeeps."
+  ],
+  "good_to_know": [
+    "Gorumara and the other Dooars parks close from about 15 June to 15 September every year. Check current status before you travel.",
+    "Tsomgo and Nathu La need permits through a registered Gangtok agent; Nathu La is for Indian nationals only.",
+    "Foreign nationals need a Sikkim Restricted Area Permit for Gangtok and Tsomgo.",
+    "Safari slots are limited and sell out on weekends and holidays; book as soon as your dates are fixed.",
+    "Malaria and dengue risk is higher in the Dooars than in the hills; use repellent at dusk."
+  ],
+  "faqs": [
+    {"q": "Can we combine Darjeeling, Gangtok and the Dooars in one trip", "a": "Yes, and it works well in eight or nine nights. The Dooars lie at the foot of the hills, about 2–2.5 hours from Bagdogra, so ending there makes the final day short. The hills are best from October to May, and the Dooars parks open from mid-September to mid-June, so October to March suits all three."},
+    {"q": "How much does an 8-night Darjeeling, Gangtok and Dooars trip cost", "a": "From ₹21,000 per person, twin sharing, on budget, with one Gorumara safari and shared jeeps on some transfers. Comfort, with mid-range hotels, a private car, Tsomgo and two safaris, costs about ₹35,000. Premium, with the Windamere or Mayfair and the best Dooars resort, starts near ₹78,000. Prices are indicative for 2026."},
+    {"q": "When is Gorumara National Park closed", "a": "Gorumara, like Jaldapara and the other Dooars parks, closes from about 15 June to 15 September for the monsoon and the animals' breeding season. Safaris resume in mid-to-late September. Lataguri resorts stay open, but you cannot enter the park. Dates can shift slightly each year, so check current status before you travel."},
+    {"q": "What animals can we see in Gorumara", "a": "Indian one-horned rhinoceros, gaur, wild elephants, sambar, barking deer, wild boar and peafowl are the common sightings from the watchtowers, along with hornbills and many other birds. Leopards live in the park but are rarely seen. Mornings and late afternoons in winter and early spring give the best chances, when grass has been burned or cut."},
+    {"q": "How do we book a Gorumara safari", "a": "Safaris are sold by the West Bengal forest department, online through its booking site and at the counter in Lataguri, by watchtower and time slot. Each jeep takes about six people and needs a forest guide. Slots sell out on weekends and holidays, so book as soon as bookings open. Check current status before you travel."},
+    {"q": "Is Tsomgo Lake included in this trip", "a": "Yes on comfort and premium, with the permit and a Gangtok-registered car. On budget it is optional: a shared seat costs ₹800–1,300 and a whole car ₹4,500–6,500, indicative 2026. Snow can close the road in winter, in which case we swap days or replace it with a Gangtok excursion. Nathu La can be added for Indians on Wednesday to Sunday."},
+    {"q": "Is this trip suitable for children", "a": "Yes. Children enjoy the toy train, the zoo, the snow at Tsomgo in winter and the rhinos and elephants in Gorumara. Operators usually prefer children over 5 for Tsomgo because of the altitude. The longest drives are 4–5 hours, broken with stops. Pack warm clothes for the hills and light cotton for the Dooars."},
+    {"q": "Is the Dooars hot in winter", "a": "No. From November to February the Dooars are pleasant: about 10–25 °C, with cool, misty mornings and warm afternoons. March and April warm up to the low thirties, and May and June are hot and humid before the parks close. You will need a light jacket for dawn safaris in winter, but not the heavy woollens of Darjeeling."},
+    {"q": "Can we do the trip in reverse, starting with the Dooars", "a": "Yes. Starting in Lataguri and ending in Darjeeling or Gangtok works, but the last day then means a 3–5 hour drive down to Bagdogra. We usually prefer the hills first, while energy is high, and the easy Dooars ending. If your flight lands late, starting in the Dooars, 2–2.5 hours away, can make the first day easier."}
+  ]
+}

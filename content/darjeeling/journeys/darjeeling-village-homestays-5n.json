@@ -1,0 +1,127 @@
+{
+  "slug": "darjeeling-village-homestays-5n",
+  "title": "Sittong, Chatakpur and Lepchajagat in 5 nights",
+  "region": "darjeeling",
+  "nights": 5,
+  "themes": ["village-homestays", "birding-and-orchids", "mountain-views", "budget-trips"],
+  "stops": [{"place": "sittong", "nights": 2}, {"place": "chatakpur", "nights": 1}, {"place": "lepchajagat", "nights": 1}, {"place": "darjeeling", "nights": 1}],
+  "start": "NJP station or Bagdogra Airport (IXB)",
+  "end": "NJP station or Bagdogra Airport (IXB)",
+  "price_from_inr": 13000,
+  "fares": {"budget": 13000, "comfort": 19500, "premium": 32000},
+  "fare_notes": {
+    "budget": "Family homestays in Sittong, Chatakpur and Lepchajagat with all meals, rooms with attached bath where possible, then the WBTDC Darjeeling Tourism Property; one reserved car for all transfers shared by four travellers.",
+    "comfort": "The better homestays with private bathrooms and hot water, all meals; Dekeling Hotel or The Bellevue Hotel for the Darjeeling night; a private small car throughout.",
+    "premium": "The best rooms available in each village, all meals, a local birding guide in Sittong and Chatakpur; the Windamere for the last night; a private SUV throughout."
+  },
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2290,
+  "meta_description": "5 nights in Darjeeling's villages from ₹13,000 per person: orange orchards in Sittong, Tagore's Mungpoo, forest at Chatakpur, Lepchajagat and Darjeeling.",
+  "summary": "Five nights in the villages around Darjeeling, eating at family tables: orange orchards and hornbill country at Sittong, Tagore's house at Mungpoo, a forest village inside Senchal sanctuary at Chatakpur, pine woods at Lepchajagat, and a last night in Darjeeling town. Homestays with all meals keep it cheap. From ₹13,000 per person, twin sharing.",
+  "intro": [
+    "Darjeeling town is crowded in season; the villages a couple of hours away are not. This trip moves through three of them, each at a different height and in a different forest. Sittong, in the warm valleys below Kurseong, grows oranges, cardamom and ginger; from November to January the orchards turn orange. Chatakpur is a small forest village inside Senchal Wildlife Sanctuary, declared in 1915, reached by a rough track from Sonada. Lepchajagat sits among pines on the ridge road from Ghum towards Mirik and Sukhiapokhri.",
+    "Homestays here are family houses with a few guest rooms. You eat what the family cooks, usually rice, dal, a vegetable from the garden, a pickle and on many nights chicken or eggs, and you sit by the kitchen fire after dark. Rooms are simple and clean; hot water often comes in a bucket. We pick homestays that registered with the local authorities and that we know take care of guests. Mobile signal is patchy in Sittong and Chatakpur, which most guests come to enjoy."
+  ],
+  "highlights": [
+    "Orange orchards of Sittong from November to January",
+    "Rabindra Bhavan at Mungpoo, where Tagore stayed from 1938 to 1940",
+    "Birding for hornbills and barbets around Latpanchar and Sittong",
+    "Dawn over Kangchenjunga from a forest village in Senchal sanctuary",
+    "Pine woods and quiet walks at Lepchajagat"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Sittong",
+      "place": "sittong",
+      "overnight": "Sittong",
+      "drive": "≈ 55–60 km · 2–3 h",
+      "text": "Your car meets you at NJP or Bagdogra and climbs into the hills below Kurseong. The last stretch to Sittong is narrow and winding, past cardamom under the trees and terraces of ginger and maize. Reach the homestay by lunch. In the afternoon walk down through the village to the Riyang river, about an hour round trip, or simply sit on the terrace with a cup of tea. Dinner is with the family. Sittong is warm by hill standards, often 10–20 °C in winter days, so pack light layers and one warm jacket for the higher villages later.",
+      "meals": "Lunch, dinner"
+    },
+    {
+      "day": 2,
+      "title": "Mungpoo, Ahaldara and the orchards",
+      "place": "mungpoo",
+      "overnight": "Sittong",
+      "drive": "≈ 40 km · 4–5 h with stops",
+      "text": "Start early with birding on the village paths; Latpanchar and the forests near Sittong are known for hornbills, barbets and sunbirds. After breakfast drive to Mungpoo, a government cinchona plantation town where quinine was once made. Rabindranath Tagore stayed four times between 1938 and 1940 at the house of the writer Maitreyi Devi; it is now Rabindra Bhavan, a small museum with his furniture and letters. Entry is free or a small fee. Return via Ahaldara, a ridge-top viewpoint above Latpanchar with a wide view of the Teesta valley. Back in Sittong for the late afternoon orange harvest in season.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Up to Chatakpur in Senchal forest",
+      "place": "chatakpur",
+      "overnight": "Chatakpur",
+      "drive": "≈ 50 km · 3–3.5 h",
+      "text": "Climb from the warm valley to the cold ridge through Kurseong and Sonada. At Sonada a forest track of about 7 km leads up through Senchal Wildlife Sanctuary to Chatakpur; it is rough and best in a high-clearance car, which we arrange. A forest entry fee is charged at the gate, indicative ₹100–200 per person and vehicle. Chatakpur is a small village of a few families who run homestays together. In the afternoon walk the forest paths with a villager to a watchtower, through cryptomeria, oak and rhododendron. Evenings are cold: 2–8 °C in winter.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Chatakpur sunrise to Lepchajagat",
+      "place": "lepchajagat",
+      "overnight": "Lepchajagat",
+      "drive": "≈ 30 km · 1.5–2 h",
+      "text": "Wake before 6 am for Kangchenjunga from the village viewpoint; on a clear winter morning the whole range lines up to the north. After breakfast drive back down to Sonada and on through Ghum, then turn onto the road towards Sukhiapokhri and Mirik. Lepchajagat, about 19 km from Darjeeling, is a village among tall pines and rhododendron with a few homestays and a forest lodge. Walk the short forest trail to the viewpoint above the village for the sunset, when the light runs along the Kangchenjunga range. This is a quiet night; bring a book.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Into Darjeeling town",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 19 km · 45 min–1 h",
+      "text": "A short morning drive brings you to Darjeeling by 10 am. After three nights in villages, the town feels busy. Check in near Chowrasta and spend the day on foot: the Mall round Observatory Hill, the Himalayan Mountaineering Institute and zoo, one ticket at ₹100–150, and the bazaar below Nehru Road for tea and woollens. If you have energy, take the late-afternoon toy-train joyride to Ghum, about two hours, booked ahead on IRCTC. Comfort and premium guests have a hotel dinner; budget travellers eat momos and thukpa on the lanes below the Mall.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Darjeeling to NJP or Bagdogra",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Be on Chowrasta at 6 am for a last look at the mountains, then breakfast. Leave Darjeeling by 10–11 am for afternoon flights or evening trains; the drive takes 3–3.5 hours through Ghum, Kurseong and Rohini. Budget travellers can ride a shared jeep for ₹250–400 a seat from the motor stands near Chowk Bazaar instead of the reserved car, which saves a share of ₹3,500–4,500. On weekends and in rain, allow an extra hour for traffic at Kurseong and the slow descent to Sukna.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling"],
+  "includes": [
+    "2 nights in Sittong, 1 in Chatakpur and 1 in Lepchajagat in homestays with all meals",
+    "1 night in Darjeeling with breakfast; dinner on comfort and premium",
+    "Car for all transfers, including a high-clearance vehicle for the Chatakpur track",
+    "Village walks with a local host; birding guide on premium",
+    "Mungpoo and Ahaldara sightseeing on day 2"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Forest and sanctuary entry fees at Senchal",
+    "Toy-train joyride, zoo and HMI tickets",
+    "Lunch and dinner in Darjeeling on the budget tier",
+    "Tips for homestay families, and personal expenses"
+  ],
+  "save_more": [
+    "Travel as four and share one car; the vehicle costs the same for two or four people, and homestays charge per head.",
+    "Come in late November or December, when Sittong's oranges are ripe, the views are clear and homestay rates are fixed rather than peak.",
+    "Drop the Darjeeling night and go straight from Lepchajagat to NJP via Mirik, saving about ₹2,000–3,000 per person."
+  ],
+  "good_to_know": [
+    "Homestays are simple: expect clean rooms, shared or basic bathrooms in places and bucket hot water. Tell us if you need an attached bathroom.",
+    "Mobile and data signal is weak in Sittong and Chatakpur; download maps and tell family you may be offline.",
+    "The Chatakpur track is rough and may close after heavy rain; forest rules and fees change. Check current status before you travel.",
+    "Leeches are common on forest paths from May to September; this trip is not run in the monsoon.",
+    "Carry cash: there are no ATMs in the villages, and few homestays take cards."
+  ],
+  "faqs": [
+    {"q": "What is a homestay in Darjeeling like", "a": "A family house with two to six guest rooms, where you eat home-cooked meals with or near the family. Rooms are clean and plain, with thick quilts in winter. Bathrooms vary from attached with geysers to shared with bucket hot water. The food is simple and fresh, often from the garden. You trade hotel comforts for quiet and real local life."},
+    {"q": "When are the oranges ripe in Sittong", "a": "Sittong's mandarin oranges ripen from about mid-November to January, with the best colour and flavour in December. Families pick and sell them by the roadside and in Siliguri markets. Orchard walks are easiest then too, as the weather is dry and clear. Harvests vary with the year's rain, so treat dates as a guide."},
+    {"q": "How do we reach Chatakpur", "a": "Chatakpur lies about 7 km up a forest track from Sonada, inside Senchal Wildlife Sanctuary, roughly 25–30 km from Darjeeling. The track is rough and best in a high-clearance vehicle such as a Bolero, which we arrange. A forest entry fee is charged. After heavy rain the track may be closed, so check current status before you travel."},
+    {"q": "Is there electricity and hot water in these villages", "a": "Yes, all three villages have mains electricity, though cuts happen and some homestays keep an inverter for lights. Hot water may come from a geyser, a solar heater or a bucket heated on the kitchen fire. On comfort and premium we choose homestays with geysers where possible. Bring a power bank and a torch."},
+    {"q": "Who was Tagore's host in Mungpoo", "a": "Rabindranath Tagore stayed in Mungpoo four times between 1938 and 1940 as the guest of the writer Maitreyi Devi, whose husband, Manmohan Sen, worked as a chemist at the cinchona plantation. She later wrote about those visits. The house is now Rabindra Bhavan, a small museum holding furniture he used, letters and photographs. It is kept by the state; timings change."},
+    {"q": "Is this trip good for birdwatchers", "a": "Yes. The forests around Latpanchar and Sittong are known for hornbills, barbets, sunbirds and laughingthrushes, and Senchal around Chatakpur holds high-forest species. Mornings from November to April are best. On premium we add a local birding guide in Sittong and Chatakpur; others can walk with their homestay host, who usually knows the common birds."},
+    {"q": "How much does a 5-night Darjeeling village trip cost", "a": "From ₹13,000 per person, twin sharing, on budget, with homestays on all meals and a car shared by four. Comfort, with better rooms and a private car, costs about ₹19,500, and premium with a birding guide and a Windamere night starts near ₹32,000. Homestay rates are fairly stable; car costs drive the difference."},
+    {"q": "Is it safe for women and solo travellers to stay in homestays", "a": "Yes. Registered homestays in these villages are family-run, and hosts look after guests closely. Solo women travel this way regularly. We book homestays we know and share the host's contact with you before arrival. As anywhere, tell someone your plans for forest walks and avoid walking alone after dark."},
+    {"q": "Can we do this trip in the monsoon", "a": "We do not run it from June to September. Rain is heavy, forest tracks such as the Chatakpur road turn to mud, leeches cover the paths, and views are rare. Sittong and Lepchajagat are lovely and green then, but plan a shorter, flexible stay if you go. October to April is the right season."}
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "druk-path-trek",
+  "name": "Druk Path Trek",
+  "region": "bhutan",
+  "kind": "trek route",
+  "wiki": "",
+  "image_query": "Druk Path trek Jimilang Tsho Bhutan",
+  "lat": 27.47,
+  "lng": 89.52,
+  "altitude_m": 4200,
+  "tagline": "Five days over the ridge from Paro to Thimphu, past high lakes",
+  "meta_description": "Druk Path Trek, Bhutan: the 4–6 day trek from Paro to Thimphu via Jele Dzong, Jimilang Tsho and Phajoding, best months, difficulty, permits and 2026 costs.",
+  "summary": "The Druk Path is Bhutan's most popular short trek: about 50 km over 4–6 days across the ridge between Paro and Thimphu, topping out at about 4,200 m. It passes Jele Dzong, a chain of high lakes including Jimilang Tsho, and ends at Phajoding above Thimphu. Go March–May or September–November, with a licensed trekking guide.",
+  "intro": [
+    "The Druk Path links Bhutan's two main valleys the old way, on foot over the mountains between them. It starts just above Paro, near the National Museum, and climbs through blue pine and rhododendron forest to the ruins and temple of Jele Dzong on the first ridge. From there it follows high ridges above the tree line for two or three days, past yak herders' camps and a string of glacial lakes, before dropping to the temples of Phajoding and down through forest into Thimphu. Most operators run it in 4 nights and 5 days; some add a day for acclimatisation or a rest at the lakes.",
+    "It is not a technical trek. There is no glacier, no ropes and no river crossing of note. But it is a real high-altitude walk: you sleep at 3,500–4,000 m for several nights and the high point is around 4,200 m. Days are 4–7 hours of walking with long climbs. Anyone in reasonable health who walks regularly can do it, but you must give your body time to adjust. We ask clients to spend at least two nights in Paro or Thimphu first, and to do a day hike such as the Tiger's Nest before starting.",
+    "Every trek in Bhutan must be run by a licensed operator with a licensed trekking guide. A typical Druk Path team is a guide, a cook and helpers, with ponies or yaks carrying the tents, food and your duffel bag, so you walk with only a day pack. The trail is quiet: you may share camps with one or two other groups in peak weeks, and see nobody else for hours. On clear days you look north to Jomolhari and the high peaks along the Tibet border. Rules and fees change; check current status before you travel."
+  ],
+  "story": {
+    "title": "Phajo's path to the Thimphu valley",
+    "paras": [
+      "The last night or morning of the Druk Path is spent at Phajoding, a group of temples and retreat houses on the slope high above Thimphu, at about 3,600 m. The place is named after Phajo Drugom Zhigpo, the Tibetan lama who came to western Bhutan in the 13th century and spread the Drukpa Kagyu school of Buddhism here. Bhutanese tradition holds that he meditated at this spot. Four centuries later, Zhabdrung Ngawang Namgyal, also of the Drukpa school, would unify the country, which is why Bhutan is called Druk Yul.",
+      "At the other end of the trail, Jele Dzong stands on the ridge above Paro, a small fortress and temple guarding an old route over the mountains. Between them, the trek crosses grazing land that yak herders have used for generations, moving their animals up in summer and down in winter. Some of the lakes along the way carry their own stories. Jimilang Tsho, the 'sand ox lake', takes its name from a local legend of a bull that came out of the water and joined the herders' cattle.",
+      "The trek is named for the country itself, Druk being the Thunder Dragon. It is not an ancient pilgrim route with a fixed name, but it follows paths that herders, monks and villagers have walked for centuries between the two valleys. Today the meditation caves above Phajoding are still used by monks on long retreats, so walk through quietly and ask your guide before entering any temple."
+    ],
+    "source": "Phajoding Monastery and Jimilang Tsho articles (Wikipedia); Department of Tourism, Bhutan trekking information; Karma Phuntsho, The History of Bhutan (2013)"
+  },
+  "did_you_know": [
+    "Phajoding, the last stop on the Druk Path above Thimphu, is associated with Phajo Drugom Zhigpo, who brought the Drukpa Kagyu school to western Bhutan in the 13th century.",
+    "Jimilang Tsho, a lake on the Druk Path at about 3,880 m, is known for its large trout.",
+    "All trekking in Bhutan must be arranged through a licensed operator with a licensed trekking guide."
+  ],
+  "facts": [
+    ["Best months", "Mar – May, Sep – Nov"],
+    ["Days we suggest", "5–6 (4–5 nights camping)"],
+    ["Nearest airport", "Paro (PBH), at the start"],
+    ["Distance", "≈ 50 km Paro → Thimphu"],
+    ["Highest point", "≈ 4,200 m"],
+    ["Known for", "Jele Dzong, Jimilang Tsho, high lakes, Phajoding, Jomolhari views"]
+  ],
+  "best_months": [0, 0, 1, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "nights": "4–5",
+  "highlights": [
+    {"title": "Jele Dzong on the first ridge", "text": "The first day climbs about 1,000 m from the Paro valley through forest to Jele Dzong, a small fortress and temple at about 3,450–3,500 m. Most groups camp near it. On clear evenings you look back over Paro and, sometimes, north to Jomolhari."},
+    {"title": "Jimilang Tsho and the trout", "text": "A deep blue glacial lake at about 3,880 m, ringed by rhododendron and dwarf juniper, and known for its large trout. Camps are set up close to the shore, and it is one of the best nights on the trek. Fishing needs a permit, and most groups simply watch."},
+    {"title": "A ridge above the tree line", "text": "Between Jele Dzong and Simkotra Tsho, the trail runs along open ridges with views north to the snow peaks along the Tibet border and south over layers of forested hills. These are the days that make the trek."},
+    {"title": "Herders and yaks", "text": "You will pass yak herders' camps on the high pastures, especially from late spring to autumn. Your guide may arrange a stop for butter tea. Ask before taking photographs, and give yaks plenty of room on the trail."},
+    {"title": "Phajoding and the descent to Thimphu", "text": "The last camp is near Phajoding, a group of temples and retreat houses at about 3,600 m with a wide view over the Thimphu valley. The final morning is a long, steep descent of about 1,000 m through forest to the edge of the capital."},
+    {"title": "Rhododendrons in spring", "text": "From late March to May, rhododendrons flower in the forests on the first and last days, in reds, pinks and whites. Autumn has clearer skies and views; spring has colour and slightly warmer nights."}
+  ],
+  "how_to_reach": [
+    {"mode": "Reserved car", "text": "The trek usually starts a short drive from Paro town, near the National Museum, and ends at the road above Thimphu near Motithang or the Sangaygang area, where your vehicle meets you. It can also be done in reverse, from Thimphu to Paro. Your operator supplies transfers as part of the trek package."},
+    {"mode": "Permits and guide", "text": "You must book through a licensed Bhutanese operator, who arranges the trekking permit and a licensed trekking guide, plus cook, helpers and pack animals. Indian visitors pay the ₹1,200 SDF per night and international visitors US$100, including nights on the trek. Check current status before you travel."},
+    {"mode": "Rail / Air", "text": "Fly into Paro from Delhi, Kolkata or other hubs, or travel overland via NJP or Hasimara to Phuentsholing and on to Paro. Spend at least two nights at Paro or Thimphu altitude, ideally with a day hike, before starting the trek."}
+  ],
+  "where_to_stay": "On the trek you sleep in tents at fixed campsites, usually near Jele Dzong, Jangchulakha, Jimilang Tsho, Simkotra Tsho and Phajoding, depending on the length of your itinerary. Your operator supplies sleeping tents, a dining tent, mattresses and a toilet tent; bring or hire a warm sleeping bag rated to about –10 °C. Before the trek, stay in Paro, where Hotel Olathang is a reliable mid-range option and COMO Uma Paro a premium one. After you come down to Thimphu, Hotel Druk is a central comfortable choice and Taj Tashi the premium one, both welcome after five days of camping.",
+  "stays": [],
+  "costs": [
+    ["SDF, Indian nationals / most others", "₹1,200 / US$100 per person per night, including trek nights, check current status before you travel"],
+    ["Full-service trek package, Indian visitors", "₹6,000–10,000 per person per day excluding SDF, indicative 2026"],
+    ["Full-service trek package, international visitors", "US$120–220 per person per day excluding SDF and visa, indicative 2026"],
+    ["Sleeping bag hire", "₹300–600 a day, indicative 2026"],
+    ["Tips for guide, cook and horsemen", "₹2,000–4,000 per trekker for the trek, indicative 2026"]
+  ],
+  "budget_tip": "Trek costs are mostly per group, so a team of four to six friends pays much less per head than a couple, for the same guide, cook and ponies.",
+  "tips": [
+    "Spend two or more nights in Paro or Thimphu and do a day hike before you start; the trek sleeps at 3,500–4,000 m.",
+    "Bring a sleeping bag rated to about –10 °C; nights at the lakes can be well below freezing even in October.",
+    "Wear broken-in boots and carry trekking poles for the long, steep descent from Phajoding to Thimphu.",
+    "Pack a water filter or purifying tablets, sunscreen and a sun hat; the sun is strong on the ridges.",
+    "Tell your guide at once if you get a headache, nausea or breathlessness at rest; the cure is to go down."
+  ],
+  "themes": ["treks-and-walks", "mountain-views", "high-passes", "monasteries"],
+  "nearby": ["paro", "thimphu", "chele-la"],
+  "experiences": [
+    {
+      "slug": "druk-path-jele-dzong-climb",
+      "title": "Day one: the climb to Jele Dzong",
+      "kind": "adventure",
+      "duration": "4–5 hours",
+      "best_time": "Mar–May and Sep–Nov",
+      "cost": "Included in your trek package",
+      "image_query": "Jele Dzong Druk Path Bhutan",
+      "wiki": "",
+      "summary": "The first and steepest day of the Druk Path, climbing about 1,000 m from the Paro valley through forest to the small fortress and temple of Jele Dzong, where most groups make their first camp on the ridge.",
+      "body": [
+        "The trek usually begins near the National Museum above Paro town, at around 2,400 m. From the road, the trail climbs steadily through farmland, then blue pine and rhododendron forest, gaining roughly 1,000 m to reach Jele Dzong at about 3,450–3,500 m. Allow 4–5 hours with breaks. It is the hardest day for many people, because the body is not yet used to the effort at this altitude.",
+        "Jele Dzong is a small fortress with a temple, sitting on a saddle on the ridge with views down to Paro and, on clear days, north towards Jomolhari. It guarded one of the old routes between the two valleys. Your guide can ask whether the temple is open for a visit; sometimes the caretaker is there, sometimes not. The camp is set up in a meadow nearby.",
+        "Walk slowly on this first day, much slower than feels necessary, and drink plenty of water. The ponies carry your bag, so you walk with a day pack of water, snacks, rain jacket and a warm layer. Evenings at the camp turn cold fast once the sun goes, so put on your down jacket early and enjoy the view of Paro's lights below."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "How hard is the first day of the Druk Path", "a": "It is the steepest day for most people: about 1,000 m of climbing over 4–5 hours, from near the National Museum above Paro to Jele Dzong at about 3,450–3,500 m. The trail is good but relentless. Go slowly, take regular breaks and drink water. If you have acclimatised in Paro for two nights and done the Tiger's Nest, you will manage."},
+        {"q": "Can you visit Jele Dzong on the Druk Path", "a": "Often, yes. Jele Dzong has a temple looked after by a caretaker or monk, and your guide can ask whether it is open when you arrive. Dress modestly and leave a small offering if you go in. Even if it is closed, the dzong and its ridge-top setting are worth seeing, and most groups camp nearby."},
+        {"q": "Can I do just the first day of the Druk Path", "a": "You can arrange a day hike from Paro to Jele Dzong and back, or an overnight camp there, through your operator. It is a long day: about 1,000 m up and back down, 7–8 hours in all. It suits fit walkers who want a taste of the trek without the full five days. A licensed guide is required."}
+      ]
+    },
+    {
+      "slug": "druk-path-jimilang-tsho-camp",
+      "title": "A night by Jimilang Tsho",
+      "kind": "nature",
+      "duration": "Overnight",
+      "best_time": "Apr–May and Oct–Nov",
+      "cost": "Included in your trek package",
+      "image_query": "Jimilang Tsho lake Bhutan",
+      "wiki": "Jimilang Tsho",
+      "summary": "The trek's best camp, beside a deep glacial lake at about 3,880 m known for its large trout, ringed by rhododendron and juniper, with yak pastures on the slopes and clear, cold nights full of stars.",
+      "body": [
+        "After Jele Dzong and the camp at Jangchulakha, the trail follows the ridge and drops to Jimilang Tsho, a glacial lake at about 3,880 m. The name is usually explained as the 'sand ox lake', after a local legend that a bull rose from the water and joined the herds of the yak herders who graze this area. The lake is known for its large trout, and on still mornings you may see them near the surface.",
+        "Camps are set up on the grassy ground near the shore. It is usually reached by early afternoon, so you have time to walk around the lake, rest, wash in a bowl of hot water from the kitchen and watch the light change. On clear days the high peaks show to the north. At night the temperature drops below freezing for much of the season, and the sky is clear enough for the Milky Way.",
+        "Fishing is controlled in Bhutan, and many lakes are sacred, so do not fish unless your operator has the right permit and your guide confirms it is allowed. Do not wash with soap in the lake or leave rubbish. If the weather is good and you have an extra day in your plan, this is the best place to use it."
+      ],
+      "good_for": ["couples", "photographers", "solo", "students"],
+      "faqs": [
+        {"q": "How high is Jimilang Tsho", "a": "Jimilang Tsho is at about 3,880 m, one of a chain of glacial lakes on the Druk Path between Jele Dzong and Phajoding. Most groups camp beside it on the third night of a five-day itinerary. Nights here are cold, often below freezing in spring and autumn, so bring a sleeping bag rated to about –10 °C."},
+        {"q": "Can you fish at Jimilang Tsho", "a": "Fishing in Bhutan is regulated and needs a permit, and many lakes are considered sacred. Some operators arrange fishing permits for Jimilang Tsho, which is known for its large trout, but many do not. Ask your operator before the trek and follow your guide's advice. Catch-and-release rules may apply. Check current status before you travel."},
+        {"q": "What does Jimilang Tsho mean", "a": "The name is usually translated as 'sand ox lake'. A local legend tells of a bull that came out of the lake and joined the cattle of the herders who grazed nearby. Like many Bhutanese lakes, it is linked to local spirits, so treat it with respect: no soap in the water, no rubbish and no shouting by the shore."}
+      ]
+    },
+    {
+      "slug": "druk-path-phajoding-descent",
+      "title": "Phajoding and the descent to Thimphu",
+      "kind": "spiritual",
+      "duration": "Half a day",
+      "best_time": "Mornings, Mar–May and Sep–Nov",
+      "cost": "Included in your trek package",
+      "image_query": "Phajoding Monastery Thimphu",
+      "wiki": "Phajoding Monastery",
+      "summary": "The trek's last morning: temples and retreat houses at Phajoding, about 3,600 m, with the whole Thimphu valley below, then a steep descent of about 1,000 m through forest to the road above the capital.",
+      "body": [
+        "After the high lakes, the trail crosses the last ridge and drops to Phajoding, a group of temples, monks' quarters and meditation retreat houses spread across the slope at about 3,600 m. It is named after Phajo Drugom Zhigpo, the 13th-century lama who brought the Drukpa Kagyu school to western Bhutan. Young monks study here, and older practitioners stay in the retreat houses for long periods of meditation.",
+        "Groups usually camp near Phajoding or pass through it on the final morning. With your guide, you can visit one of the temples if it is open. The view from the monastery takes in the whole of Thimphu, the dzong, the Buddha Dordenma statue on its hill and the river winding through the valley. It is a good place to pause before the last stretch.",
+        "The descent to Thimphu is steep and long, about 1,000 m through blue pine forest, taking 2.5–3.5 hours. Trekking poles and good boots help your knees. The trail ends at the road above the city near Motithang or Sangaygang, where your car waits. Plan a hot shower, a proper bed and a good dinner in Thimphu that night."
+      ],
+      "good_for": ["couples", "solo", "photographers", "students"],
+      "faqs": [
+        {"q": "How long is the walk down from Phajoding to Thimphu", "a": "About 2.5–3.5 hours, losing roughly 1,000 m through forest to the road above Thimphu near Motithang or Sangaygang. The path is steep and can be slippery after rain, so use trekking poles and take your time. Your vehicle meets you at the road and takes you to your hotel in town."},
+        {"q": "Can you visit Phajoding Monastery", "a": "Yes, with a licensed guide, when the temples are open. Phajoding is a working monastery and retreat centre, so keep voices low, dress modestly and ask before photographing monks. Do not disturb the retreat houses where practitioners are in meditation. A small offering at the altar is customary if you go inside."},
+        {"q": "Who founded Phajoding", "a": "Phajoding is associated with Phajo Drugom Zhigpo, the Tibetan lama who brought the Drukpa Kagyu school of Buddhism to western Bhutan in the 13th century, and who, by tradition, meditated at this spot. The temples and buildings you see today were built and rebuilt over the following centuries and are still used by monks."}
+      ]
+    },
+    {
+      "slug": "druk-path-phajoding-day-hike",
+      "title": "Phajoding day hike from Thimphu",
+      "kind": "adventure",
+      "duration": "5–7 hours return",
+      "best_time": "Mar–May and Sep–Nov",
+      "cost": "Free; guide and car as part of your day rate",
+      "image_query": "Phajoding hike Thimphu valley view",
+      "wiki": "",
+      "summary": "If five days of camping is too much, walk the last section of the Druk Path in reverse: a day hike from the road above Thimphu up to Phajoding at about 3,600 m and back, with a wide view over the capital.",
+      "body": [
+        "For travellers who want a taste of the Druk Path without the camping, the climb from Thimphu to Phajoding is the best option. The trail starts from the road above the city near Motithang or the Sangaygang area and climbs about 1,000 m through blue pine forest, hung with prayer flags in places, to the temples at about 3,600 m. Allow 3–4 hours up and 2–3 hours down.",
+        "At the top you have the same view that trekkers get on their last morning: Thimphu laid out below, with the dzong, the Buddha Dordenma and the valley stretching north and south. With your guide you can visit a temple if it is open, and eat a packed lunch on the slope. On clear days you also see the snow peaks to the north.",
+        "This is a full and steep day, and a good acclimatisation hike before the Tiger's Nest or a longer trek. Start early, carry plenty of water, snacks and a rain jacket, and wear proper shoes. Your guide is required, as for all walks in Bhutan beyond town. In wet weather the descent is slippery, so consider a shorter walk instead."
+      ],
+      "good_for": ["couples", "solo", "students", "photographers"],
+      "faqs": [
+        {"q": "How long is the hike to Phajoding from Thimphu", "a": "Plan on 5–7 hours for the round trip: about 3–4 hours up and 2–3 hours down, gaining and losing about 1,000 m. The trail starts from the road above the city near Motithang or Sangaygang. It is steep but well trodden. Start by 8 am, carry water and lunch, and go with your licensed guide."},
+        {"q": "Is the Phajoding hike harder than Tiger's Nest", "a": "A little, for most people. Phajoding climbs about 1,000 m to about 3,600 m, while the Tiger's Nest climbs about 500 m to about 3,120 m. Both are steep, but Phajoding is longer and higher. Many travellers use Phajoding as a test before a trek, or the Tiger's Nest as practice before Phajoding."},
+        {"q": "Do I need a guide for the Phajoding hike", "a": "Yes. Under current rules a licensed guide is required for tourists beyond the first checkpoint, including walks and hikes outside town. Your guide also knows the trail junctions and can arrange a temple visit at the top. The hike costs nothing extra beyond your usual daily guide and vehicle rate. Check current status before you travel."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"q": "How difficult is the Druk Path Trek", "a": "It is a moderate high-altitude trek. Days are 4–7 hours with long climbs, you sleep at 3,500–4,000 m, and the high point is around 4,200 m. There are no technical sections. Fit walkers in good health manage it well if they acclimatise for two nights in Paro or Thimphu and do a day hike before starting."},
+    {"q": "How many days is the Druk Path Trek", "a": "Most operators run it in 5 days and 4 nights of camping, covering about 50 km from Paro to Thimphu. Some add a sixth day to rest at Jimilang Tsho or acclimatise better. With the nights you need in Paro and Thimphu before and after, a Druk Path trip is usually 8–10 nights in Bhutan."},
+    {"q": "What is the best time for the Druk Path Trek", "a": "March to May and September to November. Spring brings rhododendron flowers and milder nights; October and November have the clearest skies and mountain views but colder nights. June to August is the monsoon, with rain, leeches and cloud. December to February brings snow on the high sections, and some operators do not run the trek then."},
+    {"q": "How much does the Druk Path Trek cost", "a": "For Indian visitors, a full-service trek with guide, cook, tents, food and ponies costs about ₹6,000–10,000 per person per day, plus ₹1,200 SDF per night. For international visitors, about US$120–220 per person per day plus US$100 SDF per night and the visa. Groups pay less per head. All figures indicative 2026; check current status before you travel."},
+    {"q": "Can I do the Druk Path Trek without a guide", "a": "No. All treks in Bhutan must be booked through a licensed Bhutanese operator and led by a licensed trekking guide. Your operator also supplies the trekking permit, cook, helpers, tents and pack animals. This applies to both Indian and international visitors. Check current status before you travel, as rules have been revised in recent years."},
+    {"q": "Do I need to carry my own bag on the Druk Path", "a": "Only a day pack with water, snacks, rain gear, a warm layer and your camera. Ponies or yaks carry tents, food and your main duffel bag between camps. Operators usually set a weight limit of about 10–15 kg per person for the duffel. Pack in a soft bag rather than a hard suitcase."},
+    {"q": "Is altitude sickness a problem on the Druk Path", "a": "It can be, because you sleep at up to about 4,000 m. Spend at least two nights in Paro or Thimphu first, do a day hike, walk slowly and drink water. Tell your guide at once about headaches, nausea or breathlessness at rest. If symptoms get worse, the only reliable cure is to go down."},
+    {"q": "Which direction is best for the Druk Path", "a": "Most groups walk from Paro to Thimphu. The climb on the first day from Paro is steep but you descend gently later, and you finish in the capital with its hotels and restaurants. Walking from Thimphu starts with the steep Phajoding climb. Either works; your operator will suggest a plan based on your flights and dates."},
+    {"q": "What should I pack for the Druk Path Trek", "a": "Broken-in boots, trekking poles, a sleeping bag rated to about –10 °C, a down jacket, thermal layers, a waterproof jacket and trousers, hat, gloves, sunglasses, sunscreen, a head torch, water bottles with purifying tablets or a filter, and basic medicines. Operators supply tents and mattresses. Keep valuables in your day pack."}
+  ]
+}

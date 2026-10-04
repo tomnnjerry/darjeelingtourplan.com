@@ -1,0 +1,77 @@
+{
+  "slug": "dooars-budget-by-train-3n",
+  "title": "Dooars on a budget by train in 3 nights",
+  "region": "dooars",
+  "nights": 3,
+  "themes": ["budget-trips", "wildlife-safaris", "tea-gardens", "birding-and-orchids"],
+  "stops": [{"place": "murti", "nights": 1}, {"place": "lataguri", "nights": 1}, {"place": "jaldapara-national-park", "nights": 1}],
+  "start": "New Mal Junction or Chalsa station (or NJP / Siliguri)",
+  "end": "Hasimara station (or NJP / Siliguri)",
+  "price_from_inr": 6500,
+  "fares": {"budget": 6500, "comfort": 11500, "premium": 20000},
+  "fare_notes": {
+    "budget": "A tent or room at the Murti Banani forest lodge, a family-run Lataguri lodge and a simple Madarihat hotel, twin sharing; local trains, autos and shared vehicles between bases; seats in a full shared jeep for one Gorumara watchtower safari and one Jaldapara safari; breakfast and dinner. Train fares to and from the Dooars are extra.",
+    "comfort": "A cottage at Murti Banani, The Reserve Gorumara at Lataguri and WBTDC's Aranya Tourism Property at Madarihat; a private car on the two transfer days; safaris in a jeep for your party; breakfast and dinner.",
+    "premium": "Sinclairs Retreat Dooars at Chalsa for two nights and Aranya's best rooms at Madarihat; a private car throughout; private jeep safaris; all meals. Still a short, easy trip, just with a pool and more space."
+  },
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Active",
+  "max_altitude_m": 150,
+  "meta_description": "3 nights in the Dooars from ₹6,500 using trains, autos and forest lodges: Murti river, a Gorumara watchtower, Jaldapara's rhinos and no car hire.",
+  "summary": "Three nights in the Dooars on trains, autos and shared jeeps: a riverside night at Murti, a Gorumara watchtower from Lataguri and a dawn rhino safari at Jaldapara. Forest lodges, roadside thalis and no reserved car. From ₹6,500 per person, twin sharing, plus your train fare.",
+  "intro": [
+    "The Dooars is the cheapest wildlife holiday in eastern India if you use the railway. The line from NJP to Alipurduar runs right through it, stopping at New Mal, Chalsa, Banarhat, Binnaguri, Madarihat and Hasimara, and the Kanchankanya Express from Sealdah runs along it overnight. Get off at Chalsa for Murti, ride an auto to Lataguri, and take a train or bus east to Madarihat for Jaldapara. You need a car only for the safaris, and those are shared jeeps.",
+    "The other saving is where you sleep. Government forest and tourism lodges at Murti and Madarihat cost ₹1,500–4,000 a night, and Lataguri has family lodges from ₹1,200. Eat thalis at roadside hotels for ₹100–200. Safari slots are the one thing you cannot leave to chance, so book them online the day booking opens. Parks close from mid-June to mid-September; check current status before you travel."
+  ],
+  "highlights": [
+    "A night by the Murti river in a forest lodge tent or room",
+    "Gorumara watchtower safari in a shared jeep",
+    "Dawn rhino safari at Jaldapara",
+    "The Dooars railway line through tea gardens and forest",
+    "Roadside thalis and fish curry for ₹100–200"
+  ],
+  "days": [
+    {"day": 1, "title": "Train to Chalsa and the Murti river", "place": "murti", "overnight": "Murti", "drive": "≈ 7 km by auto from Chalsa", "text": "Arrive at Chalsa or New Mal on the overnight Kanchankanya Express from Sealdah, or by local train from NJP, about 2 hours through the Mahananda forest and tea gardens. An auto from Chalsa to Murti costs ₹150–300, indicative 2026. Check in at Murti Banani or another forest lodge by the river. Spend the afternoon on the stony banks of the Murti, where the water is clear and shallow in winter. In the late afternoon take the Chandrachur or Medla watchtower slot if available, ₹70–250 per person plus the jeep. Leave the riverbank by dusk; elephants cross here.", "meals": "Dinner"},
+    {"day": 2, "title": "Murti to Lataguri and Gorumara", "place": "lataguri", "overnight": "Lataguri", "drive": "≈ 15 km by auto or shared vehicle", "text": "A short hop to Lataguri by auto or shared vehicle, about 30 minutes. Drop bags at a family-run lodge and walk to the safari counter to confirm your slot. In the afternoon take a Gorumara watchtower safari to Jatraprasad or the Rhino Observation Point. A full jeep of six costs about ₹2,500–3,500 with the watchtower, indicative 2026, so a seat is roughly ₹450–600. Ask the counter or lodge to pair you with other travellers. Gorumara safaris are usually closed on Thursdays; check current status before you travel. Eat at a roadside hotel: rice, dal, fish curry and vegetables.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "East to Madarihat for Jaldapara", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 95 km · 2.5–3 h by bus or train", "text": "Take a morning bus from Lataguri towards Madarihat, about 2.5–3 hours, or ride an auto back to New Mal and a train to Madarihat or Hasimara. Buses cost ₹100–200, indicative 2026. Check in at a simple Madarihat hotel near the park gate. In the afternoon walk to the Torsa side, or rest for tomorrow. The cheapest way to see Jaldapara well is the dawn safari, so book that one. Dinner early. Mobile signal works, and there are ATMs in Madarihat and Hasimara.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Dawn rhinos and the train home", "place": "jaldapara-national-park", "overnight": "", "drive": "≈ 20 km to Hasimara", "text": "The first jeep safari leaves at sunrise into Jaldapara's grassland. Rhinos graze in the open in the cool hours, with gaur, hog deer and peafowl. A seat in a full jeep of six works out at about ₹500–700, indicative 2026. After breakfast, take an auto or bus to Hasimara, about 20 km, for a train to NJP or the Kanchankanya Express back to Sealdah. Timetables change, so check current status before you travel. If you have one more day, Totopara is 21 km from Madarihat.", "meals": "Breakfast"}
+  ],
+  "stays": ["murti-banani-eco-tourism-centre", "the-reserve-gorumara-lataguri", "aranya-tourism-property-jaldapara", "sinclairs-retreat-dooars-chalsa"],
+  "includes": [
+    "3 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner",
+    "One Gorumara and one Jaldapara safari (shared jeep seats on budget)",
+    "Safari booking on the official forest department system",
+    "Help with local train and bus timings"
+  ],
+  "excludes": [
+    "Train fares to and from the Dooars",
+    "Autos, buses and local trains between bases on budget (about ₹500–800 per person in all, indicative 2026)",
+    "Lunches",
+    "Watchtower tickets at Murti and camera fees",
+    "Personal expenses"
+  ],
+  "save_more": [
+    "Book sleeper class on the Kanchankanya Express from Sealdah, about ₹400–550, indicative 2026, which also saves a night's hotel.",
+    "Go Sunday to Wednesday in November, February or early March, when lodges discount and safari seats are easier to share.",
+    "Pick a Murti tent over a cottage; it costs about ₹1,500 a night and the river is the same."
+  ],
+  "good_to_know": [
+    "Gorumara and Jaldapara close from mid-June to mid-September. Check current status before you travel.",
+    "Safari seats need ID matching the booking; shared seats depend on finding other travellers, which is easy at weekends and harder mid-week.",
+    "Local trains on the Dooars line run a few times a day; carry snacks and water.",
+    "Autos and shared vehicles thin out after dark; finish transfers by 5 pm.",
+    "Forest lodges serve fixed meals at fixed times; tell them in advance if you are vegetarian."
+  ],
+  "faqs": [
+    {"q": "What is the cheapest way to visit the Dooars", "a": "Take the train. The Kanchankanya Express from Sealdah stops at New Mal, Chalsa and Hasimara, and local trains from NJP also serve Madarihat. Stay in government forest lodges or family lodges, share safari jeeps with other travellers, and eat at roadside hotels. Our budget plan costs from ₹6,500 per person for 3 nights, plus your train fare."},
+    {"q": "Can I do a Dooars trip without hiring a car", "a": "Yes. Autos link Chalsa and New Mal stations with Murti and Lataguri, buses run along the highway to Madarihat, and trains connect New Mal, Madarihat and Hasimara. Safaris use forest department or licensed jeeps, so you never need your own car inside the parks. Transfers take longer and finish by late afternoon."},
+    {"q": "How do I share a safari jeep with other travellers", "a": "Safari jeeps take up to six and are priced per vehicle. Ask your lodge or the safari counter at Lataguri or Madarihat to pair you with others; it is common practice. Weekends are easiest. Each person still needs ID that matches the booking. Book your own seat online first where the system allows seat-wise booking. Check current status before you travel."},
+    {"q": "How much does a Gorumara watchtower ticket cost", "a": "Watchtower tickets cost about ₹70–160 per person depending on the tower, indicative 2026, but you also pay for the jeep, guide and vehicle entry. A full jeep with a watchtower costs about ₹2,500–3,500, so a seat is roughly ₹450–600 when six share. Medla, with its bullock-cart ride, costs a bit more. Check current status before you travel."},
+    {"q": "Is Murti Banani good for budget travellers", "a": "Yes. Murti Banani is a government forest lodge on the bank of the Murti river with rooms, cottages and tents, from about ₹1,500 a night for a tent, indicative 2026. Meals are simple and served at set times. Book early for weekends and holidays. It is a short auto ride from Chalsa station."},
+    {"q": "Which trains go to the Dooars from Kolkata", "a": "The Kanchankanya Express from Sealdah runs overnight through New Mal Junction, Chalsa and Hasimara to Alipurduar. Other overnight trains from Howrah and Sealdah run to NJP, from where local trains and buses continue east. Timetables and halts change, so check current status before you travel."},
+    {"q": "Is the Dooars safe for solo and student travellers", "a": "Generally yes. Lataguri and Madarihat are small, busy towns, and forest lodges are staffed. The main risks are wild elephants near rivers and forest edges at dawn and dusk, and road traffic on the highway. Finish transfers before dark, walk with others near forests and follow lodge staff advice."},
+    {"q": "How much money should I carry for this trip", "a": "Beyond the package, budget about ₹500–800 for autos, buses and local trains, ₹300–600 a day for lunches and snacks, and ₹200–500 for camera fees and tips. UPI works in most Lataguri and Madarihat shops, but forest lodges and autos may want cash, so carry ₹2,000–3,000. There are ATMs at Malbazar, Madarihat and Hasimara."},
+    {"q": "When is the best time for a budget Dooars trip", "a": "November and February to early March. The parks are open, days are pleasant, and outside holiday weeks lodges discount mid-week stays by 20–40%. Avoid Puja week and 24 December to 1 January, when prices rise and safari seats vanish. The parks close from mid-June to mid-September."}
+  ]
+}

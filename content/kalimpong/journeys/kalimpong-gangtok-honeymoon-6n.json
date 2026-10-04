@@ -1,0 +1,136 @@
+{
+  "slug": "kalimpong-gangtok-honeymoon-6n",
+  "title": "Kalimpong and Gangtok honeymoon in 6 nights",
+  "region": "kalimpong",
+  "nights": 6,
+  "themes": ["honeymoons", "mountain-views", "monasteries", "high-passes"],
+  "stops": [{"place": "kalimpong", "nights": 3}, {"place": "gangtok", "nights": 3}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 21000,
+  "fares": {"budget": 21000, "comfort": 34500, "premium": 72000},
+  "fare_notes": {
+    "budget": "Morgan House or Holumba Haven in Kalimpong and a budget hotel near MG Marg in Gangtok such as Hotel Sonam Delek or Mintokling Guest House, a double room; a private small car for transfers and the Kalimpong days; a shared vehicle seat for Tsomgo; breakfast daily.",
+    "comfort": "Sinclairs Retreat or a garden cottage at Holumba Haven in Kalimpong, then Netuk House or Royal Plaza in Gangtok; a private car throughout with a Gangtok-registered car for Tsomgo; a candlelit dinner one night; breakfast and dinner daily.",
+    "premium": "Mayfair Himalayan Spa Resort or Elgin Silver Oaks in Kalimpong, then Elgin Nor-Khill, Mayfair Spa Resort or Taj Guras Kutir in Gangtok; a private Innova-class car and driver; spa credit at one hotel; Tsomgo permits arranged before you arrive; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 3753,
+  "meta_description": "Kalimpong and Gangtok honeymoon in 6 nights from ₹21,000 per person: heritage rooms on Durpin, a day at Lava and Rishyap, Tsomgo Lake and Rumtek.",
+  "summary": "Six slow nights for couples: three in Kalimpong in a heritage house or garden cottage, with a day up to Lava and Rishyap, then three in Gangtok for MG Marg evenings, Tsomgo Lake at 3,753 m and Rumtek. Late starts except one sunrise. From ₹21,000 per person, twin sharing.",
+  "intro": [
+    "Couples often try to fit Darjeeling, Gangtok and North Sikkim into a week and spend their honeymoon in a car. We do the opposite. Kalimpong is a short drive from Bagdogra and has some of the most romantic old houses in the hills: Morgan House on Durpin with its fireplaces and lawns, the cottages of the old Himalayan Hotel, Holumba Haven's gardens. Three nights there give you a day of nothing, a day in the town and a day in the pine forest at Lava.",
+    "Then we cross into Sikkim, about 75 km and three to three and a half hours along the Teesta, for three nights in Gangtok. It is livelier, with a car-free main street, cafés and good restaurants. The one big outing is Tsomgo Lake, which may be frozen in winter and is ringed by rhododendron in May. Everything else, from Rumtek to Enchey to the evening walk on MG Marg, is unhurried. One private car stays with you throughout."
+  ],
+  "highlights": [
+    "Three nights in a Kalimpong heritage house or garden cottage",
+    "Sunrise over Kanchenjunga from Tiffin Dara at Rishyap",
+    "Evenings on Gangtok's car-free MG Marg",
+    "Tsomgo Lake at 3,753 m, frozen in winter, flowering in spring",
+    "Rumtek, seat of the Karmapa lineage in exile since 1966"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Kalimpong",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70–80 km · 2.5–3.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive along the Teesta through Sevoke and Teesta Bazaar to Kalimpong. Since the October 2023 flood NH10 closes often; if it is cut, the car goes by Gorubathan and Lava, adding one to three hours. Check current status before you travel. Check in by lunch and do nothing for the rest of the day. Heritage hotels in Kalimpong have lawns facing the Teesta valley and, on clear evenings, the snows of Sikkim. Ask for a fire in the room on winter nights where the hotel offers one.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Durpin, Deolo and the old town",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 30 km · 4–5 h with stops",
+      "text": "A late breakfast, then up to Zang Dhok Palri on Durpin, consecrated by the Dalai Lama in 1976, with its terrace over the Teesta and Relli valleys. Drive across to Deolo, the highest point at 1,704 m, where tandem paragliding costs ₹2,500–4,000 per person, indicative 2026, if you want to fly over the valley together. In the afternoon walk past the MacFarlane Memorial Church of 1891 and through the Haat Bazaar if it is a Wednesday or Saturday. Buy Kalimpong cheese and a bag of milk lollipops for the room.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Rishyap sunrise and Lava's forest",
+      "place": "rishyap",
+      "overnight": "Kalimpong",
+      "drive": "≈ 90 km round trip · 7–8 h",
+      "text": "The one early start in Kalimpong. Leave at about 4.30 am for Rishyap, about 43 km away at 2,590 m, and walk the short, steep path to Tiffin Dara for sunrise on the Kanchenjunga range; carry the flask of tea your hotel can pack. Breakfast at a Rishyap homestay, then drive down to Lava for Kagyu Thekchen Ling monastery and a walk in the pine forest. Back in Kalimpong by mid-afternoon for a long rest. From December to February the Rishyap ridge is below freezing at dawn, so take every warm layer you packed.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Kalimpong to Gangtok",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 75 km · 3–3.5 h",
+      "text": "After breakfast drive down to the Teesta, cross into Sikkim at Rangpo and climb to Gangtok at about 1,650 m. The hotel collects the Sikkim tourist fee of about ₹50 at check-in; check current status before you travel. Tonight we need a photo ID copy and two passport photos for each of you for the Tsomgo permit. In the evening walk MG Marg, about 1 km of car-free street with benches down the middle, and eat momos and thukpa in the lanes below it. Book a table in advance on Saturdays.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Tsomgo Lake and Baba Mandir",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 80 km round trip · 6–7 h",
+      "text": "Leave at about 7 am for Tsomgo Lake at 3,753 m, about 40 km up the Nathu La road, on a permit arranged by a registered agent. Indians need a Protected Area Permit and foreign nationals a Restricted Area Permit, both filed a day ahead. The lake may be frozen from January to March and is ringed by rhododendron in May. Continue to Baba Harbhajan Singh Mandir if the road is open. Coat and boot hire costs ₹100–300, indicative 2026. Stay only 30–45 minutes at the top, drink water and skip alcohol the night before. Check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Rumtek and an easy Gangtok day",
+      "place": "gangtok",
+      "overnight": "Gangtok",
+      "drive": "≈ 50 km · 4–5 h",
+      "text": "A slow morning, then drive about 24 km to Rumtek, rebuilt by the 16th Karmapa after he left Tibet and opened as his seat in exile in 1966. Carry photo ID for the security check at the gate. Back in Gangtok, visit Enchey Monastery, rebuilt in 1909, and the Namgyal Institute of Tibetology, a small, fine museum of Buddhist art and manuscripts. Spend the evening on the terrace of your hotel or in a café on MG Marg. On the comfort tier, tonight is the candlelit dinner.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 7,
+      "title": "Gangtok to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 125 km · 4.5–5.5 h",
+      "text": "Breakfast, then leave Gangtok by 8–9 am for an afternoon flight or train. The road drops along the Teesta through Rangpo and Sevoke to the plains. Allow 5–6 hours for Bagdogra, because Rangpo and Sevoke jam after midday. In the rains NH10 can be cut near Melli or Teesta Bazaar, and cars then go round by Pedong and Kalimpong or by Lava and Gorubathan, adding two to three hours. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["morgan-house-kalimpong", "holumba-haven-kalimpong", "sinclairs-retreat-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong"],
+  "includes": [
+    "3 nights in Kalimpong and 3 in Gangtok in your chosen tier, double room",
+    "Breakfast daily; dinners on comfort and premium, with one candlelit dinner on comfort",
+    "One private car for transfers and sightseeing",
+    "Tsomgo Lake trip with permits (shared seat on budget, private car on comfort and premium)",
+    "Day trip to Rishyap and Lava"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Sikkim tourist fee of about ₹50 per person",
+    "Paragliding, spa treatments and monastery donations",
+    "Lunches, and dinners on the budget tier",
+    "Coat and boot hire at Tsomgo, tips and personal expenses"
+  ],
+  "save_more": [
+    "Book late February, March or the second half of November; heritage rooms in Kalimpong and Gangtok hotels both discount outside the Puja and Christmas weeks.",
+    "Take a shared vehicle seat to Tsomgo, ₹800–1,300 a person, instead of a reserved car at ₹4,500–6,500.",
+    "Choose a garden room at Morgan House or Holumba Haven instead of a resort; you get the old-house feel for about half the price."
+  ],
+  "good_to_know": [
+    "Tsomgo needs a permit filed a day ahead by a registered agent; foreign nationals usually need to be in a group of two or more. Check current status before you travel.",
+    "Snow can close the Tsomgo road from December to March, and landslides in July and August.",
+    "Morgan House and other heritage rooms can be cold in winter; ask about heaters when you book.",
+    "Sikkim restricts plastic bottles in some areas; carry a refillable bottle.",
+    "NH10 between Kalimpong and Gangtok closes in heavy rain; keep the transfer day free of fixed plans."
+  ],
+  "faqs": [
+    {"q": "Is Kalimpong good for a honeymoon", "a": "Yes, especially for couples who want quiet. Kalimpong has heritage houses with lawns and fireplaces, such as Morgan House and the old Himalayan Hotel, now Mayfair, and it is calmer than Darjeeling. Pair it with Gangtok for restaurants and nightlife, or with Lava and Rishyap for forest and mountain views. October to December and March to April suit it best."},
+    {"q": "How far is Gangtok from Kalimpong", "a": "About 75 km, three to three and a half hours by road. The route drops to the Teesta, follows it to Rangpo, where you enter Sikkim, then climbs to Gangtok. A reserved car costs about ₹3,000–4,500, indicative 2026, and shared jeeps run between the towns in the morning. In heavy rain NH10 can close; check current status before you travel."},
+    {"q": "What is the best hotel in Kalimpong for couples", "a": "For heritage charm, Morgan House on Durpin and the Mayfair Himalayan Spa Resort, the old Himalayan Hotel, are the favourites. Elgin Silver Oaks is a 1930s house walkable to the bazaar. For a garden cottage at a lower price, Holumba Haven. For a pool and modern rooms, Sinclairs Retreat. We match the room to your budget and season."},
+    {"q": "Can we see snow on a Kalimpong–Gangtok honeymoon", "a": "Often, at Tsomgo Lake from December to April, when snow lies around the lake and sometimes the lake freezes. The same snow can close the road, so it is never guaranteed. Kalimpong and Gangtok themselves rarely get snow. Rishyap and Lava get an occasional light fall in January or February. Check current status before you travel."},
+    {"q": "Do we need a permit for Tsomgo Lake", "a": "Yes. Indian nationals need a Protected Area Permit and foreign nationals a Restricted Area Permit plus a Tsomgo permit, all arranged by a registered Gangtok agent a day ahead. Bring photo ID copies and two passport photos each. The permit is usually around ₹200 per person. Foreign nationals generally need to travel in a group of two or more. Check current status before you travel."},
+    {"q": "How much does a 6-night Kalimpong and Gangtok honeymoon cost", "a": "From about ₹21,000 per person on our budget tier, double room, indicative 2026, with a private car and breakfast. Comfort, with better hotels, dinners and a candlelit evening, runs about ₹34,500 per person. Premium at Mayfair, Elgin and Taj properties runs about ₹72,000 per person. Peak weeks around Puja, Christmas and New Year cost more."},
+    {"q": "Is Tsomgo Lake safe at 3,753 m", "a": "For healthy adults on a short visit, yes. Some people feel a headache or breathlessness at 3,753 m, which is why we keep the stop to 30–45 minutes and sleep back in Gangtok at 1,650 m. Drink water, avoid alcohol the night before, and walk slowly. Anyone with heart or lung problems should ask a doctor first."},
+    {"q": "Can we add North Sikkim to this trip", "a": "Yes, by adding two nights for Lachung and Yumthang, or three for Lachen and Gurudongmar as well. Permits are needed and roads are long, often six to eight hours a day, so many couples find it tiring. We usually suggest it only for trips of eight nights or more. Check current status before you travel, since landslides close the North Sikkim road often."},
+    {"q": "Which month is best for a honeymoon in Kalimpong and Gangtok", "a": "October and November for clear mountain views and dry weather; December for cold, crisp days and a chance of snow at Tsomgo; March and April for rhododendrons and mild days. May is pleasant but busy with school holidays. We avoid mid-June to mid-September, when rain and landslides make driving slow and the peaks stay hidden."}
+  ]
+}
