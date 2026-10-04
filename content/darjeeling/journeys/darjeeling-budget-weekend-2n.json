@@ -1,0 +1,100 @@
+{
+  "slug": "darjeeling-budget-weekend-2n",
+  "title": "Darjeeling on a budget in 2 nights",
+  "region": "darjeeling",
+  "nights": 2,
+  "themes": ["budget-trips", "mountain-views", "toy-train"],
+  "stops": [{"place": "darjeeling", "nights": 2}],
+  "start": "NJP station, Siliguri or Bagdogra Airport (IXB)",
+  "end": "NJP station, Siliguri or Bagdogra Airport (IXB)",
+  "price_from_inr": 6500,
+  "fares": {"budget": 6500, "comfort": 11500, "premium": 27000},
+  "fare_notes": {
+    "budget": "A plain room at the WBTDC Darjeeling Tourism Property or Revolver, twin sharing; shared jeep seats NJP–Darjeeling and back; a shared seat or a group-shared car for Tiger Hill, Ghum and Batasia; breakfast only.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel on Chowrasta; a private small car for the transfers and the Tiger Hill morning; breakfast and dinner daily.",
+    "premium": "Windamere Hotel or Mayfair Hill Resort; a private Innova-class car with driver for all transfers and sightseeing; breakfast and dinner; a steam joyride seat booked for you on IRCTC."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2567,
+  "meta_description": "A 2 nights Darjeeling weekend from ₹6,500 per person: shared jeeps from NJP, Tiger Hill sunrise, Ghum, Batasia Loop, the toy train and a Mall walk.",
+  "summary": "Two nights in Darjeeling done the way locals travel: shared jeeps up from NJP, a cheap clean room near Chowrasta, one early start for Tiger Hill, and the rest of the town on foot. It suits students, couples and Kolkata weekenders on an overnight train. From ₹6,500 per person, twin sharing.",
+  "intro": [
+    "Many people think Darjeeling needs four days and a reserved car. It does not. The town is compact, the main sights sit within 11 km of Chowrasta, and the shared jeeps that carry office workers and school teachers up from Siliguri every morning will carry you too for ₹250–400 a seat. This weekend plan uses one paid car morning, for the Tiger Hill sunrise with Ghum and Batasia on the way back, and walks everything else: the Mall, Observatory Hill, the zoo and the Himalayan Mountaineering Institute, the bazaar and the tea counters.",
+    "It is built for the overnight train from Kolkata. Leave Sealdah or Howrah on Thursday or Friday night, reach NJP in the morning, sleep two nights in Darjeeling and catch the evening train back on Sunday. A first-timer sees the essentials, eats well and spends less than many families spend on one reserved car. If the toy train is on your list, we add the two-hour joyride from Darjeeling to Ghum on day 2 rather than the full seven-hour run from the plains."
+  ],
+  "highlights": [
+    "Kangchenjunga at sunrise from Tiger Hill at 2,567 m",
+    "Batasia Loop and the Gorkha War Memorial on the way down",
+    "The Himalayan Mountaineering Institute and Tenzing Norgay's memorial",
+    "An optional two-hour toy-train joyride from Darjeeling to Ghum",
+    "Shared jeeps up and down at about ₹250–400 a seat"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "NJP to Darjeeling by shared jeep",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Step out of NJP station and walk to the shared-jeep line outside the main exit; seats to Darjeeling cost ₹250–400, indicative 2026, and jeeps leave as they fill, usually through the morning. The road climbs via Rohini or Pankhabari to Kurseong and Ghum, then drops to Darjeeling's motor stands near Chowk Bazaar. Check in, rest, and walk up to Chowrasta in the afternoon. Do the Mall loop round Observatory Hill, about 1.5 km, then go down to Nehru Road for tea and momos. Book tomorrow's Tiger Hill seat or car tonight through your hotel. Fares change with fuel prices, so check current status before you travel.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Tiger Hill, Ghum, Batasia and HMI",
+      "place": "tiger-hill",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 3–4 h in the morning",
+      "text": "Leave at about 4 am for Tiger Hill, 11 km away, in a shared seat at ₹300–500 or a car at ₹1,500–2,200 shared between four, indicative 2026. Watch first light on Kangchenjunga, 75 km away. On the way back stop at Yiga Choeling monastery in Ghum, founded in 1850, and Batasia Loop, built in 1919, entry ₹20–50. After breakfast walk down to the Padmaja Naidu Himalayan Zoological Park and the Himalayan Mountaineering Institute, one ticket for both at ₹100–150. If you booked it, the toy-train joyride to Ghum leaves in the afternoon and takes about two hours. End at a tea counter on Nehru Road.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Morning walk and down to NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Be on Chowrasta by 6 am; on a clear day the mountains are free from here. Walk to the Mahakal temple on Observatory Hill, then to St Andrew's Church, built in 1843 and rebuilt in 1873. After breakfast buy tea from a shop that lets you taste first, and pick up your jeep seat. Buy that ticket at the motor stand the afternoon before, and leave Darjeeling by 11 am for an evening train or flight, since the Siliguri end jams after 3 pm. Jeeps drop at NJP or the Siliguri stands; an auto to Bagdogra costs ₹300–500.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling"],
+  "includes": [
+    "2 nights in Darjeeling in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "Shared jeep seats NJP–Darjeeling and back on budget; private car on comfort and premium",
+    "Tiger Hill, Ghum and Batasia early-morning trip",
+    "Help booking toy-train joyride tickets on IRCTC"
+  ],
+  "excludes": [
+    "Trains and flights to Siliguri",
+    "Toy-train joyride fare (₹800–1,600 a seat, indicative 2026)",
+    "Entry tickets: Tiger Hill tower, Batasia, zoo and HMI",
+    "Lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Come in March, the second half of November or early December, when Darjeeling hotels often cut rates by 20–40 percent and the views are good.",
+    "Skip the Tiger Hill car on a cloudy forecast and watch the mountains from Chowrasta or Observatory Hill for free.",
+    "Pick the diesel toy-train joyride over steam, or skip it and watch the train pass through Ghum and Batasia for the price of a platform ticket."
+  ],
+  "good_to_know": [
+    "Shared jeeps fill fastest between 8 am and noon; after 2 pm you may have to buy the empty seats or hire a car.",
+    "Tiger Hill has a ticketed viewing tower with different decks; prices change, so check current status before you travel.",
+    "Cars cannot reach Chowrasta and the upper Mall, so expect a short uphill walk with bags to some hotels.",
+    "Bandhs and strikes still happen occasionally in the hills; follow local news.",
+    "Carry a warm layer at any time of year; mornings at Tiger Hill are near freezing from December to February."
+  ],
+  "faqs": [
+    {"q": "Is 2 nights enough for Darjeeling", "a": "Yes, for a first look. Two nights give you one sunrise at Tiger Hill, Ghum and Batasia Loop, the zoo and HMI, the Mall and a toy-train joyride if you book it. You miss tea-garden visits, Mirik and Kurseong, which need a third or fourth night. For a Kolkata weekend on the overnight train, two nights work well without feeling rushed."},
+    {"q": "How much is a shared jeep from NJP to Darjeeling", "a": "A seat costs about ₹250–400, indicative 2026, depending on season and how full the jeep is. Jeeps leave from outside NJP station and from the Siliguri stands near Hill Cart Road. The trip takes 3–3.5 hours. The front seat sometimes costs more. Fares move with fuel prices, so check current status before you travel."},
+    {"q": "How much does a 2-night Darjeeling trip cost", "a": "About ₹6,500 per person, twin sharing, on our budget tier: a plain room near Chowrasta, shared jeeps both ways, a group-shared Tiger Hill trip and breakfast. Add ₹800–1,600 if you ride the toy-train joyride. Comfort starts around ₹11,500 with a private car and dinners, and premium around ₹27,000 at Windamere or Mayfair."},
+    {"q": "Is the Tiger Hill sunrise worth it", "a": "On a clear morning, yes: Kangchenjunga turns pink, then gold, and on rare days you see Everest far to the west. On a cloudy morning you pay for a 4 am start and see grey. Check the sky the night before; if the forecast is poor, sleep in and look from Chowrasta at 6 am instead."},
+    {"q": "Can we do this trip on the overnight train from Kolkata", "a": "Yes, it is built for that. Trains such as the Darjeeling Mail from Sealdah reach NJP in the morning. You go straight to the shared-jeep line and reach Darjeeling by lunch. On the last day, leave Darjeeling by 11 am for an evening train. Book train tickets as soon as your dates are fixed."},
+    {"q": "Which month is cheapest for a Darjeeling weekend", "a": "July and August are cheapest, but rain hides the mountains and landslides slow the roads. For low prices with views, choose the first half of March, the second half of November or early December before Christmas. January and February are also cheap and often clear, though very cold at night. Avoid the Durga Puja and summer-holiday peaks if price matters."},
+    {"q": "Do we need a car in Darjeeling town", "a": "No. Chowrasta, the Mall, Observatory Hill, the zoo, HMI, the bazaar and the railway station are all walkable, though the roads are steep. You only need wheels for Tiger Hill at dawn, and for Ghum and Batasia, which shared jeeps also serve for ₹30–60 a seat. Taxis within town charge ₹150–300 for short hops."},
+    {"q": "Is Darjeeling safe for solo travellers and students", "a": "Yes. Darjeeling is a busy working town with people on the streets from dawn till about 9 pm. Normal care applies: keep valuables close in the Chowk Bazaar crowds and use registered taxis late at night. Women travelling alone use shared jeeps every day. Ask your hotel if a bandh is expected and plan around it."},
+    {"q": "What should we pack for a Darjeeling weekend", "a": "A warm jacket, a light rain layer and comfortable walking shoes in any season. From November to February add thermals, gloves and a woollen cap, because Tiger Hill mornings are near 0 °C. Carry some cash for shared jeeps, tea stalls and small entry fees, and a refillable water bottle."}
+  ]
+}

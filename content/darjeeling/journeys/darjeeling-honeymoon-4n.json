@@ -1,0 +1,118 @@
+{
+  "slug": "darjeeling-honeymoon-4n",
+  "title": "Darjeeling honeymoon in 4 nights",
+  "region": "darjeeling",
+  "nights": 4,
+  "themes": ["honeymoons", "mountain-views", "toy-train", "tea-gardens"],
+  "stops": [{"place": "darjeeling", "nights": 4}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 12500,
+  "fares": {"budget": 12500, "comfort": 22000, "premium": 52000},
+  "fare_notes": {
+    "budget": "A mountain-facing room at the WBTDC Darjeeling Tourism Property or a cosy room at Revolver, twin sharing; a private small car for airport transfers and the Tiger Hill morning, shared jeeps or walks otherwise; breakfast only.",
+    "comfort": "Dekeling Hotel or a Chowrasta-facing room at The Bellevue Hotel; a private small car on every sightseeing day; one candle-lit dinner; breakfast and dinner daily.",
+    "premium": "Windamere Hotel, with fireplace rooms and afternoon tea, or Mayfair Hill Resort; a private Innova-class car throughout; a steam joyride; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "A 4 nights Darjeeling honeymoon from ₹12,500 per person: Kangchenjunga sunrise, a steam toy train for two, tea gardens, Lamahatta and a Windamere option.",
+  "summary": "Four slow nights in Darjeeling for couples: one early sunrise at Tiger Hill, a steam joyride to Ghum, a cable car over the tea gardens, a day out to the pine forest at Lamahatta, and long evenings on the Mall. Premium couples stay at the Windamere with a fire in the room. From ₹12,500 per person, twin sharing.",
+  "intro": [
+    "A hill honeymoon goes wrong when it is packed with 5 am starts and seven-point sightseeing tours. We keep only one early morning, for Tiger Hill, and only on a day with a clear forecast. The rest is built around what couples enjoy most here: mornings on Chowrasta with a cup of first-flush tea and Kangchenjunga in front, a two-hour steam ride, a walk through the tea bushes at Happy Valley, and dinner by a window while the lights come on down the valley.",
+    "Four nights in one hotel also means you unpack once. Day 4 goes out of town to Lamahatta, a quiet village eco-park among tall pines about 23 km away, with a short walk up to a small lake, then back by the tea gardens of Takdah or Lopchu. October to mid-December gives the clearest views; March and April bring rhododendron and magnolia flowers and comfortable days. Winter couples get the sharpest mountains and the cheapest rooms, with cold nights."
+  ],
+  "highlights": [
+    "Kangchenjunga at sunrise from Tiger Hill on a clear morning",
+    "A steam joyride for two to Ghum and Batasia Loop",
+    "The Darjeeling ropeway down over the tea gardens towards Singla",
+    "A pine-forest day at Lamahatta with a short walk to its lake",
+    "Afternoon tea and a fireplace room at the Windamere on premium"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive in Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Your driver meets you at Bagdogra or NJP and drives up through Kurseong and Ghum, about 3–3.5 hours. We ask for a mountain-facing room on every tier, though some budget rooms face the valley; we tell you honestly which you have. Settle in, then walk up to Chowrasta in the late afternoon. The square and the Mall round Observatory Hill are free of cars, and the loop of about 1.5 km takes an unhurried hour with tea stops. Dinner in town or at the hotel. Ask the reception tonight about tomorrow's sky before you set an alarm.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Tiger Hill sunrise and a steam ride",
+      "place": "tiger-hill",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 3–4 h in the morning",
+      "text": "If the sky is clear, leave at about 4 am for Tiger Hill at 2,567 m. Take a thermos; it is near freezing at dawn in winter. Watch Kangchenjunga turn pink, then gold, and on rare days spot Everest far to the west. Stop at Ghum's Yiga Choeling monastery on the way back, then breakfast and a nap. In the afternoon ride the toy-train joyride to Ghum and back, about two hours with a stop at Batasia Loop. Steam costs about ₹1,500–1,600 a seat, indicative 2026. If the morning is cloudy, we swap this day with day 3.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Ropeway, Happy Valley and the Peace Pagoda",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 15 km · local",
+      "text": "Ride the Darjeeling ropeway from North Point down over tea gardens towards Singla, about ₹250–300 return, indicative 2026; queues are shortest at opening time. Then visit Happy Valley Tea Estate below town for a short walk among the bushes. After lunch drive to the Japanese Peace Pagoda on Jalapahar hill, built by the Nipponzan Myohoji order and opened in 1992, where drums sound at prayer times and the view takes in the town. On comfort, we book a candle-lit dinner; on premium, take afternoon tea with scones at the Windamere. The ropeway sometimes stops for maintenance or wind, so check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Day out to Lamahatta and the tea slopes",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 50–60 km round trip · 5–6 h",
+      "text": "Drive out past Ghum and Jorebunglow to Lamahatta, about 23 km from Darjeeling, a small village where the community runs a garden among tall dhupi pines with prayer flags and a steep path of about 20–30 minutes to a small lake. Entry costs ₹20–50, indicative 2026. Have a simple lunch at a village stall, then return by the tea gardens of Takdah or Lopchu, where small roadside stalls sell the garden's own tea. A car for the day costs ₹3,000–4,000. Back by late afternoon for a last evening on the Mall and an early dinner.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Down to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "A last breakfast with the mountains, if they are out. Buy tea and woollens on Nehru Road or in the Mall shops before you leave; prices are better than at the airport. Leave Darjeeling by 10–11 am for an afternoon flight or evening train. The drive down takes 3–3.5 hours, longer on weekends and in rain, when traffic slows through Kurseong and Rohini. If you have a late flight, we can stop at a Kurseong tea garden or the Netaji Museum at Giddapahar on the way, adding about an hour.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "windamere-hotel-darjeeling", "mayfair-hill-resort-darjeeling"],
+  "includes": [
+    "4 nights in Darjeeling in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium; one special dinner on comfort",
+    "Private car for airport transfers and the Tiger Hill morning on all tiers",
+    "Private car for all sightseeing on comfort and premium",
+    "Steam joyride seats for two on premium"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Joyride and ropeway tickets on budget and comfort",
+    "Entry tickets: Tiger Hill tower, Batasia, Lamahatta",
+    "Lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Plan your honeymoon for late November to early December or for March, when Darjeeling rooms cost less and views are often clear.",
+    "Book the Tiger Hill car only after checking the forecast; on cloudy days Chowrasta at 6 am is free and often as good.",
+    "Choose the diesel joyride over steam to save about ₹600–700 per person."
+  ],
+  "good_to_know": [
+    "Rooms in heritage hotels such as the Windamere are period rooms: old plumbing, uneven floors and a walk up from where cars stop.",
+    "Mountain views are most likely from October to mid-December and on winter mornings; from June to September cloud usually hides them.",
+    "Chowrasta and much of the Mall are closed to cars, so expect some walking with bags.",
+    "Toy-train joyrides and the ropeway can be suspended for maintenance or weather. Check current status before you travel.",
+    "Carry a warm layer for evenings in every month; it drops to 10–12 °C even in May."
+  ],
+  "faqs": [
+    {"q": "Is Darjeeling good for a honeymoon", "a": "Yes, if you like cool air, walks and mountain views more than resorts and pools. Darjeeling has heritage hotels with fireplaces, a car-free square and Mall for evening walks, a steam train ride and tea gardens. It is a busy town, not a secluded retreat, so pick a hotel above Chowrasta or on Observatory Hill for quieter nights."},
+    {"q": "What is the best month for a Darjeeling honeymoon", "a": "October to mid-December for clear mountain views and dry days, and March to April for flowers and mild weather. December to February is the cheapest time and often the clearest, but nights fall near freezing. Avoid June to September if views matter; rain and cloud are common and landslides slow the roads."},
+    {"q": "Should we stay at the Windamere", "a": "If you want old hill-station charm, yes. The Windamere has cottage-style rooms with fireplaces, hot-water bottles at night and afternoon tea with scones, a few minutes above Chowrasta. Rates run roughly ₹14,000–24,000 a room night, indicative. Couples who want modern bathrooms and lifts may prefer Mayfair Hill Resort."},
+    {"q": "How much does a Darjeeling honeymoon package cost", "a": "Our 4-night trip starts at ₹12,500 per person, twin sharing, on budget, with a private car for transfers and Tiger Hill. Comfort, with a private car daily, dinners and one special dinner, costs about ₹22,000. Premium at the Windamere or Mayfair starts near ₹52,000. Prices are indicative for 2026 and rise in October and May."},
+    {"q": "Is Tiger Hill crowded at sunrise", "a": "Yes, in peak weeks hundreds of cars arrive before dawn and the roads jam. Leave Darjeeling by 4 am, choose a higher deck of the viewing tower or stand on the open ground nearby, and dress warmly. In winter weekdays the crowd is smaller. If you dislike crowds, watch from Chowrasta or Observatory Hill instead."},
+    {"q": "Can we add Kalimpong or Gangtok to this honeymoon", "a": "Yes. Kalimpong is about 2.5 hours away and makes a good one-night addition, with its nurseries, Durpin monastery and quieter roads. Gangtok takes 4–5 hours and works best with two nights. We usually suggest our Darjeeling, Kalimpong and Gangtok trip if you have six nights. Foreign nationals need a Sikkim permit, issued at Rangpo."},
+    {"q": "What is Lamahatta", "a": "Lamahatta is a small village about 23 km from Darjeeling where the local community runs an eco-park among tall dhupi pines, with prayer flags, flower beds and a steep 20–30 minute path to a small lake. It is quiet and green, good for a picnic and a walk. Entry costs about ₹20–50, indicative 2026."},
+    {"q": "Is the Darjeeling ropeway safe", "a": "The ropeway reopened in 2012 after a long closure following a 2003 accident, with new cabins and safety systems. It runs from North Point down towards Singla over tea gardens and is popular with families. It stops in high winds and for maintenance. Check current status before you travel, and go early to avoid long queues."},
+    {"q": "What should couples pack for Darjeeling", "a": "Layers: a warm jacket, a sweater, a rain shell and good walking shoes, plus thermals from November to February. A thermos for Tiger Hill, sunscreen for clear days and some cash for tea stalls and entry fees help. Smart casuals are fine for hotel dinners; nobody dresses up much in the hills."}
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "kalimpong-village-homestays-5n",
+  "title": "Kalimpong village homestays in 5 nights",
+  "region": "kalimpong",
+  "nights": 5,
+  "themes": ["village-homestays", "mountain-views", "treks-and-walks", "budget-trips"],
+  "stops": [
+    {"place": "kalimpong", "nights": 1},
+    {"place": "sillery-gaon", "nights": 1},
+    {"place": "rishyap", "nights": 1},
+    {"place": "kolakham", "nights": 1},
+    {"place": "lolegaon", "nights": 1}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 14500,
+  "fares": {"budget": 14500, "comfort": 21500, "premium": 36000},
+  "fare_notes": {
+    "budget": "Deolo Tourist Lodge or a town guesthouse in Kalimpong, then family homestays in Sillery Gaon, Rishyap and Kolakham and the WBFDC eco tourism centre or a homestay in Lolegaon, twin sharing, some with shared bathrooms; shared jeep to Kalimpong, then one reserved small car for the village days shared by four; breakfast and dinner in the villages.",
+    "comfort": "Morgan House or Holumba Haven in Kalimpong and the better-built homestays in each village, with attached bathrooms and geysers where available; a private small car with driver from pickup to drop; breakfast and dinner daily.",
+    "premium": "Mayfair Himalayan Spa Resort or Elgin Silver Oaks in Kalimpong, then the best rooms we can find in each village, which are comfortable homestays rather than hotels; a private Innova-class car and driver throughout; a local guide for the walks; all meals in the villages."
+  },
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 1, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2590,
+  "meta_description": "Five village homestays around Kalimpong in 5 nights from ₹14,500 per person: Sillery Gaon, Rishyap, Kolakham, Lolegaon, home food and Kanchenjunga dawns.",
+  "summary": "Five nights, five beds: Kalimpong town, then the homestay villages of Sillery Gaon, Rishyap, Kolakham and Lolegaon, each a short drive from the last. Home-cooked meals, farm walks, two sunrise viewpoints and the Neora forest edge. From ₹14,500 per person, twin sharing, with meals in the villages.",
+  "intro": [
+    "The villages around Kalimpong are where most of the district's people actually live, and in the last twenty years many families have added two or three rooms for guests. You eat what the family eats, usually rice, dal, a seasonal vegetable, squash or gundruk, and chicken on request. Rooms are simple and often cold. In return you get silence, birds at the window and, on clear mornings from October to April, Kanchenjunga from the terrace.",
+    "We move you one night at a time because each village has one thing worth getting up for: Ramitey Dara above Sillery Gaon for the bends of the Teesta, Tiffin Dara above Rishyap for the widest snow view in the district, Changey Falls below Kolakham, and Jhandi Dara and the canopy walk at Lolegaon. Drives between them are one to two and a half hours. If you prefer to unpack once, tell us and we will base you at Rishyap and Lolegaon for two nights each instead."
+  ],
+  "highlights": [
+    "Four different homestay families, each with home-cooked dinner and breakfast",
+    "Ramitey Dara above Sillery Gaon, looking down on the bends of the Teesta",
+    "Sunrise over Kanchenjunga from Tiffin Dara at about 2,600 m",
+    "The walk down to Changey Falls from Kolakham",
+    "Lolegaon's canopy walk among old cypress and pine"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Kalimpong",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 70–80 km · 2.5–3.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive along the Teesta through Sevoke and Teesta Bazaar to Kalimpong at about 1,250 m. Budget travellers take a shared jeep from Siliguri for ₹200–300 a seat, indicative 2026. Since the 2023 flood NH10 closes often, and the detour by Gorubathan and Lava adds one to three hours; check current status before you travel. In the afternoon, walk to Zang Dhok Palri on Durpin or the Haat Bazaar if it is a Wednesday or Saturday. Buy anything you need for five days here; village shops stock little beyond biscuits and tea.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Pedong, Damsang and Sillery Gaon",
+      "place": "sillery-gaon",
+      "overnight": "Sillery Gaon",
+      "drive": "≈ 30 km · 1.5–2 h with stops",
+      "text": "Drive east on the old trade road to Pedong, about 20–22 km. Visit Sangchen Dorjee Gompa, founded around 1706 when this was Bhutan, and the cross raised in 1882 by the French missionary Augustine Desgodins on Cross Hill. Stop at the ruins of Damsang Fort, linked in Lepcha tradition to the chief Gaeboo Achyok. Then climb a few kilometres to Sillery Gaon, a small Gorkha village in pine and cardamom. In the late afternoon walk to Ramitey Dara with your host for the view of the Teesta's loops far below. Dinner is at the family table.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Over Algarah to Lava and Rishyap",
+      "place": "rishyap",
+      "overnight": "Rishyap",
+      "drive": "≈ 45 km · 2–2.5 h",
+      "text": "After breakfast drive back through Pedong and up to Algarah, then on to Lava at about 2,200 m. Stop at Kagyu Thekchen Ling monastery and the bazaar for tea. The last 11 km climb to Rishyap at about 2,590 m, a ridge of homestays among rhododendron and oak. The afternoon is free: a forest walk with a local guide, ₹500–1,000 per group, or a book on the terrace while clouds come and go over the snows. Go to bed early. The sunrise walk tomorrow starts in the dark, and nights here drop close to freezing from December to February.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Tiffin Dara sunrise, Changey Falls",
+      "place": "kolakham",
+      "overnight": "Kolakham",
+      "drive": "≈ 25 km · 1–1.5 h",
+      "text": "Leave by torchlight about 40 minutes before sunrise for the short, steep walk to Tiffin Dara, and carry tea. On a clear morning the whole Kanchenjunga range lights up from west to east. Back for breakfast, then drive down through Lava to Kolakham at about 1,980 m, on the edge of Neora Valley National Park. In the afternoon walk the trail of about 900 m down to Changey Falls, which drops in several steps through forest and is fullest in October. The climb back is steep, so go slowly. Kolakham is very quiet after dark; listen for owls.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Kolakham to Lolegaon",
+      "place": "lolegaon",
+      "overnight": "Lolegaon",
+      "drive": "≈ 35 km · 1.5–2 h",
+      "text": "Walk the farm with your Kolakham host after breakfast: cardamom under shade trees, ginger, maize and the cows that give your morning milk. Drive back through Lava and down to Lolegaon, also called Kafer, at about 1,675 m. In the afternoon go to the heritage forest, where suspended footbridges of about 180 m run between old cypress and pine; entry is ₹30–60, indicative 2026, and it closes in heavy rain or for repairs. Walk the village lanes past the small monastery and school before dark. Book a car for Jhandi Dara at dawn tomorrow, ₹500–900.",
+      "meals": "Breakfast, dinner"
+    },
+    {
+      "day": 6,
+      "title": "Jhandi Dara sunrise, down to the plains",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 120 km · 4.5–5 h",
+      "text": "A last sunrise from Jhandi Dara, the prayer-flagged hilltop above Lolegaon that faces the Kanchenjunga range. Back for breakfast and a goodbye to the family, then down to the plains through Kalimpong and the Teesta, or by Lava and Gorubathan if NH10 is closed. Allow 4.5–5 hours to Bagdogra or NJP and book a train or flight after 3 pm. In the monsoon shoulder months, May and late September, keep a wider margin. Check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["deolo-tourist-lodge-kalimpong", "holumba-haven-kalimpong", "morgan-house-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "wbfdc-lolegaon-eco-tourism-centre"],
+  "includes": [
+    "1 night in Kalimpong and 4 village nights in homestays or the Lolegaon eco tourism centre, twin sharing",
+    "Breakfast and dinner in all four villages; dinner in Kalimpong on comfort and premium",
+    "Vehicle for all village days (shared jeep to Kalimpong on budget)",
+    "Dawn car to Jhandi Dara",
+    "Our check of each homestay before we book it"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Lunches, usually ₹150–300 at a homestay if ordered the night before",
+    "Canopy walk and monastery donations",
+    "Forest guide fees and Neora Valley entry if you add a park day",
+    "Tips for hosts and driver, and personal expenses"
+  ],
+  "save_more": [
+    "Stay two nights each at Rishyap and Lolegaon instead of moving every day; fewer drives cut the car bill by ₹2,500–4,000.",
+    "Accept a room with a shared bathroom in Sillery Gaon or Kolakham, often ₹300–500 less per person a night.",
+    "Travel in late February, March or November on weekdays, when homestays are quiet and more open to a fair rate."
+  ],
+  "good_to_know": [
+    "Village homestays are family homes. Expect simple rooms, bucket hot water at some, power cuts and patchy mobile data.",
+    "Meals are set menus cooked for the family and guests together; tell your host about any diet needs a day ahead.",
+    "The roads between villages are narrow and steep, and some stretches are rough after rain. Only local drivers know them well.",
+    "From mid-June to mid-September landslides close village roads and views are rare; we do not run this trip then.",
+    "Carry cash. Few homestays take cards, and some accept UPI only when the network works."
+  ],
+  "faqs": [
+    {"q": "Which is the best homestay village near Kalimpong", "a": "It depends on what you want. Rishyap has the widest Kanchenjunga view, from Tiffin Dara. Lolegaon has the old forest and canopy walk. Kolakham is the quietest, at the edge of Neora Valley. Sillery Gaon is closest to Kalimpong and the old trade road. If you can pick only two, we suggest Rishyap and Lolegaon for views and forest."},
+    {"q": "How much does a homestay near Kalimpong cost", "a": "About ₹1,200–2,200 per person a night with breakfast and dinner, indicative 2026, in Rishyap, Kolakham, Lolegaon or Sillery Gaon. Rooms with attached bathrooms and geysers sit at the top of that range. Lunch is extra if ordered. Prices rise in October, Christmas week and May, and fall in late February, March and November on weekdays."},
+    {"q": "Are Kalimpong village homestays safe for women travellers", "a": "Generally yes. These are family homes in small villages where everyone knows everyone, and women travel here alone or in pairs often. Book a homestay we or someone you trust has checked, share your plans with the host, and avoid walking forest trails alone after dark. Most hosts are protective of their guests and their reputation."},
+    {"q": "Do homestays in Rishyap and Lolegaon have hot water", "a": "Most do, but not always from a tap. Better homestays have geysers or solar heaters; simpler ones bring a bucket of hot water on request, morning and evening. In power cuts even geysers stop. If hot showers matter, choose the comfort tier and tell us, and we pick homestays with attached bathrooms and backup power where available."},
+    {"q": "Is there mobile network in these villages", "a": "Usually some, but it is patchy. Jio and Airtel give a weak signal in parts of Rishyap, Lolegaon and Sillery Gaon, and less in Kolakham. Data can drop for hours in bad weather. Treat it as a few quiet days: download maps and tickets in Kalimpong and tell family you may be out of touch."},
+    {"q": "Can we do this trip by shared jeep", "a": "Only partly. Shared jeeps run from Siliguri to Kalimpong and from Kalimpong to Lava, Pedong and Lolegaon, but there are few or none on the village-to-village legs. That is why we include a car from Kalimpong onwards. On the budget tier we share one car between four travellers to keep the cost down."},
+    {"q": "Are these homestays suitable for children", "a": "Yes, for children who like the outdoors. There are cows, dogs, farm walks and space to run, and hosts are used to families. The catches are cold nights, steep paths and no medical help nearby. Bring warm layers, a torch and basic medicines, and skip the steep Changey Falls trail with toddlers."},
+    {"q": "When is the best time to see Kanchenjunga from Rishyap", "a": "October to early December gives the clearest and most reliable views, often from sunrise until late morning. January and February are also clear but very cold. March and April bring haze and afternoon cloud, though mornings are often good and rhododendrons are in flower. From June to September the peaks are hidden most days."},
+    {"q": "What food do homestays serve", "a": "Home-style Nepali food: rice, dal, a seasonal vegetable such as squash or mustard greens, a pickle, and often gundruk or a local bean. Chicken or eggs come on request, and pork in some homes. Breakfast is usually puri and aloo, roti or noodles. Food is mild unless you ask for the family's chilli pickle."}
+  ]
+}

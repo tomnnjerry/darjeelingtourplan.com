@@ -1,0 +1,127 @@
+{
+  "slug": "kalimpong-darjeeling-family-5n",
+  "title": "Darjeeling and Kalimpong family trip in 5 nights",
+  "region": "kalimpong",
+  "nights": 5,
+  "themes": ["family-trips", "toy-train", "tea-gardens", "monasteries", "mountain-views"],
+  "stops": [{"place": "darjeeling", "nights": 3}, {"place": "kalimpong", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 15000,
+  "fares": {"budget": 15000, "comfort": 25500, "premium": 56000},
+  "fare_notes": {
+    "budget": "A clean budget hotel near the Mall or Gandhi Road in Darjeeling and WBTDC's Deolo Tourist Lodge or a town guesthouse in Kalimpong, twin sharing; a private small car for the transfers and the Darjeeling–Kalimpong drive; a shared Tiger Hill jeep; breakfast daily.",
+    "comfort": "A good mid-range hotel in Darjeeling and Morgan House, Holumba Haven or Sinclairs Retreat in Kalimpong; a private car throughout, including the Tiger Hill morning; the toy-train joy ride booked ahead; breakfast and dinner daily.",
+    "premium": "Windamere, Mayfair or The Elgin in Darjeeling, then Mayfair Himalayan Spa Resort, Elgin Silver Oaks or Sterling Park in Kalimpong; a private Innova-class car and driver throughout; steam joy ride where running; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "Darjeeling and Kalimpong for families in 5 nights from ₹15,000 per person: toy train, Tiger Hill, the zoo, tea gardens, Durpin and Deolo at an easy pace.",
+  "summary": "Three nights in Darjeeling for Tiger Hill, the toy train, the zoo and a tea garden, then two in Kalimpong for monasteries, nurseries and Deolo hill, with drives under three hours. Built for children and grandparents at an easy pace. From ₹15,000 per person, twin sharing.",
+  "intro": [
+    "Most families from Kolkata, Dhaka and Bengaluru want Darjeeling first: the toy train, Tiger Hill and a cup of tea where it grows. We give it three nights so nobody is rushed and a cloudy Tiger Hill morning can be tried again. Then we cross the Teesta to Kalimpong, about 50 km and two and a half to three hours away, which is calmer, cheaper and easier on older legs. Hotels there have gardens, the sights are spread out, and the evenings are quiet.",
+    "We keep every drive under three hours and every day to one main outing, with time to rest after lunch. Children like the zoo's red pandas and snow leopards, the toy train whistling round Batasia Loop, the cactus nurseries and Deolo's open hilltop. Grandparents like the monasteries, the tea garden and not having to climb much. One private car stays with you for the whole trip on all tiers, so there are no shared-jeep scrambles with luggage and children."
+  ],
+  "highlights": [
+    "Toy-train joy ride from Darjeeling round Batasia Loop to Ghum",
+    "Sunrise over Kanchenjunga from Tiger Hill at about 2,567 m",
+    "Red pandas and snow leopards at the Padmaja Naidu zoo",
+    "Zang Dhok Palri on Durpin and the view from Deolo in Kalimpong",
+    "Kalimpong's cactus and orchid nurseries and its milk lollipops"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive up through Sukna and Kurseong, or by Rohini Road, to Darjeeling at about 2,050 m. Watch for the toy-train line criss-crossing the road above Tindharia. Stop for tea at a roadside stall at Kurseong if anyone feels car sick. Check in, rest, and walk to Chowrasta and the Mall in the late afternoon, where children can ride ponies for a short loop at ₹200–400, indicative 2026. Early dinner, because tomorrow starts at 4 am. Pack warm clothes by the door for the morning.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Tiger Hill, Ghum and Batasia Loop",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 4 h, plus 2 h joy ride",
+      "text": "Leave at about 4 am for Tiger Hill, 11 km away, to see dawn light reach Kanchenjunga. It is crowded and cold, so wrap the children well; the viewing deck has a small fee. On the way back, visit Ghum Monastery, Yiga Choeling, founded in 1850, and Batasia Loop's war memorial and garden. Back for breakfast and a nap. In the afternoon take the toy-train joy ride from Darjeeling to Ghum and back, about two hours, ₹1,000–1,800 per seat depending on diesel or steam, indicative 2026. Book it well ahead in season and check current status before you travel.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Zoo, mountaineering museum and tea",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 15 km · half day",
+      "text": "Morning at the Padmaja Naidu Himalayan Zoological Park, known for its red panda and snow leopard breeding, and the Himalayan Mountaineering Institute museum in the same campus, founded in 1954 with Tenzing Norgay as its first director of field training. The zoo usually closes on Thursdays; check current status before you travel. After lunch, visit Happy Valley Tea Estate below the town for a short factory walk and tasting when it is open. Evening free on the Mall. Children enjoy the hot chocolate and cakes in the old cafés.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Darjeeling to Kalimpong across the Teesta",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 50 km · 2.5–3 h",
+      "text": "After breakfast drive down through tea gardens, often by Lopchu or Peshok, to the Teesta at Teesta Bazaar, then climb to Kalimpong at about 1,250 m. Stop at the Lovers' Meet viewpoint where the Teesta and Rangeet rivers join below, if the road goes that way. Check in by lunch. In the afternoon visit one of the cactus nurseries, free to ₹50, and buy the soft Kalimpong milk lollipops in any shop near the market. If it is a Wednesday or Saturday, take the children through the Haat Bazaar before it closes.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Durpin, Deolo and Graham's Homes",
+      "place": "kalimpong",
+      "overnight": "Kalimpong",
+      "drive": "≈ 30 km · 4–5 h with stops",
+      "text": "Start at Zang Dhok Palri on Durpin, consecrated by the Dalai Lama in 1976, where children can turn the prayer wheels clockwise. Then drive to Deolo, Kalimpong's highest point at 1,704 m, with lawns, a park at ₹20–60 entry and wide views; paragliders take off here, and tandem flights cost ₹2,500–4,000, indicative 2026, for older children and adults. Drive past the cottages of Dr. Graham's Homes, founded in 1900, which remains a working school. Afternoon at the hotel garden, or the MacFarlane Memorial Church of 1891 for those who want one more stop.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Kalimpong to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70–80 km · 2.5–3.5 h",
+      "text": "A slow breakfast, then down along the Teesta through Teesta Bazaar and Sevoke to the plains. Allow 3.5 hours to Bagdogra or NJP, more on weekends and if NH10 is under repair, when cars go round by Gorubathan or Peshok. Since the 2023 flood this road has closed often; check current status before you travel. Book trains or flights after 2 pm. Pack the lollipops in your cabin bag; they soften in a hot car.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["deolo-tourist-lodge-kalimpong", "morgan-house-kalimpong", "holumba-haven-kalimpong", "sinclairs-retreat-kalimpong", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong", "sterling-park-kalimpong"],
+  "includes": [
+    "3 nights in Darjeeling and 2 in Kalimpong in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "One private car and driver for all transfers and sightseeing",
+    "Tiger Hill morning (shared jeep on budget)",
+    "Toy-train joy ride tickets on comfort and premium"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Toy-train joy ride on budget, about ₹1,000–1,800 a seat",
+    "Zoo, museum, Tiger Hill deck and park entry fees",
+    "Lunches, pony rides and paragliding",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Travel in March or the second half of November instead of Puja, Christmas or May, when rooms can cost 30–50 percent less.",
+    "Book the diesel joy ride instead of steam; it follows the same line round Batasia Loop for less.",
+    "Stay in Kalimpong first if dates allow; it is cheaper, and you can then pick a Darjeeling hotel once you know which days are clear."
+  ],
+  "good_to_know": [
+    "Toy-train joy-ride seats sell out weeks ahead in May, October and December; book as soon as dates are fixed. Check current status before you travel.",
+    "The Darjeeling zoo usually closes on Thursdays, and on some public holidays.",
+    "Tiger Hill is cold before dawn in every month, below freezing in winter. Bring caps, gloves and a blanket for small children.",
+    "Darjeeling hotels often have steep stairs and no lift; ask for a low floor for seniors.",
+    "NH10 to Kalimpong closes in heavy rain; diversions by Peshok or Gorubathan add one to three hours."
+  ],
+  "faqs": [
+    {"q": "Is 5 nights enough for Darjeeling and Kalimpong", "a": "Yes, for an easy family trip. Three nights in Darjeeling cover Tiger Hill, the toy train, the zoo and a tea garden with a spare morning for bad weather. Two nights in Kalimpong cover the monasteries, Deolo and the nurseries. Add a sixth night at Lava or Lolegaon if your family likes forests and village life."},
+    {"q": "How far is Kalimpong from Darjeeling", "a": "About 50 km by road, two and a half to three hours. The usual route drops through tea gardens by Peshok or Lopchu to the Teesta at Teesta Bazaar, then climbs to Kalimpong. A reserved car costs about ₹2,500–3,500, indicative 2026, and shared jeeps run between the two towns in the morning for a few hundred rupees a seat."},
+    {"q": "Should we visit Darjeeling or Kalimpong first", "a": "Either works. We usually put Darjeeling first because Tiger Hill and the toy train are the main reasons families come, and three nights there give a spare morning for weather. Ending in Kalimpong also means a shorter, gentler drive back to Bagdogra, about 2.5–3.5 hours. If your flight is early, end in Kalimpong."},
+    {"q": "Is Tiger Hill worth it with small children", "a": "Yes, if they can handle a 4 am start. The sunrise over Kanchenjunga is the highlight for many families, but it is cold and crowded, and clouds hide the peaks on some mornings. Dress children in layers, carry a blanket and hot drinks, and stay in the car until the sky starts to lighten. Toddlers can sleep through the drive."},
+    {"q": "How much does the Darjeeling toy-train joy ride cost", "a": "About ₹1,000–1,800 per seat, indicative 2026, depending on whether the train is steam or diesel and the class. The ride runs from Darjeeling to Ghum and back in about two hours, with a stop at Batasia Loop. Tickets go on sale on the IRCTC website and at Darjeeling station; book early for peak weeks and check current status before you travel."},
+    {"q": "Is Darjeeling and Kalimpong good for seniors", "a": "Yes, with care. Drives are short, sights involve little walking, and hotels in Kalimpong have gardens and fewer stairs. Darjeeling is steeper, so choose a hotel near the Mall with a lift or low-floor rooms. Altitudes, 1,250–2,567 m, cause no trouble for most people. Pack warm clothes and any regular medicines."},
+    {"q": "What is there for children in Kalimpong", "a": "The prayer wheels at Durpin, the open lawns and park on Deolo, the cactus and orchid nurseries, the Haat Bazaar on Wednesdays and Saturdays, paragliding watching at Deolo, and Kalimpong's soft milk lollipops. The science centre near Deolo is also popular with school-age children. Most sights fit into two relaxed days."},
+    {"q": "What does a family of four pay for this trip", "a": "On our budget tier, about ₹60,000 for two adults and two children sharing rooms, indicative 2026, with breakfast, a private car throughout and a shared Tiger Hill jeep. Children's costs depend on age and whether they need a bed. Comfort tier runs about ₹1,00,000 for the family. Trains, flights and lunches are extra."},
+    {"q": "When is the best time for a Darjeeling–Kalimpong family trip", "a": "March to May and October to early December. Spring is mild, with flowers, and suits school holidays in April and May, though haze can hide the peaks. October and November give the clearest mountain views. Avoid mid-June to mid-September for landslides on the roads. Winter is clear but very cold for small children."}
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "gorumara-jaldapara-wildlife-4n",
+  "title": "Gorumara and Jaldapara safaris in 4 nights",
+  "region": "dooars",
+  "nights": 4,
+  "themes": ["wildlife-safaris", "birding-and-orchids", "family-trips", "tea-gardens"],
+  "stops": [{"place": "lataguri", "nights": 2}, {"place": "jaldapara-national-park", "nights": 2}],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 12000,
+  "fares": {"budget": 12000, "comfort": 21000, "premium": 39000},
+  "fare_notes": {
+    "budget": "Family-run lodges at Lataguri and the Malangi forest lodge or a simple Madarihat hotel, twin sharing; a reserved small car shared by four for transfers; one Gorumara watchtower safari and one Jaldapara jeep safari with seats shared in a full jeep of six; breakfast and dinner.",
+    "comfort": "The Reserve Gorumara at Lataguri and WBTDC's Aranya Tourism Property at Madarihat; a private car for your party throughout; two safaris in each park in a jeep for your party; breakfast and dinner daily.",
+    "premium": "Sinclairs Retreat Dooars at Chalsa for the Gorumara half and the best rooms at Aranya or a comparable Madarihat resort; a private SUV with driver; every safari in a private jeep; all meals; a naturalist for the bird walks."
+  },
+  "best_months": [2, 2, 2, 1, 1, 0, 0, 0, 0, 1, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 150,
+  "meta_description": "Rhino, gaur and elephant country in 4 nights from ₹12,000: two nights at Lataguri for Gorumara's watchtowers, two at Madarihat for Jaldapara.",
+  "summary": "Four nights for the two big parks of the Dooars: two at Lataguri for Gorumara's watchtowers and two at Madarihat for Jaldapara's rhino grasslands. Expect four safari sessions, a tea-garden drive in between and a forest-village evening. From ₹12,000 per person, twin sharing, October to May.",
+  "intro": [
+    "Gorumara and Jaldapara are 100 km apart along the same highway, but they feel different. Gorumara is small, about 80 sq km, with tall sal forest and watchtowers above salt licks where gaur, elephant and rhino come out in the late afternoon. Jaldapara, about 216 sq km on the Torsa river, is open grassland, and the March 2025 census counted about 331 one-horned rhinos there. Seeing both gives you the full picture of the Dooars in one short trip.",
+    "We keep the driving short: about 2 hours from Siliguri to Lataguri, 2.5 hours between the parks, and 3–3.5 hours back. Safari slots are the hard part. They are released online and sell out fast on weekends and holidays, so we book them the day booking opens. Both parks close from mid-June to mid-September for the monsoon, so this trip runs from late September or October to May; check current status before you travel."
+  ],
+  "highlights": [
+    "Late-afternoon session at Gorumara's Jatraprasad or Rhino Observation Point watchtower",
+    "Dawn jeep safari in Jaldapara's grasslands, home to about 331 rhinos in 2025",
+    "Chalsa and Malbazar tea gardens on the drive between the parks",
+    "A Medla or Chandrachur watchtower visit with the forest-village ride",
+    "Birding for hornbills, peafowl and grassland species along the Torsa"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Lataguri", "place": "lataguri", "overnight": "Lataguri", "drive": "≈ 80 km · 2–2.5 h", "text": "We pick you up at Bagdogra, NJP or a Siliguri hotel and drive east over the Coronation Bridge at Sevoke, built from 1937 to 1941, then through the Mahananda forest and the tea gardens around Odlabari and Malbazar. Lataguri is a one-road town at the edge of Gorumara, with the safari counter, lodges and dhabas side by side. After lunch and a rest, take an evening walk to the river or along the main road to watch the forest go dark. Tea gardens close to visitors after dusk, so we save them for later. Dinner is often fish curry, rice and dal.", "meals": "Dinner"},
+    {"day": 2, "title": "Gorumara watchtowers", "place": "gorumara-national-park", "overnight": "Lataguri", "drive": "≈ 40 km in safari jeeps", "text": "Gorumara runs fixed safari slots from morning to late afternoon, each taking a jeep to one watchtower. We aim for two: a morning session at Chukchuki for birds, and an afternoon one at Jatraprasad or the Rhino Observation Point, which look over salt licks where gaur, elephant and the occasional rhino come to the water. Sit still and stay quiet. Each jeep holds up to six; a full jeep with a watchtower costs about ₹2,500–3,500, indicative 2026. Gorumara safaris are usually closed on Thursdays, so we plan around that; check current status before you travel. In the evening a local troupe may perform Rajbanshi or Adivasi dances at your lodge.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Tea country to Madarihat", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 95 km · 2.5–3 h", "text": "An early start for the Medla watchtower near Murti, where the forest department runs a short bullock-cart or jeep ride from a forest village to the tower, if this slot is open. Then we drive east through the Chalsa tea gardens and over the Jaldhaka and Diana rivers, past Banarhat and Birpara, to Madarihat at the gate of Jaldapara. The garden sections are lined with shade trees; you see pluckers at work from March to November. Check in, rest through the hot afternoon and visit the South Khayerbari rescue centre if time allows. Early night: tomorrow starts before sunrise.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Dawn safari in Jaldapara", "place": "jaldapara-national-park", "overnight": "Madarihat", "drive": "≈ 30 km in safari jeeps", "text": "Jaldapara's first jeep safari leaves around sunrise into tall grass and riverine forest along the Torsa. Rhinos graze in the open in the cool hours, and you may see gaur, hog deer, wild boar and peafowl. A jeep for up to six costs about ₹2,800–4,000, indicative 2026. Back for breakfast and a nap. In the afternoon take a second safari, or drive 21 km to Totopara with a local guide for a respectful half-day visit to the Toto community; ask before every photograph. Elephant rides have been offered in some seasons, but not reliably; check current status before you travel.", "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Back to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 125 km · 3–3.5 h", "text": "After an optional early bird walk on the lodge grounds, we drive back west along the highway past Birpara, the tea gardens and the Coronation Bridge to Siliguri. Allow 3–3.5 hours without stops, more on market days at Birpara and Malbazar. For a flight from Bagdogra, pick one leaving after 2 pm; for an evening train from NJP you have time for lunch in Siliguri. If you are heading on to Bhutan, Phuentsholing is only about 40 km east of Madarihat, an hour or so by car.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-reserve-gorumara-lataguri", "aranya-tourism-property-jaldapara", "malangi-lodge-hasimara", "sinclairs-retreat-dooars-chalsa", "murti-banani-eco-tourism-centre"],
+  "includes": [
+    "4 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "All road transfers from Bagdogra, NJP or Siliguri and back",
+    "Two safari sessions in Gorumara and one or two in Jaldapara, by tier",
+    "Safari booking on the official forest department system"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Lunches",
+    "Camera fees and guide tips at the parks",
+    "Elephant rides, cultural programmes and Totopara guide fees",
+    "Personal expenses and medical costs"
+  ],
+  "save_more": [
+    "Travel in a group of six and fill one safari jeep: the price is per vehicle, so each person pays a sixth.",
+    "Go mid-week in November, February or March, when Lataguri and Madarihat lodges often charge 20–40% less than at weekends.",
+    "Take the Kanchankanya Express to New Mal and back from Hasimara instead of paying for road transfers from Siliguri."
+  ],
+  "good_to_know": [
+    "Gorumara and Jaldapara close from mid-June to mid-September every year for the monsoon and breeding season. Check current status before you travel.",
+    "Safari tickets are sold online by the West Bengal forest department and at park counters, with ID that matches the booking. Weekend and holiday slots sell out within hours.",
+    "Gorumara safaris are usually closed on Thursdays. Check current status before you travel.",
+    "Wear earth-coloured clothes and skip perfume; bright colours and noise push animals away from the watchtowers.",
+    "The Hollong Tourist Lodge inside Jaldapara burned down in June 2024, so you sleep at Madarihat or Hasimara."
+  ],
+  "faqs": [
+    {"q": "Which is better for rhinos, Gorumara or Jaldapara", "a": "Jaldapara, by numbers. The March 2025 census estimated about 331 one-horned rhinos in Jaldapara and about 61 in Gorumara. Jaldapara's open grassland makes them easier to spot from a jeep. Gorumara's strength is its watchtowers over salt licks, where you sit and wait while gaur, elephants and sometimes rhinos come out. That is why we do both on one trip."},
+    {"q": "When are Gorumara and Jaldapara closed", "a": "Both parks close every year from about 15 June to 15 September for the monsoon and breeding season, and reopen in mid or late September. Gorumara safaris are also usually closed on Thursdays. Roads near the parks stay open, and some lodges run, but there are no safaris. Plan this trip from October to May. Check current status before you travel."},
+    {"q": "How do I book a Gorumara or Jaldapara safari", "a": "Safari seats and watchtower slots are sold on the West Bengal forest department's official online booking system and at park counters. Booking opens a few days to a few weeks ahead, depending on season. You need photo ID for each traveller, matching the names on the ticket. We book for you on the day slots open. Never buy from touts at the gate. Check current status before you travel."},
+    {"q": "How much does a jeep safari cost in the Dooars", "a": "A Gorumara jeep with a watchtower costs about ₹2,500–3,500 per vehicle for up to six people, and a Jaldapara jeep about ₹2,800–4,000, indicative 2026. Guide fees and camera charges may be added. The price is per jeep, so a full jeep of six is cheapest. Watchtower tickets alone cost ₹70–250 per person but still need transport. Check current status before you travel."},
+    {"q": "What is the best time of year for a Dooars safari", "a": "November to March is the most comfortable, with dry roads and days of about 20–28 °C. February to April is often best for sightings: the grass has been burned or cut back and animals come to water. October can be good but Puja week is crowded. May is hot and humid. Mid-June to mid-September the parks are shut."},
+    {"q": "Is this trip suitable for children and older parents", "a": "Yes. Drives are 2–3.5 hours, the lodges are on flat ground and the safaris are sit-down jeep rides. Children usually love the watchtowers, though they need to stay quiet. Dawn safaris mean early starts, and jeeps are open and bumpy, so carry a cushion for anyone with a bad back. Some parks set age rules for elephant rides; check current status before you travel."},
+    {"q": "How far is Lataguri from NJP and Bagdogra", "a": "Lataguri is about 80 km from Siliguri, around 2–2.5 hours by road via Sevoke and Malbazar. From Bagdogra add about 30 minutes. The nearest railway station is New Mal Junction, about 10 km away, served by the Kanchankanya Express from Sealdah and several trains from NJP. Shared vehicles and buses from Siliguri cost about ₹100–200 a seat, indicative 2026."},
+    {"q": "Can foreigners visit Gorumara and Jaldapara", "a": "Yes. There is no special permit for foreign nationals in the Dooars parks. You book safaris the same way, with your passport as ID, and foreign visitors may pay a higher entry fee. The parks are outside Sikkim and the restricted zones. If you add Bhutan, you need a visa arranged in advance. Check current status before you travel."},
+    {"q": "Can I combine this trip with Bhutan or Darjeeling", "a": "Easily. Phuentsholing, Bhutan's border town, is about 40 km from Madarihat, so you can carry on into Bhutan after day 4. For the hills, drive from Lataguri to Darjeeling in about 4–5 hours via Sevoke and Kurseong. We run both as separate Dooars + Bhutan and Dooars + Darjeeling journeys, with the parks first and the hills after."}
+  ]
+}

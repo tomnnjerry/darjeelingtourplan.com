@@ -1,0 +1,80 @@
+{
+  "slug": "dooars-and-darjeeling-6n",
+  "title": "Dooars forests and Darjeeling hills in 6 nights",
+  "region": "dooars",
+  "nights": 6,
+  "themes": ["wildlife-safaris", "tea-gardens", "toy-train", "mountain-views", "family-trips"],
+  "stops": [{"place": "lataguri", "nights": 2}, {"place": "samsing", "nights": 1}, {"place": "darjeeling", "nights": 3}],
+  "start": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "end": "Bagdogra Airport (IXB), NJP station or Siliguri",
+  "price_from_inr": 16500,
+  "fares": {"budget": 16500, "comfort": 28000, "premium": 60000},
+  "fare_notes": {
+    "budget": "A family-run lodge at Lataguri or a tent or room at Murti Banani, a Samsing homestay and a budget hotel near the Darjeeling Mall, twin sharing; a reserved small car shared by four in the Dooars and for the climb to Darjeeling; one Gorumara watchtower safari in a shared jeep; shared jeep back to Siliguri; breakfast and dinner.",
+    "comfort": "The Reserve Gorumara at Lataguri, the best Samsing homestay and a comfortable Darjeeling hotel such as Central Heritage or Dekeling; a private car for your party throughout; two Gorumara safaris; the toy-train joy ride; breakfast and dinner daily.",
+    "premium": "Sinclairs Retreat Dooars at Chalsa, a quiet Samsing stay and the Windamere or Mayfair Darjeeling; a private SUV and driver for all seven days; private jeep safaris; Tiger Hill with a reserved car; the toy-train joy ride; all meals in the Dooars, breakfast and dinner in Darjeeling."
+  },
+  "best_months": [1, 1, 2, 2, 1, 0, 0, 0, 0, 2, 2, 2],
+  "pace": "Balanced",
+  "max_altitude_m": 2590,
+  "meta_description": "6 nights from ₹16,500: Gorumara safaris at Lataguri, a tea-slope night at Samsing, then 3 nights in Darjeeling with Tiger Hill and the toy train.",
+  "summary": "Six nights that climb from the forests to the hills: two at Lataguri for Gorumara's watchtowers, one in the tea slopes of Samsing, then three in Darjeeling for Tiger Hill, the toy train and the tea estates. Good for families who want wildlife and mountains in one trip. From ₹16,500 per person, twin sharing.",
+  "intro": [
+    "Most people do the Dooars or Darjeeling. Doing both in one trip makes sense: Lataguri is about 2 hours from Siliguri, Darjeeling 3, and the climb between them takes you from 100 m in sal forest to 2,042 m in a single day, through tea gardens all the way. We start low, where the weather is warm and the animals are, and finish in the hills, so that the hardest driving is behind you by day 4.",
+    "Samsing, at about 750 m on the edge of the Neora Valley forest, breaks the climb. It is a tea-slope village with homestays, the Murti river and Rocky Island nearby. In Darjeeling we keep the classics: Tiger Hill for Kangchenjunga at sunrise, the toy train's Batasia Loop, the Himalayan Mountaineering Institute and a tea estate. Gorumara closes from mid-June to mid-September; check current status before you travel."
+  ],
+  "highlights": [
+    "Gorumara watchtower safaris from Lataguri",
+    "A night in the tea slopes of Samsing, near Rocky Island",
+    "Kangchenjunga at sunrise from Tiger Hill, 2,590 m",
+    "The Darjeeling Himalayan Railway joy ride around the Batasia Loop",
+    "Tea gardens all the way from the Dooars plains to Darjeeling"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Lataguri", "place": "lataguri", "overnight": "Lataguri", "drive": "≈ 80 km · 2–2.5 h", "text": "We meet you at Bagdogra, NJP or Siliguri and drive east over the Coronation Bridge at Sevoke and through the Mahananda forest and the Odlabari and Malbazar tea gardens. Lataguri is a one-street town at the gate of Gorumara National Park. After lunch, drive 15 km to the Murti river for the late afternoon, where the water runs shallow and clear in winter. Leave before dusk: elephants cross here in the evening. Back at the lodge, many places arrange a Rajbanshi or Adivasi dance programme for a small fee. Dinner is usually Bengali home food.", "meals": "Dinner"},
+    {"day": 2, "title": "Gorumara watchtowers", "place": "gorumara-national-park", "overnight": "Lataguri", "drive": "≈ 40 km in safari jeeps", "text": "Gorumara's safaris take you by jeep to a watchtower, where you sit above a salt lick for an hour. In the morning we aim for Chukchuki, good for birds, and in the afternoon Jatraprasad or the Rhino Observation Point for gaur, elephants and sometimes rhinos. A jeep for up to six with a watchtower costs about ₹2,500–3,500, indicative 2026. Safaris are usually closed on Thursdays, and slots sell out at weekends; check current status before you travel. Between the two sessions, drive to Chalsa to see the tea gardens and the view over the Chapramari forest.", "meals": "Breakfast, dinner"},
+    {"day": 3, "title": "Lataguri to Samsing", "place": "samsing", "overnight": "Samsing", "drive": "≈ 35 km · 1.5 h", "text": "A short drive north through Chalsa and Matelli climbs into the tea slopes of Samsing, at about 750 m, where the air is noticeably cooler. Settle into your homestay and walk the garden roads in the afternoon. Drive down 5 km to Rocky Island, a bend in the Murti river full of boulders, for an hour by the water; entry or parking costs ₹20–50, indicative 2026. Suntalekhola, a forest stream and lodge area just above Samsing, makes a short extension. Samsing borders the Neora Valley forest, and the evening birdsong is the best of the trip.", "meals": "Breakfast, dinner"},
+    {"day": 4, "title": "Up to Darjeeling", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 140 km · 5–6 h", "text": "The longest drive. We go back down through Malbazar, west to Sevoke and Siliguri, then up the Rohini road to Kurseong and along Hill Cart Road through Sonada and Ghum to Darjeeling at 2,042 m. Expect 5–6 hours with a lunch stop in Kurseong, where you can buy tea direct from the estates. The road climbs about 1,900 m in 50 km after Siliguri, so carry a jacket in the car. Arrive by late afternoon and walk to Chowrasta, the Mall, for the evening. Darjeeling nights drop to 2–8 °C in winter.", "meals": "Breakfast, dinner"},
+    {"day": 5, "title": "Tiger Hill and Darjeeling sights", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 35 km · half day", "text": "Leave at about 4 am for Tiger Hill, 2,590 m, to watch the sun light up Kangchenjunga, 8,586 m, if the sky is clear. On the way back stop at Ghum Monastery and the Batasia Loop, where the toy train circles a war memorial. After breakfast, visit the Himalayan Mountaineering Institute and the Padmaja Naidu Himalayan Zoological Park, sold on one ticket, and the Tibetan Refugee Self Help Centre, set up in 1959. Tiger Hill entry and car fees apply; check current status before you travel. Evening free around Chowrasta.", "meals": "Breakfast, dinner"},
+    {"day": 6, "title": "Toy train and a tea estate", "place": "darjeeling", "overnight": "Darjeeling", "drive": "≈ 20 km in town", "text": "Take the Darjeeling Himalayan Railway's joy ride, about two hours from Darjeeling to Ghum and back with a stop at the Batasia Loop. The railway opened to Darjeeling in 1881 and has been a UNESCO World Heritage Site since 1999. Book seats online well ahead; timings and fares change, so check current status before you travel. In the afternoon visit Happy Valley Tea Estate, just below town, for a garden walk and a tasting when it is open. Pick up loose-leaf tea from a reputable shop, not a roadside stall.", "meals": "Breakfast, dinner"},
+    {"day": 7, "title": "Darjeeling to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 70 km · 3–3.5 h", "text": "After breakfast drive down to Siliguri, about 3–3.5 hours via Ghum and Kurseong, or via Mirik if you want a last look at the hills and a lake. Budget travellers ride a shared jeep from the Darjeeling motor stand for ₹300–400 a seat, indicative 2026. For a flight from Bagdogra, choose one leaving after 2 pm; landslides and traffic can slow the hill road.", "meals": "Breakfast"}
+  ],
+  "stays": ["the-reserve-gorumara-lataguri", "murti-banani-eco-tourism-centre", "sinclairs-retreat-dooars-chalsa"],
+  "includes": [
+    "6 nights in your chosen tier, twin sharing",
+    "Breakfast and dinner daily",
+    "Car for all transfers and sightseeing (shared jeep down on budget)",
+    "One Gorumara safari on budget, two on comfort and premium",
+    "Toy-train joy ride on comfort and premium"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Lunches",
+    "Entry fees at Darjeeling sights and Tiger Hill",
+    "Camera and guide fees at Gorumara",
+    "Personal expenses and medical costs"
+  ],
+  "save_more": [
+    "Travel in March, early April or November, when Darjeeling hotels often discount and Gorumara is open.",
+    "Ride the shared jeep from Darjeeling down to Siliguri at ₹300–400 a seat instead of a reserved car at ₹3,500–5,000.",
+    "Watch the toy train cross the Batasia Loop for the price of the garden entry instead of buying the joy ride."
+  ],
+  "good_to_know": [
+    "Gorumara closes from mid-June to mid-September, and safaris are usually closed on Thursdays. Check current status before you travel.",
+    "Darjeeling is cold from December to February, with nights near freezing; pack a down jacket and thermals.",
+    "Kangchenjunga is clearest from October to early December and in March; spring haze and monsoon cloud often hide it.",
+    "Book toy-train seats online as soon as you have dates; joy rides sell out in October, May and June.",
+    "Samsing homestays are simple; hot water may come by the bucket."
+  ],
+  "faqs": [
+    {"q": "Can we combine the Dooars and Darjeeling in one trip", "a": "Yes. Lataguri is about 80 km from Siliguri and Darjeeling about 70 km, so both sit on the same gateway. We do the Dooars first, then climb through Samsing and Siliguri to Darjeeling. Six nights gives you two safari sessions and three full Darjeeling days without rushing. Four or five nights also works if you drop Samsing."},
+    {"q": "How long is the drive from Lataguri to Darjeeling", "a": "About 140–150 km and 5–6 hours, via Malbazar, Sevoke, Siliguri and the Rohini road to Kurseong, then Hill Cart Road. Some drivers go via Mirik. Traffic in Siliguri and roadworks on the hill road decide the time. We break the trip with a night at Samsing, so day 4 is the only long drive."},
+    {"q": "What is the best month for a Dooars and Darjeeling trip", "a": "March, early April, October after the parks reopen, and November. These months have Gorumara open, mild days in the plains and good mountain views in Darjeeling. December to February also work, but Darjeeling is cold. Avoid mid-June to mid-September, when the parks close and the hills are under monsoon cloud."},
+    {"q": "Is Samsing worth a night", "a": "We think so. Samsing sits at about 750 m on tea slopes at the edge of the Neora Valley forest, about 35 km from Lataguri. It breaks the long drive, is cooler than the plains, and has Rocky Island on the Murti river nearby. Homestays are simple and friendly. Skip it if you are short of time."},
+    {"q": "How much does this 6-night trip cost", "a": "From ₹16,500 per person on budget, ₹28,000 on comfort and ₹60,000 on premium, twin sharing, indicative 2026. That covers stays, breakfast and dinner, the car or shared jeeps, and one or two Gorumara safaris by tier. Flights, trains, lunches and most entry fees are extra. Prices rise in Puja week and over Christmas and New Year."},
+    {"q": "Do we need permits for the Dooars or Darjeeling", "a": "Indian nationals need no permits for either. You need safari tickets for Gorumara, with ID that matches the booking, and entry tickets for some Darjeeling sights. Foreign nationals also need no permit for this route; permits apply only if you add Sikkim. Check current status before you travel."},
+    {"q": "Is Tiger Hill worth the 4 am start", "a": "On a clear morning, yes: you see the first light on Kangchenjunga, 8,586 m, and on a very good day Everest far to the west. In haze or cloud you may see nothing. October to early December and March are the best bets. Crowds are heavy in peak season, so arrive early for a good spot."},
+    {"q": "Is the toy-train joy ride suitable for families", "a": "Yes. The joy ride runs about two hours from Darjeeling to Ghum and back, with a stop at the Batasia Loop. Children love it, and steam or diesel trains run depending on the service. Book online ahead; fares and timings change, so check current status before you travel."},
+    {"q": "What should we pack for both plains and hills", "a": "Layers. Lataguri in winter is 10–25 °C, while Darjeeling can be 2–9 °C. Pack cotton for the Dooars days, earth-coloured clothes for the safaris, and a warm jacket, cap and thermals for Darjeeling. Add mosquito repellent, walking shoes and motion-sickness tablets for the hill road."}
+  ]
+}

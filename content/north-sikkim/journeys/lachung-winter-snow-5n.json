@@ -1,0 +1,79 @@
+{
+  "slug": "lachung-winter-snow-5n",
+  "title": "Lachung winter snow trip in 5 nights",
+  "region": "north-sikkim",
+  "nights": 5,
+  "themes": ["mountain-views", "family-trips", "budget-trips", "monasteries"],
+  "stops": [{"place": "gangtok", "nights": 2}, {"place": "lachung", "nights": 2}, {"place": "gangtok", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "end": "Bagdogra Airport (IXB) or NJP station, Siliguri",
+  "price_from_inr": 13500,
+  "fares": {"budget": 13500, "comfort": 23000, "premium": 44000},
+  "fare_notes": {
+    "budget": "Shared jeeps Siliguri–Gangtok and back, a budget Gangtok hotel with breakfast, a Lachung package seat with Bichu Homestay or a similar family hotel and breakfast and dinner, permits. Heater charges, where made, are extra.",
+    "comfort": "Reserved car from Siliguri, a 3-star Gangtok hotel with heating, a private Lachung-registered SUV for the north, two nights at Le Coxy Resort with heated mattresses, breakfast and dinner, permits.",
+    "premium": "Private Innova-class car throughout, a premium Gangtok hotel, two nights at Yarlam Resort with all meals in Lachung, snow boots and jackets for the Yumthang day, permits."
+  },
+  "best_months": [2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1],
+  "pace": "Easy",
+  "max_altitude_m": 3564,
+  "meta_description": "5 nights for snow at Lachung and Yumthang from December to March, with a buffer day in Gangtok for closures and warm-room tips, from ₹13,500.",
+  "summary": "A winter trip for families and couples who want deep snow without a trek: two nights in Lachung and a morning in a white Yumthang. We add a buffer day in Gangtok before going north, because fresh snow closes the road for a day or two at a time. From ₹13,500 per person, twin sharing; check current status before you travel.",
+  "intro": [
+    "For many families from the plains, Lachung is the easiest place in India to stand in real snow. From about late December to early March the village at 2,700 m and the road up to Yumthang usually lie under white, the rivers run clear and thin, and the sky is often a hard blue. Days at Yumthang hover around freezing; nights in Lachung drop to about −8 °C in January. It is cold, but with the right room and clothes it is very manageable, and prices outside New Year week are among the lowest of the year.",
+    "The catch is closures. A heavy fall can block the road above Chungthang or to Yumthang, and permits are sometimes paused until it is cleared. Zero Point is commonly closed from about mid-December, and the Lachen side is often shut by snow in winter, so this trip is Lachung only. We put a spare day in Gangtok before the drive north, so a closure moves your plan rather than cancels it. Check current status before you travel."
+  ],
+  "highlights": [
+    "Two nights in snowbound Lachung at about 2,700 m",
+    "Yumthang under snow, with the hot spring steaming by the river",
+    "A buffer day in Gangtok that turns closures into a delay, not a loss",
+    "Phodong Monastery, with its masked chaam in December",
+    "Low winter prices outside the Christmas and New Year week"
+  ],
+  "days": [
+    {"day": 1, "title": "Siliguri to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 115 km · 4–5 h", "text": "We meet you at Bagdogra or NJP and drive up NH10 along the Teesta into Sikkim at Rangpo. Budget travellers take a shared jeep for about ₹350–500 a seat. Gangtok in winter is dry and cool, about 4–14 °C. Hand your ID copies and photographs to the operator tonight for the Lachung permit if you have not sent them already. Walk MG Marg in the evening and buy what is missing: thermal inners, woollen socks, a cap and waterproof gloves cost less in Lal Bazaar than in Lachung.", "meals": "Breakfast on comfort and premium"},
+    {"day": 2, "title": "Gangtok, Phodong and the weather watch", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 80 km · 5–6 h", "text": "Today is the spare day. If the forecast is clear and the permit is ready, we can move the Lachung drive forward. Otherwise drive 38 km up the North Sikkim Highway, which needs no permit for Indians, to Phodong Monastery, a Karma Kagyu gompa of the 18th century. In December its masked chaam falls on the 28th and 29th days of the tenth Tibetan month, just before Losoong. Stop at Kabi Lungchok on the way back. Your operator checks the Lachung road and the snow report in the evening. Check current status before you travel.", "meals": "Breakfast; dinner on comfort and premium"},
+    {"day": 3, "title": "Gangtok to Lachung in the snow", "place": "lachung", "overnight": "Lachung", "drive": "≈ 120–125 km · 6–8 h", "text": "Leave by about 9.30 am in a Lachung-registered SUV. Above Chungthang, where the Lachen and Lachung rivers meet, snow and ice can appear on the road from late December, and drivers fit chains when needed. Allow extra time. Reach Lachung by late afternoon, when the light goes fast. In the room, check that the heater, heated mattress or electric blanket works before the hotel kitchen closes. Eat a hot dinner, drink water and sleep in layers. Wet shoes left by the door will be frozen by morning.", "meals": "Dinner"},
+    {"day": 4, "title": "Yumthang under snow", "place": "yumthang-valley", "overnight": "Lachung", "drive": "≈ 50 km round trip · 4–6 h", "text": "Leave at about 7 am; in winter the road needs daylight. Hire snow boots and a padded jacket in Lachung for ₹150–300 an item, indicative 2026. If the road is open, drive 24 km through the Shingba Rhododendron Sanctuary to Yumthang, 3,564 m, white from bank to bank. Children build snowmen; adults walk to the hot spring sheds by the river. If snow stops vehicles short of Yumthang, as it sometimes does, you play in the snow wherever the road ends. Zero Point is usually closed in winter. Back in Lachung by early afternoon to warm up.", "meals": "Breakfast, Dinner"},
+    {"day": 5, "title": "Lachung to Gangtok", "place": "gangtok", "overnight": "Gangtok", "drive": "≈ 120–125 km · 6–7 h", "text": "A slow morning walk up to Lachung Monastery, established in 1880, with apple orchards bare and frosted below. Ask your host about Losar, the Tibetan new year, which Lachung households celebrate at home in February or early March. Leave by about 10 am so the car crosses the Toong checkpost before 4 pm, as the current order requires. Lunch at Chungthang or Mangan. Reach Gangtok by evening for a hot shower and a good dinner on MG Marg.", "meals": "Breakfast"},
+    {"day": 6, "title": "Gangtok to Siliguri", "place": "siliguri", "overnight": "", "drive": "≈ 115 km · 4.5–5.5 h", "text": "Leave Gangtok by 8–9 am after breakfast. Winter is dry, so NH10 is usually reliable, but jams at Rangpo and Sevoke are common; allow at least five hours for Bagdogra or NJP and book trains and flights after 2 pm. Fog in the plains can delay winter flights and trains, so keep an eye on your booking. Budget travellers take a shared jeep down to Siliguri from Deorali for about ₹350–500 a seat, indicative 2026.", "meals": "Breakfast"}
+  ],
+  "stays": ["bichu-homestay-lachung", "le-coxy-resort-lachung", "yarlam-resort-lachung"],
+  "includes": [
+    "Three nights in Gangtok and two in Lachung, twin sharing",
+    "Breakfast daily; dinner in Lachung on all tiers and in Gangtok on comfort and premium",
+    "Transport as per tier: shared jeeps and package seat on budget, private car on comfort and premium",
+    "Protected Area Permit processing for Lachung and Yumthang",
+    "Phodong and Kabi Lungchok day, Yumthang snow day"
+  ],
+  "excludes": [
+    "Flights and trains to Siliguri",
+    "Snow-gear hire except on premium; room heater charges where made",
+    "Sikkim tourist fee of ₹50 per person",
+    "Lunches, tips and personal expenses",
+    "Extra nights or vehicle days caused by snow closures"
+  ],
+  "save_more": [
+    "Travel in the first three weeks of January or in February, outside Christmas and New Year, when Lachung and Gangtok rates are at their lowest.",
+    "Hire boots and padded jackets in Lachung for ₹150–300 an item rather than buying them.",
+    "Join a group package seat for the Lachung part and keep the private car only for Gangtok days."
+  ],
+  "good_to_know": [
+    "Snow closes the Lachung and Yumthang roads for a day or two at a time; the Gangtok buffer day exists for this reason.",
+    "Zero Point is commonly closed from about mid-December, and Lachen and Gurudongmar are often shut by snow in winter.",
+    "Nights in Lachung fall to about −8 °C in January; confirm heating in writing when you book.",
+    "Water pipes in some Lachung hotels freeze overnight; hot water may come in buckets in the morning.",
+    "Fog in the plains can delay winter flights and trains at Bagdogra and NJP; avoid tight connections."
+  ],
+  "faqs": [
+    {"q": "When is the best time to see snow in Lachung", "a": "From about late December to early March, with January and February the most reliable months. Snow usually lies in the village and on the road to Yumthang then. December often brings the first proper falls, but some years they come late. By late March snow has usually gone from Lachung village but remains higher up. No month is guaranteed, so check recent reports before you travel."},
+    {"q": "Is the road to Lachung open in winter", "a": "Usually, yes, but not every day. Fresh snow can block the road above Chungthang or to Yumthang, and permits are sometimes paused until the Border Roads Organisation clears it, which can take a day or two. That is why this trip has a spare day in Gangtok. Your operator knows the morning status. Check current status before you travel."},
+    {"q": "How cold is Lachung in January", "a": "Very cold. Expect about −8 °C at night and up to about 5 °C on a sunny afternoon in the village, colder at Yumthang. Rooms without heating feel like a fridge. Pack thermal inners, a fleece, a down or padded jacket, a woollen cap, gloves and two pairs of woollen socks, and confirm a heater, heated mattress or electric blanket when you book."},
+    {"q": "Can we go to Zero Point in winter", "a": "Usually not. Tourist access to Zero Point is commonly closed from about mid-December because of snow on the road above Yumthang, and it may not reopen until March or April. In some winters even Yumthang is reachable only part of the way. Plan your trip around Lachung and Yumthang, and treat Zero Point as a possible bonus in late March only."},
+    {"q": "Can we see Gurudongmar Lake on a winter trip", "a": "Rarely. The Lachen side is often closed by snow in winter, and Gurudongmar is frozen over from about late November to April. When the road is open, the cold at 5,430 m is severe. We run this winter trip as Lachung only. If you want the lake frozen, ask about late November or late March, when it is sometimes open. Check current status before you travel."},
+    {"q": "How much does a winter Lachung trip cost", "a": "From about ₹13,500 per person twin sharing on budget, ₹23,000 on comfort and ₹44,000 on premium, from Siliguri, indicative 2026. Winter is cheap outside Christmas and New Year week, when Lachung and Gangtok rates jump. Heater charges, snow-gear hire and extra nights caused by closures can add to the bill, so keep some cash in reserve."},
+    {"q": "Is Lachung in snow safe for children and seniors", "a": "Yes, for most people who dress well and go slowly. You sleep at about 2,700 m and visit Yumthang at 3,564 m. The risks are cold, slips on ice and long drives, not extreme altitude. Keep children in waterproof gloves and boots, limit snow play to short spells, and take seniors in a private car on the comfort or premium tier."},
+    {"q": "Do we need snow chains or a special vehicle", "a": "You do not arrange this yourself. Tourists must travel in a Lachung-registered vehicle with a local driver, booked through a registered operator, and drivers carry and fit chains when needed. Ask for an SUV such as a Bolero, Scorpio or Xylo rather than a small car in winter. On icy stretches the driver may ask you to walk a short way."},
+    {"q": "Should we travel to Lachung during New Year week", "a": "Only if you book early and accept higher prices. Christmas and New Year week is the busiest time of the winter, with rates in Gangtok and Lachung well above January levels and group seats filling fast. Snow is less certain than in January and February. If dates are flexible, the second and third weeks of January give more snow for less money."}
+  ]
+}

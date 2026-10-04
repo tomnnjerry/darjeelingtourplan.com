@@ -1,0 +1,118 @@
+{
+  "slug": "kurseong-darjeeling-tea-trail-4n",
+  "title": "Kurseong and Darjeeling tea trail in 4 nights",
+  "region": "darjeeling",
+  "nights": 4,
+  "themes": ["tea-gardens", "toy-train", "food-and-markets"],
+  "stops": [{"place": "kurseong", "nights": 2}, {"place": "darjeeling", "nights": 2}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 12000,
+  "fares": {"budget": 12000, "comfort": 21000, "premium": 62000},
+  "fare_notes": {
+    "budget": "Kurseong Tourism Property (WBTDC), then the WBTDC Darjeeling Tourism Property or Revolver, twin sharing; shared jeeps between towns; one garden walk with tasting; breakfast only.",
+    "comfort": "Cochrane Place in Kurseong, then Dekeling Hotel or The Bellevue Hotel in Darjeeling; a private small car throughout; two garden visits and tastings; breakfast and dinner.",
+    "premium": "Cochrane Place in Kurseong, then two nights at Glenburn Tea Estate with all meals, estate walks and tastings; a private Innova-class car throughout."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 1],
+  "pace": "Easy",
+  "max_altitude_m": 2042,
+  "meta_description": "4 nights of Darjeeling tea from ₹12,000 per person: Makaibari and Castleton slopes in Kurseong, Happy Valley, tasting counters and the toy train.",
+  "summary": "Four nights following Darjeeling tea from bush to cup. Two nights in Kurseong among some of the oldest gardens in the hills, then two in Darjeeling with Happy Valley, tasting counters and a factory visit in season. Premium travellers stay on a working estate at Glenburn. From ₹12,000 per person, twin sharing.",
+  "intro": [
+    "Darjeeling tea has grown on these slopes since Archibald Campbell planted seeds in his Beechwood garden in 1841, and the first commercial gardens opened in the early 1850s. Today the Darjeeling name is protected by a Geographical Indication registered in 2004–05, and only tea from the gardens of the district's hill areas may carry it. The best way to understand why it costs what it does is to walk a garden in the morning, watch leaf come into a factory and taste the same estate's first and second flush side by side.",
+    "We start lower down, in Kurseong at 1,458 m, where gardens such as Makaibari, Castleton, Goomtee and Ambootia fall away below Hill Cart Road. Then we move up to Darjeeling for Happy Valley, the tea shops of Nehru Road and the mountain view that the planters built their bungalows to face. Spring, for first flush in March and April, and late May to June, for the muscatel second flush, are the best times to see plucking. Factories rest in winter."
+  ],
+  "highlights": [
+    "A morning garden walk and tasting at Makaibari in Kurseong",
+    "Netaji Subhas Chandra Bose's family house at Giddapahar",
+    "Happy Valley Tea Estate below Darjeeling town",
+    "A side-by-side tasting of first and second flush on Nehru Road",
+    "Optional two nights on a working estate at Glenburn"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Kurseong",
+      "place": "kurseong",
+      "overnight": "Kurseong",
+      "drive": "≈ 40 km · 1.5–2 h",
+      "text": "Drive up the Rohini road or Hill Cart Road to Kurseong, about 1.5 hours from Siliguri. Shared jeeps from Siliguri cost ₹120–200 a seat, indicative 2026. Kurseong sits at 1,458 m, warmer than Darjeeling and much quieter. After lunch walk the bazaar, where the toy train passes inches from shop fronts, then climb the short road to Eagle's Crag for a view down over the plains and the tea slopes. The name Kurseong is commonly explained as the Lepcha Kharsang, the land of the white orchid. Early night: tomorrow starts with the plucking shift.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Makaibari, Giddapahar and Dow Hill",
+      "place": "kurseong",
+      "overnight": "Kurseong",
+      "drive": "≈ 25 km · local half day",
+      "text": "Reach Makaibari, below Kurseong, by about 8 am, when pluckers work the slopes with baskets on their heads. A garden walk and tasting costs ₹200–500 a person, indicative 2026; factory visits depend on the season and the estate's rules. After lunch drive to Giddapahar, where the Bose family house is now the Netaji Museum, free to enter. Netaji was held under house arrest here in 1936. End the day with a walk through the pine and oak of Dow Hill, past Victoria Boys' School, founded in 1879. A local taxi for the day costs ₹1,500–2,200.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Up to Darjeeling and Happy Valley",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 32 km · 1.5 h",
+      "text": "Drive up through Tung, Sonada and Ghum to Darjeeling, or ride the passenger train if it suits the timetable. Shared jeeps cost ₹100–180. Premium guests turn off at Jorebunglow for the road down to Glenburn, about 1.5–2 hours from town, and stay there two nights with estate walks and tastings. Everyone else checks in near Chowrasta and walks down Lebong Cart Road to Happy Valley Tea Estate, started in the 1850s, for a walk among the bushes and, in season, a look at withering and rolling. Entry and tasting cost ₹100–300. Evening on the Mall.",
+      "meals": "Breakfast; dinner (comfort; all meals premium)"
+    },
+    {
+      "day": 4,
+      "title": "Tasting day and the old town",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "",
+      "text": "Start at Chowrasta at 6 am for Kangchenjunga, then breakfast. Spend the late morning at a tea shop on Nehru Road or near Chowrasta that runs proper tastings: compare a March first flush, light and green, with a June second flush, darker and with the muscatel note the trade prizes. Ask for the garden name and invoice number on the packet; a good shop gives both. After lunch see the Lloyd Botanical Garden, laid out in 1878 on land given by William Lloyd, then the Mahakal temple on Observatory Hill. Premium guests spend the day on Glenburn's slopes and by the Rangeet.",
+      "meals": "Breakfast; dinner (comfort; all meals premium)"
+    },
+    {
+      "day": 5,
+      "title": "Darjeeling to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Buy your tea this morning, not at the airport, where the same packets cost more and the choice is poor. A 100 g pack of a named garden's first flush costs roughly ₹400–1,500, indicative 2026, depending on garden and grade. Leave by 10–11 am for an afternoon flight or evening train, allowing 3–3.5 hours and more on weekends, when the road through Kurseong and Rohini slows. Budget travellers take a shared jeep for ₹250–400 a seat from the motor stands near Chowk Bazaar. In the rains, add a buffer for slips on the lower road.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["kurseong-tourism-property-wbtdc", "cochrane-place-kurseong", "darjeeling-tourism-property-wbtdc", "revolver-hotel-darjeeling", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "glenburn-tea-estate"],
+  "includes": [
+    "2 nights in Kurseong and 2 in Darjeeling (or Glenburn on premium), twin sharing",
+    "Breakfast daily; dinners on comfort; all meals at Glenburn on premium",
+    "Transfers from Bagdogra or NJP and back (shared jeep on budget)",
+    "Makaibari garden walk with tasting; Happy Valley visit on comfort",
+    "Local taxi for the Kurseong sightseeing day on comfort and premium"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Toy-train tickets, if you choose a train leg",
+    "Tea you buy, and tasting fees beyond those listed",
+    "Lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Use shared jeeps for Siliguri–Kurseong (₹120–200) and Kurseong–Darjeeling (₹100–180) instead of a reserved car for those legs.",
+    "Travel in the second half of March for first flush, before the April and May school-holiday rates begin.",
+    "Walk to Happy Valley from Chowrasta, about 3 km downhill, and take a shared taxi back up for ₹20–40."
+  ],
+  "good_to_know": [
+    "Garden visits and factory tours are at each estate's discretion and are often closed on Sundays, during labour meetings and in winter. Check current status before you travel.",
+    "Plucking runs roughly from March to November; December to February is the dormant season when factories rest.",
+    "Glenburn is a fixed-price stay with all meals; its last stretch of road is steep and rough.",
+    "Wear closed shoes on garden paths: the slopes are steep and slippery after rain.",
+    "Tea gardens are workplaces; ask before photographing pluckers, and do not pick leaves."
+  ],
+  "faqs": [
+    {"q": "When is the best time to see tea plucking in Darjeeling", "a": "Late March to early May for first flush, and late May to June for second flush. Plucking continues through the monsoon and into the autumn flush in October and November, but rain and cloud make visits less pleasant in July and August. From December to February the bushes are dormant and most factories stand idle."},
+    {"q": "Can we visit Makaibari tea estate", "a": "Yes. Makaibari, just below Kurseong, usually offers garden walks and tastings to visitors, roughly ₹200–500 a person, indicative 2026. Factory visits depend on the season and whether the estate is processing that day. Go in the morning, when pluckers are on the slopes. Rules and fees change, so check current status before you travel."},
+    {"q": "What is the difference between first flush and second flush", "a": "First flush is plucked in March and April after the winter rest; it brews pale and light, with a fresh, floral taste. Second flush comes in May and June; the leaf is fuller and the liquor darker, and the best lots carry the muscatel note Darjeeling is famous for. Both come from the same bushes."},
+    {"q": "Is a stay at Glenburn worth the price", "a": "For a special occasion or tea lovers, yes. Glenburn is a working estate where the hosts run walks, tastings and a riverside picnic, and all meals are included, which softens the room rate of roughly ₹35,000–50,000 a suite night, indicative. It is 1.5–2 hours from Darjeeling, so you do not tour the town while staying there."},
+    {"q": "How do I know I am buying real Darjeeling tea", "a": "Buy from shops that name the garden and the flush, and look for the Darjeeling logo, a woman holding tea leaves, on the pack. Genuine Darjeeling tea costs more than blends: expect ₹400–1,500 for 100 g of a named garden's first flush. Very cheap loose tea sold as Darjeeling in markets is often blended."},
+    {"q": "Why stay in Kurseong instead of Darjeeling", "a": "Kurseong is closer to the plains, about 1.5 hours from Siliguri, warmer and much quieter, and it sits among some of the oldest and best-known gardens in the hills. Rooms cost less than in Darjeeling. You lose the Kangchenjunga view from your window, which is why this trip ends with two nights higher up."},
+    {"q": "Is this tea trip suitable for seniors", "a": "Yes, with care. The pace is easy and garden walks can be kept short and level. The steep roads and stairs of Darjeeling town and the slopes inside gardens are the hard part. We keep a car on hand on comfort and premium, and pick rooms without long climbs where possible. Tell us about knees or breathing when you book."},
+    {"q": "Are tea factories open on Sundays", "a": "Many gardens rest or limit visitors on Sundays, and some close to visitors on holidays or during labour meetings. Plan garden visits for Monday to Saturday mornings, when plucking and processing are under way. We build the trip so the Makaibari visit falls on a working day. Check current status before you travel."},
+    {"q": "What does the 4-night tea trail cost", "a": "From ₹12,000 per person, twin sharing, on budget with WBTDC lodges and shared jeeps. Comfort, with Cochrane Place, a private car and dinners, costs about ₹21,000. Premium, with two nights at Glenburn on all meals, starts around ₹62,000. All prices are indicative for 2026 and rise in April, May and October."}
+  ]
+}

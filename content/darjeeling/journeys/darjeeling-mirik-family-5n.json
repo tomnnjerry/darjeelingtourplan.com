@@ -1,0 +1,127 @@
+{
+  "slug": "darjeeling-mirik-family-5n",
+  "title": "Darjeeling and Mirik family holiday in 5 nights",
+  "region": "darjeeling",
+  "nights": 5,
+  "themes": ["family-trips", "toy-train", "mountain-views", "tea-gardens"],
+  "stops": [{"place": "darjeeling", "nights": 4}, {"place": "mirik", "nights": 1}],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 14000,
+  "fares": {"budget": 14000, "comfort": 24500, "premium": 55000},
+  "fare_notes": {
+    "budget": "WBTDC Darjeeling Tourism Property or a similar budget hotel near Chowrasta, then a simple lake-side hotel in Mirik, twin sharing; one reserved car for transfers and the two sightseeing days, shared between a family of four; breakfast only.",
+    "comfort": "Dekeling Hotel or The Bellevue Hotel in Darjeeling, then a good mid-range hotel in Mirik; a private small car throughout; breakfast and dinner daily.",
+    "premium": "Mayfair Hill Resort or Windamere Hotel in Darjeeling, then the best available room in Mirik; a private Innova-class car throughout; steam joyride seats; breakfast and dinner daily."
+  },
+  "best_months": [1, 1, 2, 2, 2, 1, 0, 0, 1, 2, 2, 2],
+  "pace": "Easy",
+  "max_altitude_m": 2567,
+  "meta_description": "A 5 nights Darjeeling and Mirik family trip from ₹14,000 per person: toy train, zoo and HMI, Tiger Hill, the ropeway and a night by Mirik lake.",
+  "summary": "Five easy nights for families: four in Darjeeling with the toy train, the zoo's red pandas, Tiger Hill, the ropeway and the Tibetan refugee centre, then a night by Mirik lake with boats and orange orchards before an easy drive to the plains. Built around children's sleep and grandparents' knees. From ₹14,000 per person, twin sharing.",
+  "intro": [
+    "Families from Kolkata, Bengaluru and Dhaka come to Darjeeling for the same handful of things: snow peaks, the little train, red pandas and a cold enough evening to wear a jumper. This trip gives you all of them without dragging a seven-year-old out of bed at 4 am more than once. We use one hotel for four nights, keep drives under two hours on sightseeing days and leave every afternoon partly free, because children and grandparents tire on Darjeeling's steep roads more than they expect.",
+    "The last night is in Mirik, a small lake town at about 1,495 m, 49 km from Darjeeling. The drive there runs through tea gardens such as Gopaldhara and Thurbo and past the Nepal border at Pashupati. Mirik is warmer and flatter than Darjeeling: a 3.5 km path rings Sumendu Lake, children can ride ponies or row a boat, and in the morning it is barely two hours to Bagdogra or NJP. That makes the last day short and calm."
+  ],
+  "highlights": [
+    "Red pandas and snow leopards at the Padmaja Naidu Himalayan Zoological Park",
+    "A toy-train joyride to Ghum with a stop at Batasia Loop",
+    "Kangchenjunga at sunrise from Tiger Hill",
+    "The Tibetan Refugee Self Help Centre, working since 1959",
+    "Boating and a 3.5 km lake walk in Mirik"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Arrive and settle in Darjeeling",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 70 km · 3–3.5 h",
+      "text": "Your car meets you at Bagdogra or NJP. Carry snacks and motion-sickness tablets for children; the road from Rohini has many bends. Stop for tea at Kurseong if anyone needs a break. Reach Darjeeling by early afternoon, check in and rest. In the evening walk the flat stretch of the Mall from Chowrasta, about 15 minutes, where children can run safely away from cars. Pony rides on Chowrasta cost ₹100–300 a round, indicative 2026. Eat early; hill days start early and everyone will be tired after the drive.",
+      "meals": "Dinner (comfort and premium)"
+    },
+    {
+      "day": 2,
+      "title": "Zoo, HMI and the toy train",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 15 km · local",
+      "text": "Start at the Padmaja Naidu Himalayan Zoological Park, known for its breeding programmes for red pandas and snow leopards, and the Himalayan Mountaineering Institute next door, founded in 1954, where Tenzing Norgay was the first director of field training. One ticket covers both, about ₹100–150 for Indians, indicative 2026. Allow 2–3 hours. After lunch take the toy-train joyride to Ghum and back, about two hours, with a stop at Batasia Loop and time in the Ghum railway museum. Book joyride seats on IRCTC as soon as your dates are fixed.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 3,
+      "title": "Tiger Hill sunrise and a slow day",
+      "place": "tiger-hill",
+      "overnight": "Darjeeling",
+      "drive": "≈ 30 km · 3–4 h in the morning",
+      "text": "If the forecast is clear, leave at 4 am for Tiger Hill, 11 km away at 2,567 m. Wrap children in caps and gloves; dawn is near 0 °C from December to February. Watch the sun light Kangchenjunga, then stop at Ghum monastery and Batasia Loop on the way down if you missed them yesterday. Back for a late breakfast and a long rest. In the afternoon visit the Japanese Peace Pagoda on Jalapahar, quiet and easy to walk around, and the Dhirdham temple near the station, modelled on Kathmandu's Pashupatinath.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 4,
+      "title": "Ropeway and the Tibetan centre",
+      "place": "darjeeling",
+      "overnight": "Darjeeling",
+      "drive": "≈ 10 km · local",
+      "text": "Go early to the Darjeeling ropeway at North Point, which glides down over tea gardens towards Singla; a return ride costs ₹250–300, indicative 2026. Next door, the Tibetan Refugee Self Help Centre has run since 1959, when Tibetan families arrived after the Dalai Lama's flight to India. Watch carpet weaving and wool spinning, and buy direct from the workshop. After lunch, the Rock Garden and Ganga Maya Park, about 10 km below town, have streams and steps children enjoy; a car costs ₹1,500–2,000. Keep the evening free for shopping on Nehru Road.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 5,
+      "title": "Through tea gardens to Mirik",
+      "place": "mirik",
+      "overnight": "Mirik",
+      "drive": "≈ 49 km · 2–2.5 h",
+      "text": "Leave Darjeeling mid-morning for Mirik by way of Ghum and Sukhiapokhri, through the Gopaldhara and Thurbo tea gardens. Indian families can stop at the Pashupati market on the Nepal border for cheap goods; carry ID, and note that foreign nationals cannot cross here. Reach Mirik by lunch. Walk the 3.5 km path round Sumendu Lake and cross the footbridge, or rent a rowing boat for 20–30 minutes at ₹200–400. Before sunset visit Bokar Monastery on the hill above town. From November to January, roadside stalls sell Mirik oranges.",
+      "meals": "Breakfast; dinner (comfort and premium)"
+    },
+    {
+      "day": 6,
+      "title": "Mirik to Bagdogra or NJP",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 52 km · 2–2.5 h",
+      "text": "A gentle last morning. Walk the lake once more when the water is still and the mist sits on it. Leave by 10–11 am for an afternoon flight from Bagdogra or train from NJP; the road drops through tea gardens and the orange orchards of the Mirik slopes, then down through Dudhia, where families picnic beside the Balason river in winter. It is the shortest and easiest of the hill-to-plains drives, about 2–2.5 hours. In heavy rain check the Dudhia road for slips. Budget families can take a shared jeep from Mirik to Siliguri for ₹150–250 a seat.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["darjeeling-tourism-property-wbtdc", "dekeling-hotel-darjeeling", "bellevue-hotel-darjeeling", "mayfair-hill-resort-darjeeling", "windamere-hotel-darjeeling"],
+  "includes": [
+    "4 nights in Darjeeling and 1 in Mirik in your chosen tier, twin sharing",
+    "Breakfast daily; dinners on comfort and premium",
+    "Car for airport transfers and sightseeing days (shared by a family of four on budget)",
+    "Tiger Hill morning, Darjeeling local sightseeing and the Mirik transfer",
+    "Help booking toy-train seats on IRCTC"
+  ],
+  "excludes": [
+    "Flights and trains",
+    "Toy-train joyride fares on budget and comfort",
+    "Entry tickets: zoo and HMI, ropeway, Batasia, Rock Garden, boats and ponies",
+    "Lunches, and dinners on the budget tier",
+    "Tips, porters and personal expenses"
+  ],
+  "save_more": [
+    "Travel in the second half of November or in March, when hotels discount and school-holiday crowds are gone.",
+    "Book family rooms or rooms with an extra bed for children under 12 instead of a second double room.",
+    "Leave Mirik by shared jeep to Siliguri (₹150–250 a seat) if your family travels light."
+  ],
+  "good_to_know": [
+    "Children under 5 often feel the bends on the Rohini road; take the slower Hill Cart Road route if anyone gets car sick.",
+    "The zoo is usually closed on Thursdays; we plan around that. Check current status before you travel.",
+    "Pashupati market is in Nepal; Indian and Nepali citizens can usually cross with photo ID, others cannot. Check current status before you travel.",
+    "Rooms in Mirik are simpler than in Darjeeling; the premium tier there means the best room available, not a luxury hotel.",
+    "Bring warm clothes for everyone from October to March and rain gear from May to September."
+  ],
+  "faqs": [
+    {"q": "Is Darjeeling good for a family trip with kids", "a": "Yes. Children love the toy train, the red pandas and snow leopards at the zoo, the ropeway and pony rides on Chowrasta. The town is safe and full of food children eat, from momos to noodles to omelettes. The hard parts are the steep roads, so plan short walks, and the 4 am Tiger Hill start, which we do only once."},
+    {"q": "What does a 5-night Darjeeling and Mirik family trip cost", "a": "From ₹14,000 per person, twin sharing, on budget, with a car shared by a family of four. Comfort, with better hotels, a private car and dinners, costs about ₹24,500, and premium at Mayfair or the Windamere starts near ₹55,000. Children under 5 usually stay free; ask for child rates. Prices are indicative for 2026."},
+    {"q": "Which day is the Darjeeling zoo closed", "a": "The Padmaja Naidu Himalayan Zoological Park and the Himalayan Mountaineering Institute are usually closed on Thursdays and on some public holidays. Opening is roughly 8.30 am to 4 pm, with the last entry earlier. We plan the zoo day around the closure. Timings change, so check current status before you travel."},
+    {"q": "Is Mirik worth a night", "a": "For families, yes. Mirik is calmer, warmer and flatter than Darjeeling, with a 3.5 km lake path, boats, ponies and Bokar Monastery. One night there breaks the trip and makes the last day a short two-hour drive to Bagdogra instead of three to four hours from Darjeeling. As a day trip from Darjeeling it feels rushed."},
+    {"q": "Can grandparents manage this trip", "a": "Yes, with planning. The highest point is Tiger Hill at 2,567 m, and most days are short drives with level walks. Darjeeling's stairs and slopes are the challenge, so ask for a hotel where cars reach the door, and use taxis for short hops. Anyone with heart or lung conditions should speak to a doctor first."},
+    {"q": "Is it safe to take a baby to Darjeeling", "a": "Many families do. Darjeeling is at about 2,042 m, which most babies handle well. Pack warm layers, a carrier rather than a pram for the steep lanes, and familiar food. Skip the Tiger Hill dawn trip with an infant in winter, since it is near freezing. Hospitals and pharmacies are available in town."},
+    {"q": "Can we see snow in Darjeeling with children", "a": "Snow in Darjeeling town is rare and unpredictable, falling on a few days in some winters, usually in January or February. Tiger Hill sometimes gets a dusting. For reliable snow, families go to Tsomgo Lake near Gangtok or to Sandakphu. Darjeeling's draw is the view of snow on Kangchenjunga, which is clearest from October to February."},
+    {"q": "What can children eat in Darjeeling", "a": "Plenty. Momos, noodles, thukpa, eggs, toast, puri-sabzi and dal-rice are available everywhere, and bakeries on Nehru Road and the Mall sell cakes, patties and hot chocolate. Ask for less chilli; the local dalle khursani is very hot. Bottled or filtered water is easy to find, and hotels refill bottles."},
+    {"q": "How far is Mirik from Bagdogra airport", "a": "Mirik is about 52 km from Siliguri and roughly 2–2.5 hours from Bagdogra by road, through Dudhia and the tea gardens. That is why we put Mirik at the end: the last morning is relaxed and you still make an afternoon flight. Shared jeeps from Mirik to Siliguri cost about ₹150–250 a seat, indicative 2026."}
+  ]
+}

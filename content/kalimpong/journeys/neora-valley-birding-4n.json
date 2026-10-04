@@ -1,0 +1,122 @@
+{
+  "slug": "neora-valley-birding-4n",
+  "title": "Neora Valley birding in 4 nights",
+  "region": "kalimpong",
+  "nights": 4,
+  "themes": ["birding-and-orchids", "wildlife-safaris", "treks-and-walks", "village-homestays"],
+  "stops": [
+    {"place": "lava", "nights": 2},
+    {"place": "kolakham", "nights": 1},
+    {"place": "lolegaon", "nights": 1}
+  ],
+  "start": "Bagdogra Airport (IXB) or NJP station",
+  "end": "Bagdogra Airport (IXB) or NJP station",
+  "price_from_inr": 15500,
+  "fares": {"budget": 15500, "comfort": 24000, "premium": 40000},
+  "fare_notes": {
+    "budget": "WBFDC Lava Eco Tourism Centre, a Kolakham homestay and the WBFDC Lolegaon Eco Tourism Centre, twin sharing; a reserved small car from pickup to drop shared by four birders; park jeep and forest guide in Neora; a local bird guide on two mornings; breakfast, packed breakfast where needed, and dinner.",
+    "comfort": "The better rooms at the Lava forest lodge or a good family hotel, and the best-built homestays in Kolakham and Lolegaon; a private car for two to three people; a specialist bird guide on all four mornings; Neora jeep and permits arranged ahead; all meals.",
+    "premium": "The best rooms available on each night, which in these villages means comfortable homestays rather than hotels, with an extra night in Kalimpong at Mayfair or Elgin Silver Oaks on request at extra cost; a private car; a senior bird guide for every outing including a second Neora morning; all meals and flasks of tea on the trail."
+  },
+  "best_months": [1, 2, 2, 2, 1, 0, 0, 0, 0, 1, 2, 1],
+  "pace": "Active",
+  "max_altitude_m": 2590,
+  "meta_description": "Neora Valley birding in 4 nights from ₹15,500 per person: Lava, Zero Point, Kolakham and Lolegaon forests with local bird guides, Nov–Apr.",
+  "summary": "Four nights of early mornings in the Neora Valley forests: two at Lava for a full park day to Zero Point, one at Kolakham on the forest edge and one at Lolegaon for its old cypress forest. Local bird guides, small groups and dawn starts. From ₹15,500 per person, twin sharing.",
+  "intro": [
+    "Neora Valley National Park runs from about 183 m to 3,200 m, and that spread of altitude is why its bird list is long. In one morning on the Lava side you move from broadleaf forest with barbets and sibias up into oak, fir and bamboo where laughingthrushes, fulvettas and parrotbills feed in mixed flocks. Winter brings altitudinal migrants down from higher ridges, which is why November to April is the season. In spring the rhododendrons flower and birds start singing.",
+    "We keep groups small, four birders to a car at most, and we use local guides from Lava and Lolegaon who know where flocks move and where pheasants cross the road at first light. Expect starts at 5–5.30 am, a packed breakfast on the trail, and a rest after lunch. Nothing is promised: satyr tragopan and red panda live here but are seldom seen. A patient birder can still expect a long list of species in four days, many of them Himalayan specialities."
+  ],
+  "highlights": [
+    "A full day inside Neora Valley National Park on the Zero Point track",
+    "Dawn road birding on the Lava–Rishyap and Lava–Kolakham roads",
+    "Mixed flocks of laughingthrushes, sibias, minlas and fulvettas",
+    "Lolegaon's heritage forest and canopy walk at first light",
+    "Local bird guides on every morning outing"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Bagdogra or NJP to Lava",
+      "place": "lava",
+      "overnight": "Lava",
+      "drive": "≈ 100–110 km · 4–4.5 h",
+      "text": "We meet you at Bagdogra or NJP and drive to Lava, either up the Teesta through Kalimpong or through the Dooars by Malbazar and Gorubathan, whichever road is open; since the 2023 flood NH10 closes often, so check current status before you travel. On the Gorubathan route, stop where the road leaves the tea gardens for forest and watch for hornbills and drongos. Reach Lava at about 2,200 m by mid-afternoon. Walk the forest lane above the lodge with your guide for an hour before dusk, when thrushes and laughingthrushes come out to feed. Briefing and checklist after dinner.",
+      "meals": "Dinner"
+    },
+    {
+      "day": 2,
+      "title": "Neora Valley: Zero Point all day",
+      "place": "neora-valley-national-park",
+      "overnight": "Lava",
+      "drive": "≈ 26 km round trip · 7–8 h with walks",
+      "text": "Gate at first light in a permitted jeep with a forest guide and our bird guide; entry is about ₹120–150 per Indian and ₹500 per foreigner, plus jeep ₹1,500–2,500 and vehicle fee, indicative 2026. The track runs about 13 km through oak, fir and rhododendron to Zero Point. Drive slowly, stopping wherever a flock crosses, then walk the permitted trail. Look for rufous sibia, chestnut-tailed minla, black-faced laughingthrush, golden-breasted fulvetta and, in bamboo, parrotbills. Kalij pheasant often feeds on the track early. Packed breakfast in the forest. The park closes mid-June to mid-September; check current status before you travel.",
+      "meals": "Breakfast (packed), lunch, dinner"
+    },
+    {
+      "day": 3,
+      "title": "Rishyap road at dawn, on to Kolakham",
+      "place": "kolakham",
+      "overnight": "Kolakham",
+      "drive": "≈ 35 km with birding stops · 2–3 h",
+      "text": "Start on the road toward Rishyap, which climbs to about 2,590 m through rhododendron and oak. At dawn the roadside is often the best place in the district for mixed flocks, and in clear weather Kanchenjunga stands behind them. Back for a late breakfast, then drive to Kolakham at about 1,980 m on the forest edge. After a rest, bird the trail down toward Changey Falls, about 900 m each way, for forktails and wagtails by the water and woodpeckers in the trees. Evening on the homestay terrace with owls calling from the forest.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 4,
+      "title": "Forest edge morning, then Lolegaon",
+      "place": "lolegaon",
+      "overnight": "Lolegaon",
+      "drive": "≈ 35 km · 1.5–2 h",
+      "text": "A slow dawn walk on the Kolakham forest edge, where barbets, yuhinas and sunbirds feed in fruiting and flowering trees from February. After breakfast drive through Lava to Lolegaon at about 1,675 m. Its heritage forest of old cypress and pine holds a different set of birds from the high fir forest: look for nuthatches, treecreepers, minivets and flycatchers. Walk the canopy bridges, about 180 m in all, in late afternoon when the forest is quiet; entry ₹30–60, indicative 2026. Compile the trip list after dinner.",
+      "meals": "Breakfast, lunch, dinner"
+    },
+    {
+      "day": 5,
+      "title": "Lolegaon dawn, down to the plains",
+      "place": "siliguri",
+      "overnight": "",
+      "drive": "≈ 120 km · 4.5–5 h",
+      "text": "A last dawn in the heritage forest or on the road toward Jhandi Dara, where the canopy is at eye level from the slope. Breakfast, then drive down through Kalimpong and the Teesta to Bagdogra or NJP, or by Gorubathan if NH10 is closed. Birders flying out in the evening can stop at the Sevoke forest edge for an hour on the way. Book trains or flights after 3 pm, and check current status before you travel.",
+      "meals": "Breakfast"
+    }
+  ],
+  "stays": ["wbfdc-lava-eco-tourism-centre", "wbfdc-lolegaon-eco-tourism-centre", "mayfair-himalayan-spa-resort-kalimpong", "elgin-silver-oaks-kalimpong"],
+  "includes": [
+    "4 nights: 2 in Lava, 1 in Kolakham, 1 in Lolegaon, twin sharing",
+    "All meals from dinner on day 1 to breakfast on day 5, with packed breakfasts on early starts",
+    "Car from pickup to drop, shared by up to four on budget",
+    "Neora Valley park jeep and forest guide on day 2",
+    "Local bird guide on two mornings (budget) or every morning (comfort and premium)"
+  ],
+  "excludes": [
+    "Trains and flights",
+    "Neora Valley entry, vehicle and camera fees, paid at the Lava forest office",
+    "Canopy walk entry",
+    "Binoculars and field guides; bring your own",
+    "Tips and personal expenses"
+  ],
+  "save_more": [
+    "Join a group of four: the car, park jeep and guide cost the same for two or four people, so your share almost halves.",
+    "Come in late February or March, when birds are active, lodges are quiet and rates are lower than in November.",
+    "Use the WBFDC lodges at Lava and Lolegaon; they sit right on the forest edge, so you walk to good birding without a car."
+  ],
+  "good_to_know": [
+    "Neora Valley closes from mid-June to mid-September, and trails may shut at short notice. Check current status before you travel.",
+    "Sightings are never promised. Red panda and satyr tragopan occur in the park but are rarely seen by visitors.",
+    "Mornings are cold all season, often near freezing at Lava from December to February. Pack layers, gloves and a cap.",
+    "Leeches appear on wet trails in April, May and late September; leech socks and salt help.",
+    "Bring binoculars. Spare pairs are hard to find locally, and a guide's own pair cannot be shared all morning."
+  ],
+  "faqs": [
+    {"q": "When is the best time for birding in Neora Valley", "a": "November to April. Winter, November to February, brings altitudinal migrants down into the forests around Lava and makes flocks easy to find, though mornings are near freezing. March and April add singing birds, flowering rhododendrons and breeding plumage, with more haze and afternoon showers. The park is closed from mid-June to mid-September; check current status before you travel."},
+    {"q": "What birds can we see in Neora Valley", "a": "Common sightings include rufous sibia, chestnut-tailed minla, laughingthrushes, yuhinas, fulvettas, barbets, minivets, sunbirds and Kalij pheasant. With luck and a good guide you may add parrotbills, Darjeeling woodpecker, rusty-fronted barwing or hill partridge. Satyr tragopan lives in the higher forest but is rarely seen. Lists vary with season and weather."},
+    {"q": "Do we need a guide for birding in Neora", "a": "Yes. Inside the national park a forest guide is compulsory with every jeep. A separate bird guide is not compulsory but makes a big difference: local guides know calls, flock routes and where pheasants feed, and they speak with the forest staff. Expect ₹1,500–3,000 a day for an experienced bird guide, indicative 2026."},
+    {"q": "Can we see a red panda on this trip", "a": "It is possible but unlikely. Red pandas live in the higher bamboo and fir forests of Neora Valley, high in the canopy and mostly active at dawn and dusk. Very few visitors see one. We plan quiet early walks in the right habitat, but treat a sighting as luck. The Padmaja Naidu zoo in Darjeeling has a breeding programme if you want a sure view."},
+    {"q": "How fit do we need to be for this birding trip", "a": "Moderately fit. Most birding is slow walking on forest tracks and roads at 1,700–2,600 m, two to four hours at a time, with some steep stretches such as the Changey Falls trail. Early starts are the hardest part. If you have knee trouble, tell us and we will keep you on the roads and skip the steeper trails."},
+    {"q": "Is photography allowed in Neora Valley National Park", "a": "Yes, for personal use, though a camera fee may be charged at the Lava forest office, about ₹100–500 depending on equipment, indicative 2026. Large telephoto lenses are common and accepted. Drones are not allowed. Stay on permitted trails and keep noise low, both for the birds and for other visitors. Check current status before you travel."},
+    {"q": "Can we enter Neora Valley from the Dooars side", "a": "Yes. The park's lower forests can be reached from Samsing in the Dooars, with the WBFDC camp at Mouchuki. That side is warmer and more tropical, with a different set of birds. It pairs well with Gorumara or Lataguri. This trip uses the Lava side, which gives the temperate and higher forest species."},
+    {"q": "What should birders pack for Neora Valley", "a": "Binoculars, a field guide or app for the Indian subcontinent, warm layers including gloves and a cap, a rain jacket, walking shoes with grip, a torch, leech socks from April, a flask and a refillable bottle. Earth-coloured clothes help. Pack spare batteries, because charging can be unreliable in Kolakham and Lolegaon during power cuts."},
+    {"q": "Is this trip suitable for beginners", "a": "Yes. Beginners often enjoy it most, because guides point out common species and explain calls. You do not need to know names in advance. Bring binoculars and patience, and do not worry about a long list. Non-birding partners usually enjoy the forest, villages and canopy walk, and can sleep in on some mornings."}
+  ]
+}
