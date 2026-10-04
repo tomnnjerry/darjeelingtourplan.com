@@ -95,8 +95,10 @@ def home(request):
     fests = [f for f in cat.festivals.values() if (m + 1) in f.get("month_nums", []) or (m + 2) in f.get("month_nums", [])][:3]
     stories = [r for r in regions if r.get("story")][:3]
     facts = [(r, f) for r in regions for f in r.get("did_you_know", [])[:1]][:5]
+    # full-bleed hero photo: Kangchenjunga in alpenglow, from the credited Commons set
+    hero_img = next((i for i in cat.all_images() if "Kanchenjunga Sunrise from Gnathnag" in i["file"]), None)
     return render(request, "hills/home.html", {
-        "regions": regions, "featured": featured[:8], "budget": budget,
+        "hero_img": hero_img, "regions": regions, "featured": featured[:8], "budget": budget,
         "min_price": min((j.get("price_from_inr") or 10 ** 9 for j in cat.journeys.values()), default=0), "month": MONTHS[m], "month_i": m,
         "in_season": in_season, "festivals": fests, "stories": stories, "facts": facts,
         "guides": [g for g in cat.guides.values() if g.get("category") in ("budget", "history")][:3],
