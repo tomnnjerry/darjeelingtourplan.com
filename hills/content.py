@@ -183,6 +183,28 @@ class Catalogue:
             self.guides[d["slug"]] = d
             r["guides"].append(d)
 
+    @staticmethod
+    def _spread(pool, used):
+        """Order `pool` so its first photo is one earlier cards of this kind have used least.
+
+        Cards that share a place (every Gangtok package, every stay in Darjeeling) would
+        otherwise all show the same lead photo."""
+        seen, uniq = set(), []
+        for img in pool:
+            if img and img.get("file") not in seen:
+                seen.add(img.get("file"))
+                uniq.append(img)
+        if not uniq:
+            return []
+        uniq.sort(key=lambda i: 0 if i.get("landscape", True) else 1)  # stable: landscape first
+        best = min(range(len(uniq)), key=lambda k: (used.get(uniq[k].get("file"), 0), k))
+        used[uniq[best].get("file")] = used.get(uniq[best].get("file"), 0) + 1
+        return uniq[best:] + uniq[:best]
+
+    def _place_pool(self, place):
+        """A place's own photos, then those of its experiences."""
+        return list(place["images"]) + [i for e in place.get("experiences", []) for i in self._imgs(f"exp:{e['slug']}")]
+
     def _imgs(self, *keys):
         for k in keys:
             if self.images.get(k):
@@ -216,24 +238,31 @@ class Catalogue:
             r["top_places"] = sorted(r["places"], key=lambda p: (-len(p["journey_objs"]), p["name"]))
             r["images"] = self._imgs(f"region:{r['slug']}") or [
                 i for p in r["top_places"][:6] for i in p["images"][:1]]
+        used_by_place = {}
         for e in self.experiences.values():
             place = self.places[e["place"]]
             e["place_obj"] = place
             e["region_obj"] = place["region_obj"]
-            e["images"] = self._imgs(f"exp:{e['slug']}") or place["images"][1:] or place["images"]
+            own = self._imgs(f"exp:{e['slug']}")
+            e["images"] = own or self._spread(list(place["images"]) + [i for x in place.get("experiences", []) if x is not e for i in self._imgs(f"exp:{x['slug']}")],
+                                              used_by_place.setdefault(e["place"], {}))
             e["themes"] = place.get("themes", [])
+        used_stays = {}
         for s in self.stays.values():
             place = self.places.get(s.get("place"))
             s["place_obj"] = place
             s["region_obj"] = self.regions[s["region"]]
-            s["images"] = self._imgs(f"stay:{s['slug']}") or (place["images"] if place else [])
+            s["images"] = self._imgs(f"stay:{s['slug']}") or (self._spread(self._place_pool(place), used_stays) if place else [])
             s["journey_objs"] = [j for j in self.journeys.values() if s["slug"] in j.get("stays", [])]
+        used_journeys = {}
         for j in self.journeys.values():
             j["region_obj"] = self.regions[j["region"]]
             stops = [dict(st, obj=self.places[st["place"]]) for st in j.get("stops", []) if st["place"] in self.places]
             j["stop_objs"] = stops
-            j["images"] = self._imgs(f"journey:{j['slug']}") or [
-                i for st in stops for i in st["obj"]["images"][:1]]
+            own = self._imgs(f"journey:{j['slug']}")
+            pool = [st["obj"]["images"][k] for k in range(6) for st in stops if k < len(st["obj"]["images"])]
+            pool += [i for st in stops for i in self._place_pool(st["obj"])[6:]]
+            j["images"] = own or self._spread(pool, used_journeys)
             j["stay_objs"] = [self.stays[s] for s in j.get("stays", []) if s in self.stays]
             j["best_label"] = best_range(j.get("best_months"))
             j["bar"] = month_bar(j.get("best_months"))
@@ -245,20 +274,22 @@ class Catalogue:
             j["max_alt"] = max([st["obj"].get("altitude_m") or 0 for st in stops] + [j.get("max_altitude_m") or 0])
             for d in j.get("days", []):
                 d["place_obj"] = self.places.get(d.get("place"))
+        used_guides = {}
         for g in self.guides.values():
             g["region_obj"] = self.regions[g["region"]]
             rel = [self.places[s] for s in g.get("related_places", []) if s in self.places]
             g["related_objs"] = rel
-            g["images"] = self._imgs(f"guide:{g['slug']}") or [i for p in rel for i in p["images"][:1]] or g["region_obj"]["images"]
+            g["images"] = self._imgs(f"guide:{g['slug']}") or self._spread([i for p in rel for i in self._place_pool(p)] or g["region_obj"]["images"], used_guides)
             words = sum(len(" ".join(s.get("paras", []) + s.get("list", [])).split()) for s in g.get("sections", []))
             g["read_min"] = max(3, round(words / 220))
             for s in g.get("sections", []):
                 s["anchor"] = re.sub(r"[^a-z0-9]+", "-", s.get("heading", "").lower()).strip("-")
+        used_fests = {}
         for f in self.festivals.values():
             place = self.places.get(f.get("place"))
             f["place_obj"] = place
             f["region_obj"] = self.regions[f["region"]]
-            f["images"] = self._imgs(f"fest:{f['slug']}") or (place["images"] if place else [])
+            f["images"] = self._imgs(f"fest:{f['slug']}") or (self._spread(self._place_pool(place), used_fests) if place else [])
         for rt in self.routes.values():
             rt["from_obj"] = self.places.get(rt.get("from"))
             rt["to_obj"] = self.places.get(rt.get("to"))
@@ -269,11 +300,12 @@ class Catalogue:
 
     def _link_posts(self):
         from datetime import date
+        used_posts = {}
         for d in self.posts.values():
             d["region_objs"] = [self.regions[r] for r in d.get("regions", []) if r in self.regions]
             d["journey_objs"] = [self.journeys[j] for j in d.get("related_journeys", []) if j in self.journeys]
             d["place_objs"] = [self.places[x] for x in d.get("related_places", []) if x in self.places]
-            d["images"] = (self._imgs(f"blog:{d['slug']}") or [i for x in d["place_objs"] for i in x["images"][:1]])
+            d["images"] = self._imgs(f"blog:{d['slug']}") or self._spread([i for x in d["place_objs"] for i in self._place_pool(x)], used_posts)
             words = sum(len(" ".join(s.get("paras", []) + s.get("list", [])).split()) for s in d.get("sections", []))
             d["read_min"] = max(3, round(words / 220))
             d["cat_slug"] = re.sub(r"[^a-z0-9]+", "-", d.get("category", "").lower()).strip("-")

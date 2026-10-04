@@ -22,18 +22,31 @@
   </svg>
   <div class="hero__veil" aria-hidden="true"></div>
   <div class="hero__now" aria-live="polite"><span>Darjeeling, right now</span><b data-ist>—</b><span class="phase" data-phase>Sky drawn from the real time of day</span><span data-wx="27.04,88.26" hidden><b data-wx-t style="font-size: 18px"></b> <span data-wx-w></span></span></div>
+  <div class="hero__orb" aria-hidden="true"></div>
+  <div class="hero__clouds" aria-hidden="true"><i></i><i></i><i></i></div>
   <div class="wrap hero__in">
-    <p class="eyebrow eyebrow--light">Darjeeling · Sikkim · Bhutan · Dooars</p>
-    <h1 class="h-hero" id="hero-h">The hills, planned well and priced fairly</h1>
+    <p class="hero__kicker"><span class="hero__live" aria-hidden="true"></span>Darjeeling · Sikkim · Bhutan · Dooars</p>
+    <h1 class="h-hero" id="hero-h">The hills, planned <span class="hero__hl">well</span> and priced <span class="hero__hl">fairly</span></h1>
     <p class="lede">From the plains at Siliguri to the snowline: shared jeep or private car, homestay or heritage hotel, every trip priced three ways. And the stories behind each stop, told by people who know them.</p>
     <form class="finder" action="{% url 'plan' %}" method="get" data-cta-form="hero-finder">
-      <label><span>Where</span><select name="land"><option value="">Anywhere in the hills</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
-      <label><span>When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
-      <label><span>Budget per person</span><select name="budget"><option value="">Not sure</option><option value="under-15k">Under ₹15,000</option><option value="15-25k">₹15,000 – 25,000</option><option value="25-50k">₹25,000 – 50,000</option><option value="50k-plus">Above ₹50,000</option></select></label>
+      <label><span>{% icon "pin" %}Where</span><select name="land"><option value="">Anywhere in the hills</option>{% for r in regions %}<option value="{{ r.slug }}">{{ r.name }}</option>{% endfor %}</select></label>
+      <label><span>{% icon "calendar" %}When</span><select name="month"><option value="">Flexible</option>{% for m in months_full %}<option{% if forloop.counter0 == month_i %} selected{% endif %}>{{ m }}</option>{% endfor %}</select></label>
+      <label><span>{% icon "rupee" %}Budget per person</span><select name="budget"><option value="">Not sure</option><option value="under-15k">Under ₹15,000</option><option value="15-25k">₹15,000 – 25,000</option><option value="25-50k">₹25,000 – 50,000</option><option value="50k-plus">Above ₹50,000</option></select></label>
       <input type="hidden" name="from" value="/">
       <button class="btn" type="submit" data-cta="hero-finder">Get my free plan</button>
     </form>
+    <ul class="hero__proof">
+      <li>{% icon "ticket" %}<span>Packages from <b>{{ min_price|inr }}</b></span></li>
+      <li>{% icon "check" %}<span><b>No payment</b> to start</span></li>
+      <li>{% icon "chat" %}<span>Reply within <b>1 working day</b></span></li>
+      <li>{% icon "shield" %}<span>Permits <b>arranged</b></span></li>
+    </ul>
+    <nav class="hero__lands" aria-label="Choose a land">
+      <span class="hero__lands-label">Start from</span>
+      {% for r in regions %}<a href="{{ r.url }}" data-land="{{ r.slug }}"><i>{% icon r.slug %}</i>{{ r.short }}<small>{{ r.alt|intcomma_in }} m</small></a>{% endfor %}
+    </nav>
   </div>
+  <a class="hero__cue" href="#lands-h" aria-label="Scroll to the seven lands"><span>Scroll to climb</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></a>
 </section>
 
 <section class="sec" aria-labelledby="lands-h">
