@@ -16,7 +16,8 @@ def _asset_version():
 
 def site(request):
     cat = catalogue()
-    S = settings.SITE
+    # details still in [square brackets] are not shown to visitors
+    S = {k: ("" if isinstance(v, str) and v.startswith("[") else v) for k, v in settings.SITE.items()}
     regions = list(cat.regions.values())
     phone_digits = re.sub(r"\D", "", S.get("phone", ""))
     wa = re.sub(r"\D", "", S.get("whatsapp", ""))

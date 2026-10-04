@@ -42,7 +42,7 @@ python tools/smoke.py                            # renders every URL in the site
 | `DJANGO_SECRET_KEY` | Required in production |
 | `DJANGO_DEBUG` | `0` in production |
 | `DJANGO_ALLOWED_HOSTS` | Comma-separated host names |
-| `DTP_EMAIL`, `DTP_PHONE`, `DTP_WHATSAPP` | Contact details shown site-wide (WhatsApp: digits with country code) |
+| `DTP_EMAIL`, `DTP_PHONE`, `DTP_WHATSAPP` | Contact details shown site-wide. Defaults: hello@darjeelingtourplan.com, +91 99546 34102 and WhatsApp 919954634102 (digits with country code) |
 | `DTP_GA4` | Optional Google Analytics 4 ID |
 | `DTP_HASHED_STATIC` | `1` after `collectstatic` for cache-busting file names |
 
@@ -50,8 +50,8 @@ python tools/smoke.py                            # renders every URL in the site
 
 Placeholders in square brackets still need real business details:
 
-- `dtp/settings.py` → `SITE["address"]` and `SITE["hours"]` (email/phone come from the env vars above).
-- `templates/hills/about.html` → legal name, tourism registration number, GSTIN.
+- `dtp/settings.py` → `SITE["address"]` and `SITE["hours"]`. Anything still in `[square brackets]` is hidden from visitors until you fill it in.
+- `templates/hills/about.html` → add legal name, tourism registration number and GSTIN rows (see the comment in the file).
 - `hills/policies.py` → deposit and cancellation percentages, payment methods and gateway, complaints email,
   court city, and the other `[…]` values. Have these terms reviewed before taking bookings.
 - `templates/hills/how_we_work.html` → deposit and balance terms (keep in line with the policies).

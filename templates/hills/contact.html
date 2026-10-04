@@ -9,7 +9,7 @@
 <section class="wrap" style="padding-bottom: 40px"><div class="grid grid--3">
   <a class="panel panel--dark ccard" href="{% url 'plan' %}?from=/contact/" data-cta="contact-plan"><span class="eyebrow">Plan online</span><b class="h-s">Six questions</b><span>A first route and price within one working day.</span></a>
   {% if wa_base %}<a class="panel panel--line ccard" href="{{ wa_base }}?text={{ wa_text }}" data-cta="contact-whatsapp"><span class="eyebrow">WhatsApp</span><b class="h-s">Message a planner</b><span>Usually the fastest way to a quick answer.</span></a>{% endif %}
-  <a class="panel panel--line ccard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="contact-direct"><span class="eyebrow">{% if tel %}Call{% else %}Email{% endif %}</span><b class="h-s">{% if tel %}{{ SITE.phone }}{% else %}{{ SITE.email }}{% endif %}</b><span>{{ SITE.hours }}</span></a>
+  <a class="panel panel--line ccard" href="{% if tel %}tel:{{ tel }}{% else %}mailto:{{ SITE.email }}{% endif %}" data-cta="contact-direct"><span class="eyebrow">{% if tel %}Call{% else %}Email{% endif %}</span><b class="h-s">{% if tel %}{{ SITE.phone }}{% else %}{{ SITE.email }}{% endif %}</b><span>{% if SITE.hours %}{{ SITE.hours }}{% else %}A planner replies within one working day{% endif %}</span></a>
 </div></section>
 <section class="sec--tight" id="callback"><div class="wrap split">
   <div class="split__main">
@@ -17,10 +17,10 @@
   </div>
   <aside class="split__aside">
     <div class="panel panel--line"><h2 class="h-s" style="margin-bottom: 12px">Office</h2><div class="ledger">
-      <div class="ledger__row"><span>Address</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div>
+      {% if SITE.address %}<div class="ledger__row"><span>Address</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div>{% endif %}
       <div class="ledger__row"><span>Email</span><span class="ledger__dots"></span><b><a href="mailto:{{ SITE.email }}">{{ SITE.email }}</a></b></div>
       <div class="ledger__row"><span>Phone</span><span class="ledger__dots"></span><b>{{ SITE.phone }}</b></div>
-      <div class="ledger__row"><span>Hours</span><span class="ledger__dots"></span><b>{{ SITE.hours }}</b></div></div></div>
+      {% if SITE.hours %}<div class="ledger__row"><span>Hours</span><span class="ledger__dots"></span><b>{{ SITE.hours }}</b></div>{% endif %}</div></div>
     {% include "hills/partials/trust.html" %}
   </aside>
 </div></section>

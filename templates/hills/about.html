@@ -13,11 +13,10 @@
       <li>You tell us the dates, who is travelling and roughly what you want to spend.</li><li>We send a first route with named hotels and an indicative price.</li>
       <li>We refine it together: rooms, pace, vehicle, permits and where to save.</li><li>You book with a deposit; we confirm every service in writing.</li>
       <li>On the road, your planner is a message away.</li></ol></div>
-    <div class="block"><p class="eyebrow">Company details</p><div class="ledger">
-      <div class="ledger__row"><span>Registered name</span><span class="ledger__dots"></span><b>[LEGAL NAME]</b></div>
-      <div class="ledger__row"><span>Tourism registration</span><span class="ledger__dots"></span><b>[REGISTRATION NO.]</b></div>
-      <div class="ledger__row"><span>GSTIN</span><span class="ledger__dots"></span><b>[GSTIN]</b></div>
-      <div class="ledger__row"><span>Office</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div></div></div>
+    {% if SITE.address %}<div class="block"><p class="eyebrow">Company details</p><div class="ledger">
+      <div class="ledger__row"><span>Office</span><span class="ledger__dots"></span><b>{{ SITE.address }}</b></div>
+      <div class="ledger__row"><span>Email</span><span class="ledger__dots"></span><b>{{ SITE.email }}</b></div></div></div>{% endif %}
+    {# Add before launch: registered name, tourism registration number and GSTIN rows to the ledger above. #}
   </div>
   <aside class="split__aside"><div class="panel panel--dark"><h2 class="h-s">What you can count on</h2><div class="stats" style="grid-template-columns: 1fr 1fr">
       <div class="stat"><b>{{ counts.regions }}</b><span>lands</span></div><div class="stat"><b>{{ counts.places }}</b><span>places written up</span></div>
