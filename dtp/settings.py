@@ -69,9 +69,9 @@ CONTENT_DIR = BASE_DIR / "content"
 SITE = {
     "name": "Darjeeling Tour Plan",
     "url": "https://darjeelingtourplan.com",
-    "email": os.environ.get("DTP_EMAIL", "[YOUR EMAIL]"),
-    "phone": os.environ.get("DTP_PHONE", "[YOUR PHONE]"),
-    "whatsapp": os.environ.get("DTP_WHATSAPP", ""),  # digits with country code, e.g. 919800000000
+    "email": os.environ.get("DTP_EMAIL", "hello@darjeelingtourplan.com"),
+    "phone": os.environ.get("DTP_PHONE", "+91 99546 34102"),
+    "whatsapp": os.environ.get("DTP_WHATSAPP", "919954634102"),  # digits with country code, e.g. 919800000000
     "address": "[YOUR OFFICE ADDRESS, e.g. Siliguri or Darjeeling]",
     "byline": "Darjeeling Tour Plan Desk",
     "hours": "[Office hours, e.g. 9 am – 8 pm IST, every day]",
