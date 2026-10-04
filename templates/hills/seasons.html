@@ -1,6 +1,6 @@
 {% extends "hills/base.html" %}{% load hills %}
 {% block title %}Season almanac: the best month for each of the seven lands · Darjeeling Tour Plan{% endblock %}
-{% block description %}When to visit Nepal, Rajasthan, Ladakh, North East India, Kerala, Goa and UP &amp; Bihar, month by month, with weather and where to go.{% endblock %}
+{% block description %}When to visit Darjeeling, Kalimpong, Sikkim, Bhutan and the Dooars, month by month, with weather, prices and where to go.{% endblock %}
 {% block mast_class %}mast--dark{% endblock %}
 {% block crumbs %}{% endblock %}
 {% block content %}
@@ -17,7 +17,8 @@
   </div>
 </section>
 <section class="sec"><div class="wrap">
-  {% for m in months %}<div class="day"><div class="day__n" style="font-size: 32px">{{ m }}</div><div class="chip-row">
-    {% for r in regions %}<a class="chip" style="--tint: {{ r.tint }}; --deep: {{ r.deep }}; font-size: 12px; padding: 10px 16px" href="{% url 'region_month' r.slug m|lower %}">{{ r.name }} in {{ m }}</a>{% endfor %}</div></div>{% endfor %}
+  <div class="sec-head"><div><p class="eyebrow">Month by month</p><h2 class="h-l">Read a land in a month</h2></div></div>
+  <div class="toc">{% for m in months %}<div class="toc__row" style="grid-template-columns: 160px minmax(0, 1fr)"><b>{{ m }}</b><div class="chip-row">
+    {% for r in regions %}<a class="chip chip--land" data-land="{{ r.slug }}" style="font-size: 12px; padding: 9px 14px" href="{% url 'region_month' r.slug m|lower %}">{{ r.short }} in {{ m }}</a>{% endfor %}</div></div>{% endfor %}</div>
 </div></section>
 {% endblock %}

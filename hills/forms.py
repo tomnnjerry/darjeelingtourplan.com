@@ -18,9 +18,9 @@ class EnquiryForm(forms.ModelForm):
             "kind": forms.HiddenInput,
             "contact_pref": forms.RadioSelect,
             "budget": forms.Select(choices=[
-                ("", "Choose a range"), ("under-3l", "Under ₹3,00,000 per person"),
-                ("3-6l", "₹3,00,000 – 6,00,000 per person"), ("6-10l", "₹6,00,000 – 10,00,000 per person"),
-                ("10l-plus", "Above ₹10,00,000 per person"), ("unsure", "Not sure yet")]),
+                ("", "Choose a range"), ("under-15k", "Under ₹15,000 per person"),
+                ("15-25k", "₹15,000 – 25,000 per person"), ("25-50k", "₹25,000 – 50,000 per person"),
+                ("50k-plus", "Above ₹50,000 per person"), ("unsure", "Not sure yet")]),
         }
         labels = {"phone": "Phone or WhatsApp", "nights": "Nights (roughly)", "message": "Tell us about the journey"}
 

@@ -2,12 +2,14 @@
 import os, sys, re
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "dtp.settings")
+# DEBUG error pages render the whole catalogue into the traceback and take minutes; report errors directly instead
+os.environ["DJANGO_DEBUG"] = "0"
 import django; django.setup()
 from django.conf import settings
 settings.ALLOWED_HOSTS = ["*"]
 from django.test import Client
 from hills.sitemaps import SITEMAPS
-c = Client()
+c = Client(raise_request_exception=True)
 urls = []
 for cls in SITEMAPS.values():
     sm = cls()

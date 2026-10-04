@@ -1,11 +1,11 @@
 {% extends "hills/base.html" %}{% load hills %}
-{% block title %}The seven lands: Nepal, Rajasthan, Ladakh, North East, Kerala, Goa, UP &amp; Bihar · Darjeeling Tour Plan{% endblock %}
+{% block title %}The seven lands: Darjeeling, Kalimpong, Gangtok, North and West Sikkim, Bhutan, Dooars · Darjeeling Tour Plan{% endblock %}
 {% block content %}
 <header class="phead wrap phead--plain"><div class="phead__text" style="margin-top: 32px">
   <p class="eyebrow">The seven lands</p><h1 class="h-hero">Seven <span class="accent">tales</span></h1>
   <p class="lede">We work in seven regions and nowhere else. Each one has its own seasons, permits and pace; start with the one that fits your month.</p></div></header>
 {% for r in regions %}
-<section class="sec--tight" style="--tint: {{ r.tint }}; --deep: {{ r.deep }}; border-top: 1px solid var(--line)">
+<section class="sec--tight" data-land="{{ r.slug }}" style="border-top: 1px solid var(--line)">
   <div class="wrap phead__grid" style="align-items: center">
     <a href="{{ r.url }}" style="text-decoration: none">{% photo r|first_img alt=r.name cls="arch ratio-wide rv-arch" sizes="(max-width: 900px) 100vw, 55vw" %}</a>
     <div class="block">
