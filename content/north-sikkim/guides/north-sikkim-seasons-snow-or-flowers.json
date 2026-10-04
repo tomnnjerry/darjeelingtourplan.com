@@ -19,15 +19,55 @@
         "This table summarises what usually happens. Every year is a little different: a late snowfall can push flowers back by two weeks, and an early monsoon can close roads in May."
       ],
       "table": {
-        "head": ["Months", "Lachung and Yumthang", "Lachen and Gurudongmar", "Our verdict"],
+        "head": [
+          "Months",
+          "Lachung and Yumthang",
+          "Lachen and Gurudongmar",
+          "Our verdict"
+        ],
         "rows": [
-          ["Jan – Feb", "Snow in the village and on the Yumthang road; −8 to 7 °C in Lachung", "Often closed by snow; lake frozen", "Best for snow, Lachung only"],
-          ["Mar", "Snow at Yumthang, melting in the village; first low rhododendrons late in the month", "Road tested and reopened; lake still frozen", "Snow and clear mornings"],
-          ["Apr – May", "Shingba sanctuary flowers from late April through May; snow on the peaks", "Usually open; lake thaws at the edges by late May", "Best for flowers; busiest and dearest"],
-          ["Jun – Aug", "Monsoon rain, slides, permits often suspended", "Often closed", "Avoid"],
-          ["Sep", "Reopening, green meadows, rain easing late", "Reopening, repair works", "Last ten days only"],
-          ["Oct – Nov", "Clear, dry, autumn colour on maples and larches", "Open; lake starts to freeze in late November", "Best for views and both valleys"],
-          ["Dec", "First proper snow; Zero Point often closed from mid-month", "Often closed after snow", "Snow begins; New Year is dear"]
+          [
+            "Jan – Feb",
+            "Snow in the village and on the Yumthang road; −8 to 7 °C in Lachung",
+            "Often closed by snow; lake frozen",
+            "Best for snow, Lachung only"
+          ],
+          [
+            "Mar",
+            "Snow at Yumthang, melting in the village; first low rhododendrons late in the month",
+            "Road tested and reopened; lake still frozen",
+            "Snow and clear mornings"
+          ],
+          [
+            "Apr – May",
+            "Shingba sanctuary flowers from late April through May; snow on the peaks",
+            "Usually open; lake thaws at the edges by late May",
+            "Best for flowers; busiest and dearest"
+          ],
+          [
+            "Jun – Aug",
+            "Monsoon rain, slides, permits often suspended",
+            "Often closed",
+            "Avoid"
+          ],
+          [
+            "Sep",
+            "Reopening, green meadows, rain easing late",
+            "Reopening, repair works",
+            "Last ten days only"
+          ],
+          [
+            "Oct – Nov",
+            "Clear, dry, autumn colour on maples and larches",
+            "Open; lake starts to freeze in late November",
+            "Best for views and both valleys"
+          ],
+          [
+            "Dec",
+            "First proper snow; Zero Point often closed from mid-month",
+            "Often closed after snow",
+            "Snow begins; New Year is dear"
+          ]
         ]
       }
     },
@@ -60,6 +100,13 @@
       ]
     },
     {
+      "heading": "What each season costs",
+      "paras": [
+        "Season changes the price as much as the view. In May, Puja week and Christmas to New Year, Lachung hotels charge their highest rates, group seats sell out days ahead and private cars cost more. A one-night Lachung group package that costs about ₹3,500 in January can cost ₹5,500 or more in mid-May, indicative 2026, and comfort hotels such as Le Coxy Resort sit at the top of their ₹4,500–8,000 range.",
+        "The cheapest working months are January and February outside New Year, the first half of March and the second half of November. Winter adds small costs, such as heater charges and boot hire, but saves far more on rooms. September is discounted too, as hotels restart after the monsoon, but road risk is the hidden cost. Whatever the month, keep a buffer day and refundable bookings, because a single closure can wipe out every saving."
+      ]
+    },
+    {
       "heading": "So, snow or flowers",
       "paras": [
         "Match the season to the people travelling, not to the photographs you have seen. A short guide:"
@@ -74,16 +121,50 @@
       ]
     }
   ],
-  "related_places": ["lachung", "yumthang-valley", "shingba-rhododendron-sanctuary", "zero-point", "lachen", "gurudongmar-lake"],
+  "related_places": [
+    "lachung",
+    "yumthang-valley",
+    "shingba-rhododendron-sanctuary",
+    "zero-point",
+    "lachen",
+    "gurudongmar-lake"
+  ],
   "faqs": [
-    {"q": "What is the best time to visit North Sikkim", "a": "October and November for clear skies and both valleys open, late April and May for rhododendrons at Yumthang, and December to March for snow at Lachung. Avoid June to August, when landslides close roads and permits are often suspended. September is a reopening month; aim for its last ten days. Check current status before you travel in any season."},
-    {"q": "When can I see snow in North Sikkim", "a": "Snow usually lies at Lachung and on the Yumthang road from about late December to early March, with January and February the most reliable. Yumthang often keeps snow into late March. Zero Point has snow for most of the year but is commonly closed from mid-December. No date is guaranteed, and fresh falls can close roads for a day or two."},
-    {"q": "When do rhododendrons bloom in Yumthang", "a": "From late April through May, with lower species first and higher species later. Exact timing shifts by a week or two with winter snow and spring temperatures. The last week of April to the second week of May is usually a good window. Start early, because cloud fills the valley by late morning in spring."},
-    {"q": "Is Gurudongmar Lake frozen in winter", "a": "Usually, yes. The lake normally starts to freeze from the edges in November and is frozen over from about late November to April, thawing at the edges by late May. In winter the Lachen road is also often closed by snow, so a frozen-lake visit is uncertain. Late November and late March offer the best chance. Check current status before you travel."},
-    {"q": "Can I visit North Sikkim in the monsoon", "a": "It is not advisable. From June to August, landslides frequently close the roads to Lachung and Lachen and permits are often suspended for weeks, as happened in 2025. If you are in Sikkim then, visit permit-free places on the lower highway such as Kabi Lungchok, Phodong and Mangan instead. Check current status before you travel."},
-    {"q": "Is October good for North Sikkim", "a": "Yes, it is one of the best months. Skies are clearest after the monsoon, Gurudongmar is open and not yet frozen, and the maples and larches above Lachung begin to turn. Durga Puja and Diwali bring crowds and higher prices, so book early or travel just after the holidays. Nights fall to near zero in Lachung."},
-    {"q": "How cold is Lachung in each season", "a": "Roughly −8 to 5 °C in January, 2 to 15 °C in April, 10 to 19 °C in July and 3 to 15 °C in October, indicative ranges. Yumthang is colder, and Gurudongmar is well below freezing at dawn for much of the year. Pack layers in every season, with a down jacket from October to April."},
-    {"q": "Can I see snow and rhododendrons on the same trip", "a": "Sometimes, in a narrow window. In the last ten days of March or early April, snow often remains at Yumthang and on the peaks while the first rhododendrons open lower in the valley. You will not get peak flowers and deep snow together. In May, snow is usually only on the peaks and at Zero Point, if it is open."},
-    {"q": "Which month is cheapest for North Sikkim", "a": "July and August are cheapest but unreliable. For a working trip at low prices, choose January and February outside New Year, early March or the second half of November. May, Puja week in October and Christmas to New Year are the most expensive, with Lachung hotels often full and group seats booked ahead."}
+    {
+      "q": "What is the best time to visit North Sikkim",
+      "a": "October and November for clear skies and both valleys open, late April and May for rhododendrons at Yumthang, and December to March for snow at Lachung. Avoid June to August, when landslides close roads and permits are often suspended. September is a reopening month; aim for its last ten days. Check current status before you travel in any season."
+    },
+    {
+      "q": "When can I see snow in North Sikkim",
+      "a": "Snow usually lies at Lachung and on the Yumthang road from about late December to early March, with January and February the most reliable. Yumthang often keeps snow into late March. Zero Point has snow for most of the year but is commonly closed from mid-December. No date is guaranteed, and fresh falls can close roads for a day or two."
+    },
+    {
+      "q": "When do rhododendrons bloom in Yumthang",
+      "a": "From late April through May, with lower species first and higher species later. Exact timing shifts by a week or two with winter snow and spring temperatures. The last week of April to the second week of May is usually a good window. Start early, because cloud fills the valley by late morning in spring."
+    },
+    {
+      "q": "Is Gurudongmar Lake frozen in winter",
+      "a": "Usually, yes. The lake normally starts to freeze from the edges in November and is frozen over from about late November to April, thawing at the edges by late May. In winter the Lachen road is also often closed by snow, so a frozen-lake visit is uncertain. Late November and late March offer the best chance. Check current status before you travel."
+    },
+    {
+      "q": "Can I visit North Sikkim in the monsoon",
+      "a": "It is not advisable. From June to August, landslides frequently close the roads to Lachung and Lachen and permits are often suspended for weeks, as happened in 2025. If you are in Sikkim then, visit permit-free places on the lower highway such as Kabi Lungchok, Phodong and Mangan instead. Check current status before you travel."
+    },
+    {
+      "q": "Is October good for North Sikkim",
+      "a": "Yes, it is one of the best months. Skies are clearest after the monsoon, Gurudongmar is open and not yet frozen, and the maples and larches above Lachung begin to turn. Durga Puja and Diwali bring crowds and higher prices, so book early or travel just after the holidays. Nights fall to near zero in Lachung."
+    },
+    {
+      "q": "How cold is Lachung in each season",
+      "a": "Roughly −8 to 5 °C in January, 2 to 15 °C in April, 10 to 19 °C in July and 3 to 15 °C in October, indicative ranges. Yumthang is colder, and Gurudongmar is well below freezing at dawn for much of the year. Pack layers in every season, with a down jacket from October to April."
+    },
+    {
+      "q": "Can I see snow and rhododendrons on the same trip",
+      "a": "Sometimes, in a narrow window. In the last ten days of March or early April, snow often remains at Yumthang and on the peaks while the first rhododendrons open lower in the valley. You will not get peak flowers and deep snow together. In May, snow is usually only on the peaks and at Zero Point, if it is open."
+    },
+    {
+      "q": "Which month is cheapest for North Sikkim",
+      "a": "July and August are cheapest but unreliable. For a working trip at low prices, choose January and February outside New Year, early March or the second half of November. May, Puja week in October and Christmas to New Year are the most expensive, with Lachung hotels often full and group seats booked ahead."
+    }
   ]
 }

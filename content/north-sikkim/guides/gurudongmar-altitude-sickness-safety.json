@@ -20,12 +20,32 @@
         "The table below is a simple guide, not a medical manual. The rule that matters most is this: symptoms that get worse as you go higher, or that do not improve with rest, mean going down at once. Do not wait for them to pass at the lake."
       ],
       "table": {
-        "head": ["Condition", "Typical signs", "What to do"],
+        "head": [
+          "Condition",
+          "Typical signs",
+          "What to do"
+        ],
         "rows": [
-          ["Mild AMS", "Headache, nausea, tiredness, dizziness, poor appetite", "Stop climbing, rest, drink water, take a simple painkiller; do not go higher if it worsens"],
-          ["Severe AMS", "Headache not eased by painkillers, vomiting, marked weakness", "Turn back and descend now"],
-          ["HACE (brain swelling)", "Confusion, unusual behaviour, drowsiness, stumbling, cannot walk heel to toe", "Emergency: descend immediately and seek medical help at Thangu or lower"],
-          ["HAPE (fluid in the lungs)", "Breathless at rest, wet cough, frothy or pink sputum, blue lips, chest tightness", "Emergency: descend immediately and seek medical help"]
+          [
+            "Mild AMS",
+            "Headache, nausea, tiredness, dizziness, poor appetite",
+            "Stop climbing, rest, drink water, take a simple painkiller; do not go higher if it worsens"
+          ],
+          [
+            "Severe AMS",
+            "Headache not eased by painkillers, vomiting, marked weakness",
+            "Turn back and descend now"
+          ],
+          [
+            "HACE (brain swelling)",
+            "Confusion, unusual behaviour, drowsiness, stumbling, cannot walk heel to toe",
+            "Emergency: descend immediately and seek medical help at Thangu or lower"
+          ],
+          [
+            "HAPE (fluid in the lungs)",
+            "Breathless at rest, wet cough, frothy or pink sputum, blue lips, chest tightness",
+            "Emergency: descend immediately and seek medical help"
+          ]
         ]
       }
     },
@@ -60,6 +80,23 @@
       ]
     },
     {
+      "heading": "What to pack for the Gurudongmar day",
+      "paras": [
+        "Pack the night before in Lachen, because you will leave in the dark and half asleep. Keep one small bag on your lap in the car with everything you need for the lake, and leave the big luggage in the boot for the drive on to Lachung. Buy what you lack in Gangtok, where prices are lower than in Lachen or at the Thangu stalls."
+      ],
+      "list": [
+        "Thermal inner top and leggings, a fleece and a down or padded jacket.",
+        "A windproof outer layer, a woollen cap that covers the ears, and warm gloves.",
+        "Two pairs of woollen socks and shoes with a good grip for icy patches.",
+        "Sunglasses, sunscreen and lip balm; the light is strong at 5,430 m.",
+        "A refillable bottle and a flask of warm water from your hotel filter.",
+        "Packed breakfast, dry fruit and chocolate for energy on the way.",
+        "Regular medicines, prescriptions, painkillers, anti-nausea tablets and oral rehydration salts.",
+        "Original photo ID for the checkposts and a little cash for tea at Thangu.",
+        "A plastic bag to carry all rubbish back down; nothing should be left at the lake."
+      ]
+    },
+    {
       "heading": "If someone becomes ill",
       "paras": [
         "The treatment for serious altitude sickness is descent, and descent works fast: dropping even 500–1,000 m often brings rapid relief. Tell the driver immediately and start down. Do not wait for the rest of the group to finish photographs. A private car makes this easier, which is one reason we suggest one for families with older members.",
@@ -67,16 +104,49 @@
       ]
     }
   ],
-  "related_places": ["gurudongmar-lake", "lachen", "thangu", "lachung", "yumthang-valley"],
+  "related_places": [
+    "gurudongmar-lake",
+    "lachen",
+    "thangu",
+    "lachung",
+    "yumthang-valley"
+  ],
   "faqs": [
-    {"q": "How high is Gurudongmar Lake", "a": "The Government of Sikkim gives the height as 5,430 m, about 17,800 feet, though some sources quote slightly different figures. It is among the highest lakes in the world that tourists can reach by road. Most visitors climb to it from Lachen, at about 2,750 m, in a single morning and return to sleep lower the same day."},
-    {"q": "Is Gurudongmar safe for senior citizens", "a": "Many healthy seniors visit safely, but the risk rises with age and health problems. Anyone with heart or lung disease or uncontrolled blood pressure should see a doctor first and may be advised not to go. Add a second night in Lachen to acclimatise, use a private car so you can turn back at any time, and keep the lake visit to 20–30 minutes."},
-    {"q": "Can children go to Gurudongmar Lake", "a": "Operators usually will not take children under five, and we agree: small children cannot explain symptoms and can become ill quickly at 5,430 m. Older children who are well, warm and drinking water usually manage a short visit. Watch for unusual quietness, crying, vomiting or drowsiness, and turn back at once if you see them."},
-    {"q": "What are the signs of altitude sickness at Gurudongmar", "a": "Headache, nausea, poor appetite, dizziness and tiredness are the common signs of mild acute mountain sickness. Danger signs are a severe headache that painkillers do not ease, repeated vomiting, confusion, stumbling, breathlessness at rest or a wet cough. Any danger sign means descending immediately and seeking medical help at Thangu or lower."},
-    {"q": "Should I take Diamox for Gurudongmar", "a": "Acetazolamide, sold as Diamox, can help prevent acute mountain sickness, but it is a prescription medicine with side effects and is unsuitable for some people, including those allergic to sulpha drugs. Ask your own doctor well before the trip. It is no substitute for a night in Lachen, steady water intake and a short stay at the lake."},
-    {"q": "Do oxygen cans help at Gurudongmar", "a": "Only a little. Portable oxygen cans sold in Gangtok for about ₹500–900, indicative 2026, hold a few minutes of oxygen and can ease breathlessness briefly. They do not treat altitude sickness. If someone has severe symptoms, the answer is to go down at once, not to keep spraying oxygen at the lake."},
-    {"q": "How long can I stay at Gurudongmar Lake", "a": "We advise 20–30 minutes at the shore, walking slowly. Army staff may also limit time at the lake. Longer stays increase the risk of symptoms without adding much to the experience. Take your photographs, offer a prayer if you wish and head back down to Thangu and Lachen, where most people feel better quickly."},
-    {"q": "How cold is it at Gurudongmar", "a": "Very cold for much of the year. Dawn temperatures on the plateau are well below freezing, and the wind makes it feel colder. The lake is usually frozen from about late November to April. Even in May and October you need thermals, a down or padded jacket, a windproof shell, a cap, gloves and warm socks."},
-    {"q": "Is there a hospital near Gurudongmar Lake", "a": "No. The Indian Army has medical posts in the area, including at Thangu, which have helped many tourists. Proper hospital care is in Mangan and Gangtok, several hours' drive away. That is why prevention matters: acclimatise in Lachen, turn back early if anyone is unwell and carry insurance that covers high-altitude sightseeing."}
+    {
+      "q": "How high is Gurudongmar Lake",
+      "a": "The Government of Sikkim gives the height as 5,430 m, about 17,800 feet, though some sources quote slightly different figures. It is among the highest lakes in the world that tourists can reach by road. Most visitors climb to it from Lachen, at about 2,750 m, in a single morning and return to sleep lower the same day."
+    },
+    {
+      "q": "Is Gurudongmar safe for senior citizens",
+      "a": "Many healthy seniors visit safely, but the risk rises with age and health problems. Anyone with heart or lung disease or uncontrolled blood pressure should see a doctor first and may be advised not to go. Add a second night in Lachen to acclimatise, use a private car so you can turn back at any time, and keep the lake visit to 20–30 minutes."
+    },
+    {
+      "q": "Can children go to Gurudongmar Lake",
+      "a": "Operators usually will not take children under five, and we agree: small children cannot explain symptoms and can become ill quickly at 5,430 m. Older children who are well, warm and drinking water usually manage a short visit. Watch for unusual quietness, crying, vomiting or drowsiness, and turn back at once if you see them."
+    },
+    {
+      "q": "What are the signs of altitude sickness at Gurudongmar",
+      "a": "Headache, nausea, poor appetite, dizziness and tiredness are the common signs of mild acute mountain sickness. Danger signs are a severe headache that painkillers do not ease, repeated vomiting, confusion, stumbling, breathlessness at rest or a wet cough. Any danger sign means descending immediately and seeking medical help at Thangu or lower."
+    },
+    {
+      "q": "Should I take Diamox for Gurudongmar",
+      "a": "Acetazolamide, sold as Diamox, can help prevent acute mountain sickness, but it is a prescription medicine with side effects and is unsuitable for some people, including those allergic to sulpha drugs. Ask your own doctor well before the trip. It is no substitute for a night in Lachen, steady water intake and a short stay at the lake."
+    },
+    {
+      "q": "Do oxygen cans help at Gurudongmar",
+      "a": "Only a little. Portable oxygen cans sold in Gangtok for about ₹500–900, indicative 2026, hold a few minutes of oxygen and can ease breathlessness briefly. They do not treat altitude sickness. If someone has severe symptoms, the answer is to go down at once, not to keep spraying oxygen at the lake."
+    },
+    {
+      "q": "How long can I stay at Gurudongmar Lake",
+      "a": "We advise 20–30 minutes at the shore, walking slowly. Army staff may also limit time at the lake. Longer stays increase the risk of symptoms without adding much to the experience. Take your photographs, offer a prayer if you wish and head back down to Thangu and Lachen, where most people feel better quickly."
+    },
+    {
+      "q": "How cold is it at Gurudongmar",
+      "a": "Very cold for much of the year. Dawn temperatures on the plateau are well below freezing, and the wind makes it feel colder. The lake is usually frozen from about late November to April. Even in May and October you need thermals, a down or padded jacket, a windproof shell, a cap, gloves and warm socks."
+    },
+    {
+      "q": "Is there a hospital near Gurudongmar Lake",
+      "a": "No. The Indian Army has medical posts in the area, including at Thangu, which have helped many tourists. Proper hospital care is in Mangan and Gangtok, several hours' drive away. That is why prevention matters: acclimatise in Lachen, turn back early if anyone is unwell and carry insurance that covers high-altitude sightseeing."
+    }
   ]
 }
