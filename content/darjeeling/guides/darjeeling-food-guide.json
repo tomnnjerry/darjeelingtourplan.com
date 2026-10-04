@@ -20,17 +20,57 @@
         "These are the dishes worth looking for, with indicative 2026 prices at ordinary eateries. Cafes on Chowrasta and the Mall charge more; the small places below Nehru Road and around Chowk Bazaar charge less."
       ],
       "table": {
-        "head": ["Dish", "What it is", "Typical price"],
+        "head": [
+          "Dish",
+          "What it is",
+          "Typical price"
+        ],
         "rows": [
-          ["Momo", "Steamed or fried dumplings, veg, chicken or pork, with chilli sauce and soup", "₹60–150 a plate"],
-          ["Thukpa", "Tibetan noodle soup with vegetables or meat", "₹80–180"],
-          ["Thenthuk", "Soup with hand-pulled flat noodles", "₹100–180"],
-          ["Shapale", "Tibetan fried bread stuffed with spiced meat", "₹40–80 each"],
-          ["Sel roti", "Ring-shaped fried rice-flour bread, slightly sweet", "₹15–30 each"],
-          ["Aloo dum", "Spicy potato curry, a street breakfast", "₹30–60"],
-          ["Gundruk soup", "Fermented dried leafy greens in a sour broth", "₹50–100"],
-          ["Kinema curry", "Fermented soybean cooked with onion and chilli", "₹60–120"],
-          ["Nepali thali", "Rice, dal, vegetable, pickle, often gundruk or meat", "₹120–300"]
+          [
+            "Momo",
+            "Steamed or fried dumplings, veg, chicken or pork, with chilli sauce and soup",
+            "₹60–150 a plate"
+          ],
+          [
+            "Thukpa",
+            "Tibetan noodle soup with vegetables or meat",
+            "₹80–180"
+          ],
+          [
+            "Thenthuk",
+            "Soup with hand-pulled flat noodles",
+            "₹100–180"
+          ],
+          [
+            "Shapale",
+            "Tibetan fried bread stuffed with spiced meat",
+            "₹40–80 each"
+          ],
+          [
+            "Sel roti",
+            "Ring-shaped fried rice-flour bread, slightly sweet",
+            "₹15–30 each"
+          ],
+          [
+            "Aloo dum",
+            "Spicy potato curry, a street breakfast",
+            "₹30–60"
+          ],
+          [
+            "Gundruk soup",
+            "Fermented dried leafy greens in a sour broth",
+            "₹50–100"
+          ],
+          [
+            "Kinema curry",
+            "Fermented soybean cooked with onion and chilli",
+            "₹60–120"
+          ],
+          [
+            "Nepali thali",
+            "Rice, dal, vegetable, pickle, often gundruk or meat",
+            "₹120–300"
+          ]
         ]
       }
     },
@@ -54,14 +94,16 @@
       "heading": "Lepcha and Bhutia tables",
       "paras": [
         "The Lepcha, who call themselves Rong and are the oldest inhabitants of these hills, have a food tradition rooted in the forest: wild ferns and greens, bamboo shoots, nettles, river fish and fermented millet. Their millet beer, chi, is traditionally drunk from bamboo vessels on social and ritual occasions. Lepcha food is mostly cooked at home, so the best chance to taste it is at a Lepcha homestay or during a community festival.",
-        "Bhutia and Sherpa kitchens share much with Tibet: dried meat, meat with radish, thick soups and butter tea. Across many hill communities you will meet tongba, a fermented millet drink served in a wooden or bamboo mug, topped up with hot water and sipped through a bamboo straw. It is mild, warming and social; ask in local eateries and homestays rather than tourist bars."
+        "Bhutia and Sherpa kitchens share much with Tibet: dried meat, meat with radish, thick soups and butter tea. Across many hill communities you will meet tongba, a fermented millet drink served in a wooden or bamboo mug, topped up with hot water and sipped through a bamboo straw. It is mild, warming and social; ask in local eateries and homestays rather than tourist bars.",
+        "If you stay in a village homestay at Lepchajagat, Sittong or Chatakpur, ask the family to cook a local dish rather than the usual tourist menu. Many will happily make gundruk soup, a chicken curry with home-ground spices, squash shoots or nettle soup in season, often for no extra charge."
       ]
     },
     {
       "heading": "Bakeries, breakfasts and the old Mall menu",
       "paras": [
         "The British left Darjeeling a taste for bakeries, and the town still has some of the best in the hills. Glenary's on Nehru Road, a bakery and restaurant in a building looking north over the valley, is the best known; its breakfasts, pastries and window seats are part of many family trips. Keventer's, also on Nehru Road, is known for its terrace breakfasts of sausages, ham and eggs. Expect to pay ₹300–700 a person for a full breakfast at the well-known names, indicative 2026.",
-        "Smaller bakeries around Chowrasta and Chowk Bazaar sell patties, cream rolls, cheese straws, fruit cake and fresh bread at local prices, ₹20–80 an item. In winter, hot chocolate and plum cake are part of the Christmas season, which Darjeeling's churches and schools celebrate warmly."
+        "Smaller bakeries around Chowrasta and Chowk Bazaar sell patties, cream rolls, cheese straws, fruit cake and fresh bread at local prices, ₹20–80 an item. In winter, hot chocolate and plum cake are part of the Christmas season, which Darjeeling's churches and schools celebrate warmly.",
+        "Bakeries are also the cheapest warm place to sit on a cold, wet afternoon. Order tea and a slice of cake for ₹80–150, find a window seat and watch the cloud move through the valley below. Many travellers remember that hour more than any sightseeing stop."
       ]
     },
     {
@@ -80,16 +122,49 @@
       ]
     }
   ],
-  "related_places": ["darjeeling", "ghum", "kurseong", "lepchajagat", "sittong"],
+  "related_places": [
+    "darjeeling",
+    "ghum",
+    "kurseong",
+    "lepchajagat",
+    "sittong"
+  ],
   "faqs": [
-    {"q": "What is the famous food of Darjeeling", "a": "Momos and thukpa are what most visitors eat, but the true local foods are Nepali and Lepcha: dal-bhat with gundruk, kinema curry, sel roti with aloo dum, chhurpi cheese and the fiery dalle chilli pickle. Add first-flush Darjeeling tea, drunk without milk, and a bakery breakfast on Nehru Road, and you have tasted the town."},
-    {"q": "How much does a plate of momos cost in Darjeeling", "a": "About ₹60–150 for eight to ten pieces, indicative 2026, depending on filling and place. Vegetable momos are cheapest, pork and chicken cost more. Small eateries below Nehru Road and around Chowk Bazaar are cheaper than cafes on the Mall. Jhol momos, served in a spiced broth, cost a little more."},
-    {"q": "What is gundruk", "a": "Gundruk is a fermented and sun-dried leafy green, made from mustard, radish or cauliflower leaves, and a staple of Nepali hill cooking. It is usually cooked as a sour soup with soybeans, tomatoes and chilli, or as a pickle. It was a way to keep greens through the winter, and it tastes tangy and earthy."},
-    {"q": "What is kinema", "a": "Kinema is fermented soybean, traditional among the Limbu and Rai communities of eastern Nepal, Darjeeling and Sikkim. Boiled soybeans are wrapped and left to ferment for a few days until sticky and strong-smelling, then cooked with onion, tomato and chilli as a curry. It is rich in protein and has a flavour some compare to Japanese natto."},
-    {"q": "What is chhurpi", "a": "Chhurpi is a hill cheese made from cow or yak milk. Soft chhurpi is crumbly, like cottage cheese, and is cooked in curries and chutneys. Hard chhurpi is pressed and dried into small, very hard blocks that people chew slowly for an hour or more. Packets of hard chhurpi are sold in shops and make good gifts."},
-    {"q": "Is Darjeeling good for vegetarians", "a": "Yes. Vegetable and paneer momos, veg thukpa, dal-bhat, aloo dum, sel roti and many curries are vegetarian, and the town has pure-vegetarian Marwari and Bengali eateries. Tell homestays in advance. Note that some soups and momo broths are made with meat stock, so ask if that matters to you."},
-    {"q": "What is tongba", "a": "Tongba is a drink of fermented millet, served in a tall wooden or bamboo mug. Hot water is poured over the grains, and you sip the warm, mildly alcoholic liquid through a bamboo straw, topping up with more water as you go. It belongs to the Limbu tradition and is drunk widely across the eastern Himalaya, especially in winter."},
-    {"q": "Where can I have breakfast with a view in Darjeeling", "a": "Glenary's on Nehru Road has window seats looking over the valley and is popular for breakfast and pastries. Keventer's, also on Nehru Road, is known for its terrace breakfasts. Expect ₹300–700 a person, indicative 2026. For a cheaper view, take tea and sel roti to a bench on Chowrasta at 7 am."},
-    {"q": "Is street food safe in Darjeeling", "a": "Generally yes, if you choose busy stalls where food is cooked fresh in front of you, such as momos straight from the steamer, hot aloo dum or tea. Avoid cut fruit and salads left out, and drink filtered or bottled water. Go easy on chilli on your first day. Most visitors eat on the street without trouble."}
+    {
+      "q": "What is the famous food of Darjeeling",
+      "a": "Momos and thukpa are what most visitors eat, but the true local foods are Nepali and Lepcha: dal-bhat with gundruk, kinema curry, sel roti with aloo dum, chhurpi cheese and the fiery dalle chilli pickle. Add first-flush Darjeeling tea, drunk without milk, and a bakery breakfast on Nehru Road, and you have tasted the town."
+    },
+    {
+      "q": "How much does a plate of momos cost in Darjeeling",
+      "a": "About ₹60–150 for eight to ten pieces, indicative 2026, depending on filling and place. Vegetable momos are cheapest, pork and chicken cost more. Small eateries below Nehru Road and around Chowk Bazaar are cheaper than cafes on the Mall. Jhol momos, served in a spiced broth, cost a little more."
+    },
+    {
+      "q": "What is gundruk",
+      "a": "Gundruk is a fermented and sun-dried leafy green, made from mustard, radish or cauliflower leaves, and a staple of Nepali hill cooking. It is usually cooked as a sour soup with soybeans, tomatoes and chilli, or as a pickle. It was a way to keep greens through the winter, and it tastes tangy and earthy."
+    },
+    {
+      "q": "What is kinema",
+      "a": "Kinema is fermented soybean, traditional among the Limbu and Rai communities of eastern Nepal, Darjeeling and Sikkim. Boiled soybeans are wrapped and left to ferment for a few days until sticky and strong-smelling, then cooked with onion, tomato and chilli as a curry. It is rich in protein and has a flavour some compare to Japanese natto."
+    },
+    {
+      "q": "What is chhurpi",
+      "a": "Chhurpi is a hill cheese made from cow or yak milk. Soft chhurpi is crumbly, like cottage cheese, and is cooked in curries and chutneys. Hard chhurpi is pressed and dried into small, very hard blocks that people chew slowly for an hour or more. Packets of hard chhurpi are sold in shops and make good gifts."
+    },
+    {
+      "q": "Is Darjeeling good for vegetarians",
+      "a": "Yes. Vegetable and paneer momos, veg thukpa, dal-bhat, aloo dum, sel roti and many curries are vegetarian, and the town has pure-vegetarian Marwari and Bengali eateries. Tell homestays in advance. Note that some soups and momo broths are made with meat stock, so ask if that matters to you."
+    },
+    {
+      "q": "What is tongba",
+      "a": "Tongba is a drink of fermented millet, served in a tall wooden or bamboo mug. Hot water is poured over the grains, and you sip the warm, mildly alcoholic liquid through a bamboo straw, topping up with more water as you go. It belongs to the Limbu tradition and is drunk widely across the eastern Himalaya, especially in winter."
+    },
+    {
+      "q": "Where can I have breakfast with a view in Darjeeling",
+      "a": "Glenary's on Nehru Road has window seats looking over the valley and is popular for breakfast and pastries. Keventer's, also on Nehru Road, is known for its terrace breakfasts. Expect ₹300–700 a person, indicative 2026. For a cheaper view, take tea and sel roti to a bench on Chowrasta at 7 am."
+    },
+    {
+      "q": "Is street food safe in Darjeeling",
+      "a": "Generally yes, if you choose busy stalls where food is cooked fresh in front of you, such as momos straight from the steamer, hot aloo dum or tea. Avoid cut fruit and salads left out, and drink filtered or bottled water. Go easy on chilli on your first day. Most visitors eat on the street without trouble."
+    }
   ]
 }
