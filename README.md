@@ -44,6 +44,7 @@ python tools/smoke.py                            # renders every URL in the site
 | `DJANGO_ALLOWED_HOSTS` | Comma-separated host names |
 | `DTP_EMAIL`, `DTP_PHONE`, `DTP_WHATSAPP` | Contact details shown site-wide. Defaults: hello@darjeelingtourplan.com, +91 99546 34102 and WhatsApp 919954634102 (digits with country code) |
 | `DTP_GA4` | Optional Google Analytics 4 ID |
+| `DTP_ADSENSE` | Google AdSense publisher ID; loads the AdSense script and serves `/ads.txt`. Default ca-pub-9304666313639850, set empty to turn off |
 | `DTP_HASHED_STATIC` | `1` after `collectstatic` for cache-busting file names |
 
 ## Before launch

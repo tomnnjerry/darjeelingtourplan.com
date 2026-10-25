@@ -80,6 +80,9 @@ SITE = {
 # Optional Google Analytics 4 measurement ID (e.g. G-XXXXXXX). Leave empty to load no analytics.
 GA4_ID = os.environ.get("DTP_GA4", "")
 
+# Google AdSense publisher ID (ca-pub-…). Loads the AdSense script site-wide and serves /ads.txt. Set DTP_ADSENSE= to turn off.
+ADSENSE_CLIENT = os.environ.get("DTP_ADSENSE", "ca-pub-9304666313639850")
+
 # Production: hashed file names so every deploy busts browser caches.
 # Set DTP_HASHED_STATIC=1 on the server AFTER `python manage.py collectstatic`.
 if os.environ.get("DTP_HASHED_STATIC") == "1":
